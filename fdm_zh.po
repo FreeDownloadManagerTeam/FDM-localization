@@ -1,0 +1,2512 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_CN\n"
+"X-Source-Language: en\n"
+"X-Qt-Contexts: true\n"
+
+msgid "Download with FDM"
+msgstr ""
+
+msgid "Download selected with FDM"
+msgstr ""
+
+msgid "Download video with FDM"
+msgstr ""
+
+msgid "Error: 0x%x. Failed to transfer downloads to FDM."
+msgstr ""
+
+msgid "No flash video found. Try reloading this page."
+msgstr ""
+
+msgctxt "DownloadFileInfo|"
+msgid "Skip"
+msgstr ""
+
+#, fuzzy
+msgctxt "DownloadFileInfo|"
+msgid "Low"
+msgstr "低"
+
+msgctxt "DownloadFileInfo|"
+msgid "Normal"
+msgstr ""
+
+#, fuzzy
+msgctxt "DownloadFileInfo|"
+msgid "High"
+msgstr "高"
+
+#, fuzzy
+msgctxt "DownloadInfo|"
+msgid "Low"
+msgstr "低"
+
+msgctxt "DownloadInfo|"
+msgid "Normal"
+msgstr ""
+
+#, fuzzy
+msgctxt "DownloadInfo|"
+msgid "High"
+msgstr "高"
+
+msgctxt "HttpError|"
+msgid "HTTP Error %1: %2"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Error %1"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unknown error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Remote host name not found"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Operation canceled"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Remote server closed connection"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Connection timed out"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "SSL/TLS handshake failed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Connection refused"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unknown network-related error detected"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Requested operation is not permitted"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Bad Request"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unauthorized"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Payment Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Forbidden"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Found"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Method Not Allowed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Acceptable"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Proxy Authentication Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Conflict"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Gone"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Length Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Precondition Failed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Entity Too Large"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request-URI Too Long"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unsupported Media Type"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Requested Range Not Satisfiable"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Expectation Failed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "I'm a teapot"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Authentication Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Method Failure / Enhance Your Calm"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unprocessable Entity"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Locked"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Failed Dependency / Method Failure"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unordered Collection"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Upgrade Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Precondition Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Too Many Requests"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Header Fields Too Large"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Login Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "No Response"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Retry With"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Blocked by Windows Parental Controls"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unavailable For Legal Reasons"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Header Too Large"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Cert Error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "No Cert"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "HTTP to HTTPS"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Token expired/invalid"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Client Closed Request"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Internal Server Error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Implemented"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Bad Gateway"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Service Unavailable"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Gateway Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "HTTP Version Not Supported"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Variant Also Negotiates"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Insufficient Storage"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Loop Detected"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Bandwidth Limit Exceeded"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Extended"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Network Authentication Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Network read timeout error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Network connect timeout error"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Maximum number of connections is %1"
+msgstr ""
+
+#, fuzzy
+msgctxt "HttpFileDownload|"
+msgid "unlimited"
+msgstr "不限制"
+
+msgctxt "HttpFileDownload|"
+msgid "Download speed is unlimited"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Can't resume downloading file"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Reconnecting"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Starting download"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Pausing download"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to resume as URL changed"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Moving file to %1"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "File \"%1\" exists. Saving as %2"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Restarting download"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to clear contents of original file."
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "File is renamed to %1"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Opening connection #%1"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "#%1 closed"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "#%1 receiving data"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "downloaded %1"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "(%1/s)"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "#%1: server ignored partial content request"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "#%1 failed with error: %2"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Opening file on disk..."
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "File is missing"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Download complete"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Removing temporary file extension"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating disk space for download"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "File changed on remote server"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Failed writing received data to file"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Redirecting to %1"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "File moved successfully"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "File moving failed"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocation failed: %1"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "%1 finished successfully"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid ", average speed: %1"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Space allocation"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Move"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocation cancelled"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating queued"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating started"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "File"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Add Download from URL..."
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Open Torrent File..."
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Edit"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "About %1"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Check for Updates..."
+msgstr ""
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Downloads"
+msgstr "下载"
+
+msgctxt "MacMainMenu|"
+msgid "Start Selected"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Pause Selected"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Restart Selected"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Remove from List"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Help"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Contact Support"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Vote for New Features"
+msgstr ""
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Preferences..."
+msgstr "选项…"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "About Free Download Manager"
+msgstr "关于Free Download Manager"
+
+msgctxt "QObject|"
+msgid "Preferences"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Check for Updates..."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Window"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Minimize"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Zoom"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Enter Full Screen"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Bring All to Front"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Contact Support"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Open Torrent File..."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "File"
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Select All"
+msgstr "选择全部"
+
+msgctxt "QObject|"
+msgid "Delete"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Paste"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Copy"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Cut"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Edit"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Help"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Something went wrong with internal downloads."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Selected filepath is not valid."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Selected filename is too long"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Selected filename is not valid."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Specified directory can't be accessed."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "locale"
+msgstr "本地"
+
+msgctxt "RPCLocalization|"
+msgid "Drag & Drop"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "URL or torrent here"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add tag"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Preferences"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Unlimited"
+msgstr "不限制"
+
+msgctxt "RPCLocalization|"
+msgid "Manual..."
+msgstr "手动设置…"
+
+msgctxt "RPCLocalization|"
+msgid "Set limits manually"
+msgstr "手动设置限制"
+
+msgctxt "RPCLocalization|"
+msgid "Download: unlimited, Upload: unlimited"
+msgstr "下载：不限制，上传：不限制"
+
+msgctxt "RPCLocalization|"
+msgid "Download:"
+msgstr "下载："
+
+msgctxt "RPCLocalization|"
+msgid "Upload:"
+msgstr "上传："
+
+msgctxt "RPCLocalization|"
+msgid "unlimited"
+msgstr "不限制"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode frees bandwidth without stopping downloads."
+msgstr "慢速模式可以在不停止下载的情况下释放带宽。"
+
+msgctxt "RPCLocalization|"
+msgid "Hide details"
+msgstr "隐藏详情"
+
+msgctxt "RPCLocalization|"
+msgid "Show details"
+msgstr "显示详情"
+
+msgctxt "RPCLocalization|"
+msgid "%n files selected."
+msgid_plural "%n files selected."
+msgstr[0] ""
+
+msgctxt "RPCLocalization|"
+msgid "Show in folder"
+msgstr "在文件夹中显示"
+
+msgctxt "RPCLocalization|"
+msgid "Reveal in Finder"
+msgstr "在Finder中显示"
+
+msgctxt "RPCLocalization|"
+msgid "Pause"
+msgstr "暂停"
+
+msgctxt "RPCLocalization|"
+msgid "Restart"
+msgstr "重启"
+
+msgctxt "RPCLocalization|"
+msgid "Start"
+msgstr "启动"
+
+msgctxt "RPCLocalization|"
+msgid "Selected size:"
+msgstr "已选择的大小："
+
+msgctxt "RPCLocalization|"
+msgid "Size:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "File size:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Disk space:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Total size:"
+msgstr "总计大小："
+
+msgctxt "RPCLocalization|"
+msgid "Checked size:"
+msgstr "选中的大小："
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded:"
+msgstr "已下载："
+
+msgctxt "RPCLocalization|"
+msgid "Download speed:"
+msgstr "下载速度："
+
+msgctxt "RPCLocalization|"
+msgid "Seeds:"
+msgstr "种子："
+
+msgctxt "RPCLocalization|"
+msgid "Domain:"
+msgstr "域名："
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded:"
+msgstr "已上传："
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed:"
+msgstr "上传速度："
+
+msgctxt "RPCLocalization|"
+msgid "Peers:"
+msgstr "端点："
+
+msgctxt "RPCLocalization|"
+msgid "Share ratio:"
+msgstr "分享率："
+
+msgctxt "RPCLocalization|"
+msgid "Availability:"
+msgstr "可用性："
+
+msgctxt "RPCLocalization|"
+msgid "DHT nodes:"
+msgstr "DHT节点："
+
+msgctxt "RPCLocalization|"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "RPCLocalization|"
+msgid "Client"
+msgstr "客户端"
+
+msgctxt "RPCLocalization|"
+msgid "Flags"
+msgstr "Flags"
+
+msgctxt "RPCLocalization|"
+msgid "Requests"
+msgstr "请求"
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded"
+msgstr "已下载"
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded"
+msgstr "已上传"
+
+msgctxt "RPCLocalization|"
+msgid "Files"
+msgstr "文件"
+
+msgctxt "RPCLocalization|"
+msgid "Trackers"
+msgstr "Trackers"
+
+msgctxt "RPCLocalization|"
+msgid "Peers"
+msgstr "端点"
+
+msgctxt "RPCLocalization|"
+msgid "Log"
+msgstr "记录"
+
+msgctxt "RPCLocalization|"
+msgid "Enable seeding"
+msgstr "启用做种"
+
+msgctxt "RPCLocalization|"
+msgid "Progress"
+msgstr "进度"
+
+msgctxt "RPCLocalization|"
+msgid "Priority"
+msgstr "优先级"
+
+msgctxt "RPCLocalization|"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "RPCLocalization|"
+msgid "Next announce"
+msgstr "下次通告"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode"
+msgstr "慢速模式"
+
+msgctxt "RPCLocalization|"
+msgid "Bandwidth limits"
+msgstr "带宽限制"
+
+msgctxt "RPCLocalization|"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "RPCLocalization|"
+msgid "Apply"
+msgstr "应用"
+
+msgctxt "RPCLocalization|"
+msgid "KB/s"
+msgstr "KB/s"
+
+msgctxt "RPCLocalization|"
+msgid "MB/s"
+msgstr "MB/s"
+
+msgctxt "RPCLocalization|"
+msgid "%1 KB/s"
+msgstr "%1 KB/s"
+
+msgctxt "RPCLocalization|"
+msgid "%1 MB/s"
+msgstr "%1 MB/s"
+
+msgctxt "RPCLocalization|"
+msgid "%1 GB/s"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Browser integration"
+msgstr "浏览器集成"
+
+msgctxt "RPCLocalization|"
+msgid "Next"
+msgstr "下一个"
+
+msgctxt "RPCLocalization|"
+msgid "Proceed to download"
+msgstr "继续下载"
+
+msgctxt "RPCLocalization|"
+msgid "Add download"
+msgstr "添加下载"
+
+msgctxt "RPCLocalization|"
+msgid "Enter download URL:"
+msgstr "输入下载URL"
+
+msgctxt "RPCLocalization|"
+msgid "OK"
+msgstr "好"
+
+msgctxt "RPCLocalization|"
+msgid "Download"
+msgstr "下载"
+
+msgctxt "RPCLocalization|"
+msgid "Download anyway"
+msgstr "仍然下载"
+
+msgctxt "RPCLocalization|"
+msgid "Add"
+msgstr "添加"
+
+msgctxt "RPCLocalization|"
+msgid "torrent"
+msgstr "种子"
+
+msgctxt "RPCLocalization|"
+msgid "Save to:"
+msgstr "保存到："
+
+msgctxt "RPCLocalization|"
+msgid "Select folder"
+msgstr "选择文件夹"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting download info..."
+msgstr "正在请求下载信息…"
+
+msgctxt "RPCLocalization|"
+msgid "Quality:"
+msgstr "质量："
+
+msgctxt "RPCLocalization|"
+msgid "Select all"
+msgstr "选择全部"
+
+msgctxt "RPCLocalization|"
+msgid "Select none"
+msgstr "全不选"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent already exists"
+msgstr "种子已存在"
+
+msgctxt "RPCLocalization|"
+msgid "Want to load its trackers?"
+msgstr "您想要加载其tracker吗？"
+
+msgctxt "RPCLocalization|"
+msgid "No active downloads"
+msgstr "无活动下载项"
+
+msgctxt "RPCLocalization|"
+msgid "No completed downloads"
+msgstr "无已完成的下载项"
+
+msgctxt "RPCLocalization|"
+msgid "No results found for"
+msgstr "未找到结果关于"
+
+msgctxt "RPCLocalization|"
+msgid "No results tagged"
+msgstr "没有标记的结果"
+
+msgctxt "RPCLocalization|"
+msgid "found"
+msgstr "已找到"
+
+msgctxt "RPCLocalization|"
+msgid "Show all"
+msgstr "显示全部"
+
+msgctxt "RPCLocalization|"
+msgid "Nothing found"
+msgstr "未找到任何项目"
+
+msgctxt "RPCLocalization|"
+msgid "Moving"
+msgstr "移动中"
+
+msgctxt "RPCLocalization|"
+msgid "Unknown file size"
+msgstr "未知文件大小"
+
+msgctxt "RPCLocalization|"
+msgid "Merging media streams"
+msgstr "合并媒体流"
+
+msgctxt "RPCLocalization|"
+msgid "Allocating disk space..."
+msgstr "正在分配磁盘空间…"
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting..."
+msgstr "重连中…"
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Paused"
+msgstr "已暂停"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading metadata"
+msgstr "下载元数据中"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Checking files..."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Downloading, allocating disk space..."
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Completed %n / %2 files"
+msgid_plural "Completed %n / %2 files"
+msgstr[0] "已完成%n / %2个文件"
+
+msgctxt "RPCLocalization|"
+msgid "Complete"
+msgstr "完成"
+
+msgctxt "RPCLocalization|"
+msgid "Queued"
+msgstr "已排队"
+
+msgctxt "RPCLocalization|"
+msgid "Stop seeding"
+msgstr "停止做种"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting info..."
+msgstr "请求信息中…"
+
+msgctxt "RPCLocalization|"
+msgid "Open torrent file..."
+msgstr "打开种子文件…"
+
+msgctxt "RPCLocalization|"
+msgid "Preferences..."
+msgstr "选项…"
+
+msgctxt "RPCLocalization|"
+msgid "Settings..."
+msgstr "设置…"
+
+msgctxt "RPCLocalization|"
+msgid "Settings"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Contact support"
+msgstr "联系支持人员"
+
+msgctxt "RPCLocalization|"
+msgid "Auto shutdown"
+msgstr "自动关机"
+
+msgctxt "RPCLocalization|"
+msgid "Sleep"
+msgstr "睡眠"
+
+msgctxt "RPCLocalization|"
+msgid "Hibernate"
+msgstr "休眠"
+
+msgctxt "RPCLocalization|"
+msgid "Shutdown"
+msgstr "关机"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates"
+msgstr "检查更新"
+
+msgctxt "RPCLocalization|"
+msgid "About Free Download Manager"
+msgstr "关于Free Download Manager"
+
+msgctxt "RPCLocalization|"
+msgid "Quit"
+msgstr "退出"
+
+msgctxt "RPCLocalization|"
+msgid "Exit"
+msgstr "退出"
+
+msgctxt "RPCLocalization|"
+msgid "Vote for new features"
+msgstr "为新功能投票"
+
+msgctxt "RPCLocalization|"
+msgid "About FDM"
+msgstr "关于FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure this is a valid file extension?"
+msgstr "您确定这是有效文件扩展名吗？"
+
+msgctxt "RPCLocalization|"
+msgid "Please enter numbers only"
+msgstr "请仅输入数字"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too small?"
+msgstr "您确定它不是太小吗？"
+
+msgctxt "RPCLocalization|"
+msgid "Why should it be so huge?"
+msgstr "为何它需要这么大？"
+
+msgctxt "RPCLocalization|"
+msgid "Extremely slow, isn't it?"
+msgstr "特别慢，不是吗？"
+
+msgctxt "RPCLocalization|"
+msgid "Faster doesn't mean better"
+msgstr "更快不意味着更好"
+
+msgctxt "RPCLocalization|"
+msgid "Isn't it too frequent?"
+msgstr "这太频繁了吧？"
+
+msgctxt "RPCLocalization|"
+msgid "Pretty rare to move with the time."
+msgstr "很难在时间内移动完成"
+
+msgctxt "RPCLocalization|"
+msgid "Maybe you'd let it be a little longer?"
+msgstr "也许您想要稍长的时间？"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too long?"
+msgstr "您确定这不是太久吗？"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Only %n records? FDM can store much more!"
+msgid_plural "Only %n records? FDM can store much more!"
+msgstr[0] "只有%n条记录？FDM可以记录更多！"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%n records is too many to save."
+msgid_plural "%n records is too many to save."
+msgstr[0] "%n条记录太多了无法存储。"
+
+msgctxt "RPCLocalization|"
+msgid "Do you actually want to connect?"
+msgstr "您确定要连接吗？"
+
+msgctxt "RPCLocalization|"
+msgid "Oh no, too many connections!"
+msgstr "不，连接数太多了！"
+
+msgctxt "RPCLocalization|"
+msgid "It seems like an understatement."
+msgstr "这似乎是保守说法。"
+
+msgctxt "RPCLocalization|"
+msgid "So many? It's overwhelming!"
+msgstr "太多了？这势不可挡！"
+
+msgctxt "RPCLocalization|"
+msgid "General"
+msgstr "通用"
+
+msgctxt "RPCLocalization|"
+msgid "Browser Integration"
+msgstr "浏览器集成"
+
+msgctxt "RPCLocalization|"
+msgid "BitTorrent"
+msgstr "BitTorrent"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic Limits"
+msgstr "流量限制"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "流量限制"
+
+msgctxt "RPCLocalization|"
+msgid "Advanced"
+msgstr "高级"
+
+msgctxt "RPCLocalization|"
+msgid "Network"
+msgstr "网络"
+
+msgctxt "RPCLocalization|"
+msgid "Proxy"
+msgstr "代理"
+
+msgctxt "RPCLocalization|"
+msgid "No proxy"
+msgstr "不使用代理"
+
+msgctxt "RPCLocalization|"
+msgid "System proxy"
+msgstr "系统代理"
+
+msgctxt "RPCLocalization|"
+msgid "Configure manually:"
+msgstr "手动设置："
+
+msgctxt "RPCLocalization|"
+msgid "HTTP:"
+msgstr "HTTP:"
+
+msgctxt "RPCLocalization|"
+msgid "HTTPS:"
+msgstr "HTTPS:"
+
+msgctxt "RPCLocalization|"
+msgid "FTP:"
+msgstr "FTP:"
+
+msgctxt "RPCLocalization|"
+msgid "Address"
+msgstr "地址"
+
+msgctxt "RPCLocalization|"
+msgid "Port"
+msgstr "端口"
+
+msgctxt "RPCLocalization|"
+msgid "Login"
+msgstr "登录名"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "登录名"
+
+msgctxt "RPCLocalization|"
+msgid "Password"
+msgstr "密码"
+
+msgctxt "RPCLocalization|"
+msgid "Startup"
+msgstr "启动选项"
+
+msgctxt "RPCLocalization|"
+msgid "Downloads"
+msgstr "下载"
+
+msgctxt "RPCLocalization|"
+msgid "Launch at startup (minimized)"
+msgstr "在系统启动时加载（最小化）"
+
+msgctxt "RPCLocalization|"
+msgid "Open at Login"
+msgstr "在登录时打开"
+
+msgctxt "RPCLocalization|"
+msgid "Close button minimizes window"
+msgstr "关闭按钮最小化窗口"
+
+msgctxt "RPCLocalization|"
+msgid "Check if FDM is your default torrent client"
+msgstr "检查FDM是否是您的默认BT客户端"
+
+msgctxt "RPCLocalization|"
+msgid "Update"
+msgstr "更新"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "更新"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates automatically"
+msgstr "自动检查更新"
+
+msgctxt "RPCLocalization|"
+msgid "Install updates automatically"
+msgstr "自动安装更新"
+
+msgctxt "RPCLocalization|"
+msgid "Safari: enable FDM"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "for context menu"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 B"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 KB"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 MB"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 GB"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 TB"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Hold"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Alt key"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Holding Alt, click link to download via browser."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Disk space needed:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Hide bottom panel"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Show bottom panel"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "disk %1"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Tag with the same name already exists"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Enable sleep mode while seeding torrents"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "on"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "and"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Automatically remove deleted files from the download list"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Some files corrupted"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on file type"
+msgstr "根据文件类型建议文件夹"
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on download URL"
+msgstr "根据下载URL建议设置"
+
+msgctxt "RPCLocalization|"
+msgid "Default folder:"
+msgstr "默认文件夹："
+
+msgctxt "RPCLocalization|"
+msgid "Associate with torrents"
+msgstr "关联种子文件"
+
+msgctxt "RPCLocalization|"
+msgid "Notifications"
+msgstr "通知"
+
+msgctxt "RPCLocalization|"
+msgid "Notify me of completed downloads via Notification Center"
+msgstr "通过通知中心告诉我已完成的下载项"
+
+msgctxt "RPCLocalization|"
+msgid "Only when FDM window is inactive"
+msgstr "仅在FDM非活跃时"
+
+msgctxt "RPCLocalization|"
+msgid "Action of Remove button (main panel) or Delete key"
+msgstr "移除按钮（主界面）或删除键的动作"
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from list"
+msgstr "仅从列表删除"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file(s) from disk"
+msgstr "从磁盘删除文件"
+
+msgctxt "RPCLocalization|"
+msgid "Always ask"
+msgstr "总是询问"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads from"
+msgstr "不要捕获下载项来自"
+
+msgctxt "RPCLocalization|"
+msgid "Using Alt key"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads when Alt is pressed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Catch downloads only when Alt is pressed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Skip domains:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is a scheduled download"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is an active download"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from download list"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Go back to default settings"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use only HTTP ports to catch downloads in Edge"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "extension"
+msgstr "扩展"
+
+msgctxt "RPCLocalization|"
+msgid "Automatically catch downloads from browsers"
+msgstr "自动从浏览器捕获下载"
+
+msgctxt "RPCLocalization|"
+msgid "Edge"
+msgstr "Edge"
+
+msgctxt "RPCLocalization|"
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+msgctxt "RPCLocalization|"
+msgid "Firefox"
+msgstr "Firefox"
+
+msgctxt "RPCLocalization|"
+msgid "Chrome"
+msgstr "Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "Verify if"
+msgstr "确保"
+
+msgctxt "RPCLocalization|"
+msgid "is enabled"
+msgstr "已安装并在Chrome中启用"
+
+msgctxt "RPCLocalization|"
+msgid "No Chrome installation was found."
+msgstr "未安装Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "You can"
+msgstr "您可以"
+
+msgctxt "RPCLocalization|"
+msgid "download Chrome here"
+msgstr "在此下载Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads smaller than"
+msgstr "不捕获下载项小于"
+
+msgctxt "RPCLocalization|"
+msgid "Kbytes"
+msgstr "KB"
+
+msgctxt "RPCLocalization|"
+msgid "Skip files with extensions:"
+msgstr "跳过具有以下扩展名的文件："
+
+msgctxt "RPCLocalization|"
+msgid "Add FDM to browser context menu"
+msgstr "将FDM加入浏览器上下文菜单"
+
+msgctxt "RPCLocalization|"
+msgid "Use proxy for P2P connections"
+msgstr "对端对端连接启用代理"
+
+msgctxt "RPCLocalization|"
+msgid "Parameters"
+msgstr "参数"
+
+msgctxt "RPCLocalization|"
+msgid "Low"
+msgstr "低"
+
+msgctxt "RPCLocalization|"
+msgid "Medium"
+msgstr "中"
+
+msgctxt "RPCLocalization|"
+msgid "High"
+msgstr "高"
+
+msgctxt "RPCLocalization|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Skip"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download speed"
+msgstr "下载速度"
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed"
+msgstr "上传速度"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of connections"
+msgstr "最大连接数"
+
+msgctxt "RPCLocalization|"
+msgid "History"
+msgstr "历史记录"
+
+msgctxt "RPCLocalization|"
+msgid "Remember all destination folders"
+msgstr "记录所有目标文件夹"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Clear history older than"
+msgid_plural "Clear history older than"
+msgstr[0] "清除历史记录久于"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "days"
+msgid_plural "days"
+msgstr[0] "天"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of history records:"
+msgstr "最大历史记录条数："
+
+msgctxt "RPCLocalization|"
+msgid "Disk usage"
+msgstr "磁盘使用"
+
+msgctxt "RPCLocalization|"
+msgid "Preallocate disk space for files larger than"
+msgstr "为大于以下大小的文件预先分配磁盘空间"
+
+msgctxt "RPCLocalization|"
+msgid "Gbytes"
+msgstr "GB"
+
+msgctxt "RPCLocalization|"
+msgid "Power management"
+msgstr "电源管理"
+
+msgctxt "RPCLocalization|"
+msgid "Prevent sleep if there are active downloads"
+msgstr "阻止"
+
+msgctxt "RPCLocalization|"
+msgid "Delete button action"
+msgstr "删除按钮操作"
+
+msgctxt "RPCLocalization|"
+msgid "Delete files"
+msgstr "删除文件"
+
+msgctxt "RPCLocalization|"
+msgid "DHT"
+msgstr "DHT"
+
+msgctxt "RPCLocalization|"
+msgid "Port forwarding"
+msgstr "端口转发"
+
+msgctxt "RPCLocalization|"
+msgid "Local peer discovery"
+msgstr "本地端发现"
+
+msgctxt "RPCLocalization|"
+msgid "Peer exchange"
+msgstr "用户交换"
+
+msgctxt "RPCLocalization|"
+msgid "uTP"
+msgstr "uTP"
+
+msgctxt "RPCLocalization|"
+msgid "Use ports in range:"
+msgstr "使用端口范围："
+
+msgctxt "RPCLocalization|"
+msgid "to"
+msgstr "到"
+
+msgctxt "RPCLocalization|"
+msgid "Reset"
+msgstr "重置"
+
+msgctxt "RPCLocalization|"
+msgid "Select All"
+msgstr "选择全部"
+
+msgctxt "RPCLocalization|"
+msgid "Name"
+msgstr "名称"
+
+msgctxt "RPCLocalization|"
+msgid "Status"
+msgstr "状态"
+
+msgctxt "RPCLocalization|"
+msgid "Speed"
+msgstr "速度"
+
+msgctxt "RPCLocalization|"
+msgid "Size"
+msgstr "大小"
+
+msgctxt "RPCLocalization|"
+msgid "Added"
+msgstr "已添加"
+
+msgctxt "RPCLocalization|"
+msgid "Start all"
+msgstr "全部开始"
+
+msgctxt "RPCLocalization|"
+msgid "Pause all"
+msgstr "全部暂停"
+
+msgctxt "RPCLocalization|"
+msgid "Start selected"
+msgstr "开始选中项"
+
+msgctxt "RPCLocalization|"
+msgid "Pause selected"
+msgstr "暂停选中项"
+
+msgctxt "RPCLocalization|"
+msgid "Add new download..."
+msgstr "添加新下载…"
+
+msgctxt "RPCLocalization|"
+msgid "Move to trash"
+msgstr "移到回收站"
+
+msgctxt "RPCLocalization|"
+msgid "Remove from list"
+msgstr "从列表移除"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected"
+msgstr "删除选中项"
+
+msgctxt "RPCLocalization|"
+msgid "Move to..."
+msgstr "移到…"
+
+msgctxt "RPCLocalization|"
+msgid "Search"
+msgstr "搜索"
+
+msgctxt "RPCLocalization|"
+msgid "Main menu"
+msgstr "主菜单"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected downloads"
+msgstr "删除选中下载项"
+
+msgctxt "RPCLocalization|"
+msgid "Remember my choice"
+msgstr "记住我的选择"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file"
+msgstr "删除文件"
+
+msgctxt "RPCLocalization|"
+msgid "All"
+msgstr "全部"
+
+msgctxt "RPCLocalization|"
+msgid "Active"
+msgstr "活动"
+
+msgctxt "RPCLocalization|"
+msgid "Completed"
+msgstr "已完成"
+
+msgctxt "RPCLocalization|"
+msgid "Customize color"
+msgstr "自定义颜色"
+
+msgctxt "RPCLocalization|"
+msgid "Remove tag"
+msgstr "移除标签"
+
+msgctxt "RPCLocalization|"
+msgid ""
+"Would you like to make Free Download Manager the default torrent client?"
+msgstr "您要把Free Download Manager作为默认BT客户端吗？"
+
+msgctxt "RPCLocalization|"
+msgid "Don’t ask again"
+msgstr "不再询问"
+
+msgctxt "RPCLocalization|"
+msgid "Set as Default"
+msgstr "设为默认值"
+
+msgctxt "RPCLocalization|"
+msgid "Computer will be put to sleep after all downloads are completed."
+msgstr "电脑将在所有下载项完成后睡眠。"
+
+msgctxt "RPCLocalization|"
+msgid "Computer will shut down after all downloads are completed."
+msgstr "电脑将在所有下载项完成后关闭。"
+
+msgctxt "RPCLocalization|"
+msgid "Computer will hibernate after all downloads are completed."
+msgstr "电脑将在所有下载项完成后休眠。"
+
+msgctxt "RPCLocalization|"
+msgid "Checking for updates..."
+msgstr "检查更新…"
+
+msgctxt "RPCLocalization|"
+msgid "Retry"
+msgstr "重试"
+
+msgctxt "RPCLocalization|"
+msgid "Error:"
+msgstr "错误："
+
+msgctxt "RPCLocalization|"
+msgid "Error downloading update:"
+msgstr "下载更新时出错："
+
+msgctxt "RPCLocalization|"
+msgid "Downloading update"
+msgstr "下载更新中"
+
+msgctxt "RPCLocalization|"
+msgid "Checking..."
+msgstr "正在检查…"
+
+msgctxt "RPCLocalization|"
+msgid "Update downloaded"
+msgstr "已下载更新"
+
+msgctxt "RPCLocalization|"
+msgid "Install update"
+msgstr "安装更新"
+
+msgctxt "RPCLocalization|"
+msgid "Installing updates"
+msgstr "正在安装更新"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch FDM to update"
+msgstr "重启FDM以更新"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch"
+msgstr "重启"
+
+msgctxt "RPCLocalization|"
+msgid "Error occurred during installation:"
+msgstr "安装时出错："
+
+msgctxt "RPCLocalization|"
+msgid "Restart computer to complete installation"
+msgstr "重启电脑以完成更新"
+
+msgctxt "RPCLocalization|"
+msgid "FDM is up to date!"
+msgstr "FDM已是最新！"
+
+msgctxt "RPCLocalization|"
+msgid "New version is available"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%ns"
+msgid_plural "%ns"
+msgstr[0] "%n秒"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nm"
+msgid_plural "%nm"
+msgstr[0] "%n分钟"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nh"
+msgid_plural "%nh"
+msgstr[0] "%n小时"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nd"
+msgid_plural "%nd"
+msgstr[0] "%n天"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nw"
+msgid_plural "%nw"
+msgstr[0] "%n周"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%ny"
+msgid_plural "%ny"
+msgstr[0] "%n年"
+
+msgctxt "RPCLocalization|"
+msgid "YouTube"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Torrent"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Options"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Open Scheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Sсheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start and pause downloads at specified time"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Enable Scheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Sun"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Mon"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Tue"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Wed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Thu"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Fri"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Sat"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "From:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "To:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Change settings"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Change preferences"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Tip"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Computer won't be put to sleep because there are scheduled downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Scheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there're scheduled downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Restore"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Press"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 B/s"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start downloading without confirmation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use browser if you cancel download via FDM"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of simultaneous downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "to let the browser process the download"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Check file integrity"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Calculate"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Calculating"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Verification OK"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Verification failed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Compare with:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Close"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 left"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Browsers:"
+msgstr ""
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Done"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "已完成"
+
+msgctxt "RPCLocalization|"
+msgid "%1 of %2"
+msgstr ""
+
+msgctxt "RPCSystem|"
+msgid "Default download folder"
+msgstr ""
+
+msgctxt "RPCSystem|"
+msgid "Accept"
+msgstr ""
+
+msgctxt "RPCSystem|"
+msgid "Download to"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCSystem|"
+msgid "OK"
+msgstr "好"
+
+msgctxt "RPCSystem|"
+msgid "Open torrent file"
+msgstr ""
+
+msgctxt "RPCSystem|"
+msgid "Torrent files"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "File priorities changed"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Stopping seeding"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading enabled"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading disabled"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Trackers merged"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Starting seeding"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Unknown error occurred"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Error occurred: %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Maximum number of connections is %1"
+msgstr ""
+
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "unlimited"
+msgstr "不限制"
+
+msgctxt "TorrentDownload|"
+msgid "Download speed is unlimited"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Upload speed is unlimited"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Upload speed is limited to %1/s"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Pausing download"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Download paused"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Files are missing"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "File is missing"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Starting download"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Checking files"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Download complete"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Can't move files recursively"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Changing destination folder"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Moving files to %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Moving file to %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Waiting for metadata"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Updating"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Working"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Metadata received"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "User authorization required"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Files mapped to new directory"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Files moving failed"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "File moving failed"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Files moving declined: %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Moving file declined: %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Moved successfully"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid ", average speed: %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Files moving failed: %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "File moving failed: %1"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Files moving cancelled"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "Moving file cancelled"
+msgstr ""
+
+msgctxt "TrayMenu|"
+msgid "Show main window"
+msgstr ""
+
+#, fuzzy
+msgctxt "TrayMenu|"
+msgid "Open at Login"
+msgstr "在登录时打开"
+
+msgctxt "TrayMenu|"
+msgid "Launch at startup"
+msgstr ""
+
+#, fuzzy
+msgctxt "TrayMenu|"
+msgid "About FDM"
+msgstr "关于FDM"
+
+msgctxt "TrayMenu|"
+msgid "Quit FDM"
+msgstr ""
+
+#, fuzzy
+msgctxt "TrayMenu|"
+msgid "Quit"
+msgstr "退出"
+
+msgctxt "UIHelper|"
+msgid "About %1"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Version %1 (%2)"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Open"
+msgstr ""
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Reveal in Finder"
+msgstr "在Finder中显示"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Show in folder"
+msgstr "在文件夹中显示"
+
+msgctxt "UIHelper|"
+msgid "Show info"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Choose files..."
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Pause all except selected"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Pause all except this one"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Restart selected"
+msgstr ""
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Restart"
+msgstr "重启"
+
+msgctxt "UIHelper|"
+msgid "Set priority"
+msgstr ""
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Move to..."
+msgstr "移到…"
+
+msgctxt "UIHelper|"
+msgid "Download to..."
+msgstr ""
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Move to trash"
+msgstr "移到回收站"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Delete files"
+msgstr "删除文件"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Delete file"
+msgstr "删除文件"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Remove from list"
+msgstr "从列表移除"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Enable seeding"
+msgstr "启用做种"
+
+msgctxt "UIHelper|"
+msgid "Sequential download"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Force recheck"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Force reannounce"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Copy link"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Add tag"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "File integrity"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Schedule"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "High priority"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Normal priority"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Low priority"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Edit"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Remove"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Untag"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Copy log to clipboard"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Save log to file"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "FDM Log [%1].txt"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Save Log"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "Text files"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "%1 K"
+msgstr ""
+
+msgctxt "UIHelper|"
+msgid "%1 M"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "File is missing"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Error: files are missing."
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Files moved successfully"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Moving to %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Merging failed"
+msgstr ""
+
+#, fuzzy
+msgctxt "YoutubeDownload|"
+msgid "Merging media streams"
+msgstr "合并媒体流"
+
+msgctxt "YoutubeDownload|"
+msgid "Redirecting"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Handling redirect"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "AudioStream: %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "VideoStream: %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Downloading page"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Page is downloaded"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Launching parser"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Page is parsed"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Can't find video for this quality"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Parsing failure: %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Download complete"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Moving declined: %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Moved successfully"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid ", average speed: %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "File is renamed to %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Moving failed: %1"
+msgstr ""
+
+msgctxt "YoutubeDownload|"
+msgid "Moving cancelled."
+msgstr ""

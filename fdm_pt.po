@@ -1,0 +1,2538 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: pt_BR\n"
+"X-Source-Language: en\n"
+"X-Qt-Contexts: true\n"
+
+msgid "Download with FDM"
+msgstr "Baixar com FDM"
+
+msgid "Download selected with FDM"
+msgstr "Download selecionado com FDM"
+
+msgid "Download video with FDM"
+msgstr "Baixar vídeo com FDM"
+
+msgid "Error: 0x%x. Failed to transfer downloads to FDM."
+msgstr "Erro: 0x%x. Falha ao transferir downloads para o FDM."
+
+msgid "No flash video found. Try reloading this page."
+msgstr "Vídeo flash não encontrado. Tente recarregar esta página."
+
+msgctxt "DownloadFileInfo|"
+msgid "Skip"
+msgstr "Pular"
+
+#, fuzzy
+msgctxt "DownloadFileInfo|"
+msgid "Low"
+msgstr "Baixo"
+
+msgctxt "DownloadFileInfo|"
+msgid "Normal"
+msgstr "Normal"
+
+#, fuzzy
+msgctxt "DownloadFileInfo|"
+msgid "High"
+msgstr "Alto"
+
+#, fuzzy
+msgctxt "DownloadInfo|"
+msgid "Low"
+msgstr "Baixo"
+
+msgctxt "DownloadInfo|"
+msgid "Normal"
+msgstr "Normal"
+
+#, fuzzy
+msgctxt "DownloadInfo|"
+msgid "High"
+msgstr "Alto"
+
+msgctxt "HttpError|"
+msgid "HTTP Error %1: %2"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Error %1"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unknown error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Remote host name not found"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Operation canceled"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Remote server closed connection"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Connection timed out"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "SSL/TLS handshake failed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Connection refused"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unknown network-related error detected"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Requested operation is not permitted"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Bad Request"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unauthorized"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Payment Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Forbidden"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Found"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Method Not Allowed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Acceptable"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Proxy Authentication Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Conflict"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Gone"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Length Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Precondition Failed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Entity Too Large"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request-URI Too Long"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unsupported Media Type"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Requested Range Not Satisfiable"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Expectation Failed"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "I'm a teapot"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Authentication Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Method Failure / Enhance Your Calm"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unprocessable Entity"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Locked"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Failed Dependency / Method Failure"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unordered Collection"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Upgrade Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Precondition Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Too Many Requests"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Header Fields Too Large"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Login Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "No Response"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Retry With"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Blocked by Windows Parental Controls"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Unavailable For Legal Reasons"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Request Header Too Large"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Cert Error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "No Cert"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "HTTP to HTTPS"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Token expired/invalid"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Client Closed Request"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Internal Server Error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Implemented"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Bad Gateway"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Service Unavailable"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Gateway Timeout"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "HTTP Version Not Supported"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Variant Also Negotiates"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Insufficient Storage"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Loop Detected"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Bandwidth Limit Exceeded"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Not Extended"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Network Authentication Required"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Network read timeout error"
+msgstr ""
+
+msgctxt "HttpError|"
+msgid "Network connect timeout error"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Maximum number of connections is %1"
+msgstr "O número máximo de conexões é %1"
+
+#, fuzzy
+msgctxt "HttpFileDownload|"
+msgid "unlimited"
+msgstr "ilimitado"
+
+msgctxt "HttpFileDownload|"
+msgid "Download speed is unlimited"
+msgstr "A velocidade de download é ilimitada"
+
+msgctxt "HttpFileDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr "A velocidade de download é limitada a %1/s"
+
+msgctxt "HttpFileDownload|"
+msgid "Can't resume downloading file"
+msgstr "Não é possível continuar a baixar o arquivo"
+
+msgctxt "HttpFileDownload|"
+msgid "Reconnecting"
+msgstr "Reconectando"
+
+msgctxt "HttpFileDownload|"
+msgid "Starting download"
+msgstr "Iniciando download"
+
+msgctxt "HttpFileDownload|"
+msgid "Pausing download"
+msgstr "Pausando download"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to resume as URL changed"
+msgstr "Falha ao continuar devido à alteração do URL"
+
+msgctxt "HttpFileDownload|"
+msgid "Moving file to %1"
+msgstr "Movendo arquivo para %1"
+
+msgctxt "HttpFileDownload|"
+msgid "File \"%1\" exists. Saving as %2"
+msgstr "O nome \"%1\" já está sendo usado. Renomeando para %2"
+
+msgctxt "HttpFileDownload|"
+msgid "Restarting download"
+msgstr "Recomeçando download"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to clear contents of original file."
+msgstr "Falha ao limpar os conteúdos do arquivo original."
+
+msgctxt "HttpFileDownload|"
+msgid "File is renamed to %1"
+msgstr "O arquivo foi renomeado para %1"
+
+msgctxt "HttpFileDownload|"
+msgid "Opening connection #%1"
+msgstr "Abrindo conexão #%1"
+
+msgctxt "HttpFileDownload|"
+msgid "#%1 closed"
+msgstr "#%1 fechado"
+
+msgctxt "HttpFileDownload|"
+msgid "#%1 receiving data"
+msgstr "#%1 recebendo dados"
+
+msgctxt "HttpFileDownload|"
+msgid "downloaded %1"
+msgstr "baixou %1"
+
+msgctxt "HttpFileDownload|"
+msgid "(%1/s)"
+msgstr "(%1/s)"
+
+msgctxt "HttpFileDownload|"
+msgid "#%1: server ignored partial content request"
+msgstr "#%1: o servidor ignorou a solicitação de conteúdo parcial"
+
+msgctxt "HttpFileDownload|"
+msgid "#%1 failed with error: %2"
+msgstr "#%1 falhou com o erro: %2"
+
+msgctxt "HttpFileDownload|"
+msgid "Opening file on disk..."
+msgstr "Abrindo arquivo no disco..."
+
+msgctxt "HttpFileDownload|"
+msgid "File is missing"
+msgstr "Arquivo em falta"
+
+msgctxt "HttpFileDownload|"
+msgid "Download complete"
+msgstr "Download concluído"
+
+msgctxt "HttpFileDownload|"
+msgid "Removing temporary file extension"
+msgstr "Removendo extensão de arquivo temporária"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating disk space for download"
+msgstr "Pré-alocando espaço em disco para download"
+
+msgctxt "HttpFileDownload|"
+msgid "File changed on remote server"
+msgstr "O arquivo foi alterado no servidor remoto"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed writing received data to file"
+msgstr "Falha ao escrever os dados recebidos no arquivo"
+
+msgctxt "HttpFileDownload|"
+msgid "Redirecting to %1"
+msgstr "Redirecionando para %1"
+
+msgctxt "HttpFileDownload|"
+msgid "File moved successfully"
+msgstr "Arquivo movido com sucesso"
+
+msgctxt "HttpFileDownload|"
+msgid "File moving failed"
+msgstr "Falha ao mover o arquivo"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocation failed: %1"
+msgstr "Pré-alocação falhada: %1"
+
+msgctxt "HttpFileDownload|"
+msgid "%1 finished successfully"
+msgstr "%1 concluído com sucesso"
+
+msgctxt "HttpFileDownload|"
+msgid ", average speed: %1"
+msgstr ", velocidade média: %1"
+
+msgctxt "HttpFileDownload|"
+msgid "Space allocation"
+msgstr "Alocação de espaço"
+
+msgctxt "HttpFileDownload|"
+msgid "Move"
+msgstr "Mover"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocation cancelled"
+msgstr "Pré-alocação cancelada"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating queued"
+msgstr "Pré-alocação em fila"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating started"
+msgstr "Pré-alocação iniciada"
+
+msgctxt "MacMainMenu|"
+msgid "File"
+msgstr "Arquivo"
+
+msgctxt "MacMainMenu|"
+msgid "Add Download from URL..."
+msgstr "Adicionar download a partir de URL..."
+
+msgctxt "MacMainMenu|"
+msgid "Open Torrent File..."
+msgstr "Abrir arquivo torrent..."
+
+msgctxt "MacMainMenu|"
+msgid "Edit"
+msgstr "Editar"
+
+msgctxt "MacMainMenu|"
+msgid "About %1"
+msgstr "Sobre %1"
+
+msgctxt "MacMainMenu|"
+msgid "Check for Updates..."
+msgstr "Verificar atualizações..."
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "MacMainMenu|"
+msgid "Start Selected"
+msgstr "Iniciar Selecionado"
+
+msgctxt "MacMainMenu|"
+msgid "Pause Selected"
+msgstr "Pausar Selecionado"
+
+msgctxt "MacMainMenu|"
+msgid "Restart Selected"
+msgstr "Reiniciar Selecionado"
+
+msgctxt "MacMainMenu|"
+msgid "Remove from List"
+msgstr "Remover da lista"
+
+msgctxt "MacMainMenu|"
+msgid "Help"
+msgstr "Ajuda"
+
+msgctxt "MacMainMenu|"
+msgid "Contact Support"
+msgstr "Contatar suporte"
+
+msgctxt "MacMainMenu|"
+msgid "Vote for New Features"
+msgstr "Vote para novos recursos"
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Preferences..."
+msgstr "Preferências..."
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "About Free Download Manager"
+msgstr "Sobre o Free Download Manager"
+
+msgctxt "QObject|"
+msgid "Preferences"
+msgstr "Preferências"
+
+msgctxt "QObject|"
+msgid "Check for Updates..."
+msgstr "Verificar atualizações..."
+
+msgctxt "QObject|"
+msgid "Window"
+msgstr "Janela"
+
+msgctxt "QObject|"
+msgid "Minimize"
+msgstr "Minimizar"
+
+msgctxt "QObject|"
+msgid "Zoom"
+msgstr "Zoom"
+
+msgctxt "QObject|"
+msgid "Enter Full Screen"
+msgstr "Entrar em tela cheia"
+
+msgctxt "QObject|"
+msgid "Bring All to Front"
+msgstr "Trazer tudo para frente"
+
+msgctxt "QObject|"
+msgid "Contact Support"
+msgstr "Contatar suporte"
+
+msgctxt "QObject|"
+msgid "Open Torrent File..."
+msgstr "Abrir arquivo torrent..."
+
+msgctxt "QObject|"
+msgid "File"
+msgstr "Arquivo"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Select All"
+msgstr "Selecionar Tudo"
+
+msgctxt "QObject|"
+msgid "Delete"
+msgstr "Deletar"
+
+msgctxt "QObject|"
+msgid "Paste"
+msgstr "Colar"
+
+msgctxt "QObject|"
+msgid "Copy"
+msgstr "Copiar"
+
+msgctxt "QObject|"
+msgid "Cut"
+msgstr "Recortar"
+
+msgctxt "QObject|"
+msgid "Edit"
+msgstr "Editar"
+
+msgctxt "QObject|"
+msgid "Help"
+msgstr "Ajuda"
+
+msgctxt "QObject|"
+msgid "Something went wrong with internal downloads."
+msgstr "Algo deu errado com os downloads internos."
+
+msgctxt "QObject|"
+msgid "Selected filepath is not valid."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Selected filename is too long"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Selected filename is not valid."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Specified directory can't be accessed."
+msgstr ""
+
+# [ RPCLocalization| ] should be ignored. Translate the text from the 'Source text' field that corresponds the line. This is true for all lines with the marking.
+msgctxt "RPCLocalization|"
+msgid "locale"
+msgstr "pt"
+
+msgctxt "RPCLocalization|"
+msgid "Drag & Drop"
+msgstr "Arrastar e soltar"
+
+msgctxt "RPCLocalization|"
+msgid "URL or torrent here"
+msgstr "URL ou torrent aqui"
+
+msgctxt "RPCLocalization|"
+msgid "Add tag"
+msgstr "Adicionar tag"
+
+msgctxt "RPCLocalization|"
+msgid "Preferences"
+msgstr "Preferências"
+
+msgctxt "RPCLocalization|"
+msgid "Unlimited"
+msgstr "Ilimitado"
+
+msgctxt "RPCLocalization|"
+msgid "Manual..."
+msgstr "Manual..."
+
+msgctxt "RPCLocalization|"
+msgid "Set limits manually"
+msgstr "Definir limites manualmente"
+
+msgctxt "RPCLocalization|"
+msgid "Download: unlimited, Upload: unlimited"
+msgstr "Download: ilimitado, Upload: ilimitado"
+
+msgctxt "RPCLocalization|"
+msgid "Download:"
+msgstr "Download:"
+
+msgctxt "RPCLocalization|"
+msgid "Upload:"
+msgstr "Upload:"
+
+msgctxt "RPCLocalization|"
+msgid "unlimited"
+msgstr "ilimitado"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode frees bandwidth without stopping downloads."
+msgstr "Modo Caracol libera a largura de banda sem parar os downloads."
+
+msgctxt "RPCLocalization|"
+msgid "Hide details"
+msgstr "Esconder detalhes"
+
+msgctxt "RPCLocalization|"
+msgid "Show details"
+msgstr "Mostrar detalhes"
+
+msgctxt "RPCLocalization|"
+msgid "%n files selected."
+msgid_plural "%n files selected."
+msgstr[0] "%n arquivo selecionado."
+msgstr[1] "%n arquivos selecionados."
+
+msgctxt "RPCLocalization|"
+msgid "Show in folder"
+msgstr "Mostrar na pasta"
+
+msgctxt "RPCLocalization|"
+msgid "Reveal in Finder"
+msgstr "Revelar no Buscador"
+
+msgctxt "RPCLocalization|"
+msgid "Pause"
+msgstr "Pausar"
+
+msgctxt "RPCLocalization|"
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgctxt "RPCLocalization|"
+msgid "Start"
+msgstr "Iniciar"
+
+msgctxt "RPCLocalization|"
+msgid "Selected size:"
+msgstr "Tamanho selecionado:"
+
+msgctxt "RPCLocalization|"
+msgid "Size:"
+msgstr "Tamanho:"
+
+msgctxt "RPCLocalization|"
+msgid "File size:"
+msgstr "Tamanho do arquivo:"
+
+msgctxt "RPCLocalization|"
+msgid "Disk space:"
+msgstr "Espaço em disco:"
+
+msgctxt "RPCLocalization|"
+msgid "Total size:"
+msgstr "Tamanho total:"
+
+msgctxt "RPCLocalization|"
+msgid "Checked size:"
+msgstr "Tamanho verificado:"
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded:"
+msgstr "Transferido:"
+
+msgctxt "RPCLocalization|"
+msgid "Download speed:"
+msgstr "Velocidade do Download:"
+
+msgctxt "RPCLocalization|"
+msgid "Seeds:"
+msgstr "Sementes:"
+
+msgctxt "RPCLocalization|"
+msgid "Domain:"
+msgstr "Domínio:"
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded:"
+msgstr "Carregado:"
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed:"
+msgstr "Velocidade de Upload:"
+
+msgctxt "RPCLocalization|"
+msgid "Peers:"
+msgstr "Pares:"
+
+msgctxt "RPCLocalization|"
+msgid "Share ratio:"
+msgstr "Proporção de compartilhamento:"
+
+msgctxt "RPCLocalization|"
+msgid "Availability:"
+msgstr "Disponibilidade:"
+
+msgctxt "RPCLocalization|"
+msgid "DHT nodes:"
+msgstr "Nodos DHT:"
+
+msgctxt "RPCLocalization|"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "RPCLocalization|"
+msgid "Client"
+msgstr "Cliente"
+
+msgctxt "RPCLocalization|"
+msgid "Flags"
+msgstr "Bandeiras"
+
+msgctxt "RPCLocalization|"
+msgid "Requests"
+msgstr "Pedidos"
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded"
+msgstr "Baixado:"
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded"
+msgstr "Enviado:"
+
+msgctxt "RPCLocalization|"
+msgid "Files"
+msgstr "Arquivos"
+
+msgctxt "RPCLocalization|"
+msgid "Trackers"
+msgstr "Trackers"
+
+msgctxt "RPCLocalization|"
+msgid "Peers"
+msgstr "Pares"
+
+msgctxt "RPCLocalization|"
+msgid "Log"
+msgstr "Log"
+
+msgctxt "RPCLocalization|"
+msgid "Enable seeding"
+msgstr "Ativar semeadura"
+
+msgctxt "RPCLocalization|"
+msgid "Progress"
+msgstr "Progresso"
+
+msgctxt "RPCLocalization|"
+msgid "Priority"
+msgstr "Prioridade"
+
+msgctxt "RPCLocalization|"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "RPCLocalization|"
+msgid "Next announce"
+msgstr "Próximo anúncio"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode"
+msgstr "Modo Caracol"
+
+msgctxt "RPCLocalization|"
+msgid "Bandwidth limits"
+msgstr "Limites de largura de banda"
+
+msgctxt "RPCLocalization|"
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgctxt "RPCLocalization|"
+msgid "Apply"
+msgstr "Aplicar"
+
+msgctxt "RPCLocalization|"
+msgid "KB/s"
+msgstr "KB/s"
+
+msgctxt "RPCLocalization|"
+msgid "MB/s"
+msgstr "MB/s"
+
+msgctxt "RPCLocalization|"
+msgid "%1 KB/s"
+msgstr "%1 KB/s"
+
+msgctxt "RPCLocalization|"
+msgid "%1 MB/s"
+msgstr "%1 MB/s"
+
+msgctxt "RPCLocalization|"
+msgid "%1 GB/s"
+msgstr "%1 GB/s"
+
+msgctxt "RPCLocalization|"
+msgid "Browser integration"
+msgstr "Integração com o navegador"
+
+msgctxt "RPCLocalization|"
+msgid "Next"
+msgstr "Próximo"
+
+msgctxt "RPCLocalization|"
+msgid "Proceed to download"
+msgstr "Proceder ao download"
+
+msgctxt "RPCLocalization|"
+msgid "Add download"
+msgstr "Adicionar download"
+
+msgctxt "RPCLocalization|"
+msgid "Enter download URL:"
+msgstr "Entrar com a URL do download"
+
+msgctxt "RPCLocalization|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "RPCLocalization|"
+msgid "Download"
+msgstr "Baixar"
+
+msgctxt "RPCLocalization|"
+msgid "Download anyway"
+msgstr "Baixar de qualquer maneira"
+
+msgctxt "RPCLocalization|"
+msgid "Add"
+msgstr "Adicionar"
+
+msgctxt "RPCLocalization|"
+msgid "torrent"
+msgstr "torrent"
+
+msgctxt "RPCLocalization|"
+msgid "Save to:"
+msgstr "Salvar em:"
+
+msgctxt "RPCLocalization|"
+msgid "Select folder"
+msgstr "Selecionar pasta"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting download info..."
+msgstr "Solicitando informações download..."
+
+msgctxt "RPCLocalization|"
+msgid "Quality:"
+msgstr "Qualidade:"
+
+msgctxt "RPCLocalization|"
+msgid "Select all"
+msgstr "Selecionar tudo"
+
+msgctxt "RPCLocalization|"
+msgid "Select none"
+msgstr "Selecione nenhum"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent already exists"
+msgstr "Torrent já existe"
+
+msgctxt "RPCLocalization|"
+msgid "Want to load its trackers?"
+msgstr "Você deseja carregar seus trackers?"
+
+msgctxt "RPCLocalization|"
+msgid "No active downloads"
+msgstr "Nenhum download ativo"
+
+msgctxt "RPCLocalization|"
+msgid "No completed downloads"
+msgstr "Nenhum download completado"
+
+msgctxt "RPCLocalization|"
+msgid "No results found for"
+msgstr "Nenhum resultado encontrado para"
+
+msgctxt "RPCLocalization|"
+msgid "No results tagged"
+msgstr "Não há resultados etiquetados"
+
+msgctxt "RPCLocalization|"
+msgid "found"
+msgstr "encontrado"
+
+msgctxt "RPCLocalization|"
+msgid "Show all"
+msgstr "Mostrar tudo"
+
+msgctxt "RPCLocalization|"
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+msgctxt "RPCLocalization|"
+msgid "Moving"
+msgstr "Movendo"
+
+msgctxt "RPCLocalization|"
+msgid "Unknown file size"
+msgstr "Tamanho do arquivo desconhecido"
+
+msgctxt "RPCLocalization|"
+msgid "Merging media streams"
+msgstr "Mesclando fluxos de mídia"
+
+msgctxt "RPCLocalization|"
+msgid "Allocating disk space..."
+msgstr "Alocando espaço em disco..."
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting..."
+msgstr "Reconectando..."
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting"
+msgstr "Reconectando"
+
+msgctxt "RPCLocalization|"
+msgid "Paused"
+msgstr "Pausado"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading metadata"
+msgstr "Baixando metadados"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading"
+msgstr "Baixando"
+
+msgctxt "RPCLocalization|"
+msgid "Error"
+msgstr "Erro"
+
+msgctxt "RPCLocalization|"
+msgid "Checking files..."
+msgstr "Verificando arquivos..."
+
+msgctxt "RPCLocalization|"
+msgid "Downloading, allocating disk space..."
+msgstr "Baixando, Alocando espaço em disco..."
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Completed %n / %2 files"
+msgid_plural "Completed %n / %2 files"
+msgstr[0] "Completado: %n / %2 arquivos"
+msgstr[1] ""
+
+msgctxt "RPCLocalization|"
+msgid "Complete"
+msgstr "Concluído"
+
+msgctxt "RPCLocalization|"
+msgid "Queued"
+msgstr "Na fila"
+
+msgctxt "RPCLocalization|"
+msgid "Stop seeding"
+msgstr "Parar semeadura"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting info..."
+msgstr "Solicitando informações..."
+
+msgctxt "RPCLocalization|"
+msgid "Open torrent file..."
+msgstr "Abrir arquivo torrente..."
+
+msgctxt "RPCLocalization|"
+msgid "Preferences..."
+msgstr "Preferências..."
+
+msgctxt "RPCLocalization|"
+msgid "Settings..."
+msgstr "Configurações..."
+
+msgctxt "RPCLocalization|"
+msgid "Settings"
+msgstr "Configurações"
+
+msgctxt "RPCLocalization|"
+msgid "Contact support"
+msgstr "Contato de suporte"
+
+msgctxt "RPCLocalization|"
+msgid "Auto shutdown"
+msgstr "Desligar automaticamente"
+
+msgctxt "RPCLocalization|"
+msgid "Sleep"
+msgstr "Dormir"
+
+msgctxt "RPCLocalization|"
+msgid "Hibernate"
+msgstr "Hibernar"
+
+msgctxt "RPCLocalization|"
+msgid "Shutdown"
+msgstr "Desligar"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates"
+msgstr "Verificar por atualizações"
+
+msgctxt "RPCLocalization|"
+msgid "About Free Download Manager"
+msgstr "Sobre o Free Download Manager"
+
+msgctxt "RPCLocalization|"
+msgid "Quit"
+msgstr "Deixar"
+
+msgctxt "RPCLocalization|"
+msgid "Exit"
+msgstr "Sair"
+
+msgctxt "RPCLocalization|"
+msgid "Vote for new features"
+msgstr "Vote nos novos recursos"
+
+msgctxt "RPCLocalization|"
+msgid "About FDM"
+msgstr "Sobre o FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure this is a valid file extension?"
+msgstr "Tem certeza que isso é uma extensão de arquivo válido?"
+
+msgctxt "RPCLocalization|"
+msgid "Please enter numbers only"
+msgstr "Por favor insira apenas números"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too small?"
+msgstr "Tem certeza de que não é muito pequeno?"
+
+msgctxt "RPCLocalization|"
+msgid "Why should it be so huge?"
+msgstr "Por que deveria ser tão grande?"
+
+msgctxt "RPCLocalization|"
+msgid "Extremely slow, isn't it?"
+msgstr "Extremamente lento, não é?"
+
+msgctxt "RPCLocalization|"
+msgid "Faster doesn't mean better"
+msgstr "Mais rápido não significa melhor"
+
+msgctxt "RPCLocalization|"
+msgid "Isn't it too frequent?"
+msgstr "Não é muito frequente?"
+
+msgctxt "RPCLocalization|"
+msgid "Pretty rare to move with the time."
+msgstr "Bastante raro para mover-se com o tempo."
+
+msgctxt "RPCLocalization|"
+msgid "Maybe you'd let it be a little longer?"
+msgstr "Talvez você deixá-lo ser um pouco mais?"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too long?"
+msgstr "Tem certeza de que não é muito tempo?"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Only %n records? FDM can store much more!"
+msgid_plural "Only %n records? FDM can store much more!"
+msgstr[0] "Somente %n os registros? FDM pode armazenar muito mais!"
+msgstr[1] ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%n records is too many to save."
+msgid_plural "%n records is too many to save."
+msgstr[0] "%n registros são demais para salvar."
+msgstr[1] ""
+
+msgctxt "RPCLocalization|"
+msgid "Do you actually want to connect?"
+msgstr "Você realmente deseja se conectar?"
+
+msgctxt "RPCLocalization|"
+msgid "Oh no, too many connections!"
+msgstr "Oh não, muitas conexões!"
+
+msgctxt "RPCLocalization|"
+msgid "It seems like an understatement."
+msgstr "Parece um eufemismo."
+
+msgctxt "RPCLocalization|"
+msgid "So many? It's overwhelming!"
+msgstr "Muitos? É impressionante!"
+
+msgctxt "RPCLocalization|"
+msgid "General"
+msgstr "Geral"
+
+msgctxt "RPCLocalization|"
+msgid "Browser Integration"
+msgstr "Integração com o navegador"
+
+msgctxt "RPCLocalization|"
+msgid "BitTorrent"
+msgstr "BitTorrent"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic Limits"
+msgstr "Limite de Tráfico"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "Limite de Tráfico"
+
+msgctxt "RPCLocalization|"
+msgid "Advanced"
+msgstr "Avançado"
+
+msgctxt "RPCLocalization|"
+msgid "Network"
+msgstr "Rede"
+
+msgctxt "RPCLocalization|"
+msgid "Proxy"
+msgstr "Proxy"
+
+msgctxt "RPCLocalization|"
+msgid "No proxy"
+msgstr "Nenhum proxy"
+
+msgctxt "RPCLocalization|"
+msgid "System proxy"
+msgstr "Sistema de proxy"
+
+msgctxt "RPCLocalization|"
+msgid "Configure manually:"
+msgstr "Configurar manualmente:"
+
+msgctxt "RPCLocalization|"
+msgid "HTTP:"
+msgstr "HTTP:"
+
+msgctxt "RPCLocalization|"
+msgid "HTTPS:"
+msgstr "HTTPS:"
+
+msgctxt "RPCLocalization|"
+msgid "FTP:"
+msgstr "FTP:"
+
+msgctxt "RPCLocalization|"
+msgid "Address"
+msgstr "Endereço"
+
+msgctxt "RPCLocalization|"
+msgid "Port"
+msgstr "Porta"
+
+msgctxt "RPCLocalization|"
+msgid "Login"
+msgstr "Login"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "Login"
+
+msgctxt "RPCLocalization|"
+msgid "Password"
+msgstr "Senha"
+
+msgctxt "RPCLocalization|"
+msgid "Startup"
+msgstr "Começar"
+
+msgctxt "RPCLocalization|"
+msgid "Downloads"
+msgstr "Downloads"
+
+msgctxt "RPCLocalization|"
+msgid "Launch at startup (minimized)"
+msgstr "Iniciar na inicialização (minimizado)"
+
+msgctxt "RPCLocalization|"
+msgid "Open at Login"
+msgstr "Abrir no Login"
+
+msgctxt "RPCLocalization|"
+msgid "Close button minimizes window"
+msgstr "Fechar botão para minimizar a janela"
+
+msgctxt "RPCLocalization|"
+msgid "Check if FDM is your default torrent client"
+msgstr "Verificar se o FDM é o seu cliente torrente padrão"
+
+msgctxt "RPCLocalization|"
+msgid "Update"
+msgstr "Atualizar"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "Atualizar"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates automatically"
+msgstr "Verificar por atualizações automaticamente"
+
+msgctxt "RPCLocalization|"
+msgid "Install updates automatically"
+msgstr "Instalar atualizações automaticamente"
+
+msgctxt "RPCLocalization|"
+msgid "Safari: enable FDM"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "for context menu"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "%1 B"
+msgstr "%1 B"
+
+msgctxt "RPCLocalization|"
+msgid "%1 KB"
+msgstr "%1 KB"
+
+msgctxt "RPCLocalization|"
+msgid "%1 MB"
+msgstr "%1 MB"
+
+msgctxt "RPCLocalization|"
+msgid "%1 GB"
+msgstr "%1 GB"
+
+msgctxt "RPCLocalization|"
+msgid "%1 TB"
+msgstr "%1 TB"
+
+msgctxt "RPCLocalization|"
+msgid "Hold"
+msgstr "Pressione"
+
+msgctxt "RPCLocalization|"
+msgid "Alt key"
+msgstr "a tecla Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Holding Alt, click link to download via browser."
+msgstr "e clique no link para iniciar o download através do navegador"
+
+msgctxt "RPCLocalization|"
+msgid "Disk space needed:"
+msgstr "Espaço em disco necessário:"
+
+msgctxt "RPCLocalization|"
+msgid "Hide bottom panel"
+msgstr "Ocultar painel inferior"
+
+msgctxt "RPCLocalization|"
+msgid "Show bottom panel"
+msgstr "Mostrar painel inferior"
+
+msgctxt "RPCLocalization|"
+msgid "disk %1"
+msgstr "disco %1"
+
+msgctxt "RPCLocalization|"
+msgid "Tag with the same name already exists"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Enable sleep mode while seeding torrents"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "on"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "and"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Automatically remove deleted files from the download list"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Some files corrupted"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on file type"
+msgstr "Sugerir pastas com base no tipo de arquivo"
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on download URL"
+msgstr "Sugerir configurações baseadas na URL do download"
+
+msgctxt "RPCLocalization|"
+msgid "Default folder:"
+msgstr "Pasta padrão:"
+
+msgctxt "RPCLocalization|"
+msgid "Associate with torrents"
+msgstr "Associado com torrents"
+
+msgctxt "RPCLocalization|"
+msgid "Notifications"
+msgstr "Notificações"
+
+msgctxt "RPCLocalization|"
+msgid "Notify me of completed downloads via Notification Center"
+msgstr "Notifique-me de downloads completos via Central de Notificações"
+
+msgctxt "RPCLocalization|"
+msgid "Only when FDM window is inactive"
+msgstr "Só quando a janela FDM está inativa"
+
+msgctxt "RPCLocalization|"
+msgid "Action of Remove button (main panel) or Delete key"
+msgstr "Ação do botão Remover (painel principal) ou a tecla Excluir"
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from list"
+msgstr "Retirar apenas da lista"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file(s) from disk"
+msgstr "Excluir arquivo(s) do disco"
+
+msgctxt "RPCLocalization|"
+msgid "Always ask"
+msgstr "Sempre perguntar"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads from"
+msgstr "Não pegar downloads do"
+
+msgctxt "RPCLocalization|"
+msgid "Using Alt key"
+msgstr "Usando a tecla Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads when Alt is pressed"
+msgstr "Não faça downloads enquanto o Alt estiver pressionado"
+
+msgctxt "RPCLocalization|"
+msgid "Catch downloads only when Alt is pressed"
+msgstr "Faça downloads apenas quando o Alt estiver pressionado"
+
+msgctxt "RPCLocalization|"
+msgid "Skip domains:"
+msgstr "Pular domínios"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is a scheduled download"
+msgstr ""
+"Não coloque seu computador no modo de espera se houver um download agendado"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is an active download"
+msgstr ""
+"Não coloque seu computador no modo de espera se houver um download ativo"
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from download list"
+msgstr "Remover apenas da lista de download"
+
+msgctxt "RPCLocalization|"
+msgid "Go back to default settings"
+msgstr "Redefinir as configurações para o padrão"
+
+msgctxt "RPCLocalization|"
+msgid "Use only HTTP ports to catch downloads in Edge"
+msgstr "Usar apenas portas HTTP para fazer downloads no Edge"
+
+msgctxt "RPCLocalization|"
+msgid "extension"
+msgstr "extensão"
+
+msgctxt "RPCLocalization|"
+msgid "Automatically catch downloads from browsers"
+msgstr "Automaticamente capturar links dos navegadores"
+
+msgctxt "RPCLocalization|"
+msgid "Edge"
+msgstr "Edge"
+
+msgctxt "RPCLocalization|"
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+msgctxt "RPCLocalization|"
+msgid "Firefox"
+msgstr "Firefox"
+
+msgctxt "RPCLocalization|"
+msgid "Chrome"
+msgstr "Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "Verify if"
+msgstr "Certifique-se de que o"
+
+msgctxt "RPCLocalization|"
+msgid "is enabled"
+msgstr "está instalado e habilitado no Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "No Chrome installation was found."
+msgstr "Nenhuma instalação do Chrome foi encontrada."
+
+msgctxt "RPCLocalization|"
+msgid "You can"
+msgstr "Você pode"
+
+msgctxt "RPCLocalization|"
+msgid "download Chrome here"
+msgstr "baixar o Chrome aqui"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads smaller than"
+msgstr "Não capturar downloads menores que"
+
+msgctxt "RPCLocalization|"
+msgid "Kbytes"
+msgstr "Kbytes"
+
+msgctxt "RPCLocalization|"
+msgid "Skip files with extensions:"
+msgstr "Pular arquivos com extensões:"
+
+msgctxt "RPCLocalization|"
+msgid "Add FDM to browser context menu"
+msgstr "Adicionar FDM no contexto de menu do navegador"
+
+msgctxt "RPCLocalization|"
+msgid "Use proxy for P2P connections"
+msgstr "Usar proxy para conexões peer-to-peer"
+
+msgctxt "RPCLocalization|"
+msgid "Parameters"
+msgstr "Parâmetros"
+
+msgctxt "RPCLocalization|"
+msgid "Low"
+msgstr "Baixo"
+
+msgctxt "RPCLocalization|"
+msgid "Medium"
+msgstr "Médio"
+
+msgctxt "RPCLocalization|"
+msgid "High"
+msgstr "Alto"
+
+msgctxt "RPCLocalization|"
+msgid "Normal"
+msgstr "Normal"
+
+msgctxt "RPCLocalization|"
+msgid "Skip"
+msgstr "Pular"
+
+msgctxt "RPCLocalization|"
+msgid "Download speed"
+msgstr "Velocidade do download"
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed"
+msgstr "Velocidade do upload"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of connections"
+msgstr "Número máximo de conecções"
+
+msgctxt "RPCLocalization|"
+msgid "History"
+msgstr "Histórico"
+
+msgctxt "RPCLocalization|"
+msgid "Remember all destination folders"
+msgstr "Lembre-se de todas as pastas de destino"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Clear history older than"
+msgid_plural "Clear history older than"
+msgstr[0] "Limpar histórico mais antigo que"
+msgstr[1] ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "days"
+msgid_plural "days"
+msgstr[0] "dias"
+msgstr[1] ""
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of history records:"
+msgstr "Número máximo de registros do histórico:"
+
+msgctxt "RPCLocalization|"
+msgid "Disk usage"
+msgstr "Uso do disco"
+
+msgctxt "RPCLocalization|"
+msgid "Preallocate disk space for files larger than"
+msgstr "Pré-alocar espaço em disco para arquivos maiores que"
+
+msgctxt "RPCLocalization|"
+msgid "Gbytes"
+msgstr "Gbytes"
+
+msgctxt "RPCLocalization|"
+msgid "Power management"
+msgstr "Gerenciamento de energia"
+
+msgctxt "RPCLocalization|"
+msgid "Prevent sleep if there are active downloads"
+msgstr "Impedir o sono se não houver downloads ativos"
+
+msgctxt "RPCLocalization|"
+msgid "Delete button action"
+msgstr "Ação do botão Excluir"
+
+msgctxt "RPCLocalization|"
+msgid "Delete files"
+msgstr "Excluir arquivos"
+
+msgctxt "RPCLocalization|"
+msgid "DHT"
+msgstr "DHT"
+
+msgctxt "RPCLocalization|"
+msgid "Port forwarding"
+msgstr "Encaminhamento de porta"
+
+msgctxt "RPCLocalization|"
+msgid "Local peer discovery"
+msgstr "Descoberta de pares locais"
+
+msgctxt "RPCLocalization|"
+msgid "Peer exchange"
+msgstr "Troca de pares"
+
+msgctxt "RPCLocalization|"
+msgid "uTP"
+msgstr "uTP"
+
+msgctxt "RPCLocalization|"
+msgid "Use ports in range:"
+msgstr "Usar portas no intervalo:"
+
+msgctxt "RPCLocalization|"
+msgid "to"
+msgstr "para"
+
+msgctxt "RPCLocalization|"
+msgid "Reset"
+msgstr "Limpar"
+
+msgctxt "RPCLocalization|"
+msgid "Select All"
+msgstr "Selecionar Tudo"
+
+msgctxt "RPCLocalization|"
+msgid "Name"
+msgstr "Nome"
+
+msgctxt "RPCLocalization|"
+msgid "Status"
+msgstr "Estado"
+
+msgctxt "RPCLocalization|"
+msgid "Speed"
+msgstr "Velocidade"
+
+msgctxt "RPCLocalization|"
+msgid "Size"
+msgstr "Tamanho"
+
+msgctxt "RPCLocalization|"
+msgid "Added"
+msgstr "Adicionado"
+
+msgctxt "RPCLocalization|"
+msgid "Start all"
+msgstr "Iniciar todos"
+
+msgctxt "RPCLocalization|"
+msgid "Pause all"
+msgstr "Pausar todos"
+
+msgctxt "RPCLocalization|"
+msgid "Start selected"
+msgstr "Iniciar selecionado"
+
+msgctxt "RPCLocalization|"
+msgid "Pause selected"
+msgstr "Pausar selecionado"
+
+msgctxt "RPCLocalization|"
+msgid "Add new download..."
+msgstr "Adicionar novo download..."
+
+msgctxt "RPCLocalization|"
+msgid "Move to trash"
+msgstr "Mover para lixeira"
+
+msgctxt "RPCLocalization|"
+msgid "Remove from list"
+msgstr "Remover da lista"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected"
+msgstr "Excluir selecionado"
+
+msgctxt "RPCLocalization|"
+msgid "Move to..."
+msgstr "Mover para..."
+
+msgctxt "RPCLocalization|"
+msgid "Search"
+msgstr "Procurar"
+
+msgctxt "RPCLocalization|"
+msgid "Main menu"
+msgstr "Menu principal"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected downloads"
+msgstr "Excluir downloads selecionados"
+
+msgctxt "RPCLocalization|"
+msgid "Remember my choice"
+msgstr "Lembrar da minha escolha"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file"
+msgstr "Excluir arquivo"
+
+msgctxt "RPCLocalization|"
+msgid "All"
+msgstr "Tudo"
+
+msgctxt "RPCLocalization|"
+msgid "Active"
+msgstr "Ativo"
+
+msgctxt "RPCLocalization|"
+msgid "Completed"
+msgstr "Concluído"
+
+msgctxt "RPCLocalization|"
+msgid "Customize color"
+msgstr "Personalizar cor"
+
+msgctxt "RPCLocalization|"
+msgid "Remove tag"
+msgstr "Remover tag"
+
+msgctxt "RPCLocalization|"
+msgid ""
+"Would you like to make Free Download Manager the default torrent client?"
+msgstr "Gostaria de fazer o Free Download Manager o cliente de torrent padrão?"
+
+msgctxt "RPCLocalization|"
+msgid "Don’t ask again"
+msgstr "Não perguntar novamente"
+
+msgctxt "RPCLocalization|"
+msgid "Set as Default"
+msgstr "Definir como padrão"
+
+msgctxt "RPCLocalization|"
+msgid "Computer will be put to sleep after all downloads are completed."
+msgstr ""
+"Computador será colocado para dormir depois que todos os downloads forem "
+"concluídos."
+
+msgctxt "RPCLocalization|"
+msgid "Computer will shut down after all downloads are completed."
+msgstr "Computador irá desligar após todos downloads forem concluídos."
+
+msgctxt "RPCLocalization|"
+msgid "Computer will hibernate after all downloads are completed."
+msgstr "Computador irá hibernar após todos os downloads serem concluídos."
+
+msgctxt "RPCLocalization|"
+msgid "Checking for updates..."
+msgstr "Verificando por atualizações..."
+
+msgctxt "RPCLocalization|"
+msgid "Retry"
+msgstr "Tentar novamente"
+
+msgctxt "RPCLocalization|"
+msgid "Error:"
+msgstr "Erro:"
+
+msgctxt "RPCLocalization|"
+msgid "Error downloading update:"
+msgstr "Erro ao baixar atualização:"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading update"
+msgstr "Baixando atualização"
+
+msgctxt "RPCLocalization|"
+msgid "Checking..."
+msgstr "Verificando..."
+
+msgctxt "RPCLocalization|"
+msgid "Update downloaded"
+msgstr "Atualização baixada"
+
+msgctxt "RPCLocalization|"
+msgid "Install update"
+msgstr "Instalar atualização"
+
+msgctxt "RPCLocalization|"
+msgid "Installing updates"
+msgstr "Instalando atualizações"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch FDM to update"
+msgstr "Reiniciar FDM para atualizar"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch"
+msgstr "Reiniciar"
+
+msgctxt "RPCLocalization|"
+msgid "Error occurred during installation:"
+msgstr "Ocorreu um erro durante a instalação:"
+
+msgctxt "RPCLocalization|"
+msgid "Restart computer to complete installation"
+msgstr "Reinicie o computador para completar a atualização"
+
+msgctxt "RPCLocalization|"
+msgid "FDM is up to date!"
+msgstr "FDM está atualizado!"
+
+msgctxt "RPCLocalization|"
+msgid "New version is available"
+msgstr "Uma nova versão está disponível"
+
+# %ns
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%ns"
+msgid_plural "%ns"
+msgstr[0] "%ns"
+msgstr[1] "%ns"
+
+# %nm
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nm"
+msgid_plural "%nm"
+msgstr[0] "%nm"
+msgstr[1] "%nm"
+
+# %nh
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nh"
+msgid_plural "%nh"
+msgstr[0] "%nh"
+msgstr[1] "%nh"
+
+# %nd
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nd"
+msgid_plural "%nd"
+msgstr[0] "%nd"
+msgstr[1] "%nd"
+
+# %ns
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%nw"
+msgid_plural "%nw"
+msgstr[0] "%ns"
+msgstr[1] "%ns"
+
+# %na
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "%ny"
+msgid_plural "%ny"
+msgstr[0] "%na"
+msgstr[1] "%na"
+
+msgctxt "RPCLocalization|"
+msgid "YouTube"
+msgstr "YouTube"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent"
+msgstr "Torrent"
+
+msgctxt "RPCLocalization|"
+msgid "Options"
+msgstr "Opções"
+
+msgctxt "RPCLocalization|"
+msgid "Open Scheduler"
+msgstr "Abrir programador"
+
+msgctxt "RPCLocalization|"
+msgid "Sсheduler"
+msgstr "Programador"
+
+msgctxt "RPCLocalization|"
+msgid "Start and pause downloads at specified time"
+msgstr "Inicie e pause downloads em um horário especificado"
+
+msgctxt "RPCLocalization|"
+msgid "Enable Scheduler"
+msgstr "Habilitar Programador"
+
+msgctxt "RPCLocalization|"
+msgid "Sun"
+msgstr "Dom"
+
+msgctxt "RPCLocalization|"
+msgid "Mon"
+msgstr "Seg"
+
+msgctxt "RPCLocalization|"
+msgid "Tue"
+msgstr "Ter"
+
+msgctxt "RPCLocalization|"
+msgid "Wed"
+msgstr "Qua"
+
+msgctxt "RPCLocalization|"
+msgid "Thu"
+msgstr "Qui"
+
+msgctxt "RPCLocalization|"
+msgid "Fri"
+msgstr "Sex"
+
+msgctxt "RPCLocalization|"
+msgid "Sat"
+msgstr "Sáb"
+
+msgctxt "RPCLocalization|"
+msgid "From:"
+msgstr "De:"
+
+msgctxt "RPCLocalization|"
+msgid "To:"
+msgstr "Para:"
+
+msgctxt "RPCLocalization|"
+msgid "Change settings"
+msgstr "Alterar configurações"
+
+msgctxt "RPCLocalization|"
+msgid "Change preferences"
+msgstr "Alterar preferências"
+
+msgctxt "RPCLocalization|"
+msgid "Tip"
+msgstr "Dica"
+
+msgctxt "RPCLocalization|"
+msgid "Computer won't be put to sleep because there are scheduled downloads"
+msgstr ""
+"O computador não será colocado no modo de espera porque há downloads "
+"agendados"
+
+msgctxt "RPCLocalization|"
+msgid "Scheduler"
+msgstr "Programador"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there're scheduled downloads"
+msgstr ""
+"Não coloque seu computador no modo de espere se houver downloads agendados"
+
+msgctxt "RPCLocalization|"
+msgid "Restore"
+msgstr "Restaurar"
+
+msgctxt "RPCLocalization|"
+msgid "Press"
+msgstr "Pressionar"
+
+msgctxt "RPCLocalization|"
+msgid "%1 B/s"
+msgstr "%1 B/s"
+
+msgctxt "RPCLocalization|"
+msgid "Start downloading without confirmation"
+msgstr "Comece a baixar sem confirmação"
+
+msgctxt "RPCLocalization|"
+msgid "Use browser if you cancel download via FDM"
+msgstr "Use o navegador se você cancelar o download através do FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of simultaneous downloads"
+msgstr "Número máximo de downloads simultâneos"
+
+msgctxt "RPCLocalization|"
+msgid "to let the browser process the download"
+msgstr "para permitir que o navegador processe o download"
+
+msgctxt "RPCLocalization|"
+msgid "Check file integrity"
+msgstr "Verificar integridade do arquivo"
+
+msgctxt "RPCLocalization|"
+msgid "Calculate"
+msgstr "Calcular"
+
+msgctxt "RPCLocalization|"
+msgid "Calculating"
+msgstr "Calculando"
+
+msgctxt "RPCLocalization|"
+msgid "Verification OK"
+msgstr "Verificação OK"
+
+msgctxt "RPCLocalization|"
+msgid "Verification failed"
+msgstr "Falha na verificação"
+
+msgctxt "RPCLocalization|"
+msgid "Compare with:"
+msgstr "Comparar com:"
+
+msgctxt "RPCLocalization|"
+msgid "Close"
+msgstr "Fechar"
+
+msgctxt "RPCLocalization|"
+msgid "%1 left"
+msgstr "%1 restante"
+
+msgctxt "RPCLocalization|"
+msgid "Browsers:"
+msgstr "Navegadores:"
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr "Opções"
+
+msgctxt "RPCLocalization|"
+msgid "Done"
+msgstr "Pronto"
+
+#, fuzzy
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "Concluído"
+
+msgctxt "RPCLocalization|"
+msgid "%1 of %2"
+msgstr "%1 de %2"
+
+msgctxt "RPCSystem|"
+msgid "Default download folder"
+msgstr ""
+
+msgctxt "RPCSystem|"
+msgid "Accept"
+msgstr ""
+
+msgctxt "RPCSystem|"
+msgid "Download to"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCSystem|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "RPCSystem|"
+msgid "Open torrent file"
+msgstr ""
+
+msgctxt "RPCSystem|"
+msgid "Torrent files"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "File priorities changed"
+msgstr "Prioridades de arquivo alteradas"
+
+msgctxt "TorrentDownload|"
+msgid "Stopping seeding"
+msgstr "Parando semeadura"
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading enabled"
+msgstr "Download sequencial habilitado"
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading disabled"
+msgstr "Download sequencial desabilitado"
+
+msgctxt "TorrentDownload|"
+msgid "Trackers merged"
+msgstr "Trackers fundidos"
+
+msgctxt "TorrentDownload|"
+msgid "Starting seeding"
+msgstr "Iniciando semeadura"
+
+msgctxt "TorrentDownload|"
+msgid "Unknown error occurred"
+msgstr "Ocorreu um erro desconhecido"
+
+msgctxt "TorrentDownload|"
+msgid "Error occurred: %1"
+msgstr "Erro ocorrido: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Maximum number of connections is %1"
+msgstr "O número máximo de conexões é %1"
+
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "unlimited"
+msgstr "ilimitado"
+
+msgctxt "TorrentDownload|"
+msgid "Download speed is unlimited"
+msgstr "A velocidade de download é ilimitada"
+
+msgctxt "TorrentDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr "A velocidade de download é limitada a %1/s"
+
+msgctxt "TorrentDownload|"
+msgid "Upload speed is unlimited"
+msgstr "A velocidade de upload é ilimitada"
+
+msgctxt "TorrentDownload|"
+msgid "Upload speed is limited to %1/s"
+msgstr "A velocidade de upload é limitada a %1/s"
+
+msgctxt "TorrentDownload|"
+msgid "Pausing download"
+msgstr "Pausando download"
+
+msgctxt "TorrentDownload|"
+msgid "Download paused"
+msgstr "Download pausado"
+
+msgctxt "TorrentDownload|"
+msgid "Files are missing"
+msgstr "Arquivos em falta"
+
+msgctxt "TorrentDownload|"
+msgid "File is missing"
+msgstr "Arquivo em falta"
+
+msgctxt "TorrentDownload|"
+msgid "Starting download"
+msgstr "Iniciando download"
+
+msgctxt "TorrentDownload|"
+msgid "Checking files"
+msgstr "Verificando arquivos"
+
+msgctxt "TorrentDownload|"
+msgid "Downloading"
+msgstr "Baixando"
+
+msgctxt "TorrentDownload|"
+msgid "Download complete"
+msgstr "Download concluído"
+
+msgctxt "TorrentDownload|"
+msgid "Can't move files recursively"
+msgstr "Não é possível mover arquivos de forma recursiva"
+
+msgctxt "TorrentDownload|"
+msgid "Changing destination folder"
+msgstr "Alterando pasta de destino"
+
+msgctxt "TorrentDownload|"
+msgid "Moving files to %1"
+msgstr "Movendo arquivos para %1"
+
+msgctxt "TorrentDownload|"
+msgid "Moving file to %1"
+msgstr "Movendo arquivo para %1"
+
+msgctxt "TorrentDownload|"
+msgid "Waiting for metadata"
+msgstr "À espera de metadados"
+
+msgctxt "TorrentDownload|"
+msgid "Updating"
+msgstr "Atualizando"
+
+msgctxt "TorrentDownload|"
+msgid "Working"
+msgstr "Trabalhando"
+
+msgctxt "TorrentDownload|"
+msgid "Metadata received"
+msgstr "Metadados recebidos"
+
+msgctxt "TorrentDownload|"
+msgid "User authorization required"
+msgstr "Autorização do usuário necessária"
+
+msgctxt "TorrentDownload|"
+msgid "Files mapped to new directory"
+msgstr "Arquivos mapeados para novo diretório"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving failed"
+msgstr "Falha ao mover arquivos"
+
+msgctxt "TorrentDownload|"
+msgid "File moving failed"
+msgstr "Falha ao mover o arquivo"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving declined: %1"
+msgstr "Deslocação de arquivos rejeitadas: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Moving file declined: %1"
+msgstr "Deslocação de arquivo rejeitada: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Moved successfully"
+msgstr "Deslocados com sucesso"
+
+msgctxt "TorrentDownload|"
+msgid ", average speed: %1"
+msgstr ", velocidade média: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving failed: %1"
+msgstr "Erro ao mover arquivos: %1"
+
+msgctxt "TorrentDownload|"
+msgid "File moving failed: %1"
+msgstr "Erro ao mover arquivo: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving cancelled"
+msgstr "Deslocação de arquivos cancelada"
+
+msgctxt "TorrentDownload|"
+msgid "Moving file cancelled"
+msgstr "Deslocação de arquivo cancelada"
+
+msgctxt "TrayMenu|"
+msgid "Show main window"
+msgstr "Mostrar janela principal"
+
+#, fuzzy
+msgctxt "TrayMenu|"
+msgid "Open at Login"
+msgstr "Abrir no Login"
+
+msgctxt "TrayMenu|"
+msgid "Launch at startup"
+msgstr "Abrir ao iniciar"
+
+#, fuzzy
+msgctxt "TrayMenu|"
+msgid "About FDM"
+msgstr "Sobre o FDM"
+
+msgctxt "TrayMenu|"
+msgid "Quit FDM"
+msgstr "Fechar FDM"
+
+#, fuzzy
+msgctxt "TrayMenu|"
+msgid "Quit"
+msgstr "Deixar"
+
+msgctxt "UIHelper|"
+msgid "About %1"
+msgstr "Sobre %1"
+
+msgctxt "UIHelper|"
+msgid "Version %1 (%2)"
+msgstr "Versão %1 (%2)"
+
+msgctxt "UIHelper|"
+msgid "Open"
+msgstr "Abrir"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Reveal in Finder"
+msgstr "Revelar no Buscador"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Show in folder"
+msgstr "Mostrar na pasta"
+
+msgctxt "UIHelper|"
+msgid "Show info"
+msgstr "Mostrar info"
+
+msgctxt "UIHelper|"
+msgid "Choose files..."
+msgstr "Escolher arquivos..."
+
+msgctxt "UIHelper|"
+msgid "Pause all except selected"
+msgstr "Pausar tudo, exceto selecionados"
+
+msgctxt "UIHelper|"
+msgid "Pause all except this one"
+msgstr "Pausar tudo, exceto este"
+
+msgctxt "UIHelper|"
+msgid "Restart selected"
+msgstr "Reiniciar relecionado"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Restart"
+msgstr "Reiniciar"
+
+msgctxt "UIHelper|"
+msgid "Set priority"
+msgstr "Definir prioridade"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Move to..."
+msgstr "Mover para..."
+
+msgctxt "UIHelper|"
+msgid "Download to..."
+msgstr "Baixar para..."
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Move to trash"
+msgstr "Mover para lixeira"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Delete files"
+msgstr "Excluir arquivos"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Delete file"
+msgstr "Excluir arquivo"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Remove from list"
+msgstr "Remover da lista"
+
+#, fuzzy
+msgctxt "UIHelper|"
+msgid "Enable seeding"
+msgstr "Ativar semeadura"
+
+msgctxt "UIHelper|"
+msgid "Sequential download"
+msgstr "Download sequencial"
+
+msgctxt "UIHelper|"
+msgid "Force recheck"
+msgstr "Forçar reverificação"
+
+msgctxt "UIHelper|"
+msgid "Force reannounce"
+msgstr "Forçar reanúncio"
+
+msgctxt "UIHelper|"
+msgid "Copy link"
+msgstr "Copiar link"
+
+msgctxt "UIHelper|"
+msgid "Add tag"
+msgstr "Adicionar tag"
+
+msgctxt "UIHelper|"
+msgid "File integrity"
+msgstr "Integridade do arquivo"
+
+msgctxt "UIHelper|"
+msgid "Schedule"
+msgstr "Agendar"
+
+msgctxt "UIHelper|"
+msgid "High priority"
+msgstr "Prioridade alta"
+
+msgctxt "UIHelper|"
+msgid "Normal priority"
+msgstr "Prioridade normal"
+
+msgctxt "UIHelper|"
+msgid "Low priority"
+msgstr "Prioridade baixa"
+
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Pular"
+
+msgctxt "UIHelper|"
+msgid "Edit"
+msgstr "Editar"
+
+msgctxt "UIHelper|"
+msgid "Remove"
+msgstr "Remover"
+
+msgctxt "UIHelper|"
+msgid "Untag"
+msgstr "Remover tag"
+
+msgctxt "UIHelper|"
+msgid "Copy log to clipboard"
+msgstr "Copiar log para a área de transferência"
+
+msgctxt "UIHelper|"
+msgid "Save log to file"
+msgstr "Salvar log em arquivo"
+
+msgctxt "UIHelper|"
+msgid "FDM Log [%1].txt"
+msgstr "FDM Log [%1].txt"
+
+msgctxt "UIHelper|"
+msgid "Save Log"
+msgstr "Salvar log"
+
+msgctxt "UIHelper|"
+msgid "Text files"
+msgstr "Arquivos de texto"
+
+msgctxt "UIHelper|"
+msgid "%1 K"
+msgstr "%1 K"
+
+msgctxt "UIHelper|"
+msgid "%1 M"
+msgstr "%1 M"
+
+msgctxt "YoutubeDownload|"
+msgid "File is missing"
+msgstr "Arquivo em falta"
+
+msgctxt "YoutubeDownload|"
+msgid "Error: files are missing."
+msgstr "Erro: arquivos em falta"
+
+msgctxt "YoutubeDownload|"
+msgid "Files moved successfully"
+msgstr "Arquivos movidos com sucesso"
+
+msgctxt "YoutubeDownload|"
+msgid "Moving to %1"
+msgstr "Movendo para %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Merging failed"
+msgstr "Falha ao fundir"
+
+#, fuzzy
+msgctxt "YoutubeDownload|"
+msgid "Merging media streams"
+msgstr "Mesclando fluxos de mídia"
+
+msgctxt "YoutubeDownload|"
+msgid "Redirecting"
+msgstr "Redirecionando"
+
+msgctxt "YoutubeDownload|"
+msgid "Handling redirect"
+msgstr "Preparando redirecionamento"
+
+msgctxt "YoutubeDownload|"
+msgid "AudioStream: %1"
+msgstr "AudioStream: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "VideoStream: %1"
+msgstr "VideoStream: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Downloading page"
+msgstr "Baixando página"
+
+msgctxt "YoutubeDownload|"
+msgid "Page is downloaded"
+msgstr "Página baixada"
+
+msgctxt "YoutubeDownload|"
+msgid "Launching parser"
+msgstr "Iniciando analisador"
+
+msgctxt "YoutubeDownload|"
+msgid "Page is parsed"
+msgstr "Página analisada"
+
+msgctxt "YoutubeDownload|"
+msgid "Can't find video for this quality"
+msgstr "Não é possível encontrar um vídeo para essa qualidade"
+
+msgctxt "YoutubeDownload|"
+msgid "Parsing failure: %1"
+msgstr "Falha ao analisar: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Download complete"
+msgstr "Download concluído"
+
+msgctxt "YoutubeDownload|"
+msgid "Moving declined: %1"
+msgstr "Deslocação rejeitada: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Moved successfully"
+msgstr "Movido com sucesso"
+
+msgctxt "YoutubeDownload|"
+msgid ", average speed: %1"
+msgstr ", velocidade média: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "File is renamed to %1"
+msgstr "O arquivo foi renomeado para %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Moving failed: %1"
+msgstr "Erro ao mover: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Moving cancelled."
+msgstr "Operação de deslocamento cancelada."
