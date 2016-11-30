@@ -18,10 +18,10 @@ msgid "Download video with FDM"
 msgstr "使用FDM下载视频"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
-msgstr ""
+msgstr "错误：0x%x。传送下载项到FDM失败。"
 
 msgid "No flash video found. Try reloading this page."
-msgstr ""
+msgstr "未找到Flash视频。尝试重新载入此页面。"
 
 #~ msgid "Download by FDM"
 #~ msgstr "通过FDM下载"
@@ -69,119 +69,119 @@ msgstr "高"
 
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
-msgstr ""
+msgstr "HTTP错误%1：%2"
 
 msgctxt "HttpError|"
 msgid "Error %1"
-msgstr ""
+msgstr "错误%1"
 
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "未知错误"
 
 msgctxt "HttpError|"
 msgid "Remote host name not found"
-msgstr ""
+msgstr "未找到远程服务器"
 
 msgctxt "HttpError|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "已取消操作"
 
 msgctxt "HttpError|"
 msgid "Remote server closed connection"
-msgstr ""
+msgstr "远程服务器已关闭连接"
 
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr ""
+msgstr "连接超时"
 
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr ""
+msgstr "SSL/TLS握手失败"
 
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr ""
+msgstr "拒绝连接"
 
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
-msgstr ""
+msgstr "未知网络相关错误"
 
 msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
-msgstr ""
+msgstr "请求的操作未被允许"
 
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "坏请求"
 
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "未认证"
 
 msgctxt "HttpError|"
 msgid "Payment Required"
-msgstr ""
+msgstr "需要付费"
 
 msgctxt "HttpError|"
 msgid "Forbidden"
-msgstr ""
+msgstr "禁止"
 
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr ""
+msgstr "未找到"
 
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "不允许此方法"
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
-msgstr ""
+msgstr "不可接受"
 
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "需要代理认证"
 
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "请求超时"
 
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr ""
+msgstr "冲突"
 
 msgctxt "HttpError|"
 msgid "Gone"
-msgstr ""
+msgstr "完成"
 
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr ""
+msgstr "需要长度"
 
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "预处理失败"
 
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "请求体过长"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr ""
+msgstr "请求URI过长"
 
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr ""
+msgstr "不支持的媒体类型"
 
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr ""
+msgstr "无法满足请求的区域"
 
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "期望失败"
 
 msgctxt "HttpError|"
 msgid "I'm a teapot"
@@ -189,143 +189,143 @@ msgstr ""
 
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "认证超时"
 
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr ""
+msgstr "方法失败/增强您的镇静度"
 
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr ""
+msgstr "无法处理的实体"
 
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr ""
+msgstr "已锁定"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr ""
+msgstr "依赖/方法失败"
 
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "无序集合"
 
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "需要升级"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
-msgstr ""
+msgstr "需要预处理"
 
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr ""
+msgstr "请求过多"
 
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr ""
+msgstr "请求头过大"
 
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "登录超时"
 
 msgctxt "HttpError|"
 msgid "No Response"
-msgstr ""
+msgstr "未响应"
 
 msgctxt "HttpError|"
 msgid "Retry With"
-msgstr ""
+msgstr "重试使用"
 
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "被Windows家长控制阻止"
 
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
-msgstr ""
+msgstr "因法律原因不可访问"
 
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr ""
+msgstr "请求头过大"
 
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "证书错误"
 
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr ""
+msgstr "没有证书"
 
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
-msgstr ""
+msgstr "HTTP到HTTPS"
 
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr ""
+msgstr "令牌过期/不合法"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
-msgstr ""
+msgstr "客户端关闭了连接"
 
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "服务器内部错误"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr ""
+msgstr "未完成"
 
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "坏网关"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
-msgstr ""
+msgstr "无法访问服务"
 
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "网关超时"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "不支持HTTP协议版本"
 
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr ""
+msgstr "仍在处置变量"
 
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "存储空间不足"
 
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "检测到循环"
 
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "已达到带宽上限"
 
 msgctxt "HttpError|"
 msgid "Not Extended"
-msgstr ""
+msgstr "未扩展"
 
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "网络认证错误"
 
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "网络读取超时错误"
 
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr ""
+msgstr "网络连接超时错误"
 
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
@@ -413,7 +413,7 @@ msgstr "#%1由于错误%2而失败"
 
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
-msgstr ""
+msgstr "移动文件失败"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
@@ -421,15 +421,15 @@ msgstr "正在打开磁盘上的文件"
 
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "下载速度不受限"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
-msgstr ""
+msgstr "当URL改变时重启下载失败"
 
 msgctxt "HttpFileDownload|"
 msgid "File \"%1\" exists. Saving as %2"
-msgstr ""
+msgstr "文件\"%1\"已存在。保存为%2"
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
@@ -665,19 +665,19 @@ msgstr "内部下载发生了一些错误"
 
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr ""
+msgstr "已选择的文件路径无效"
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
-msgstr ""
+msgstr "选择的文件名过长"
 
 msgctxt "QObject|"
 msgid "Selected filename is not valid."
-msgstr ""
+msgstr "选择的文件名无效"
 
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
-msgstr ""
+msgstr "无法访问特定文件夹"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -914,7 +914,7 @@ msgstr "MB/s"
 
 msgctxt "RPCLocalization|"
 msgid "%1 B/s"
-msgstr ""
+msgstr "%1 B/s"
 
 msgctxt "RPCLocalization|"
 msgid "%1 KB/s"
@@ -926,7 +926,7 @@ msgstr "%1 MB/s"
 
 msgctxt "RPCLocalization|"
 msgid "%1 GB/s"
-msgstr ""
+msgstr "%1 GB/s"
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
@@ -1097,11 +1097,11 @@ msgstr "检查文件中…"
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
-msgstr ""
+msgstr "想要加载其tracker？"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
-msgstr ""
+msgstr "下载中，分配磁盘空间中…"
 
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
@@ -1368,163 +1368,163 @@ msgstr "自动安装更新"
 
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on download URL"
-msgstr ""
+msgstr "基于下载URL建议文件夹"
 
 msgctxt "RPCLocalization|"
 msgid "Start downloading without confirmation"
-msgstr ""
+msgstr "无需确认就启动下载"
 
 msgctxt "RPCLocalization|"
 msgid "Use only HTTP ports to catch downloads in Edge"
-msgstr ""
+msgstr "在Edge中仅捕获来自HTTP端口的链接"
 
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
-msgstr ""
+msgstr "Safari：启用FDM"
 
 msgctxt "RPCLocalization|"
 msgid "for context menu"
-msgstr ""
+msgstr "未上下文菜单"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
-msgstr ""
+msgstr "自动从浏览器捕获下载项"
 
 msgctxt "RPCLocalization|"
 msgid "Verify if"
-msgstr ""
+msgstr "检查："
 
 msgctxt "RPCLocalization|"
 msgid "is enabled"
-msgstr ""
+msgstr "已启用"
 
 msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
-msgstr ""
+msgstr "当取消通过FDM下载时用浏览器下载"
 
 msgctxt "RPCLocalization|"
 msgid "Use proxy for P2P connections"
-msgstr ""
+msgstr "为P2P连接启用代理"
 
 msgctxt "RPCLocalization|"
 msgid "Start and pause downloads at specified time"
-msgstr ""
+msgstr "在特定时间开始或暂停下载"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
-msgstr ""
+msgstr "由于有计划的下载项，计算机将不会进入睡眠"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there're scheduled downloads"
-msgstr ""
+msgstr "在有计划的下载项时阻止计算机睡眠"
 
 msgctxt "RPCLocalization|"
 msgid "%1 B"
-msgstr ""
+msgstr "%1B"
 
 msgctxt "RPCLocalization|"
 msgid "%1 KB"
-msgstr ""
+msgstr "%1KB"
 
 msgctxt "RPCLocalization|"
 msgid "%1 MB"
-msgstr ""
+msgstr "%1MB"
 
 msgctxt "RPCLocalization|"
 msgid "%1 GB"
-msgstr ""
+msgstr "%1GB"
 
 msgctxt "RPCLocalization|"
 msgid "%1 TB"
-msgstr ""
+msgstr "%1TB"
 
 msgctxt "RPCLocalization|"
 msgid "Restore"
-msgstr ""
+msgstr "恢复"
 
 msgctxt "RPCLocalization|"
 msgid "Using Alt key"
-msgstr ""
+msgstr "使用Alt键"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
-msgstr ""
+msgstr "不在按下Alt时捕获链接"
 
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
-msgstr ""
+msgstr "仅在按下Alt时捕获链接"
 
 msgctxt "RPCLocalization|"
 msgid "Skip domains:"
-msgstr ""
+msgstr "跳过域名："
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is a scheduled download"
-msgstr ""
+msgstr "在有计划的下载项时阻止计算机睡眠"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is an active download"
-msgstr ""
+msgstr "在有活动的下载项时阻止计算机睡眠"
 
 msgctxt "RPCLocalization|"
 msgid "Remove only from download list"
-msgstr ""
+msgstr "仅从下载列表移除"
 
 msgctxt "RPCLocalization|"
 msgid "Go back to default settings"
-msgstr ""
+msgstr "返回默认设置"
 
 msgctxt "RPCLocalization|"
 msgid "Hold"
-msgstr ""
+msgstr "按下"
 
 msgctxt "RPCLocalization|"
 msgid "Alt key"
-msgstr ""
+msgstr "Alt键"
 
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
-msgstr ""
+msgstr "按下Alt，点击链接以使用浏览器下载"
 
 msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
-msgstr ""
+msgstr "需要磁盘空间"
 
 msgctxt "RPCLocalization|"
 msgid "Hide bottom panel"
-msgstr ""
+msgstr "隐藏底部面板"
 
 msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
-msgstr ""
+msgstr "显示底部面板"
 
 msgctxt "RPCLocalization|"
 msgid "disk %1"
-msgstr ""
+msgstr "磁盘%1"
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
-msgstr ""
+msgstr "使用已存在的名称做标签"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
-msgstr ""
+msgstr "做种时启用睡眠模式"
 
 msgctxt "RPCLocalization|"
 msgid "on"
-msgstr ""
+msgstr "在"
 
 msgctxt "RPCLocalization|"
 msgid "and"
-msgstr ""
+msgstr "和"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from the download list"
-msgstr ""
+msgstr "自动移除下载列表中被删除的文件"
 
 msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
-msgstr ""
+msgstr "一些文件已损坏"
 
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Send anonymous statistics"
@@ -1700,7 +1700,7 @@ msgstr "上传速度"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of simultaneous downloads"
-msgstr ""
+msgstr "最大独立下载数"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of connections"
@@ -2056,11 +2056,11 @@ msgstr "计划任务"
 
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Start and pause downloads at the specified time"
-#~ msgstr "在制定时间开始或暂停下载"
+#~ msgstr "在指定时间开始或暂停下载"
 
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
-msgstr ""
+msgstr "启用计划"
 
 msgctxt "RPCLocalization|"
 msgid "Sun"
@@ -2120,7 +2120,7 @@ msgstr "提示"
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
-msgstr "调度器"
+msgstr "计划任务"
 
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Don't put your computer to sleep if there're scheduled downloads."
@@ -2188,15 +2188,15 @@ msgstr "%2的%1"
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
-msgstr ""
+msgstr "默认下载文件夹"
 
 msgctxt "RPCSystem|"
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 msgctxt "RPCSystem|"
 msgid "Download to"
-msgstr ""
+msgstr "下载到"
 
 #, fuzzy
 msgctxt "RPCSystem|"
@@ -2205,11 +2205,11 @@ msgstr "好"
 
 msgctxt "RPCSystem|"
 msgid "Open torrent file"
-msgstr ""
+msgstr "打开种子文件"
 
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr ""
+msgstr "种子文件"
 
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
@@ -2253,27 +2253,27 @@ msgstr "不限制"
 
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "下载速度不受限"
 
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr ""
+msgstr "上传速度不受限"
 
 msgctxt "TorrentDownload|"
 msgid "Can't move files recursively"
-msgstr ""
+msgstr "无法递归移动文件"
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
-msgstr ""
+msgstr "文件已定位到新路径"
 
 msgctxt "TorrentDownload|"
 msgid "File moving failed"
-msgstr ""
+msgstr "移动文件失败"
 
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
-msgstr ""
+msgstr "移动文件失败，原因：%1"
 
 #~ msgctxt "TorrentDownload|"
 #~ msgid "Download speed isn't limited"
@@ -2649,19 +2649,19 @@ msgstr "页面已分析"
 
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
-msgstr ""
+msgstr "无法找到此质量的视频"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
-msgstr ""
+msgstr "拒绝移动，原因：%1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
-msgstr ""
+msgstr "移动失败，原因：%1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
-msgstr ""
+msgstr "已取消移动。"
 
 #~ msgctxt "YoutubeDownload|"
 #~ msgid "Can't find URLs for this quality"
