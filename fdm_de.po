@@ -55,10 +55,12 @@ msgctxt "DownloadInfo|"
 msgid "High"
 msgstr "Hoch "
 
+#, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr ""
 
+#, qt-format
 msgctxt "HttpError|"
 msgid "Error %1"
 msgstr ""
@@ -315,6 +317,7 @@ msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr ""
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
 msgstr "Maximale Verbindungsanzahl ist %1"
@@ -328,9 +331,11 @@ msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
 msgstr "Download-Geschwindigkeit ist uneingeschränkt"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr "Download-Geschwindigkeit ist auf %1/s beschränkt"
+
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
@@ -352,10 +357,12 @@ msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
 msgstr "Verbindung fehlgeschlagen, da der URL geändert wurde. "
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
 msgstr "Datei wird zu %1 übertragen."
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File \"%1\" exists. Saving as %2"
 msgstr "Der Name \"%1\" ist bereits vergeben. Name wird auf %2 geändert."
@@ -369,14 +376,17 @@ msgid "Failed to clear contents of original file."
 msgstr ""
 "Der Versuch, den Inhalt der Originaldatei zu entfernen, ist fehlgeschlagen. "
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File is renamed to %1"
 msgstr "Dateiname wurde auf %1 geändert. "
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr "Verbindung #%1 wird geöffnet. "
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
 msgstr "#%1 geschlossen"
@@ -402,6 +412,10 @@ msgid "Preallocating disk space for download"
 msgstr "Speicherplatz für den Download wird zugewiesen"
 
 msgctxt "HttpFileDownload|"
+msgid "Unexpected error"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
 msgstr "Datei auf dem fernen Server wurde geändert"
 
@@ -409,26 +423,32 @@ msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
 msgstr "Das Schreiben der empfangenen Daten in die Datei fehlgeschlagen."
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
 msgstr "#%1 empfängt Daten"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "downloaded %1"
 msgstr " %1 heruntergeladen"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "(%1/s)"
 msgstr "(%1/s)"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
 msgstr "Leite zu %1 um"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1: server ignored partial content request"
 msgstr "#%1: Server ignorierte die Anfragen nach einem Teil der Inhalte "
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 failed with error: %2"
 msgstr "#%1 fehlgeschlagen, Fehlermeldung: %2"
@@ -441,14 +461,17 @@ msgctxt "HttpFileDownload|"
 msgid "File moving failed"
 msgstr "Dateitransfer fehlgeschlagen"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
 msgstr "Platzzuweisung fehlgeschlagen: %1"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "%1 finished successfully"
 msgstr "%1 erfolgreich abgeschlossen"
 
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
 msgstr ", Durschnittsgeschwindigkeit: %1"
@@ -489,6 +512,7 @@ msgctxt "MacMainMenu|"
 msgid "Remove from List"
 msgstr "Von der Liste entfernen"
 
+#, qt-format
 msgctxt "MacMainMenu|"
 msgid "About %1"
 msgstr "Ungefähr %1"
@@ -628,7 +652,6 @@ msgstr ""
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
 msgstr ""
-
 # [ RPCLocalization| ] should be ignored. Translate the text from the 'Source text' field that corresponds the line. This is true for all lines with the marking.
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -690,6 +713,7 @@ msgctxt "RPCLocalization|"
 msgid "Show details"
 msgstr "Details anzeigen"
 
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
@@ -857,30 +881,28 @@ msgstr "Widerrufen"
 msgctxt "RPCLocalization|"
 msgid "Apply"
 msgstr "Anwenden"
-
-msgctxt "RPCLocalization|"
-msgid "KB/s"
-msgstr "Kb/Sek"
-
-msgctxt "RPCLocalization|"
-msgid "MB/s"
-msgstr "Mb/Sek"
-
-msgctxt "RPCLocalization|"
-msgid "%1 B/s"
-msgstr "%1 B/Sek"
-
-msgctxt "RPCLocalization|"
-msgid "%1 KB/s"
-msgstr "%1 Kb/Sek"
-
-msgctxt "RPCLocalization|"
-msgid "%1 MB/s"
-msgstr "%1 Mb/Sek"
-
-msgctxt "RPCLocalization|"
-msgid "%1 GB/s"
-msgstr "%1 GB/Sek"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "KB/s"
+#~ msgstr "Kb/Sek"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "MB/s"
+#~ msgstr "Mb/Sek"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 B/s"
+#~ msgstr "%1 B/Sek"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 KB/s"
+#~ msgstr "%1 Kb/Sek"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 MB/s"
+#~ msgstr "%1 Mb/Sek"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 GB/s"
+#~ msgstr "%1 GB/Sek"
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
@@ -1030,6 +1052,7 @@ msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
 msgstr "Wird heruntergeladen, Speicherplatz wird zugewiesen"
 
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
@@ -1152,12 +1175,14 @@ msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
 msgstr "Seid ihr euch sicher, dass es nicht zu lang ist? "
 
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
 msgstr[0] "Nur %n Aufnahme? FDM kann wesentlich mehr aufbewahren!"
 msgstr[1] "Nur %n Aufnahmen? FDM kann wesentlich mehr aufbewahren!"
 
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
@@ -1316,6 +1341,41 @@ msgid "Some files corrupted"
 msgstr ""
 
 msgctxt "RPCLocalization|"
+msgid "Save"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Share with friends"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Paste urls from clipboard"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Change download URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Saved as:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Invalid URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start download"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Seeding"
+msgstr ""
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Safari: enable FDM extension for context menu"
+#~ msgstr "FDM erscheint im Safari-Kontextmenü wenn"
+
+msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
 msgstr "Browser-Downloads automatisch aufnehmen"
 
@@ -1454,6 +1514,7 @@ msgctxt "RPCLocalization|"
 msgid "Close"
 msgstr "Schließen "
 
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 left"
 msgstr "%1 verbleibend"
@@ -1474,29 +1535,30 @@ msgctxt "RPCLocalization|tags panel"
 msgid "Completed"
 msgstr "Abgeschlossen"
 
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 of %2"
 msgstr "%1 von %2"
-
-msgctxt "RPCLocalization|"
-msgid "%1 B"
-msgstr "%1 B"
-
-msgctxt "RPCLocalization|"
-msgid "%1 KB"
-msgstr "%1 KB"
-
-msgctxt "RPCLocalization|"
-msgid "%1 MB"
-msgstr "%1 MB"
-
-msgctxt "RPCLocalization|"
-msgid "%1 GB"
-msgstr "%1 GB"
-
-msgctxt "RPCLocalization|"
-msgid "%1 TB"
-msgstr "%1 TB"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 B"
+#~ msgstr "%1 B"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 KB"
+#~ msgstr "%1 KB"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 MB"
+#~ msgstr "%1 MB"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 GB"
+#~ msgstr "%1 GB"
+#, qt-format
+#~ msgctxt "RPCLocalization|"
+#~ msgid "%1 TB"
+#~ msgstr "%1 TB"
 
 msgctxt "RPCLocalization|"
 msgid "Restore"
@@ -1561,6 +1623,7 @@ msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
 msgstr "Untere Taskleiste anzeigen"
 
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "disk %1"
 msgstr "Festplatte %1"
@@ -1642,6 +1705,9 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "extension"
 msgstr "Erweiterung"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "is installed and enabled."
+#~ msgstr "ist installiert und aktiviert."
 
 msgctxt "RPCLocalization|"
 msgid "Edge"
@@ -2007,47 +2073,100 @@ msgctxt "RPCLocalization|"
 msgid "New version is available"
 msgstr "Neue Version ist verfügbar"
 
-#, fuzzy
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ns"
 msgid_plural "%ns"
 msgstr[0] "%nSek"
 msgstr[1] "%nSek"
 
-#, fuzzy
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nm"
 msgid_plural "%nm"
 msgstr[0] "%nMin"
 msgstr[1] "%nMin"
 
-#, fuzzy
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nh"
 msgid_plural "%nh"
 msgstr[0] "%nStd"
 msgstr[1] "%nStd"
 
-#, fuzzy
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nd"
 msgid_plural "%nd"
 msgstr[0] "%nd"
 msgstr[1] "%nd"
 
-#, fuzzy
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nw"
 msgid_plural "%nw"
 msgstr[0] "%nWo"
 msgstr[1] "%nWo"
 
-#, fuzzy
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ny"
 msgid_plural "%ny"
 msgstr[0] "%na"
 msgstr[1] "%na"
+#~ msgctxt "RPCLocalization|"
+#~ msgid ""
+#~ "Free Download Manager has automatically intercepted the URL that another "
+#~ "Internet Application used to download a file. Thanks to the flexible "
+#~ "settings FDM offers, you can easily adjust the option in the Settings "
+#~ "window:"
+#~ msgstr ""
+#~ "Free Download Manager hat den URL, den eine andere Internetanwendung zum "
+#~ "Herunterladen einer Datei benutzt hat, aufgefangen. Dank seinen flexiblen "
+#~ "Einstellungen könnt ihr diese Option anpassen:"
+#~ msgctxt "RPCLocalization|"
+#~ msgid ""
+#~ "Working with browsers, you can configure FDM so that it doesn't monitor "
+#~ "left-click actions."
+#~ msgstr ""
+#~ "Während ihr mit Browsern arbeitet, kann FDM so eingestellt werden, dass "
+#~ "es nicht auf Links-Klick-Operationen reagiert. "
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Don't show this tip again"
+#~ msgstr "Diesen Hinweis nicht mehr angeigen"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Do you want to load its trackers?"
+#~ msgstr "Möchtet ihr seine Tracker laden? "
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Send anonymous statistics"
+#~ msgstr "Statistiken anonym verschicken "
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Catch links without confirmation"
+#~ msgstr "Links ohne Bestätigung annehmen"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "FDM appears in Safari's context menu if"
+#~ msgstr "FDM erscheint im Safari-Kontextmenü"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Automatically catch links from browsers"
+#~ msgstr "Browser-Links automatisch annehmen"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "ALT must be pressed"
+#~ msgstr "ALT muss gedrückt werden"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Allow the browser to download if you press Cancel"
+#~ msgstr "Browser-Download ermöglichen wenn ihr Cancel drückt"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Use proxy for peer-to-peer connections"
+#~ msgstr "Proxy für Peer-to-per-Verbindungen benutzen "
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Maximum number of running downloads"
+#~ msgstr "Maximale Anzahl aktiver Downloads"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Restore settings to their original defaults"
+#~ msgstr "Standardeinstellungen wiederherstellen"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "All settings will be restored to their original defaults"
+#~ msgstr "Alle Einstellungen werden auf Standard zurückgesetzt"
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
@@ -2102,10 +2221,12 @@ msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
 msgstr "Unbekannter Fehler"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Error occurred: %1"
 msgstr "Fehler: %1"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Maximum number of connections is %1"
 msgstr "Maximale Verbindungsanzahl ist %1"
@@ -2119,6 +2240,7 @@ msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
 msgstr "Download-Geschwindigkeit ist uneingeschränkt"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr "Download-Geschwindigkeit ist auf %1/s eingeschränkt"
@@ -2127,17 +2249,16 @@ msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
 msgstr "Upload-Geschwindigkeit ist uneingeschränkt"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Upload-Geschwindigkeit ist auf %1/s eingeschränkt"
-
-msgctxt "TorrentDownload|"
-msgid "Pausing download"
-msgstr "Download wird angehlaten"
-
-msgctxt "TorrentDownload|"
-msgid "Download paused"
-msgstr "Download wurde angehalten "
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Pausing download"
+#~ msgstr "Download wird angehlaten"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Download paused"
+#~ msgstr "Download wurde angehalten "
 
 msgctxt "TorrentDownload|"
 msgid "Files are missing"
@@ -2171,10 +2292,12 @@ msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
 msgstr "Zielordner wird geändert"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
 msgstr "Dateien werden zu %1 verschoben"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
 msgstr "Datei wird zu %1 verschoben"
@@ -2211,10 +2334,12 @@ msgctxt "TorrentDownload|"
 msgid "File moving failed"
 msgstr "Verschieben von Datei ist fehlgeschlagen"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving declined: %1"
 msgstr "Verschieben von Dateien wurde zurückgewiesen: %1"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
 msgstr "Verschieben der Datei wurde zurückgewiesen: %1"
@@ -2223,14 +2348,17 @@ msgctxt "TorrentDownload|"
 msgid "Moved successfully"
 msgstr "Erfolgreich verschoben"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid ", average speed: %1"
 msgstr ", Durchschnittsgeschwindigkeit: %1"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
 msgstr "Verschieben von Dateien ist fehlgeschlagen: %1"
 
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
 msgstr "Verschieben der Datei ist fehlgeschlagen: %1"
@@ -2270,10 +2398,12 @@ msgctxt "TrayMenu|"
 msgid "Quit"
 msgstr "Beenden"
 
+#, qt-format
 msgctxt "UIHelper|"
 msgid "About %1"
 msgstr "Über %1"
 
+#, qt-format
 msgctxt "UIHelper|"
 msgid "Version %1 (%2)"
 msgstr "Version %1 (%2)"
@@ -2381,6 +2511,10 @@ msgid "Schedule"
 msgstr "Terminieren"
 
 msgctxt "UIHelper|"
+msgid "Change URL"
+msgstr ""
+
+msgctxt "UIHelper|"
 msgid "High priority"
 msgstr "Hohe Priorität"
 
@@ -2416,6 +2550,7 @@ msgctxt "UIHelper|"
 msgid "Save log to file"
 msgstr "Log in Datei speichern"
 
+#, qt-format
 msgctxt "UIHelper|"
 msgid "FDM Log [%1].txt"
 msgstr "FDM Log  [%1].txt"
@@ -2428,13 +2563,16 @@ msgctxt "UIHelper|"
 msgid "Text files"
 msgstr "Textdateien"
 
+#, qt-format
 msgctxt "UIHelper|"
 msgid "%1 K"
 msgstr "%1 K"
 
+#, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
+
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
@@ -2448,6 +2586,7 @@ msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
 msgstr "Dateien wurden erfolgreich verschoben"
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
 msgstr "Verschiebe zu %1"
@@ -2469,10 +2608,12 @@ msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
 msgstr "Umleiten wird ausgeführt "
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "AudioStream: %1"
 msgstr "AudioStream: %1"
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
 msgstr "VideoStream: %1"
@@ -2497,6 +2638,7 @@ msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
 msgstr "Für diese Qualität kann kein Video gefunden werden"
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
 msgstr "Parsingfehler: %1"
@@ -2505,6 +2647,7 @@ msgctxt "YoutubeDownload|"
 msgid "Download complete"
 msgstr "Download abgeschlossen"
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
 msgstr "Verschieben wurde abgewiesen: %1"
@@ -2513,14 +2656,17 @@ msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
 msgstr "Verschieben erfolgreich"
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid ", average speed: %1"
 msgstr ", Durchschnittsgeschwindigkeit: %1"
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
 msgstr "Datei wurde zu %1 umbenannt"
 
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
 msgstr "Verschieben fehlgeschlagen: %1"
