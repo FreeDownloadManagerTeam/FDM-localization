@@ -25,4 +25,4 @@ Some tips
 
 Many thanks for your help! It's highly appreciated.
 
-If there are any issues, please [contact us](http://www.freedownloadmanager.org/support.htm) and send the output file via [support@freedownloadmanager.org](mailto:leichixian@outlook.com)
+If there are any issues, please [contact us](http://www.freedownloadmanager.org/support.htm) and send the output file via [support@freedownloadmanager.org](mailto:support@freedownloadmanager.org)
