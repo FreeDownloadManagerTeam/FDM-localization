@@ -381,6 +381,11 @@ msgstr "ファイルは、%1に変更されました"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr "接続された回線数 #%1"
 
@@ -388,6 +393,10 @@ msgstr "接続された回線数 #%1"
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
 msgstr "#%1 が閉じられれている"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
@@ -416,6 +425,11 @@ msgstr ""
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
 msgstr "ファイルがリモートサーバー上で変更しました"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -1947,6 +1961,14 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "Seeding"
 msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr ""
 #, qt-format
 #~ msgctxt "RPCLocalization|"
 #~ msgid "%1 B"
@@ -2050,7 +2072,7 @@ msgid "and"
 msgstr "and"
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr "自動的にダウンロードリストから削除されたファイルを削除します"
 
 msgctxt "RPCLocalization|"

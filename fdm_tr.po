@@ -377,6 +377,11 @@ msgstr "Dosya %1 olarak yeniden adlandırıldı"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr "#%1 bağlantı açılıyor"
 
@@ -384,6 +389,10 @@ msgstr "#%1 bağlantı açılıyor"
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
 msgstr "#%1 kapandı"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
@@ -412,6 +421,11 @@ msgstr ""
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
 msgstr "Dosya uzak sunucuda değişti"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -1940,6 +1954,14 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "Seeding"
 msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr ""
 #, qt-format
 #~ msgctxt "RPCLocalization|"
 #~ msgid "%1 B"
@@ -2044,7 +2066,7 @@ msgid "and"
 msgstr "ve"
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr "İndirme listesinden otomatik olarak silinmiş dosyaları kaldır"
 
 msgctxt "RPCLocalization|"

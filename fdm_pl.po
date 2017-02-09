@@ -377,6 +377,11 @@ msgstr ""
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr ""
 
@@ -386,7 +391,16 @@ msgid "#%1 closed"
 msgstr ""
 
 msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
 msgstr ""
 
 #, qt-format
@@ -1345,7 +1359,7 @@ msgid "and"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -1378,6 +1392,14 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Seeding"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
 msgstr ""
 
 msgctxt "RPCLocalization|"

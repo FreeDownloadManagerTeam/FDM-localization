@@ -383,6 +383,11 @@ msgstr "Dateiname wurde auf %1 geändert. "
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr "Verbindung #%1 wird geöffnet. "
 
@@ -390,6 +395,10 @@ msgstr "Verbindung #%1 wird geöffnet. "
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
 msgstr "#%1 geschlossen"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
@@ -418,6 +427,11 @@ msgstr ""
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
 msgstr "Datei auf dem fernen Server wurde geändert"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -1371,6 +1385,14 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "Seeding"
 msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr ""
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Safari: enable FDM extension for context menu"
 #~ msgstr "FDM erscheint im Safari-Kontextmenü wenn"
@@ -1645,7 +1667,7 @@ msgid "and"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr ""
 
 msgctxt "RPCLocalization|"

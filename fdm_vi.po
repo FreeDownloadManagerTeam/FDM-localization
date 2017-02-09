@@ -2039,7 +2039,7 @@ msgid "and"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr ""
 
 msgctxt "RPCLocalization|"

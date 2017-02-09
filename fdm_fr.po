@@ -382,6 +382,11 @@ msgstr "Fichier renommé à %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr "Ouverture de connexion #%1"
 
@@ -389,6 +394,10 @@ msgstr "Ouverture de connexion #%1"
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
 msgstr "#%1 fermé"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
@@ -417,6 +426,11 @@ msgstr ""
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
 msgstr "Fichier changé sur serveur distant"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -1371,6 +1385,14 @@ msgid "Seeding"
 msgstr ""
 
 msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
 msgstr "Capture automatiquement les téléchargements des navigateurs"
 
@@ -1643,7 +1665,7 @@ msgid "and"
 msgstr "et"
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr ""
 "Enlever automatiquement les fichiers supprimés de la liste des "
 "téléchargements"

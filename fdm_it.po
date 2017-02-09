@@ -377,6 +377,11 @@ msgstr "Il file viene rinominato in %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr "Apertura del collegamento in corso #%1"
 
@@ -386,7 +391,16 @@ msgid "#%1 closed"
 msgstr "#%1 chiuso"
 
 msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
 msgstr ""
 
 #, qt-format
@@ -1385,7 +1399,7 @@ msgid "and"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -1516,9 +1530,10 @@ msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
 msgstr "Cattura link automaticamente dai browser."
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Edge"
-msgstr "Bordo"
+msgstr "Edge"
 
 msgctxt "RPCLocalization|"
 msgid "Internet Explorer"
@@ -2025,6 +2040,14 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Seeding"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
 msgstr ""
 
 msgctxt "RPCLocalization|"

@@ -399,6 +399,11 @@ msgstr "Datoteko smo preimenovali v %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr "Odpiranje povezave št. %1"
 
@@ -406,6 +411,10 @@ msgstr "Odpiranje povezave št. %1"
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
 msgstr "Št. %1 smo zaprli"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
@@ -434,6 +443,11 @@ msgstr ""
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
 msgstr "Datoteka na oddaljenem strežniku je bila spremenjena"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -1426,7 +1440,7 @@ msgid "and"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from the download list"
+msgid "Automatically remove deleted files from download list"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -1463,6 +1477,14 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Seeding"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
 msgstr ""
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Send anonymous statistics"
