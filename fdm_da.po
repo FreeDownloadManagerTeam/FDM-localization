@@ -8,20 +8,62 @@ msgstr ""
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 
+#, fuzzy
 msgid "Download with FDM"
-msgstr ""
+msgstr "Dataoverføre hos FDM"
 
+#, fuzzy
 msgid "Download selected with FDM"
-msgstr ""
+msgstr "Download valgte med FDM"
 
+#, fuzzy
 msgid "Download video with FDM"
-msgstr ""
+msgstr "Download video med FDM"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
 msgstr ""
 
 msgid "No flash video found. Try reloading this page."
 msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr ""
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr ""
+
+#, fuzzy
+msgctxt "Download|"
+msgid "Queued"
+msgstr "I kø"
 
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
@@ -32,9 +74,10 @@ msgctxt "DownloadFileInfo|"
 msgid "Low"
 msgstr "Lav"
 
+#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #, fuzzy
 msgctxt "DownloadFileInfo|"
@@ -46,36 +89,44 @@ msgctxt "DownloadInfo|"
 msgid "Low"
 msgstr "Lav"
 
+#, fuzzy
 msgctxt "DownloadInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 #, fuzzy
 msgctxt "DownloadInfo|"
 msgid "High"
 msgstr "Høj"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
-msgstr ""
+msgstr "HTTP-Fejl %1: %2"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Fejl %1"
 
 #, qt-format
 msgctxt "HttpError|"
-msgid "Error %1"
+msgid "HTTP Error %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Ukendt fejl"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Remote host name not found"
-msgstr ""
+msgstr "Remote host navn ikke fundet"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "Operation annulleret"
 
 msgctxt "HttpError|"
 msgid "Remote server closed connection"
@@ -85,29 +136,34 @@ msgctxt "HttpError|"
 msgid "Connection timed out"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr ""
+msgstr "SSL/TLS håndtryk mislykkedes"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Tilslutning nægtede"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
-msgstr ""
+msgstr "Ukendt netvÃ¦rksrelaterede fejl registreret"
 
 msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "Bad Request"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "Uautoriseret"
 
 msgctxt "HttpError|"
 msgid "Payment Required"
@@ -117,45 +173,54 @@ msgctxt "HttpError|"
 msgid "Forbidden"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr ""
+msgstr "Ikke Fundet"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "Metoden Ikke Tilladt"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Acceptable"
-msgstr ""
+msgstr "Ikke Acceptabelt"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "Proxy-Godkendelse Kræves"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "Anmodning Timeout"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr ""
+msgstr "Konflikt"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Gone"
-msgstr ""
+msgstr "Gået"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr ""
+msgstr "Længde Påkrævet"
 
 msgctxt "HttpError|"
 msgid "Precondition Failed"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "Anmodningen Enhed For Stor"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
@@ -173,33 +238,39 @@ msgctxt "HttpError|"
 msgid "Expectation Failed"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "Jeg er en tekande"
 
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr ""
+msgstr "Metode Manglende / Forbedre Din Ro"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr ""
+msgstr "Unprocessable Enhed"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr ""
+msgstr "Låst"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr ""
+msgstr "Undladt Afhængighed / Metode Fiasko"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "Uordnet Samling"
 
 msgctxt "HttpError|"
 msgid "Upgrade Required"
@@ -209,17 +280,19 @@ msgctxt "HttpError|"
 msgid "Precondition Required"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr ""
+msgstr "For Mange Anmodninger"
 
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "Log In Timeout"
 
 msgctxt "HttpError|"
 msgid "No Response"
@@ -237,113 +310,131 @@ msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr ""
+msgstr "Anmodning Overskriften For Stor"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "Cert Fejl"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr ""
+msgstr "Ingen Cert"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
-msgstr ""
+msgstr "HTTP til HTTPS"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr ""
+msgstr "Token udløbet/ugyldig"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Intern Server Fejl"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr ""
+msgstr "Ikke Gennemført"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "Bad Gateway"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "Gateway Timeout"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "HTTP-Versionen Understøttes Ikke"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr ""
+msgstr "Variant Også Forhandler"
 
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "Løkke Fundet"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "Båndbredde Grænse Overskredet"
 
 msgctxt "HttpError|"
 msgid "Not Extended"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "Netværk Godkendelse Påkrævet"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "Netværk læse timeout-fejl"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr ""
+msgstr "Netværk connect timeout fejl"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "Maksimalt antal forbindelser er %1"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "unlimited"
 msgstr "ubegrænset"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Downloadhastighed er ubegrænset"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr ""
+msgstr "Downloadhastighed er begrænset til %1/s"
 
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Reconnecting"
-msgstr ""
+msgstr "Gentilslutning"
 
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
@@ -385,73 +476,78 @@ msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr ""
+msgstr "Åbning forbindelse #%1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
-msgstr ""
+msgstr "#%1 lukket"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr ""
+msgstr "Undladt at fuldføre download"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
-msgstr ""
+msgstr "Uventet fejl"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr ""
+msgstr "Kunne ikke genbrug forbindelse #%1, lukning"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "downloaded %1"
-msgstr ""
+msgstr "hentede %1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "(%1/s)"
-msgstr ""
+msgstr "(%1/s)"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1: server ignored partial content request"
-msgstr ""
+msgstr "#%1: server ignoreret delvis indhold anmodning"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 failed with error: %2"
-msgstr ""
+msgstr "#%1 mislykkedes med fejlen: %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Filen mangler"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Download komplet"
 
 msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
-msgstr ""
+msgstr "Preallocating diskplads til download"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
@@ -466,18 +562,19 @@ msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "File moved successfully"
-msgstr ""
+msgstr "Filen flyttet korrekt"
 
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
-msgstr ""
+msgstr "Preallocation mislykkedes: %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -489,87 +586,53 @@ msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Space allocation"
-msgstr ""
+msgstr "Pladsallokering"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Move"
-msgstr ""
+msgstr "Flytte"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocation cancelled"
-msgstr ""
+msgstr "Preallocation aflyst"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating queued"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocating started"
-msgstr ""
+msgstr "Preallocating startede"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "File"
-msgstr ""
+msgstr "Fil"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Add Download from URL..."
-msgstr ""
+msgstr "Tilføje Download fra URL..."
 
 msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
 msgstr ""
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Edit"
-msgstr ""
-#, fuzzy
-#~ msgctxt "MacMainMenu|"
-#~ msgid "Select All"
-#~ msgstr "Væg Alle"
+msgstr "Rediger"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "MacMainMenu|"
 msgid "About %1"
-msgstr ""
-
-msgctxt "MacMainMenu|"
-msgid "Check for Updates..."
-msgstr ""
-
-#, fuzzy
-msgctxt "MacMainMenu|"
-msgid "Downloads"
-msgstr "Downloads"
-
-msgctxt "MacMainMenu|"
-msgid "Start Selected"
-msgstr ""
-
-msgctxt "MacMainMenu|"
-msgid "Pause Selected"
-msgstr ""
-
-msgctxt "MacMainMenu|"
-msgid "Restart Selected"
-msgstr ""
-
-msgctxt "MacMainMenu|"
-msgid "Remove from List"
-msgstr ""
-
-msgctxt "MacMainMenu|"
-msgid "Help"
-msgstr ""
-
-msgctxt "MacMainMenu|"
-msgid "Contact Support"
-msgstr ""
-
-msgctxt "MacMainMenu|"
-msgid "Vote for New Features"
-msgstr ""
+msgstr "Om %1"
 
 #, fuzzy
 msgctxt "MacMainMenu|"
@@ -577,86 +640,145 @@ msgid "Preferences..."
 msgstr "Præferencer..."
 
 #, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Check for Updates..."
+msgstr "Check for Opdateringer..."
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Start Selected"
+msgstr "Start Valgt"
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Pause Selected"
+msgstr "Pause Valgte"
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Restart Selected"
+msgstr "Genstart Valgte"
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Remove from List"
+msgstr "Fjerne fra Listen"
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Downloads"
+msgstr "Downloads"
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Help"
+msgstr "Hjælp"
+
+#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "Contact Support"
+msgstr "Kontakte Support"
+
+msgctxt "MacMainMenu|"
+msgid "Vote for New Features"
+msgstr ""
+
+#, fuzzy
 msgctxt "QObject|"
 msgid "About Free Download Manager"
 msgstr "Om Free Download Manager"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Preferences"
-msgstr ""
+msgstr "Præferencer"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Check for Opdateringer..."
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Window"
-msgstr ""
+msgstr "Vindue"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Minimize"
-msgstr ""
+msgstr "Minimere"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "Indtast Fuld Skærm"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr ""
+msgstr "Bringe Alle til Forsiden"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Kontakte Support"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "File"
-msgstr ""
+msgstr "Fil"
 
 #, fuzzy
 msgctxt "QObject|"
 msgid "Select All"
 msgstr "Væg Alle"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Delete"
-msgstr ""
+msgstr "Slet"
 
 msgctxt "QObject|"
 msgid "Paste"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Copy"
-msgstr ""
+msgstr "Kopi"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Cut"
-msgstr ""
+msgstr "Cut"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Edit"
-msgstr ""
+msgstr "Rediger"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Help"
-msgstr ""
+msgstr "Hjælp"
 
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr ""
+msgstr "Valgte filepath er ikke gyldig."
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
@@ -669,26 +791,67 @@ msgstr ""
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
 msgstr ""
-# [ RPCLocalization| ] should be ignored. Translate the text from the 'Source text' field that corresponds the line. This is true for all lines with the marking.
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr "Bekræfte"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr "Opmærksomhed!"
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr "Din computer vil være hibernated."
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr "Din computer vil blive lukket ned."
+
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr "Filen mangler"
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
+msgstr ""
+
 msgctxt "RPCLocalization|"
 msgid "locale"
 msgstr "lokale"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Drag & Drop"
-msgstr ""
+msgstr "Træk & Slip"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "URL or torrent here"
-msgstr ""
+msgstr "URL eller torrent her"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Add tag"
-msgstr ""
+msgstr "Tilføj tag"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Preferences"
-msgstr ""
+msgstr "Præferencer"
 
 msgctxt "RPCLocalization|"
 msgid "Unlimited"
@@ -761,17 +924,20 @@ msgctxt "RPCLocalization|"
 msgid "Selected size:"
 msgstr "Valgte størrelse:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Size:"
-msgstr ""
+msgstr "Størrelse:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "File size:"
-msgstr ""
+msgstr "Filstørrelse:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Disk space:"
-msgstr ""
+msgstr "Diskplads:"
 
 msgctxt "RPCLocalization|"
 msgid "Total size:"
@@ -886,55 +1052,16 @@ msgid "Snail mode"
 msgstr "Snail tilstand"
 
 msgctxt "RPCLocalization|"
-msgid "Bandwidth limits"
-msgstr "Båndbredde grænser"
-
-msgctxt "RPCLocalization|"
 msgid "Cancel"
 msgstr "Afbryd"
 
 msgctxt "RPCLocalization|"
 msgid "Apply"
 msgstr "Anvend"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "KB/s"
-#~ msgstr "KB/s"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "MB/s"
-#~ msgstr "MB/s"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 KB/s"
-#~ msgstr "%1 KB/s"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 MB/s"
-#~ msgstr "%1 MB/s"
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
 msgstr "Browser integration"
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "Free Download Manager has automatically intercepted the URL that another "
-#~ "Internet Application used to download a file. Thanks to the flexible "
-#~ "settings FDM offers, you can easily adjust the option in the Settings "
-#~ "window:"
-#~ msgstr ""
-#~ "Free Download Manager har automatik opfanget URL'en at en anden Internet "
-#~ "Applikation er brugt til at downloade filen. Takket være de fleksible "
-#~ "indstiller FDM tilbyder, kan du nemt justere indstillingerne i "
-#~ "Indstillinger vinduet:"
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "Working with browsers, you can configure FDM so that it doesn't monitor "
-#~ "left-click actions."
-#~ msgstr ""
-#~ "Ved arbejde med browseres, kan du konfigurere FDM så den ikke optager "
-#~ "venstre-klik aktioner."
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Don't show this tip again"
-#~ msgstr "Vis ikke dette tip igen"
 
 msgctxt "RPCLocalization|"
 msgid "Next"
@@ -1052,9 +1179,10 @@ msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
 msgstr "Forbinder..."
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Reconnecting"
-msgstr ""
+msgstr "Gentilslutning"
 
 msgctxt "RPCLocalization|"
 msgid "Paused"
@@ -1068,9 +1196,10 @@ msgctxt "RPCLocalization|"
 msgid "Downloading"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Error"
-msgstr ""
+msgstr "Fejl"
 
 msgctxt "RPCLocalization|"
 msgid "Checking files..."
@@ -1080,11 +1209,11 @@ msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
-msgstr[0] "Færdig %n / %2 filer"
+msgstr[0] ""
 msgstr[1] ""
 
 msgctxt "RPCLocalization|"
@@ -1115,9 +1244,10 @@ msgctxt "RPCLocalization|"
 msgid "Settings..."
 msgstr "Indstillinger..."
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Settings"
-msgstr ""
+msgstr "Indstillinger"
 
 msgctxt "RPCLocalization|"
 msgid "Contact support"
@@ -1203,18 +1333,18 @@ msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
 msgstr "Er du sikker på at det ikke er for langt?"
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
-msgstr[0] "Kun %n numre? FDM kan gemme så meget mere!"
+msgstr[0] ""
 msgstr[1] ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
-msgstr[0] "%n numre er for mange til at gemme."
+msgstr[0] ""
 msgstr[1] ""
 
 msgctxt "RPCLocalization|"
@@ -1352,21 +1482,89 @@ msgctxt "RPCLocalization|"
 msgid "Install updates automatically"
 msgstr "Installér opdateringer automatisk"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
-msgstr ""
+msgstr "Safari: aktiver FDM"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "for context menu"
-msgstr ""
+msgstr "for kontekstmenu"
 
+msgctxt "RPCLocalization|"
+msgid "Clear history older than"
+msgid_plural "Clear history older than"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "RPCLocalization|"
+msgid "days"
+msgid_plural "days"
+msgstr[0] ""
+msgstr[1] ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%ns"
+msgid_plural "%ns"
+msgstr[0] ""
+msgstr[1] ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nm"
+msgid_plural "%nm"
+msgstr[0] ""
+msgstr[1] ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nh"
+msgid_plural "%nh"
+msgstr[0] ""
+msgstr[1] ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nd"
+msgid_plural "%nd"
+msgstr[0] ""
+msgstr[1] ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nw"
+msgid_plural "%nw"
+msgstr[0] ""
+msgstr[1] ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%ny"
+msgid_plural "%ny"
+msgstr[0] ""
+msgstr[1] ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Compare with"
+msgstr "Sammenligne med"
+
+#, fuzzy
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "Færdig"
+
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start download"
-msgstr ""
+msgstr "Start download"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Seeding"
-msgstr ""
+msgstr "Såning"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
@@ -1377,65 +1575,182 @@ msgid "Set days of the week to enable Scheduler"
 msgstr ""
 
 msgctxt "RPCLocalization|"
+msgid "Enter URL or choose torrent file"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr "Ny fil"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr "Nye filer"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr "Ny video"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr "Nye torrent"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr "Gem til"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr "Filnavn"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr "Opret undermappe"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr "Torrent indhold"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr "Godkendelse kræves:"
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr "Filplacering"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr "Download links"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr "Gendan standardindstillinger?"
+
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr "Fundet ufuldstændig download med samme navn og størrelse."
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr "Ønsker du at starte nyt eller genoptage downloadet?"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr "Start nye"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr "Cv"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr "Hash"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr "Valgte filepath er ikke gyldig."
+
+msgctxt "RPCLocalization|"
 msgid "Hold"
 msgstr ""
 
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Traffic limits"
+msgstr "Trafik grænser"
+
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Alt key"
-msgstr ""
+msgstr "Alt-tast"
 
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
-msgstr ""
+msgstr "Nødvendig diskplads:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hide bottom panel"
-msgstr ""
+msgstr "Skjul nederste panel"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
-msgstr ""
+msgstr "Vis bundpanelet"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "disk %1"
-msgstr ""
+msgstr "disk %1"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
-msgstr ""
+msgstr "Tag med samme navn findes allerede"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "on"
-msgstr ""
+msgstr "på"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "and"
-msgstr ""
+msgstr "og"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
-msgstr ""
+msgstr "Nogle filer beskadiget"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Save"
-msgstr ""
+msgstr "Gem"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Share with friends"
-msgstr ""
+msgstr "Dele med venner"
 
 msgctxt "RPCLocalization|"
 msgid "Paste urls from clipboard"
@@ -1445,16 +1760,15 @@ msgctxt "RPCLocalization|"
 msgid "Change download URL"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Saved as:"
-msgstr ""
+msgstr "Gemt som:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Invalid URL"
-msgstr ""
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Send anonymous statistics"
-#~ msgstr "Send anonyme statistikker"
+msgstr "Ugyldig URL-adresse"
 
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
@@ -1512,13 +1826,15 @@ msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
-msgstr ""
+msgstr "Fangst downloads kun når Alt trykkes"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Skip domains:"
-msgstr ""
+msgstr "Springe domæner:"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is a scheduled download"
@@ -1535,23 +1851,14 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "Go back to default settings"
 msgstr ""
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Catch links without confirmation"
-#~ msgstr "Vælg links uden konfirmation"
 
 msgctxt "RPCLocalization|"
 msgid "Use only HTTP ports to catch downloads in Edge"
 msgstr ""
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Safari: enable FDM extension for context menu"
-#~ msgstr "FDM opstår i Safari's kontekstmenu hvis"
 
 msgctxt "RPCLocalization|"
 msgid "extension"
 msgstr "udvidelse"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "is installed and enabled."
-#~ msgstr "er installeret og aktiveret"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
@@ -1592,12 +1899,6 @@ msgstr "Du kan"
 msgctxt "RPCLocalization|"
 msgid "download Chrome here"
 msgstr "downloade Chrome her"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "ALT must be pressed"
-#~ msgstr "ALT skal være nedtrykket"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Allow the browser to download if you press Cancel"
-#~ msgstr "Tillad browseren at downloade hvis du trykker Afbryd"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads smaller than"
@@ -1635,9 +1936,10 @@ msgctxt "RPCLocalization|"
 msgid "High"
 msgstr "Høj"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "RPCLocalization|"
 msgid "Skip"
@@ -1654,9 +1956,6 @@ msgstr "Upload-hastighed:"
 msgctxt "RPCLocalization|"
 msgid "Maximum number of connections"
 msgstr "Maximalt antal af forbindelser"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Maximum number of running downloads"
-#~ msgstr "Maximalt antal af kørende downloads"
 
 msgctxt "RPCLocalization|"
 msgid "History"
@@ -1665,20 +1964,6 @@ msgstr "Historie"
 msgctxt "RPCLocalization|"
 msgid "Remember all destination folders"
 msgstr "Husk alle destinationsmapper"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Clear history older than"
-msgid_plural "Clear history older than"
-msgstr[0] "Ryd historie ældre end"
-msgstr[1] ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "days"
-msgid_plural "days"
-msgstr[0] "dage"
-msgstr[1] ""
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of history records:"
@@ -1711,9 +1996,6 @@ msgstr "Sletteknap aktion"
 msgctxt "RPCLocalization|"
 msgid "Delete files"
 msgstr "Slet filer"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Restore settings to their original defaults"
-#~ msgstr "Genindstil indstillinger til originale standarder"
 
 msgctxt "RPCLocalization|"
 msgid "DHT"
@@ -1742,9 +2024,6 @@ msgstr "Brug porte i rækkevidde"
 msgctxt "RPCLocalization|"
 msgid "to"
 msgstr "til"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "All settings will be restored to their original defaults"
-#~ msgstr "Alle sætninger vil blive genoprettet til deres originale standarder"
 
 msgctxt "RPCLocalization|"
 msgid "Reset"
@@ -1931,59 +2210,20 @@ msgctxt "RPCLocalization|"
 msgid "FDM is up to date!"
 msgstr "FDM er opdateret!"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New version is available"
-msgstr ""
+msgstr "Ny version er tilgængelig"
 
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "%ns"
-msgid_plural "%ns"
-msgstr[0] "%ns"
-msgstr[1] ""
-
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "%nm"
-msgid_plural "%nm"
-msgstr[0] "%nm"
-msgstr[1] ""
-
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "%nh"
-msgid_plural "%nh"
-msgstr[0] "%nh"
-msgstr[1] ""
-
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "%nd"
-msgid_plural "%nd"
-msgstr[0] "%nd"
-msgstr[1] ""
-
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "%nw"
-msgid_plural "%nw"
-msgstr[0] "%nw"
-msgstr[1] ""
-
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "%ny"
-msgid_plural "%ny"
-msgstr[0] "%ny"
-msgstr[1] ""
-
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Torrent"
-msgstr ""
+msgstr "Torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Options"
@@ -1993,168 +2233,187 @@ msgctxt "RPCLocalization|"
 msgid "Open Scheduler"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Sсheduler"
-msgstr ""
+msgstr "Sсheduler"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start and pause downloads at specified time"
-msgstr ""
+msgstr "Start og pause downloads på det angivne tidspunkt"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
-msgstr ""
+msgstr "Aktivere Scheduler"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Sun"
-msgstr ""
+msgstr "Solen"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Mon"
-msgstr ""
+msgstr "Mon"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Tue"
-msgstr ""
+msgstr "Tue"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Wed"
-msgstr ""
+msgstr "Ons"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Thu"
-msgstr ""
+msgstr "Skrevet tors"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Fri"
-msgstr ""
+msgstr "Fre"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Sat"
-msgstr ""
+msgstr "Lør"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "From:"
-msgstr ""
+msgstr "Fra:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "To:"
-msgstr ""
+msgstr "Til:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Change settings"
-msgstr ""
+msgstr "Ændre indstillinger"
 
 msgctxt "RPCLocalization|"
 msgid "Change preferences"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Tip"
-msgstr ""
+msgstr "Tip"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
-msgstr ""
+msgstr "Scheduler"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there're scheduled downloads"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Restore"
-msgstr ""
+msgstr "Gendanne"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Press"
-msgstr ""
+msgstr "Tryk på"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start downloading without confirmation"
-msgstr ""
+msgstr "Opståen downloadet uden bekræftelse"
 
 msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Maximum number of simultaneous downloads"
-msgstr ""
+msgstr "Maksimum antal i simultan downloader"
 
 msgctxt "RPCLocalization|"
 msgid "to let the browser process the download"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Check file integrity"
-msgstr ""
+msgstr "Check filen integritet"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Calculate"
-msgstr ""
+msgstr "Beregne"
 
 msgctxt "RPCLocalization|"
 msgid "Calculating"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Verification OK"
-msgstr ""
+msgstr "Verifikation OK"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Verification failed"
-msgstr ""
+msgstr "Verifikation mislykkedes"
 
-msgctxt "RPCLocalization|"
-msgid "Compare with:"
-msgstr ""
-
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Close"
-msgstr ""
+msgstr "Luk"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 left"
-msgstr ""
+msgstr "%1 venstre"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Browsers:"
-msgstr ""
+msgstr "Browsere:"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Done"
+msgstr "Gjort"
+
+#, fuzzy, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 of %2"
+msgstr "%1 af %2"
 
 msgctxt "RPCLocalization|Advanced"
 msgid "Options"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Done"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|tags panel"
-msgid "Completed"
-msgstr "Færdig"
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 of %2"
 msgstr ""
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Accept"
-msgstr ""
+msgstr "Acceptere"
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Download to"
-msgstr ""
+msgstr "Download til"
 
 #, fuzzy
 msgctxt "RPCSystem|"
@@ -2165,78 +2424,82 @@ msgctxt "RPCSystem|"
 msgid "Open torrent file"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr ""
+msgstr "Torrent-filer"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
-msgstr ""
+msgstr "Filen prioriteter ændret"
 
 msgctxt "TorrentDownload|"
 msgid "Stopping seeding"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading enabled"
-msgstr ""
+msgstr "Sekventiel downloadet aktiveret"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading disabled"
-msgstr ""
+msgstr "Sekventiel downloadet handicappede"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Trackers merged"
-msgstr ""
+msgstr "Trackers fusioneret"
 
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
-msgstr ""
+msgstr "Ukendt fejl opstod"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Error occurred: %1"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "Maksimalt antal forbindelser er %1"
 
 #, fuzzy
 msgctxt "TorrentDownload|"
 msgid "unlimited"
 msgstr "ubegrænset"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Downloadhastighed er ubegrænset"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr ""
+msgstr "Downloadhastighed er begrænset til %1/s"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr ""
+msgstr "Uploadhastighed er ubegrænset"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "Files are missing"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "File is missing"
-msgstr ""
+msgstr "Uploadhastighed er begrænset til %1/s"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Filen mangler"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2250,43 +2513,48 @@ msgctxt "TorrentDownload|"
 msgid "Downloading"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Download komplet"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Can't move files recursively"
-msgstr ""
+msgstr "Kan ikke flytte filer rekursivt"
 
 msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
-msgstr ""
+msgstr "Flytning af filer til %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Waiting for metadata"
-msgstr ""
+msgstr "Venter på metadata"
 
 msgctxt "TorrentDownload|"
 msgid "Updating"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Working"
-msgstr ""
+msgstr "Arbejder"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
-msgstr ""
+msgstr "Metadata modtaget"
 
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
@@ -2314,19 +2582,20 @@ msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
-msgstr ""
+msgstr "Flyttet korrekt"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid ", average speed: %1"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
-msgstr ""
+msgstr "Filer flytter mislykkedes: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2337,22 +2606,30 @@ msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr ""
+msgstr "Flytning fil aflyst"
 
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "Uventet fejl"
+
+#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Show main window"
-msgstr ""
+msgstr "Vis hovedvinduet"
 
 #, fuzzy
 msgctxt "TrayMenu|"
 msgid "Open at Login"
 msgstr "Open ved Login"
 
+#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Launch at startup"
-msgstr ""
+msgstr "Lancering ved opstart"
 
 #, fuzzy
 msgctxt "TrayMenu|"
@@ -2368,19 +2645,20 @@ msgctxt "TrayMenu|"
 msgid "Quit"
 msgstr "Luk"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "About %1"
-msgstr ""
+msgstr "Om %1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "Version %1 (%2)"
-msgstr ""
+msgstr "Version %1 (%2)"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Open"
-msgstr ""
+msgstr "Åben"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2392,34 +2670,39 @@ msgctxt "UIHelper|"
 msgid "Show in folder"
 msgstr "Vis i mappe"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Show info"
-msgstr ""
+msgstr "Vis info"
 
 msgctxt "UIHelper|"
 msgid "Choose files..."
 msgstr ""
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Pause all except selected"
-msgstr ""
+msgstr "Pause alt undtagen valgte"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Pause all except this one"
-msgstr ""
+msgstr "Pause alt undtagen dette ene"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Restart selected"
-msgstr ""
+msgstr "Genstart valgte"
 
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Restart"
 msgstr "Genstart"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Set priority"
-msgstr ""
+msgstr "Sæt prioritet"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2455,114 +2738,129 @@ msgctxt "UIHelper|"
 msgid "Enable seeding"
 msgstr "Aktivér seeding"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Sequential download"
-msgstr ""
+msgstr "Sekventiel download"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Force recheck"
-msgstr ""
+msgstr "Kraft recheck"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Force reannounce"
-msgstr ""
+msgstr "Gældende reannounce"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Copy link"
-msgstr ""
+msgstr "Kopier link"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Add tag"
-msgstr ""
+msgstr "Tilføj tag"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "File integrity"
-msgstr ""
+msgstr "Filintegritet"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Schedule"
-msgstr ""
+msgstr "Tidsplan"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Change URL"
-msgstr ""
+msgstr "Skift webadresse"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "High priority"
-msgstr ""
+msgstr "Høj prioritet"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Normal priority"
-msgstr ""
+msgstr "Normal prioritet"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Low priority"
-msgstr ""
+msgstr "Lav prioritet"
 
-msgctxt "UIHelper|"
-msgid "Skip"
-msgstr ""
-
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Edit"
-msgstr ""
+msgstr "Rediger"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Remove"
-msgstr ""
+msgstr "Fjern"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Untag"
-msgstr ""
+msgstr "Untag"
 
 msgctxt "UIHelper|"
 msgid "Copy log to clipboard"
 msgstr ""
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Save log to file"
-msgstr ""
+msgstr "Gem log til fil"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "FDM Log [%1].txt"
-msgstr ""
+msgstr "FDM Log [%1].txt"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Save Log"
-msgstr ""
+msgstr "Gem Log"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Text files"
-msgstr ""
+msgstr "Tekstfiler"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "%1 K"
-msgstr ""
+msgstr "%1 K"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
-msgstr ""
+msgstr "%1 MØLLER"
 
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Filen mangler"
 
 msgctxt "YoutubeDownload|"
 msgid "Error: files are missing."
 msgstr ""
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
-msgstr ""
+msgstr "Filer flyttet korrekt"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
-msgstr ""
+msgstr "Flytning til %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
@@ -2577,9 +2875,10 @@ msgctxt "YoutubeDownload|"
 msgid "Redirecting"
 msgstr ""
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
-msgstr ""
+msgstr "Håndtering redirect"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2603,31 +2902,34 @@ msgctxt "YoutubeDownload|"
 msgid "Launching parser"
 msgstr ""
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
-msgstr ""
+msgstr "Side er parset"
 
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
-msgstr ""
+msgstr "Parsing fiasko: %1"
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Download komplet"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
-msgstr ""
+msgstr "Flyttet korrekt"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2639,10 +2941,10 @@ msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
-msgstr ""
+msgstr "Flytter mislykkedes: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."

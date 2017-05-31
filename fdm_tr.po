@@ -23,6 +23,45 @@ msgstr "Hata: 0x%x. FDM'ye indirmeleri aktarma başarısız oldu."
 msgid "No flash video found. Try reloading this page."
 msgstr "Flash video bulunamadı. Bu sayfayı yinelemeyi deneyin."
 
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr ""
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr ""
+
+#, fuzzy
+msgctxt "Download|"
+msgid "Queued"
+msgstr "Sıraya alındı"
+
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
 msgstr "Geç"
@@ -55,151 +94,183 @@ msgstr "Yüksek"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr ""
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Hata %1"
 
 #, qt-format
 msgctxt "HttpError|"
-msgid "Error %1"
+msgid "HTTP Error %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Bilinmeyen hata"
 
 msgctxt "HttpError|"
 msgid "Remote host name not found"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "İşlemi iptal edildi"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Remote server closed connection"
-msgstr ""
+msgstr "Uzak sunucu kapalı bağlantı"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr ""
+msgstr "Bağlantı zaman aşımına uğradı"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr ""
+msgstr "SSL/TLS el sıkışması başarısız oldu"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Bağlantı reddedildi"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
-msgstr ""
+msgstr "Bilinmeyen ağ ile ilgili hata algılandı"
 
 msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "Hatalı İstek"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "Yetkisiz"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Payment Required"
-msgstr ""
+msgstr "Ödeme Gerekli"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Forbidden"
-msgstr ""
+msgstr "Yasak"
 
 msgctxt "HttpError|"
 msgid "Not Found"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "Yönteme İzin Verilmiyor"
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "Proxy Kimlik Doğrulaması Gerekli"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "İstek Zaman Aşımı"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr ""
+msgstr "Çatışma"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Gone"
-msgstr ""
+msgstr "Gitti"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr ""
+msgstr "Uzunluk Gerekli"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "Önkoşul Başarısız Oldu"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "İstek Varlığı Çok Büyük"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr ""
+msgstr "İstek-URI Çok Uzun"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr ""
+msgstr "Desteklenmeyen Ortam Türü"
 
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "Beklenti Başarısız Oldu"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "Ben bir çaydanlığım"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "Kimlik Doğrulama Zaman Aşımı"
 
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr ""
+msgstr "Unprocessable Varlık"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr ""
+msgstr "Kilitli"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "Sırasız Koleksiyonu"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "Gerekli Yükseltme"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
@@ -209,13 +280,15 @@ msgctxt "HttpError|"
 msgid "Too Many Requests"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr ""
+msgstr "İstek Başlık Alanları Çok Büyük"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "Oturum Açma Zaman Aşımı"
 
 msgctxt "HttpError|"
 msgid "No Response"
@@ -225,9 +298,10 @@ msgctxt "HttpError|"
 msgid "Retry With"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "Windows tarafından engellenen Ebeveyn Denetimleri"
 
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
@@ -237,45 +311,52 @@ msgctxt "HttpError|"
 msgid "Request Header Too Large"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "Cert Hata"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr ""
+msgstr "Hayır Cert"
 
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr ""
+msgstr "Belirteç süresi/geçersiz"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "İç Sunucu Hatası"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "Hatalı ağ geçidi"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Service Unavailable"
-msgstr ""
+msgstr "Hizmet Kullanılamıyor"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "Ağ Geçidi Zaman Aşımı"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
@@ -285,25 +366,30 @@ msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "Yetersiz Depolama"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "Döngü Algılandı"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "Bant Genişliği Sınırı Aşıldı"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Extended"
-msgstr ""
+msgstr "Genişletilmiş Değil"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "Ağ kimlik doğrulaması gerekli"
 
 msgctxt "HttpError|"
 msgid "Network read timeout error"
@@ -414,9 +500,10 @@ msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
 msgstr "İndirme için disk alanı ayırılıyor"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
-msgstr ""
+msgstr "Beklenmeyen hata"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
@@ -657,6 +744,43 @@ msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
 msgstr ""
 
+#, fuzzy
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr "Onayla"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr "Dikkat!"
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr "Bilgisayarınız kapatılacak."
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr "Dosyalar kayıp"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr "Dosya kayıp"
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
+msgstr ""
+
 msgctxt "RPCLocalization|"
 msgid "locale"
 msgstr "yerel"
@@ -718,7 +842,7 @@ msgctxt "RPCLocalization|"
 msgid "Show details"
 msgstr "Detayları göster"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
@@ -873,38 +997,17 @@ msgid "Snail mode"
 msgstr "Salyangoz modu"
 
 msgctxt "RPCLocalization|"
-msgid "Bandwidth limits"
-msgstr "Bant genişliği limitleri"
-
-msgctxt "RPCLocalization|"
 msgid "Cancel"
 msgstr "İptal"
 
 msgctxt "RPCLocalization|"
 msgid "Apply"
 msgstr "Uygula"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "KB/s"
-#~ msgstr "KB/s"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "MB/s"
-#~ msgstr "MB/s"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 B/s"
-#~ msgstr "%1 B/s"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 KB/s"
-#~ msgstr "%1 KB/s"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 MB/s"
-#~ msgstr "%1 MB/s"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 GB/s"
-#~ msgstr "%1 GB/s"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Traffic limits"
+msgstr "Trafik limitleri"
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
@@ -1054,7 +1157,7 @@ msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
 msgstr "İndiriliyor, disk alanı ayırılıyor..."
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
@@ -1176,13 +1279,13 @@ msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
 msgstr "Çok uzun olmadığından emin misiniz?"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
 msgstr[0] "Sadece %n kayıt mı? FDM daha fazla saklayabilir!"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
@@ -1217,10 +1320,6 @@ msgid "BitTorrent"
 msgstr "BitTorrent"
 
 msgctxt "RPCLocalization|"
-msgid "Traffic Limits"
-msgstr "Trafik Limitleri"
-
-msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
 msgstr "Trafik Limitleri"
 
@@ -1272,10 +1371,6 @@ msgctxt "RPCLocalization|"
 msgid "Login"
 msgstr "Giriş"
 
-msgctxt "RPCLocalization|settings"
-msgid "Login"
-msgstr "Giriş"
-
 msgctxt "RPCLocalization|"
 msgid "Password"
 msgstr "Şifre"
@@ -1305,10 +1400,6 @@ msgid "Check if FDM is your default torrent client"
 msgstr "FDM varsayılan torrent istemcisi mi kontrol et"
 
 msgctxt "RPCLocalization|"
-msgid "Update"
-msgstr "Güncelle"
-
-msgctxt "RPCLocalization|settings"
 msgid "Update"
 msgstr "Güncelle"
 
@@ -1500,11 +1591,13 @@ msgctxt "RPCLocalization|"
 msgid "Remember all destination folders"
 msgstr "Tüm hedef klasörleri hatırla"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
 msgid_plural "Clear history older than"
 msgstr[0] "Önceki geçmişi temizle"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "days"
 msgid_plural "days"
@@ -1761,37 +1854,37 @@ msgctxt "RPCLocalization|"
 msgid "New version is available"
 msgstr "Yeni sürüm mevcut"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ns"
 msgid_plural "%ns"
 msgstr[0] "%n sn"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nm"
 msgid_plural "%nm"
 msgstr[0] "%n dk"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nh"
 msgid_plural "%nh"
 msgstr[0] "%n sa"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nd"
 msgid_plural "%nd"
 msgstr[0] "%n g"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nw"
 msgid_plural "%nw"
 msgstr[0] "%n hf"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ny"
 msgid_plural "%ny"
@@ -1913,9 +2006,26 @@ msgctxt "RPCLocalization|"
 msgid "Verification failed"
 msgstr "Doğrulama başarısız oldu"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
-msgid "Compare with:"
-msgstr "Karşılaştır:"
+msgid "Compare with"
+msgstr "İle karşılaştırın"
+
+msgctxt "RPCLocalization|"
+msgid "Share with friends"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Close"
@@ -1930,26 +2040,19 @@ msgctxt "RPCLocalization|"
 msgid "Browsers:"
 msgstr "Tarayıcılar:"
 
-msgctxt "RPCLocalization|Advanced"
-msgid "Options"
-msgstr "Seçenekler"
-
 msgctxt "RPCLocalization|"
 msgid "Done"
 msgstr "Tamam"
-
-msgctxt "RPCLocalization|tags panel"
-msgid "Completed"
-msgstr "Tamamlandı"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 of %2"
 msgstr "%1 - %2"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start download"
-msgstr ""
+msgstr "İndirmeye başla"
 
 msgctxt "RPCLocalization|"
 msgid "Seeding"
@@ -1962,26 +2065,89 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "Set days of the week to enable Scheduler"
 msgstr ""
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 B"
-#~ msgstr "%1 B"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 KB"
-#~ msgstr "%1 KB"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 MB"
-#~ msgstr "%1 MB"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 GB"
-#~ msgstr "%1 GB"
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 TB"
-#~ msgstr "%1 TB"
+
+msgctxt "RPCLocalization|"
+msgid "Enter URL or choose torrent file"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr "Yeni dosya"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr "Yeni dosyalar"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr "Yeni video"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr "Yeni sel"
+
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr "Dosya adı"
+
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr "Sel içeriği"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr "Kimlik doğrulama gerekli:"
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr "Dosya konumu"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr "Download golf sahası"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr "Varsayılan ayarları geri yüklemek?"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr "Varsayılan ayarları"
+
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Restore"
@@ -2073,37 +2239,59 @@ msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
 msgstr "Bazı dosyalar bozuk"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Save"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Share with friends"
-msgstr ""
+msgstr "Kaydet"
 
 msgctxt "RPCLocalization|"
 msgid "Paste urls from clipboard"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Change download URL"
-msgstr ""
+msgstr "Değiştirmek download URL"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Saved as:"
-msgstr ""
+msgstr "Olarak kaydedilir:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Invalid URL"
-msgstr ""
+msgstr "Geçersiz URL"
 
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "Trafik Limitleri"
+
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "Giriş"
+
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "Güncelle"
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr "Seçenekler"
+
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "Tamamlandı"
+
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Default download folder"
-msgstr ""
+msgstr "İndirme klasörü varsayılan"
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Accept"
-msgstr ""
+msgstr "Kabul"
 
 msgctxt "RPCSystem|"
 msgid "Download to"
@@ -2118,9 +2306,10 @@ msgctxt "RPCSystem|"
 msgid "Open torrent file"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr ""
+msgstr "Torrent dosyaları"
 
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
@@ -2182,19 +2371,11 @@ msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Yükleme hızı %1/s olarak limitli"
 #~ msgctxt "TorrentDownload|"
-#~ msgid "Pausing download"
-#~ msgstr "İndirme duraklatılıyor"
+#~ msgid "Files are missing"
+#~ msgstr "Dosyalar kayıp"
 #~ msgctxt "TorrentDownload|"
-#~ msgid "Download paused"
-#~ msgstr "İndirme duraklatıldı"
-
-msgctxt "TorrentDownload|"
-msgid "Files are missing"
-msgstr "Dosyalar kayıp"
-
-msgctxt "TorrentDownload|"
-msgid "File is missing"
-msgstr "Dosya kayıp"
+#~ msgid "File is missing"
+#~ msgstr "Dosya kayıp"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2298,6 +2479,11 @@ msgstr "Dosya taşınırken iptal edildi"
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
 msgstr "Dosya taşıma iptal edildi"
+
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "Beklenmeyen hata"
 
 msgctxt "TrayMenu|"
 msgid "Show main window"
@@ -2429,9 +2615,10 @@ msgctxt "UIHelper|"
 msgid "Schedule"
 msgstr "Zamanlama"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Change URL"
-msgstr ""
+msgstr "Değişiklik URL"
 
 msgctxt "UIHelper|"
 msgid "High priority"
@@ -2444,10 +2631,9 @@ msgstr "Normal öncelik"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Düşük öncelik"
-
-msgctxt "UIHelper|"
-msgid "Skip"
-msgstr "Geç"
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "Geç"
 
 msgctxt "UIHelper|"
 msgid "Edit"

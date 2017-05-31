@@ -23,21 +23,44 @@ msgstr "错误：0x%x。传送下载项到FDM失败。"
 msgid "No flash video found. Try reloading this page."
 msgstr "未找到Flash视频。尝试重新载入此页面。"
 
-#~ msgid "Download by FDM"
-#~ msgstr "通过FDM下载"
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
+msgstr ""
 
-#~ msgid ""
-#~ "An error occurred while trying to transfer downloads to FDM.\n"
-#~ "Error: 0x%x."
-#~ msgstr ""
-#~ "试图传递下载项到FDM时发生了一个错误。\n"
-#~ "错误：0x%x"
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr ""
 
-#~ msgid ""
-#~ "There were no flash videos found on this page. Make sure the videos on "
-#~ "this page are playing or try to reload it (refresh page or clear "
-#~ "browser's cache)."
-#~ msgstr "在此页面未找到Flash视频。请确认页面上的视频在播放或尝试重新加载它（刷新页面或清除浏览器缓存）"
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr ""
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr ""
+
+#, fuzzy
+msgctxt "Download|"
+msgid "Queued"
+msgstr "已排队"
 
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
@@ -71,11 +94,15 @@ msgstr "高"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "HTTP错误%1：%2"
+#, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "错误%1"
 
 #, qt-format
 msgctxt "HttpError|"
-msgid "Error %1"
-msgstr "错误%1"
+msgid "HTTP Error %1"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Unknown error"
@@ -185,9 +212,10 @@ msgctxt "HttpError|"
 msgid "Expectation Failed"
 msgstr "期望失败"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "我是个茶壶"
 
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
@@ -338,14 +366,11 @@ msgctxt "HttpFileDownload|"
 msgid "unlimited"
 msgstr "不限制"
 
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Download speed isn't limited"
-#~ msgstr "下载速度不受限"
-
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr "下载速度限制为%1/s"
+
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
@@ -363,19 +388,10 @@ msgctxt "HttpFileDownload|"
 msgid "Pausing download"
 msgstr "正在暂停下载"
 
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Can't resume downloading: URL changed"
-#~ msgstr "无法恢复下载：URL已改变"
-
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
 msgstr "移动文件至%1"
-
-#, qt-format
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "The name \"%1\" is already taken. Renaming to %2"
-#~ msgstr "名称\"%1\"已使用，重命名为%2"
 
 msgctxt "HttpFileDownload|"
 msgid "Restarting download"
@@ -489,47 +505,13 @@ msgid "Failed writing received data to file"
 msgstr "将收到的数据写入文件失败"
 
 #, qt-format
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Connection %1 receiving data"
-#~ msgstr "连接%1正在接收数据"
-
-#, qt-format
-#~ msgctxt "HttpFileDownload|"
-#~ msgid ", downloaded: %1"
-#~ msgstr "已下载：%1"
-
-#, qt-format
-#~ msgctxt "HttpFileDownload|"
-#~ msgid ", average speed: %1/s"
-#~ msgstr "平均速度：%1/s"
-
-#, qt-format
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Connection %1 finished receiving data%2%3"
-#~ msgstr "连接%1已完成接收数据%2%3"
-
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
 msgstr "正在重定向至%1"
 
-#, qt-format
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Connection %1: server ignored partial content request"
-#~ msgstr "连接%1：服务器忽略了部分内容请求"
-
-#, qt-format
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Connection %1 failed with error: %2"
-#~ msgstr "连接%1返回了一个错误：%2"
-
 msgctxt "HttpFileDownload|"
 msgid "File moved successfully"
 msgstr "成功移动文件"
-
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Moving file failed"
-#~ msgstr "移动文件失败"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -581,10 +563,6 @@ msgstr "打开种子文件"
 msgctxt "MacMainMenu|"
 msgid "Edit"
 msgstr "编辑"
-
-#~ msgctxt "MacMainMenu|"
-#~ msgid "Select All"
-#~ msgstr "选择全部"
 
 #, qt-format
 msgctxt "MacMainMenu|"
@@ -723,6 +701,42 @@ msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
 msgstr "无法访问特定文件夹"
 
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr "注意！"
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr "你的计算机将进行休眠。"
+
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr "文件丢失"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr "文件丢失"
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
+msgstr ""
+
 msgctxt "RPCLocalization|"
 msgid "locale"
 msgstr "本地"
@@ -783,7 +797,7 @@ msgctxt "RPCLocalization|"
 msgid "Show details"
 msgstr "显示详情"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
@@ -938,10 +952,6 @@ msgid "Snail mode"
 msgstr "慢速模式"
 
 msgctxt "RPCLocalization|"
-msgid "Bandwidth limits"
-msgstr "带宽限制"
-
-msgctxt "RPCLocalization|"
 msgid "Cancel"
 msgstr "取消"
 
@@ -949,46 +959,9 @@ msgctxt "RPCLocalization|"
 msgid "Apply"
 msgstr "应用"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "KB/s"
-#~ msgstr "KB/s"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "MB/s"
-#~ msgstr "MB/s"
-
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 KB/s"
-#~ msgstr "%1 KB/s"
-
-#, qt-format
-#~ msgctxt "RPCLocalization|"
-#~ msgid "%1 MB/s"
-#~ msgstr "%1 MB/s"
-
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
 msgstr "浏览器集成"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "Free Download Manager has automatically intercepted the URL that another "
-#~ "Internet Application used to download a file. Thanks to the flexible "
-#~ "settings FDM offers, you can easily adjust the option in the Settings "
-#~ "window:"
-#~ msgstr ""
-#~ "Free Download Manager已自动截获另一网络应用用于下载文件的URL。感谢FDM提供的灵活设置，您可以方便地在设置窗口调整选项"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "Working with browsers, you can configure FDM so that it doesn't monitor "
-#~ "left-click actions."
-#~ msgstr "与浏览器协作，您可以配置FDM使它不接管左键点击动作。"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Don't show this tip again"
-#~ msgstr "不再显示这条提示"
 
 msgctxt "RPCLocalization|"
 msgid "Next"
@@ -1053,10 +1026,6 @@ msgstr "全不选"
 msgctxt "RPCLocalization|"
 msgid "Torrent already exists"
 msgstr "种子已存在"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Do you want to load its trackers?"
-#~ msgstr "您想要加载其tracker吗？"
 
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
@@ -1130,10 +1099,6 @@ msgctxt "RPCLocalization|"
 msgid "Checking files..."
 msgstr "检查文件中…"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Downloading, Allocating disk space..."
-#~ msgstr "下载中，分配磁盘空间中…"
-
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
 msgstr "想要加载其tracker？"
@@ -1142,7 +1107,7 @@ msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
 msgstr "下载中，分配磁盘空间中…"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
@@ -1264,13 +1229,13 @@ msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
 msgstr "您确定这不是太久吗？"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
 msgstr[0] "只有%n条记录？FDM可以记录更多！"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
@@ -1305,10 +1270,6 @@ msgid "BitTorrent"
 msgstr "BitTorrent"
 
 msgctxt "RPCLocalization|"
-msgid "Traffic Limits"
-msgstr "流量限制"
-
-msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
 msgstr "流量限制"
 
@@ -1360,10 +1321,6 @@ msgctxt "RPCLocalization|"
 msgid "Login"
 msgstr "登录名"
 
-msgctxt "RPCLocalization|settings"
-msgid "Login"
-msgstr "登录名"
-
 msgctxt "RPCLocalization|"
 msgid "Password"
 msgstr "密码"
@@ -1393,10 +1350,6 @@ msgid "Check if FDM is your default torrent client"
 msgstr "检查FDM是否是您的默认BT客户端"
 
 msgctxt "RPCLocalization|"
-msgid "Update"
-msgstr "更新"
-
-msgctxt "RPCLocalization|settings"
 msgid "Update"
 msgstr "更新"
 
@@ -1461,6 +1414,15 @@ msgid "Don't put your computer to sleep if there're scheduled downloads"
 msgstr "在有计划的下载项时阻止计算机睡眠"
 
 msgctxt "RPCLocalization|"
+msgid "Compare with"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 of %2"
+msgstr ""
+
+msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
 msgstr ""
 
@@ -1481,8 +1443,97 @@ msgid "Set days of the week to enable Scheduler"
 msgstr ""
 
 msgctxt "RPCLocalization|"
+msgid "Enter URL or choose torrent file"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr "新的文件"
+
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr "新的视频"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr "新的洪流"
+
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr "文件名"
+
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr "哈希"
+
+msgctxt "RPCLocalization|"
 msgid "Restore"
 msgstr "恢复"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic limits"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Using Alt key"
@@ -1561,10 +1612,6 @@ msgctxt "RPCLocalization|"
 msgid "and"
 msgstr "和"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Automatically remove deleted files from the download list"
-#~ msgstr "自动移除下载列表中被删除的文件"
-
 msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
 msgstr "一些文件已损坏"
@@ -1593,17 +1640,9 @@ msgctxt "RPCLocalization|"
 msgid "Invalid URL"
 msgstr "无效URL"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Send anonymous statistics"
-#~ msgstr "发送匿名统计信息"
-
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
 msgstr "根据文件类型建议文件夹"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Suggest settings based on download URL"
-#~ msgstr "根据下载URL建议设置"
 
 msgctxt "RPCLocalization|"
 msgid "Default folder:"
@@ -1645,29 +1684,9 @@ msgctxt "RPCLocalization|"
 msgid "Don't catch downloads from"
 msgstr "不要捕获下载项来自"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Catch links without confirmation"
-#~ msgstr "无需确认就捕获下载项"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Catch links in Edge only from HTTP ports (improves performance)"
-#~ msgstr "在Edge中仅捕获来自HTTP端口的链接（改善性能）"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "FDM appears in Safari's context menu if"
-#~ msgstr "FDM出现在Safari上下文菜单里当"
-
 msgctxt "RPCLocalization|"
 msgid "extension"
 msgstr "扩展"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "is installed and enabled."
-#~ msgstr "已安装并启用。"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Automatically catch links from browsers"
-#~ msgstr "自动从浏览器捕获下载"
 
 msgctxt "RPCLocalization|"
 msgid "Edge"
@@ -1685,14 +1704,6 @@ msgctxt "RPCLocalization|"
 msgid "Chrome"
 msgstr "Chrome"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Make sure that the"
-#~ msgstr "确保"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "is installed and enabled in Chrome"
-#~ msgstr "已安装并在Chrome中启用"
-
 msgctxt "RPCLocalization|"
 msgid "No Chrome installation was found."
 msgstr "未安装Chrome"
@@ -1704,14 +1715,6 @@ msgstr "您可以"
 msgctxt "RPCLocalization|"
 msgid "download Chrome here"
 msgstr "在此下载Chrome"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "ALT must be pressed"
-#~ msgstr "必须按下ALT"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Allow the browser to download if you press Cancel"
-#~ msgstr "允许在您按下取消时使用浏览器下载"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads smaller than"
@@ -1728,10 +1731,6 @@ msgstr "跳过具有以下扩展名的文件："
 msgctxt "RPCLocalization|"
 msgid "Add FDM to browser context menu"
 msgstr "将FDM加入浏览器上下文菜单"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Use proxy for peer-to-peer connections"
-#~ msgstr "对端对端连接启用代理"
 
 msgctxt "RPCLocalization|"
 msgid "Parameters"
@@ -1773,10 +1772,6 @@ msgctxt "RPCLocalization|"
 msgid "Maximum number of connections"
 msgstr "最大连接数"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Maximum number of running downloads"
-#~ msgstr "最大同时运行的下载项"
-
 msgctxt "RPCLocalization|"
 msgid "History"
 msgstr "历史记录"
@@ -1785,12 +1780,12 @@ msgctxt "RPCLocalization|"
 msgid "Remember all destination folders"
 msgstr "记录所有目标文件夹"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
 msgid_plural "Clear history older than"
-msgstr[0] "清除历史记录久于"
+msgstr[0] ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "days"
 msgid_plural "days"
@@ -1828,10 +1823,6 @@ msgctxt "RPCLocalization|"
 msgid "Delete files"
 msgstr "删除文件"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Restore settings to their original defaults"
-#~ msgstr "重置设置到初始值"
-
 msgctxt "RPCLocalization|"
 msgid "DHT"
 msgstr "DHT"
@@ -1859,10 +1850,6 @@ msgstr "使用端口范围："
 msgctxt "RPCLocalization|"
 msgid "to"
 msgstr "到"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "All settings will be restored to their original defaults"
-#~ msgstr "所有设置都将被重置回原始值"
 
 msgctxt "RPCLocalization|"
 msgid "Reset"
@@ -2053,37 +2040,37 @@ msgctxt "RPCLocalization|"
 msgid "New version is available"
 msgstr "新版本可用"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ns"
 msgid_plural "%ns"
 msgstr[0] "%n秒"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nm"
 msgid_plural "%nm"
 msgstr[0] "%n分钟"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nh"
 msgid_plural "%nh"
 msgstr[0] "%n小时"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nd"
 msgid_plural "%nd"
 msgstr[0] "%n天"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nw"
 msgid_plural "%nw"
 msgstr[0] "%n周"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ny"
 msgid_plural "%ny"
@@ -2097,24 +2084,6 @@ msgctxt "RPCLocalization|"
 msgid "Torrent"
 msgstr "种子"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Catch only when Alt is pressed"
-#~ msgstr "仅在Alt被按下时监视"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Do not catch when Alt is pressed"
-#~ msgstr "在Alt被按下时不监视"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Automatic link-catching"
-#~ msgstr "自动捕捉链接"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "While holding down the Alt key, set the desired link-catching behaviour "
-#~ "via available."
-#~ msgstr "当Alt键被按下时，设置期望的链接监视行为"
-
 msgctxt "RPCLocalization|"
 msgid "Options"
 msgstr "选项"
@@ -2126,10 +2095,6 @@ msgstr "打开计划任务"
 msgctxt "RPCLocalization|"
 msgid "Sсheduler"
 msgstr "计划任务"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Start and pause downloads at the specified time"
-#~ msgstr "在指定时间开始或暂停下载"
 
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
@@ -2183,21 +2148,9 @@ msgctxt "RPCLocalization|"
 msgid "Tip"
 msgstr "提示"
 
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Press Alt if you don't want FDM to automatically catch links."
-#~ msgstr "如果您不想FDM自动捕获链接请按下Alt"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Computer won't be put to sleep because you have scheduled downloads"
-#~ msgstr "由于您有计划的下载项，计算机将不会睡眠"
-
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
 msgstr "计划任务"
-
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Don't put your computer to sleep if there're scheduled downloads."
-#~ msgstr "当有计划的下载项时阻止计算机睡眠"
 
 msgctxt "RPCLocalization|"
 msgid "Press"
@@ -2228,10 +2181,6 @@ msgid "Verification failed"
 msgstr "检查失败"
 
 msgctxt "RPCLocalization|"
-msgid "Compare with:"
-msgstr "和下列项比较："
-
-msgctxt "RPCLocalization|"
 msgid "Close"
 msgstr "关闭"
 
@@ -2244,22 +2193,34 @@ msgctxt "RPCLocalization|"
 msgid "Browsers:"
 msgstr "浏览器："
 
-msgctxt "RPCLocalization|Advanced"
-msgid "Options"
-msgstr "选项"
-
 msgctxt "RPCLocalization|"
 msgid "Done"
 msgstr "已完成"
 
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr "已选择的文件路径无效"
+
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "流量限制"
+
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "登录名"
+
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "更新"
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr "选项"
+
 msgctxt "RPCLocalization|tags panel"
 msgid "Completed"
 msgstr "已完成"
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 of %2"
-msgstr "%2的%1"
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
@@ -2353,39 +2314,21 @@ msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
 msgstr "移动文件失败，原因：%1"
 
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Download speed isn't limited"
-#~ msgstr "下载速度不受限"
-
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr "下载速度限制为%1/s"
 
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Upload speed isn't limited"
-#~ msgstr "上传速度不受限"
-
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "上传速度限制为%1/s"
-
 #~ msgctxt "TorrentDownload|"
-#~ msgid "Pausing download"
-#~ msgstr "暂停下载中"
-
+#~ msgid "Files are missing"
+#~ msgstr "文件丢失"
 #~ msgctxt "TorrentDownload|"
-#~ msgid "Download paused"
-#~ msgstr "已暂停下载"
-
-msgctxt "TorrentDownload|"
-msgid "Files are missing"
-msgstr "文件丢失"
-
-msgctxt "TorrentDownload|"
-msgid "File is missing"
-msgstr "文件丢失"
+#~ msgid "File is missing"
+#~ msgstr "文件丢失"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2402,10 +2345,6 @@ msgstr "下载中"
 msgctxt "TorrentDownload|"
 msgid "Download complete"
 msgstr "下载完成"
-
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Cannot move files recursively"
-#~ msgstr "无法递归移动文件"
 
 msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
@@ -2441,21 +2380,9 @@ msgctxt "TorrentDownload|"
 msgid "User authorization required"
 msgstr "需要用户确认"
 
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Mapped files to new directory"
-#~ msgstr "已映射文件到新路径"
-
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Mapped file to new directory"
-#~ msgstr "映射文件到新路径"
-
 msgctxt "TorrentDownload|"
 msgid "Files moving failed"
 msgstr "移动文件失败"
-
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Moving file failed"
-#~ msgstr "移动文件失败"
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2481,11 +2408,6 @@ msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
 msgstr "移动文件失败，原因：%1"
 
-#, qt-format
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Moving file failed: %1"
-#~ msgstr "移动文件失败，原因：%1"
-
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
 msgstr "已取消移动文件"
@@ -2493,6 +2415,11 @@ msgstr "已取消移动文件"
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
 msgstr "已取消移动文件"
+
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "意外错误"
 
 msgctxt "TrayMenu|"
 msgid "Show main window"
@@ -2639,10 +2566,9 @@ msgstr "常规优先级"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "低优先级"
-
-msgctxt "UIHelper|"
-msgid "Skip"
-msgstr "跳过"
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "跳过"
 
 msgctxt "UIHelper|"
 msgid "Edit"
@@ -2686,6 +2612,7 @@ msgstr "%1K"
 msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1M"
+
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
@@ -2764,10 +2691,6 @@ msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr "已取消移动。"
 
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Can't find URLs for this quality"
-#~ msgstr "无法为此资源找到链接"
-
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
@@ -2776,11 +2699,6 @@ msgstr "解析失败，原因：%1"
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
 msgstr "下载完成"
-
-#, qt-format
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Moving operation has been declined: %1"
-#~ msgstr "移动操作被拒绝，原因：%1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
@@ -2795,12 +2713,3 @@ msgstr "，平均速度：%1"
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
 msgstr "文件已被重命名为%1"
-
-#, qt-format
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Moving operation failed: %1"
-#~ msgstr "移动操作失败，原因：%1"
-
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Moving operation cancelled."
-#~ msgstr "已取消移动操作。"

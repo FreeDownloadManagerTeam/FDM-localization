@@ -3,127 +3,71 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
-"X-Language: ro_RO\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: zh_TW\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 
-#, fuzzy
 msgid "Download with FDM"
-msgstr "Descarca cu FDM"
+msgstr ""
 
-#, fuzzy
 msgid "Download selected with FDM"
-msgstr "Descarca selectate cu FDM"
+msgstr ""
 
-#, fuzzy
 msgid "Download video with FDM"
-msgstr "Download video cu FDM"
+msgstr ""
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
 msgstr ""
 
-#, fuzzy
 msgid "No flash video found. Try reloading this page."
-msgstr "Nici un video flash găsit. Încercați să reîncărcați această pagină."
-
-#, qt-format
-msgctxt "Download|"
-msgid "Specified folder path is relative, full path is %1"
 msgstr ""
 
-#, qt-format
-msgctxt "Download|"
-msgid "%1 B"
-msgstr ""
-
-#, qt-format
-msgctxt "Download|"
-msgid "%1 KB"
-msgstr ""
-
-#, qt-format
-msgctxt "Download|"
-msgid "%1 MB"
-msgstr ""
-
-#, qt-format
-msgctxt "Download|"
-msgid "Reconnecting in %1 seconds"
-msgstr ""
-
-#, qt-format
-msgctxt "Download|"
-msgid "Priority set to %1"
-msgstr ""
-
-msgctxt "Download|"
-msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
-
-#, fuzzy
-msgctxt "Download|"
-msgid "Queued"
-msgstr "În așteptare"
-
-#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
-msgstr "Skip"
+msgstr ""
 
-#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Low"
-msgstr "Scăzut"
+msgstr ""
 
-#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Normal"
-msgstr "Normal"
+msgstr ""
 
-#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "High"
-msgstr "Ridicat"
+msgstr ""
 
-#, fuzzy
 msgctxt "DownloadInfo|"
 msgid "Low"
-msgstr "Scăzut"
+msgstr ""
 
-#, fuzzy
 msgctxt "DownloadInfo|"
 msgid "Normal"
-msgstr "Normal"
+msgstr ""
 
-#, fuzzy
 msgctxt "DownloadInfo|"
 msgid "High"
-msgstr "Ridicat"
-
-#, fuzzy, qt-format
-msgctxt "HttpError|"
-msgid "HTTP Error %1: %2"
-msgstr "Eroare HTTP %1: %2"
-#, fuzzy, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Eroare %1"
+msgstr ""
 
 #, qt-format
 msgctxt "HttpError|"
-msgid "HTTP Error %1"
+msgid "HTTP Error %1: %2"
 msgstr ""
 
-#, fuzzy
+#, qt-format
+msgctxt "HttpError|"
+msgid "Error %1"
+msgstr ""
+
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr "Eroare necunoscută"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Remote host name not found"
-msgstr "Numele de gazdă la distanţă nu a fost găsit"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Operation canceled"
@@ -133,58 +77,49 @@ msgctxt "HttpError|"
 msgid "Remote server closed connection"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr "Conexiunea a expirat"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr "SSL/TLS strângere de mână de a eşuat"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr "Conexiune a refuzat"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
-msgstr "Necunoscute legate de rețea de eroare detectat"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr "Cerere Bad"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr "Neautorizate"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Payment Required"
-msgstr "Plată Necesare"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Forbidden"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr "Nu A Fost Găsit"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr "Metoda Nu Este Permis"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
@@ -194,20 +129,17 @@ msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr "Cerere Timeout"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr "Conflictul"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Gone"
-msgstr "Plecat"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Length Required"
@@ -217,50 +149,41 @@ msgctxt "HttpError|"
 msgid "Precondition Failed"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr "Cerere Entitate Prea Mare"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr "Cerere-URI Prea Lungi"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr "Neacceptat De Tip Mass-Media"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr "Gama Solicitată Nu Poate Fi Satisfăcută"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr "Așteptarea Nu A Reușit"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr "Eu sunt un ceainic"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr "Autentificare Timeout"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr "Metoda De Eșec / Îmbunătățiți-Vă Calm"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr "Unprocessable Entitate"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Locked"
@@ -270,107 +193,89 @@ msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr "Neordonata De Colectare"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr "Upgrade-Ul Necesar"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr "Prea Multe Cereri"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr "Cerere De Câmpuri Antet Prea Mare"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr "Login Timeout"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "No Response"
-msgstr "Nici Un Răspuns"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Retry With"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr "Blocat de Control Parental Windows"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
-msgstr "Indisponibil Din Motive Legale"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr "Antet Cerere Prea Mare"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr "Cert Eroare"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr "Nici o Cert"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
-msgstr "HTTP la HTTPS"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr "Token-ul expirat/invalidă"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr "Eroare Internă De Server"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr "Nu S-A Implementat"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr "Bad Gateway"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Service Unavailable"
-msgstr "Serviciu Indisponibil"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr "Gateway-ul Timeout"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
@@ -380,74 +285,64 @@ msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr "Insuficientă De Stocare"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr "Bucla De Detectat"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr "Limita De Lățime De Bandă A Depășit"
+msgstr ""
 
 msgctxt "HttpError|"
 msgid "Not Extended"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr "Autentificare În Rețea Necesare"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr "Reteaua citi eroare de timeout"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr "Reţea conecta eroare de timeout"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
-msgstr "Numărul maxim de conexiuni este %1"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "unlimited"
-msgstr "nelimitat"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr "Viteza de download este nelimitat"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr "Viteza de download este limitat la %1/s"
+msgstr ""
 
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Reconnecting"
-msgstr "Reconectarea"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr "Incepand de download"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
@@ -467,330 +362,288 @@ msgctxt "HttpFileDownload|"
 msgid "File \"%1\" exists. Saving as %2"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Restarting download"
-msgstr "Repornirea download"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File is renamed to %1"
-msgstr "Fișier este redenumit %1"
+msgstr ""
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr "Deschidere conexiune #%1"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
-msgstr "#%1 închis"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr "Nu a reuşit să finalizeze descărcarea"
-
-#, fuzzy
-msgctxt "HttpFileDownload|"
-msgid "Unexpected error"
-msgstr "Eroare neașteptată"
-
-#, qt-format
-msgctxt "HttpFileDownload|"
-msgid "Couldn't reuse connection #%1, closing"
 msgstr ""
-
-#, fuzzy, qt-format
-msgctxt "HttpFileDownload|"
-msgid "#%1 receiving data"
-msgstr "#%1 recepþioneazã date"
-
-#, fuzzy, qt-format
-msgctxt "HttpFileDownload|"
-msgid "downloaded %1"
-msgstr "descărcat %1"
-
-#, fuzzy, qt-format
-msgctxt "HttpFileDownload|"
-msgid "(%1/s)"
-msgstr "(%1/s)"
-
-#, qt-format
-msgctxt "HttpFileDownload|"
-msgid "#%1: server ignored partial content request"
-msgstr ""
-
-#, fuzzy, qt-format
-msgctxt "HttpFileDownload|"
-msgid "#%1 failed with error: %2"
-msgstr "#%1 a eşuat cu eroare: %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
-msgstr "Dosar is misiune"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
-msgstr "Descarcă complet"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
-msgstr "Scoaterea temporară dosar prelungire"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
 msgstr ""
 
 msgctxt "HttpFileDownload|"
+msgid "Unexpected error"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
 msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 receiving data"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "downloaded %1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "(%1/s)"
+msgstr ""
+
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
-msgstr "Redirecţionarea către %1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1: server ignored partial content request"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 failed with error: %2"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "File moved successfully"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
-msgstr "Fişier în mişcare nu a reușit"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
-msgstr "Preallocation nu a reușit: %1"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "%1 finished successfully"
-msgstr "%1 terminat cu succes"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
-msgstr ", viteza medie: %1"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Space allocation"
-msgstr "Alocarea de spaţiu"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Move"
-msgstr "Muta"
+msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocation cancelled"
-msgstr "Preallocation anulat"
+msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating queued"
 msgstr ""
 
-#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocating started"
-msgstr "Preallocating a început"
+msgstr ""
 
-#, fuzzy
-msgctxt "MacMainMenu|"
-msgid "File"
-msgstr "Fişier"
-
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Add Download from URL..."
-msgstr "Adaugă Descărcați de la URL-ul..."
+msgstr ""
 
 msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
 msgstr ""
 
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Edit"
-msgstr "Editare"
+msgstr ""
 
-#, fuzzy, qt-format
+msgctxt "MacMainMenu|"
+msgid "Remove from List"
+msgstr ""
+
+#, qt-format
 msgctxt "MacMainMenu|"
 msgid "About %1"
-msgstr "Despre %1"
+msgstr ""
 
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Preferences..."
-msgstr "Preferințe"
+msgstr ""
 
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Check for Updates..."
-msgstr "A verifica pentru Updates..."
+msgstr ""
 
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
-msgstr "Începe Selectate"
+msgstr ""
 
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
 msgstr ""
 
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr "Reporniți Selectate"
+msgstr ""
 
-#, fuzzy
-msgctxt "MacMainMenu|"
-msgid "Remove from List"
-msgstr "Se scoate din Listă"
-
-#, fuzzy
-msgctxt "MacMainMenu|"
-msgid "Downloads"
-msgstr "Descărcări"
-
-#, fuzzy
-msgctxt "MacMainMenu|"
-msgid "Help"
-msgstr "Ajuta"
-
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Contact Support"
-msgstr "Contactați Asistența"
+msgstr ""
 
-#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Vote for New Features"
-msgstr "Vot pentru Noi Caracteristici"
+msgstr ""
 
-#, fuzzy
+msgctxt "MacMainMenu|"
+msgid "File"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Downloads"
+msgstr ""
+
+msgctxt "MacMainMenu|"
+msgid "Help"
+msgstr ""
+
 msgctxt "QObject|"
 msgid "About Free Download Manager"
-msgstr "Despre Free Download Manager"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Preferences"
-msgstr "Preferinţe"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Check for Updates..."
-msgstr "A verifica pentru Updates..."
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Window"
-msgstr "Fereastra"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Minimize"
-msgstr "Minimiza"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Zoom"
-msgstr "Zoom"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Enter Full Screen"
-msgstr "Introduceți Ecran Complet"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr "Aduce Toate la Fața"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr "Contactați Asistența"
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
 msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "File"
-msgstr "Fişier"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Select All"
-msgstr "Selectează tot"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Delete"
-msgstr "Şterge"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Paste"
-msgstr "Pastă"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Copy"
-msgstr "Copie"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Cut"
-msgstr "Taie"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Edit"
-msgstr "Editare"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Help"
-msgstr "Ajuta"
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
-msgstr "Ceva a mers prost cu interne de descărcări."
+msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr "Selectate filepath nu este valabil."
+msgstr ""
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
@@ -804,420 +657,375 @@ msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
 msgstr ""
 
-#, fuzzy
-msgctxt "QObject|"
-msgid "Confirm"
-msgstr "Confirma"
-
-#, fuzzy
-msgctxt "QObject|"
-msgid "Attention! "
-msgstr "Atentie!"
-
-msgctxt "QObject|"
-msgid "Your computer will be put to Sleep mode."
-msgstr ""
-
-#, fuzzy
-msgctxt "QObject|"
-msgid "Your computer will be hibernated."
-msgstr "Computerul va fi hibernat."
-
-msgctxt "QObject|"
-msgid "Your computer will be shut down."
-msgstr ""
-
-msgctxt "QObject|"
-msgid "Files are missing"
-msgstr ""
-
-#, fuzzy
-msgctxt "QObject|"
-msgid "File is missing"
-msgstr "Dosar is misiune"
-
-msgctxt "QObject|"
-msgid "Incorrect login or password"
-msgstr ""
-
 msgctxt "RPCLocalization|"
 msgid "locale"
-msgstr "en_US"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Drag & Drop"
-msgstr "Drag & Drop"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "URL or torrent here"
-msgstr "URL-ul sau torrent de aici"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Add tag"
-msgstr "Adăugaţi tag-ul"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Preferences"
-msgstr "Preferinţe"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Unlimited"
-msgstr "Nelimitat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Manual..."
-msgstr "Manual..."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
-msgstr "Setați manual limitări"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Download: unlimited, Upload: unlimited"
-msgstr "descărcare nelimitată, încărcare nelimitată"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Download:"
-msgstr "Descărcare:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Upload:"
-msgstr "Încărcare:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "unlimited"
-msgstr "nelimitat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
 msgstr ""
-"Modul Snail eliberează lățimea de bandă fără a opri procesele download."
 
 msgctxt "RPCLocalization|"
 msgid "Hide details"
-msgstr "Ascunde detaliile"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Show details"
-msgstr "Arată detaliile"
+msgstr ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 msgctxt "RPCLocalization|"
 msgid "Show in folder"
-msgstr "Arată în folder"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Reveal in Finder"
-msgstr "Afișează în Finder"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Pause"
-msgstr "Pauză"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Restart"
-msgstr "Restart"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Start"
-msgstr "Start"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Selected size:"
-msgstr "Dimensiunea selectată:"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Size:"
-msgstr "Dimensiune:"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "File size:"
-msgstr "Dimensiune fişier:"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Disk space:"
-msgstr "Spatiu pe disc:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Total size:"
-msgstr "Dimensiunea totală:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Checked size:"
-msgstr "Dimensiunea verificată:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded:"
-msgstr "Descărcat:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Download speed:"
-msgstr "Viteza de descărcare:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Seeds:"
-msgstr "Pachete:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Domain:"
-msgstr "Domeniu:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded:"
-msgstr "Încărcat:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Upload speed:"
-msgstr "Viteza de încărcare:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Peers:"
-msgstr "Parteneri:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Share ratio:"
-msgstr "Gradul de distribuire:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Availability:"
-msgstr "Disponibilitate"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "DHT nodes:"
-msgstr "Noduri DHT:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "IP"
-msgstr "IP"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Client"
-msgstr "Client"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Flags"
-msgstr "Steaguri"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Requests"
-msgstr "Solicitări"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded"
-msgstr "Descărcat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded"
-msgstr "Încărcat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Files"
-msgstr "Fișiere"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Trackers"
-msgstr "Trackers"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Peers"
-msgstr "Parteneri"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Log"
-msgstr "Logare"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
-msgstr "Permite redistribuirea"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Progress"
-msgstr "Progres"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Priority"
-msgstr "Prioritate"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "URL"
-msgstr "URL"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Next announce"
-msgstr "Următorul anunț"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode"
-msgstr "Modul Snail"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Bandwidth limits"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Cancel"
-msgstr "Anulează"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Apply"
-msgstr "Aplică"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
-msgstr "Integrare în navigatorul web"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Next"
-msgstr "Următorul"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Proceed to download"
-msgstr "Mergi la descărcare"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Add download"
-msgstr "Adaugă descărcare"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Enter download URL:"
-msgstr "Introduceți adresa URL pentru descărcare:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Download"
-msgstr "Descarcă"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Download anyway"
-msgstr "Descarcă oricum"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Add"
-msgstr "Adaugă"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "torrent"
-msgstr "torent"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Save to:"
-msgstr "Salvează în:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Select folder"
-msgstr "Selectează director"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Requesting download info..."
-msgstr "Solicită informații referitoare la descărcare..."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Quality:"
-msgstr "Calitate"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Select all"
-msgstr "Selectează tot"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Select none"
-msgstr "Deselectează tot"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Torrent already exists"
-msgstr "Torentul există deja"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
-msgstr "Doriți să încărcați info despre serverele comunicante ale torentului?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
-msgstr "Nu exist[ procese de descărcare active"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "No completed downloads"
-msgstr "Nici un proces de descărcare complet"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "No results found for"
-msgstr "Nici un rezultat găsit pentru"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "No results tagged"
-msgstr "Nici un rezultat etichetat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "found"
-msgstr "găsit"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Show all"
-msgstr "Arată tot"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Nothing found"
-msgstr "Nici un rezultat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Moving"
-msgstr "Mutare"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Unknown file size"
-msgstr "Dimensiune necunoscută a fișierului"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Merging media streams"
-msgstr "Se unesc stream-uri media"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Allocating disk space..."
-msgstr "Se alocă spațiu pe disk"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
-msgstr "Se reconectează…"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Reconnecting"
-msgstr "Reconectarea"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Paused"
-msgstr "Pauzat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Downloading metadata"
-msgstr "Se descarcă metadata"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Downloading"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Error"
-msgstr "Eroare"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Checking files..."
-msgstr "Verificarea fişierelor..."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
@@ -1228,618 +1036,895 @@ msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 msgctxt "RPCLocalization|"
 msgid "Complete"
-msgstr "Complete"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Queued"
-msgstr "În așteptare"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Stop seeding"
-msgstr "Oprește redistribuirea"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Requesting info..."
-msgstr "Solicitare info..."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Open torrent file..."
-msgstr "Deschide fișierul torent"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Preferences..."
-msgstr "Preferințe"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Settings..."
-msgstr "Setări..."
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Settings"
-msgstr "Setări"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Contact support"
-msgstr "Contact suport"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Auto shutdown"
-msgstr "Oprire automată"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Sleep"
-msgstr "Sleep"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Hibernate"
-msgstr "Hibernare"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Shutdown"
-msgstr "Închidere"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Check for updates"
-msgstr "Verifică dacă există actualizări"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "About Free Download Manager"
-msgstr "Despre Free Download Manager"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Quit"
-msgstr "Renunță"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Exit"
-msgstr "Exit"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Vote for new features"
-msgstr "Votează noi funcții"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "About FDM"
-msgstr "Despre FDM"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure this is a valid file extension?"
-msgstr "Sunteți sigur că aceasta este o extensie validă de fișier?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Please enter numbers only"
-msgstr "Vă rugăm să introduceți doar numere"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too small?"
-msgstr "Sunteți sigur că nu este prea mic?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Why should it be so huge?"
-msgstr "De ce trebuie să fie atât de mare?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Extremely slow, isn't it?"
-msgstr "Extrem de încet, nu-i așa?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Faster doesn't mean better"
-msgstr "Mai repede nu înseamnă mai bine"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Isn't it too frequent?"
-msgstr "Nu este prea frecvent?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Pretty rare to move with the time."
-msgstr "Destul de rar să se mute în timp."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Maybe you'd let it be a little longer?"
-msgstr "Poate îl mai lăsați încă un pic?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
-msgstr "Sunteți sigur că nu este prea lung?"
+msgstr ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 msgctxt "RPCLocalization|"
 msgid "Do you actually want to connect?"
-msgstr "Vreți de fapt să vă conectați?"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Oh no, too many connections!"
-msgstr "Oh nu, sunt prea multe conexiuni!"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "It seems like an understatement."
-msgstr "Pare a fi puțin spus."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "So many? It's overwhelming!"
-msgstr "Atât de multe? E copleșitor!"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "General"
-msgstr "General"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Browser Integration"
-msgstr "Integrare în navigatorul web"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "BitTorrent"
-msgstr "BitTorrent"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Traffic Limits"
-msgstr "Limitări de trafic"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
-msgstr "Limitări de trafic"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Advanced"
-msgstr "Avansat"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Network"
-msgstr "Network"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "No proxy"
-msgstr "Nici un proxy"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "System proxy"
-msgstr "Proxy de sistem"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Configure manually:"
-msgstr "Configurează ma nual:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "HTTP:"
-msgstr "HTTP:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "HTTPS:"
-msgstr "HTTPS:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "FTP:"
-msgstr "FTP:"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Address"
-msgstr "Adresă"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Port"
-msgstr "Port"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Login"
-msgstr "Login"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|settings"
 msgid "Login"
-msgstr "Login"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Password"
-msgstr "Parolă"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Startup"
-msgstr "Startup"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Downloads"
-msgstr "Descărcări"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Launch at startup (minimized)"
-msgstr "Lansează la startup (minimalizat)"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Open at Login"
-msgstr "Deschide la login"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Close button minimizes window"
-msgstr "Butonul close minimalizează fereastra"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Check if FDM is your default torrent client"
-msgstr "Verificați dacă FDM este clientul torent predefinit"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Update"
-msgstr "Actualizare"
+msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|settings"
 msgid "Update"
-msgstr "Actualizare"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Check for updates automatically"
-msgstr "Verificați automat dacă există actualizări"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Install updates automatically"
-msgstr "Instalați automat actualizări"
+msgstr ""
 
-#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on file type"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on download URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Default folder:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Associate with torrents"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Notifications"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Notify me of completed downloads via Notification Center"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Only when FDM window is inactive"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Action of Remove button (main panel) or Delete key"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from list"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Delete file(s) from disk"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Always ask"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads from"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start downloading without confirmation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use only HTTP ports to catch downloads in Edge"
+msgstr ""
+
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
-msgstr "Safari: permite FDM"
+msgstr ""
 
-#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "extension"
+msgstr ""
+
 msgctxt "RPCLocalization|"
 msgid "for context menu"
-msgstr "pentru meniul contextual"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Automatically catch downloads from browsers"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Edge"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Internet Explorer"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Firefox"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Chrome"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Verify if"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "is enabled"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "No Chrome installation was found."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "You can"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "download Chrome here"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use browser if you cancel download via FDM"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads smaller than"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Kbytes"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Skip files with extensions:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add FDM to browser context menu"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use proxy for P2P connections"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Parameters"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Low"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Medium"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "High"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Normal"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Skip"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download speed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of simultaneous downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of connections"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "History"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Remember all destination folders"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
 msgid_plural "Clear history older than"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 msgctxt "RPCLocalization|"
 msgid "days"
 msgid_plural "days"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of history records:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Disk usage"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Preallocate disk space for files larger than"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Gbytes"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Power management"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Prevent sleep if there are active downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Delete button action"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Delete files"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "DHT"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Port forwarding"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Local peer discovery"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Peer exchange"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "uTP"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use ports in range:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "to"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Reset"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Select All"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Status"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Speed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Size"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Added"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start all"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Pause all"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start selected"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Pause selected"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add new download..."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Move to trash"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Remove from list"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Move to..."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Search"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Main menu"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Remember my choice"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Delete file"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "All"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Active"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Completed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Customize color"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Remove tag"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid ""
+"Would you like to make Free Download Manager the default torrent client?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don’t ask again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set as Default"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Computer will be put to sleep after all downloads are completed."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Computer will shut down after all downloads are completed."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Computer will hibernate after all downloads are completed."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Checking for updates..."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Retry"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error downloading update:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Downloading update"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Checking..."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Update downloaded"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Install update"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Installing updates"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch FDM to update"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error occurred during installation:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Restart computer to complete installation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "FDM is up to date!"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "New version is available"
+msgstr ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ns"
 msgid_plural "%ns"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nm"
 msgid_plural "%nm"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nh"
 msgid_plural "%nh"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nd"
 msgid_plural "%nd"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nw"
 msgid_plural "%nw"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ny"
 msgid_plural "%ny"
 msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
-msgid "Compare with"
-msgstr "Compara cu"
+msgid "YouTube"
+msgstr ""
 
-#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Torrent"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Options"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Open Scheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Sсheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start and pause downloads at specified time"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Enable Scheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Sun"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Mon"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Tue"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Wed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Thu"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Fri"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Sat"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "From:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "To:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Change settings"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Change preferences"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Tip"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Computer won't be put to sleep because there are scheduled downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Scheduler"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there're scheduled downloads"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Press"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "to let the browser process the download"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Check file integrity"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Calculate"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Calculating"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Verification OK"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Verification failed"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Compare with:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Close"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 left"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Browsers:"
+msgstr ""
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Done"
+msgstr ""
+
 msgctxt "RPCLocalization|tags panel"
 msgid "Completed"
-msgstr "Terminat"
+msgstr ""
 
-#, fuzzy
+#, qt-format
 msgctxt "RPCLocalization|"
-msgid "Start download"
-msgstr "Start download"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Seeding"
-msgstr "Semanatoare"
-
-msgctxt "RPCLocalization|"
-msgid "Use server time for file creation"
+msgid "%1 of %2"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Set days of the week to enable Scheduler"
+msgid "Restore"
 msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Enter URL or choose torrent file"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "New file"
-msgstr "Fişier nou"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "New files"
-msgstr "Fişiere noi"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "New video"
-msgstr "Nou video"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "New torrent"
-msgstr "Nou torrent"
-
-msgctxt "RPCLocalization|"
-msgid "Save to"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "File name"
-msgstr "Nume fisier"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Create subfolder"
-msgstr "Creaţi subfolderul"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Torrent contents"
-msgstr "Conţinutul de torrent"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Authentication required:"
-msgstr "Autentificare obligatorie:"
-
-msgctxt "RPCLocalization|"
-msgid "Enter new URL"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "File location"
-msgstr "Locație fișier"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Download links"
-msgstr "Download link-uri"
-
-msgctxt "RPCLocalization|"
-msgid "Restore default settings?"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Default settings"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Found incomplete download with same name and size."
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Would you like to start new or resume downloading?"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Start new"
-msgstr "Începe noi"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Resume"
-msgstr "Cv-ul"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Hash"
-msgstr "Hash"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Selected filepath is not valid."
-msgstr "Selectate filepath nu este valabil."
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Hold"
-msgstr "Ţineţi"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Traffic limits"
-msgstr "Limite de trafic"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Alt key"
-msgstr "Tasta alt"
-
-msgctxt "RPCLocalization|"
-msgid "Holding Alt, click link to download via browser."
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Disk space needed:"
-msgstr "Spațiu-disc este necesar:"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Hide bottom panel"
-msgstr "Ascundeţi panoul de jos"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Show bottom panel"
-msgstr "Arată panoul de jos"
-
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "disk %1"
-msgstr "disc %1"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Tag with the same name already exists"
-msgstr "Tag-ul cu acelaşi nume există deja"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Enable sleep mode while seeding torrents"
-msgstr "Permite modul \"sleep\" în timp ce însămânţarea torrents"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "on"
-msgstr "pe"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "and"
-msgstr "şi"
-
-msgctxt "RPCLocalization|"
-msgid "Automatically remove deleted files from download list"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Some files corrupted"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Save"
-msgstr "Salva"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Share with friends"
-msgstr "Partaja cu prietenii"
-
-msgctxt "RPCLocalization|"
-msgid "Paste urls from clipboard"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Change download URL"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Saved as:"
-msgstr "Salvate ca:"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Invalid URL"
-msgstr "Invalid URL"
-
-msgctxt "RPCLocalization|"
-msgid "Suggest folders based on file type"
-msgstr "Sugerați directoare în funcție de tipul fișierului"
-
-msgctxt "RPCLocalization|"
-msgid "Suggest folders based on download URL"
-msgstr "Sugerați setări bazate pe adresa URL de descărcare"
-
-msgctxt "RPCLocalization|"
-msgid "Default folder:"
-msgstr "Director predefinit:"
-
-msgctxt "RPCLocalization|"
-msgid "Associate with torrents"
-msgstr "Asociere cu torenți"
-
-msgctxt "RPCLocalization|"
-msgid "Notifications"
-msgstr "Notificări"
-
-msgctxt "RPCLocalization|"
-msgid "Notify me of completed downloads via Notification Center"
-msgstr ""
-"Notifică-mă asupra proceselor de descărcare complete via Notification Center"
-
-msgctxt "RPCLocalization|"
-msgid "Only when FDM window is inactive"
-msgstr "Doar când fereastra FDM este inactivă"
-
-msgctxt "RPCLocalization|"
-msgid "Action of Remove button (main panel) or Delete key"
-msgstr "Acțiune a butonului Remove (panoul principal) sau Delete Key"
-
-msgctxt "RPCLocalization|"
-msgid "Remove only from list"
-msgstr "Înlătură doar din listă"
-
-msgctxt "RPCLocalization|"
-msgid "Delete file(s) from disk"
-msgstr "Șterge fișiere de pe disk"
-
-msgctxt "RPCLocalization|"
-msgid "Always ask"
-msgstr "Întreabă întotdeauna"
-
-msgctxt "RPCLocalization|"
-msgid "Don't catch downloads from"
-msgstr "Nu descărcați de pe"
 
 msgctxt "RPCLocalization|"
 msgid "Using Alt key"
@@ -1874,720 +1959,243 @@ msgid "Go back to default settings"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Use only HTTP ports to catch downloads in Edge"
+msgid "Hold"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "extension"
-msgstr "extensia"
-
-msgctxt "RPCLocalization|"
-msgid "Automatically catch downloads from browsers"
-msgstr "Captează automat link-uri din navigatoarele web"
-
-msgctxt "RPCLocalization|"
-msgid "Edge"
-msgstr "Margine"
-
-msgctxt "RPCLocalization|"
-msgid "Internet Explorer"
-msgstr "Internet Explorer"
-
-msgctxt "RPCLocalization|"
-msgid "Firefox"
-msgstr "Firefox"
-
-msgctxt "RPCLocalization|"
-msgid "Chrome"
-msgstr "Chrome"
-
-msgctxt "RPCLocalization|"
-msgid "Verify if"
-msgstr "Asigurați-vă că"
-
-msgctxt "RPCLocalization|"
-msgid "is enabled"
-msgstr "este instalat și activat în Chrome"
-
-msgctxt "RPCLocalization|"
-msgid "No Chrome installation was found."
-msgstr "Nu a fost găsită nici o instalare Chrome."
-
-msgctxt "RPCLocalization|"
-msgid "You can"
-msgstr "Puteți"
-
-msgctxt "RPCLocalization|"
-msgid "download Chrome here"
-msgstr "descărca Chrome aici"
-
-msgctxt "RPCLocalization|"
-msgid "Don't catch downloads smaller than"
-msgstr "Nu captați descărcări mai mici de"
-
-msgctxt "RPCLocalization|"
-msgid "Kbytes"
-msgstr "Kbyți"
-
-msgctxt "RPCLocalization|"
-msgid "Skip files with extensions:"
-msgstr "Omite fișiere cu extensii:"
-
-msgctxt "RPCLocalization|"
-msgid "Add FDM to browser context menu"
-msgstr "Adăugați FDM în meniul context al navigatorului web"
-
-msgctxt "RPCLocalization|"
-msgid "Use proxy for P2P connections"
-msgstr "Folosiți proxy în conexiunile peer-to-peer"
-
-msgctxt "RPCLocalization|"
-msgid "Parameters"
-msgstr "Parametrii"
-
-msgctxt "RPCLocalization|"
-msgid "Low"
-msgstr "Scăzut"
-
-msgctxt "RPCLocalization|"
-msgid "Medium"
-msgstr "Mediu"
-
-msgctxt "RPCLocalization|"
-msgid "High"
-msgstr "Ridicat"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Normal"
-msgstr "Normal"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Skip"
-msgstr "Skip"
-
-msgctxt "RPCLocalization|"
-msgid "Download speed"
-msgstr "Viteza de descărcare"
-
-msgctxt "RPCLocalization|"
-msgid "Upload speed"
-msgstr "Viteza de încărcare"
-
-msgctxt "RPCLocalization|"
-msgid "Maximum number of connections"
-msgstr "Numărul maxim de conexiuni"
-
-msgctxt "RPCLocalization|"
-msgid "History"
-msgstr "Istoric"
-
-msgctxt "RPCLocalization|"
-msgid "Remember all destination folders"
-msgstr "Reține toate directoarele destinație"
-
-msgctxt "RPCLocalization|"
-msgid "Maximum number of history records:"
-msgstr "Numărul maxim de înregistrări ale istoricului:"
-
-msgctxt "RPCLocalization|"
-msgid "Disk usage"
-msgstr "Gradul de utilizare al diskului"
-
-msgctxt "RPCLocalization|"
-msgid "Preallocate disk space for files larger than"
-msgstr "Pre-alocă spațiu pe disk pentru fișiere mai mari de"
-
-msgctxt "RPCLocalization|"
-msgid "Gbytes"
-msgstr "Gigabiți"
-
-msgctxt "RPCLocalization|"
-msgid "Power management"
-msgstr "Administrarea Power"
-
-msgctxt "RPCLocalization|"
-msgid "Prevent sleep if there are active downloads"
-msgstr ""
-"Previne întrarea în modul Sleep dacă există procese active de descărcare"
-
-msgctxt "RPCLocalization|"
-msgid "Delete button action"
-msgstr "Acțiune buton de ștergere"
-
-msgctxt "RPCLocalization|"
-msgid "Delete files"
-msgstr "Șterge fișiere"
-
-msgctxt "RPCLocalization|"
-msgid "DHT"
-msgstr "DHT"
-
-msgctxt "RPCLocalization|"
-msgid "Port forwarding"
-msgstr "Transmiterea mai departe a porturilor"
-
-msgctxt "RPCLocalization|"
-msgid "Local peer discovery"
-msgstr "Descoperire a unei perechi locale"
-
-msgctxt "RPCLocalization|"
-msgid "Peer exchange"
-msgstr "Schimb de perechi"
-
-msgctxt "RPCLocalization|"
-msgid "uTP"
-msgstr "uTP"
-
-msgctxt "RPCLocalization|"
-msgid "Use ports in range:"
-msgstr "Folosește porturi în uz"
-
-msgctxt "RPCLocalization|"
-msgid "to"
-msgstr "la"
-
-msgctxt "RPCLocalization|"
-msgid "Reset"
-msgstr "Reset"
-
-msgctxt "RPCLocalization|"
-msgid "Select All"
-msgstr "Selectează tot"
-
-msgctxt "RPCLocalization|"
-msgid "Name"
-msgstr "Nume"
-
-msgctxt "RPCLocalization|"
-msgid "Status"
-msgstr "Status"
-
-msgctxt "RPCLocalization|"
-msgid "Speed"
-msgstr "Viteză"
-
-msgctxt "RPCLocalization|"
-msgid "Size"
-msgstr "Dimensiune"
-
-msgctxt "RPCLocalization|"
-msgid "Added"
-msgstr "Adăugat"
-
-msgctxt "RPCLocalization|"
-msgid "Start all"
-msgstr "Pornește tot"
-
-msgctxt "RPCLocalization|"
-msgid "Pause all"
-msgstr "Pauzează tot"
-
-msgctxt "RPCLocalization|"
-msgid "Start selected"
-msgstr "Pornește ce este selectat"
-
-msgctxt "RPCLocalization|"
-msgid "Pause selected"
-msgstr "Pauzează ce este selectat"
-
-msgctxt "RPCLocalization|"
-msgid "Add new download..."
-msgstr "Adăugă un nou proces de descărcare"
-
-msgctxt "RPCLocalization|"
-msgid "Move to trash"
-msgstr "Mută în gunoi"
-
-msgctxt "RPCLocalization|"
-msgid "Remove from list"
-msgstr "Înlătură din listă"
-
-msgctxt "RPCLocalization|"
-msgid "Delete selected"
-msgstr "Șterge ce este selectat"
-
-msgctxt "RPCLocalization|"
-msgid "Move to..."
-msgstr "Muta în…"
-
-msgctxt "RPCLocalization|"
-msgid "Search"
-msgstr "Caută"
-
-msgctxt "RPCLocalization|"
-msgid "Main menu"
-msgstr "Meniul principal"
-
-msgctxt "RPCLocalization|"
-msgid "Delete selected downloads"
-msgstr "Șterge procesele de descărcare selectate"
-
-msgctxt "RPCLocalization|"
-msgid "Remember my choice"
-msgstr "Reține alegerea mea"
-
-msgctxt "RPCLocalization|"
-msgid "Delete file"
-msgstr "Șterge fișier"
-
-msgctxt "RPCLocalization|"
-msgid "All"
-msgstr "Tot"
-
-msgctxt "RPCLocalization|"
-msgid "Active"
-msgstr "Activ"
-
-msgctxt "RPCLocalization|"
-msgid "Completed"
-msgstr "Terminat"
-
-msgctxt "RPCLocalization|"
-msgid "Customize color"
-msgstr "Personalizeează culoarea"
-
-msgctxt "RPCLocalization|"
-msgid "Remove tag"
-msgstr "Înlătură eticheta"
-
-msgctxt "RPCLocalization|"
-msgid ""
-"Would you like to make Free Download Manager the default torrent client?"
-msgstr "Doriți să faceți Free Download Manager clientul torent predefinit?"
-
-msgctxt "RPCLocalization|"
-msgid "Don’t ask again"
-msgstr "Nu mă mai întreba"
-
-msgctxt "RPCLocalization|"
-msgid "Set as Default"
-msgstr "Setează ca predefinit"
-
-msgctxt "RPCLocalization|"
-msgid "Computer will be put to sleep after all downloads are completed."
-msgstr ""
-"Computerul va trece în modul sleep după ce procesele de descărcare for fi "
-"încheiate."
-
-msgctxt "RPCLocalization|"
-msgid "Computer will shut down after all downloads are completed."
-msgstr ""
-"Computerul va fi oprit după ce toate procesele de descărcare vor fi "
-"încheiate."
-
-msgctxt "RPCLocalization|"
-msgid "Computer will hibernate after all downloads are completed."
-msgstr ""
-"Computerul va hiberna după ce toate procesele de descărcare vor fi încheiate."
-
-msgctxt "RPCLocalization|"
-msgid "Checking for updates..."
-msgstr "Se verifică dacă există actualizări…"
-
-msgctxt "RPCLocalization|"
-msgid "Retry"
-msgstr "Reîncearcă"
-
-msgctxt "RPCLocalization|"
-msgid "Error:"
-msgstr "Eroare:"
-
-msgctxt "RPCLocalization|"
-msgid "Error downloading update:"
-msgstr "Eroare în descărcarea actualizărilor:"
-
-msgctxt "RPCLocalization|"
-msgid "Downloading update"
-msgstr "Se descarcă actualizarea"
-
-msgctxt "RPCLocalization|"
-msgid "Checking..."
-msgstr "Se verifică..."
-
-msgctxt "RPCLocalization|"
-msgid "Update downloaded"
-msgstr "Actualizează fișierul descărcat"
-
-msgctxt "RPCLocalization|"
-msgid "Install update"
-msgstr "Instalează actualizarea"
-
-msgctxt "RPCLocalization|"
-msgid "Installing updates"
-msgstr "Se instalează actualizările"
-
-msgctxt "RPCLocalization|"
-msgid "Relaunch FDM to update"
-msgstr "Repornește FDM pentru a actualiza"
-
-msgctxt "RPCLocalization|"
-msgid "Relaunch"
-msgstr "Repornește"
-
-msgctxt "RPCLocalization|"
-msgid "Error occurred during installation:"
-msgstr "Eroare apărută în timpul instalării:"
-
-msgctxt "RPCLocalization|"
-msgid "Restart computer to complete installation"
-msgstr "Reporniți computerul pentru a definitiva instalarea"
-
-msgctxt "RPCLocalization|"
-msgid "FDM is up to date!"
-msgstr "FDM este actualizat!"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "New version is available"
-msgstr "Noua versiune este disponibila"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "YouTube"
-msgstr "YouTube"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Torrent"
-msgstr "Torrent"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Options"
-msgstr "Opţiuni"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Open Scheduler"
-msgstr "Deschide Scheduler"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Sсheduler"
-msgstr "Sсheduler"
-
-msgctxt "RPCLocalization|"
-msgid "Start and pause downloads at specified time"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Enable Scheduler"
-msgstr "Activează Planificator"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Sun"
-msgstr "Soare"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Mon"
-msgstr "Mon"
-
-msgctxt "RPCLocalization|"
-msgid "Tue"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Wed"
-msgstr "Wed"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Thu"
-msgstr "Thu"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Fri"
-msgstr "Fri"
-
-msgctxt "RPCLocalization|"
-msgid "Sat"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "From:"
-msgstr "De la:"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "To:"
-msgstr "A:"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Change settings"
-msgstr "Modifica setările"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Change preferences"
-msgstr "Schimba preferinţele"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Tip"
-msgstr "Sfat"
-
-msgctxt "RPCLocalization|"
-msgid "Computer won't be put to sleep because there are scheduled downloads"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Scheduler"
-msgstr "Scheduler"
-
-msgctxt "RPCLocalization|"
-msgid "Don't put your computer to sleep if there're scheduled downloads"
+msgid "Alt key"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Restore"
-msgstr ""
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Press"
-msgstr "Apăsați"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Start downloading without confirmation"
-msgstr "Începe descărcarea fără confirmare"
-
-msgctxt "RPCLocalization|"
-msgid "Use browser if you cancel download via FDM"
+msgid "Holding Alt, click link to download via browser."
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Maximum number of simultaneous downloads"
+msgid "Disk space needed:"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "to let the browser process the download"
+msgid "Hide bottom panel"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Check file integrity"
+msgid "Show bottom panel"
 msgstr ""
 
-#, fuzzy
+#, qt-format
 msgctxt "RPCLocalization|"
-msgid "Calculate"
-msgstr "Se calculează"
-
-msgctxt "RPCLocalization|"
-msgid "Calculating"
+msgid "disk %1"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
-msgid "Verification OK"
-msgstr "Verificarea OK"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Verification failed"
-msgstr "Verificare nu a reuşit"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Close"
-msgstr "Închide"
-
-#, fuzzy, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 left"
-msgstr "%1 stânga"
-
-#, fuzzy
-msgctxt "RPCLocalization|"
-msgid "Browsers:"
-msgstr "Browsere:"
-
-msgctxt "RPCLocalization|"
-msgid "Done"
+msgid "Tag with the same name already exists"
 msgstr ""
 
-#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
-msgid "%1 of %2"
-msgstr "%1 de %2"
+msgid "Enable sleep mode while seeding torrents"
+msgstr ""
 
-#, fuzzy
-msgctxt "RPCLocalization|Advanced"
-msgid "Options"
-msgstr "Opţiuni"
+msgctxt "RPCLocalization|"
+msgid "on"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "and"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Automatically remove deleted files from download list"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Some files corrupted"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Save"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Share with friends"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Paste urls from clipboard"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Change download URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Saved as:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Invalid URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start download"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Seeding"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr ""
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Accept"
-msgstr "Accepta"
+msgstr ""
 
 msgctxt "RPCSystem|"
 msgid "Download to"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCSystem|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 msgctxt "RPCSystem|"
 msgid "Open torrent file"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr "Torrent dosar"
+msgstr ""
 
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
 msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Stopping seeding"
-msgstr "Oprirea semănat"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading enabled"
-msgstr "Descărcarea secvențială activat"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading disabled"
-msgstr "Dezactivat descărcarea secvenţiale"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Trackers merged"
-msgstr "Trackere fuzionat"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
-msgstr "Incepand de semanare"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
-msgstr "A intervenit o eroare necunoscută"
+msgstr ""
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Error occurred: %1"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Maximum number of connections is %1"
-msgstr "Numărul maxim de conexiuni este %1"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "unlimited"
-msgstr "nelimitat"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr "Viteza de download este nelimitat"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr "Viteza de download este limitat la %1/s"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr "Viteza de upload este nelimitat"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
-msgstr "Viteza de upload este limitat la %1/s"
-#, fuzzy
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "Dosar is misiune"
+msgstr ""
 
-#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "Files are missing"
+msgstr ""
+
+msgctxt "TorrentDownload|"
+msgid "File is missing"
+msgstr ""
+
 msgctxt "TorrentDownload|"
 msgid "Starting download"
-msgstr "Incepand de download"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Checking files"
-msgstr "Verificarea fişierelor"
+msgstr ""
 
 msgctxt "TorrentDownload|"
 msgid "Downloading"
 msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Download complete"
-msgstr "Descarcă complet"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Can't move files recursively"
-msgstr "Nu se poate muta fișiere recursiv"
+msgstr ""
 
 msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
-msgstr "Mutarea fișierelor pentru a %1"
+msgstr ""
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
 msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Waiting for metadata"
-msgstr "Aşteptare pentru metadate"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Updating"
-msgstr "Actualizarea"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Working"
-msgstr "De lucru"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
-msgstr "Metadate primite"
+msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
-msgstr "Utilizator autorizaţii necesare"
+msgstr ""
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
@@ -2597,10 +2205,9 @@ msgctxt "TorrentDownload|"
 msgid "Files moving failed"
 msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "File moving failed"
-msgstr "Fişier în mişcare nu a reușit"
+msgstr ""
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2612,317 +2219,269 @@ msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
 msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
-msgstr "S-a mutat cu succes"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid ", average speed: %1"
-msgstr ", viteza medie: %1"
+msgstr ""
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
-msgstr "Dosar în mişcare nu a reușit: %1"
+msgstr ""
 
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
 msgstr ""
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr "Mutarea fişier anulate"
+msgstr ""
 
-#, fuzzy
-msgctxt "TorrentDownload|"
-msgid "Unexpected error"
-msgstr "Eroare neașteptată"
-
-#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Show main window"
-msgstr "Arată fereastra principală"
+msgstr ""
 
-#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Open at Login"
-msgstr "Deschide la login"
+msgstr ""
 
-#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Launch at startup"
-msgstr "Lansarea la startup"
+msgstr ""
 
-#, fuzzy
 msgctxt "TrayMenu|"
 msgid "About FDM"
-msgstr "Despre FDM"
+msgstr ""
 
-#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Quit FDM"
-msgstr "Renunta FDM"
+msgstr ""
 
-#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Quit"
-msgstr "Renunță"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "UIHelper|"
 msgid "About %1"
-msgstr "Despre %1"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "UIHelper|"
 msgid "Version %1 (%2)"
-msgstr "Versiunea %1 (%2)"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Open"
-msgstr "Deschis"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Reveal in Finder"
-msgstr "Afișează în Finder"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Show in folder"
-msgstr "Arată în folder"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Show info"
-msgstr "Show info"
+msgstr ""
 
 msgctxt "UIHelper|"
 msgid "Choose files..."
 msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Pause all except selected"
-msgstr "Întrerupe toate, cu excepţia selectate"
+msgstr ""
 
 msgctxt "UIHelper|"
 msgid "Pause all except this one"
 msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Restart selected"
-msgstr "Reporniţi selectate"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Restart"
-msgstr "Restart"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Set priority"
-msgstr "Set prioritate"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Move to..."
-msgstr "Muta în…"
+msgstr ""
 
 msgctxt "UIHelper|"
 msgid "Download to..."
 msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Move to trash"
-msgstr "Mută în gunoi"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Delete files"
-msgstr "Șterge fișiere"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Delete file"
-msgstr "Șterge fișier"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Remove from list"
-msgstr "Înlătură din listă"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Enable seeding"
-msgstr "Permite redistribuirea"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Sequential download"
-msgstr "Secvențială download"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Force recheck"
-msgstr "Vigoare se verifică din nou"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Force reannounce"
-msgstr "Vigoare reannounce"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Copy link"
-msgstr "Copia link-ul"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Add tag"
-msgstr "Adăugaţi tag-ul"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "File integrity"
-msgstr "Fişier integritatea"
+msgstr ""
 
 msgctxt "UIHelper|"
 msgid "Schedule"
 msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Change URL"
-msgstr "Schimbarea URL-ul"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "High priority"
-msgstr "De înaltă prioritate"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Normal priority"
-msgstr "Prioritate normală"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Low priority"
-msgstr "Prioritate scăzută"
-#, fuzzy
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Skip"
+msgstr ""
 
-#, fuzzy
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr ""
+
 msgctxt "UIHelper|"
 msgid "Edit"
-msgstr "Editare"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Remove"
-msgstr "Elimina"
+msgstr ""
 
 msgctxt "UIHelper|"
 msgid "Untag"
 msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Copy log to clipboard"
-msgstr "Jurnal de copie la clipboard"
+msgstr ""
 
 msgctxt "UIHelper|"
 msgid "Save log to file"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "UIHelper|"
 msgid "FDM Log [%1].txt"
-msgstr "FDM Log [%1].txt"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Save Log"
-msgstr "Save Log"
+msgstr ""
 
-#, fuzzy
 msgctxt "UIHelper|"
 msgid "Text files"
-msgstr "Fisiere text"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "UIHelper|"
 msgid "%1 K"
-msgstr "%1 K"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
-msgstr "%1 M"
+msgstr ""
 
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
-msgstr "Dosar is misiune"
+msgstr ""
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Error: files are missing."
-msgstr "Eroare: fişierele lipsesc."
+msgstr ""
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
-msgstr "Fișierele mutate cu succes"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
-msgstr "Se deplasează la %1"
+msgstr ""
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
 msgstr ""
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Merging media streams"
-msgstr "Se unesc stream-uri media"
+msgstr ""
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Redirecting"
-msgstr "Redirectionarea"
+msgstr ""
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
-msgstr "Manipularea redirect"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "AudioStream: %1"
-msgstr "AudioStream: %1"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
-msgstr "VideoStream: %1"
+msgstr ""
 
 msgctxt "YoutubeDownload|"
 msgid "Downloading page"
@@ -2944,40 +2503,38 @@ msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
-msgstr "Parsarea eşec: %1"
+msgstr ""
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
-msgstr "Descarcă complet"
+msgstr ""
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
 msgstr ""
 
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
-msgstr "S-a mutat cu succes"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid ", average speed: %1"
-msgstr ", viteza medie: %1"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
-msgstr "Fișier este redenumit %1"
+msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
-msgstr "Mutarea nu a reușit: %1"
+msgstr ""
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."

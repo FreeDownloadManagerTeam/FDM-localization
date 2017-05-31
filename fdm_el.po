@@ -8,14 +8,17 @@ msgstr ""
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 
+#, fuzzy
 msgid "Download with FDM"
-msgstr ""
+msgstr "Κατεβάστε με FDM"
 
+#, fuzzy
 msgid "Download selected with FDM"
-msgstr ""
+msgstr "Κατεβάστε επιλεγμένο με FDM"
 
+#, fuzzy
 msgid "Download video with FDM"
-msgstr ""
+msgstr "Λήψη βίντεο με FDM"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
 msgstr ""
@@ -23,51 +26,102 @@ msgstr ""
 msgid "No flash video found. Try reloading this page."
 msgstr ""
 
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr ""
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr ""
+
+msgctxt "Download|"
+msgid "Queued"
+msgstr ""
+
+#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
-msgstr ""
+msgstr "Skip"
 
+#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Low"
-msgstr ""
+msgstr "Χαμηλή"
 
+#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "Κανονική"
 
+#, fuzzy
 msgctxt "DownloadFileInfo|"
 msgid "High"
-msgstr ""
+msgstr "Υψηλή"
 
+#, fuzzy
 msgctxt "DownloadInfo|"
 msgid "Low"
-msgstr ""
+msgstr "Χαμηλή"
 
+#, fuzzy
 msgctxt "DownloadInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "Κανονική"
 
+#, fuzzy
 msgctxt "DownloadInfo|"
 msgid "High"
-msgstr ""
+msgstr "Υψηλή"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
-msgstr ""
+msgstr "Σφάλμα HTTP %1: %2"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Σφάλμα %1"
 
 #, qt-format
 msgctxt "HttpError|"
-msgid "Error %1"
+msgid "HTTP Error %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Άγνωστο σφάλμα"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Remote host name not found"
-msgstr ""
+msgstr "Όνομα απομακρυσμένου κεντρικού υπολογιστή δεν βρέθηκε"
 
 msgctxt "HttpError|"
 msgid "Operation canceled"
@@ -77,17 +131,20 @@ msgctxt "HttpError|"
 msgid "Remote server closed connection"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr ""
+msgstr "Έληξε το χρονικό όριο της σύνδεσης"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr ""
+msgstr "Χειραψία SSL/TLS που απέτυχε"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Σύνδεση απορρίφθηκε"
 
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
@@ -97,13 +154,15 @@ msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "Ακατάλληλη Αίτηση"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "Μη εξουσιοδοτημένη"
 
 msgctxt "HttpError|"
 msgid "Payment Required"
@@ -113,29 +172,34 @@ msgctxt "HttpError|"
 msgid "Forbidden"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr ""
+msgstr "Δεν Βρέθηκε"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "Η Μέθοδος Δεν Επιτρέπεται"
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "Απαιτείται Έλεγχος Ταυτότητας Διακομιστή Μεσολάβησης"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "Χρονικό Όριο Αίτησης"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr ""
+msgstr "Σύγκρουση"
 
 msgctxt "HttpError|"
 msgid "Gone"
@@ -145,77 +209,92 @@ msgctxt "HttpError|"
 msgid "Length Required"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "Προϋπόθεση Απέτυχε"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "Οντότητα Αίτησης Είναι Πολύ Μεγάλη"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr ""
+msgstr "Μη Υποστηριζόμενος Τύπος Μέσου"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr ""
+msgstr "Το Εύρος Που Ζητήθηκε Δεν Είναι Δυνατό Να Ικανοποιηθεί"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "Προσδοκία Απέτυχε"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "Είμαι μια τσαγιέρα"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "Authentication Timeout"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr ""
+msgstr "Μέθοδος Ανεπάρκεια / Βελτιώστε Την Ηρεμία Σας"
 
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr ""
+msgstr "Κλειδωμένο"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr ""
+msgstr "Απέτυχε Εξάρτησης / Μέθοδος Αποτυχία"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "Μη Διατεταγμένη Συλλογή"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "Απαιτείται Αναβάθμιση"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr ""
+msgstr "Πάρα Πολλές Αιτήσεις"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr ""
+msgstr "Αίτημα Πεδία Κεφαλίδας Πολύ Μεγάλες"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "Login Timeout"
 
 msgctxt "HttpError|"
 msgid "No Response"
@@ -225,9 +304,10 @@ msgctxt "HttpError|"
 msgid "Retry With"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "Αποκλεισμένη από τα Windows Γονικού Ελέγχου"
 
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
@@ -237,99 +317,116 @@ msgctxt "HttpError|"
 msgid "Request Header Too Large"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "Cert Σφάλμα"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr ""
+msgstr "Καμία Cert"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
-msgstr ""
+msgstr "HTTP σε HTTPS"
 
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Client Closed Request"
-msgstr ""
+msgstr "Πελάτης Κλείσει Το Αίτημα"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Εσωτερικό Σφάλμα Διακομιστή"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr ""
+msgstr "Δεν Έχει Υλοποιηθεί"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "Εσφαλμένη πύλη"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "Gateway Timeout"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr ""
+msgstr "Παραλλαγή Επίσης Διαπραγματεύεται"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "Ανεπαρκή Αποθήκευση"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "Βρόχος Εντοπιστεί"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "Το Εύρος Ζώνης Υπέρβαση Ορίου"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Extended"
-msgstr ""
+msgstr "Δεν Παραταθεί"
 
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "Δίκτυο διαβάστε σφάλμα χρονικού ορίου"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr ""
+msgstr "Network connect σφάλμα χρονικού ορίου"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "Μέγιστος αριθμός συνδέσεων είναι %1"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "unlimited"
-msgstr ""
+msgstr "απεριόριστη"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Ταχύτητα λήψης είναι απεριόριστη"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr ""
+msgstr "Κατεβάζω ταχύτητα περιορίζεται σε %1/s"
 
 
 msgctxt "HttpFileDownload|"
@@ -340,9 +437,10 @@ msgctxt "HttpFileDownload|"
 msgid "Reconnecting"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr ""
+msgstr "Ξεκινώντας λήψη"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
@@ -352,10 +450,10 @@ msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
-msgstr ""
+msgstr "Μετακίνηση αρχείου για να %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -380,23 +478,25 @@ msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr ""
+msgstr "Άνοιγμα σύνδεσης #%1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
-msgstr ""
+msgstr "#%1 κλειστά"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr ""
+msgstr "Απέτυχε να ολοκληρώσει τη λήψη"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
-msgstr ""
+msgstr "Μη αναμενόμενο σφάλμα"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -408,33 +508,34 @@ msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "downloaded %1"
-msgstr ""
+msgstr "κατέβασαν %1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "(%1/s)"
-msgstr ""
+msgstr "(%1/s)"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1: server ignored partial content request"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 failed with error: %2"
-msgstr ""
+msgstr "#%1 απέτυχε με σφάλμα: %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Αρχείο λείπει"
 
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
@@ -444,9 +545,10 @@ msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
-msgstr ""
+msgstr "Preallocating χώρο στο δίσκο για λήψη"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
@@ -469,44 +571,50 @@ msgctxt "HttpFileDownload|"
 msgid "File moving failed"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
-msgstr ""
+msgstr "Preallocation απέτυχε: %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "%1 finished successfully"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", μέση ταχύτητα: %1"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Space allocation"
-msgstr ""
+msgstr "Κατανομή του χώρου"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Move"
-msgstr ""
+msgstr "Κίνηση"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocation cancelled"
-msgstr ""
+msgstr "Preallocation ακυρωθεί"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocating queued"
-msgstr ""
+msgstr "Preallocating στην ουρά"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocating started"
-msgstr ""
+msgstr "Preallocating ξεκίνησε"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "File"
-msgstr ""
+msgstr "Αρχείο"
 
 msgctxt "MacMainMenu|"
 msgid "Add Download from URL..."
@@ -516,134 +624,162 @@ msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
 msgstr ""
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "MacMainMenu|"
 msgid "About %1"
-msgstr ""
+msgstr "Σχετικά με %1"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Έλεγχος για Ενημερώσεις..."
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Downloads"
-msgstr ""
+msgstr "Λήψεις"
 
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
 msgstr ""
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
-msgstr ""
+msgstr "Παύση Επιλεγμένο"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr ""
+msgstr "Επανεκκίνηση Επιλεγμένο"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Remove from List"
-msgstr ""
+msgstr "Κατάργηση από τη Λίστα"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Επικοινωνήστε Με Την Υποστήριξη"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Vote for New Features"
-msgstr ""
+msgstr "Ψηφοφορία για τα Νέα Χαρακτηριστικά"
 
+#, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Preferences..."
-msgstr ""
+msgstr "Προτιμήσεις..."
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "About Free Download Manager"
-msgstr ""
+msgstr "Σχετικά Με Το Free Download Manager"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Preferences"
-msgstr ""
+msgstr "Προτιμήσεις"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Έλεγχος για Ενημερώσεις..."
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Window"
-msgstr ""
+msgstr "Παράθυρο"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Minimize"
-msgstr ""
+msgstr "Ελαχιστοποίηση"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Zoom"
-msgstr ""
+msgstr "Ζουμ"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "Εισάγετε Πλήρη Οθόνη"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr ""
+msgstr "Φέρει Όλα στο Μέτωπο"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Επικοινωνήστε Με Την Υποστήριξη"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "File"
-msgstr ""
+msgstr "Αρχείο"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Select All"
-msgstr ""
+msgstr "Επιλέξτε Όλα"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Delete"
-msgstr ""
+msgstr "Διαγραφή του"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Paste"
-msgstr ""
+msgstr "Πάστα"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Copy"
-msgstr ""
+msgstr "Αντίγραφο"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Cut"
-msgstr ""
+msgstr "Κομμένα"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Help"
-msgstr ""
+msgstr "Βοήθεια"
 
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr ""
+msgstr "Επιλεγμένο filepath δεν είναι έγκυρη."
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
@@ -657,65 +793,113 @@ msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
 msgstr ""
 
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr "Προσοχή!"
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr "Αρχείο λείπει"
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
+msgstr ""
+
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "locale"
-msgstr ""
+msgstr "τοπικές ρυθμίσεις"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Drag & Drop"
-msgstr ""
+msgstr "Drag & Drop"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "URL or torrent here"
-msgstr ""
+msgstr "Διεύθυνση URL ή torrent εδώ"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Add tag"
-msgstr ""
+msgstr "Προσθήκη ετικέτας"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Preferences"
-msgstr ""
+msgstr "Προτιμήσεις"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Unlimited"
-msgstr ""
+msgstr "Απεριόριστη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Manual..."
-msgstr ""
+msgstr "Εγχειρίδιο..."
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
-msgstr ""
+msgstr "Θέτει όρια με μη αυτόματο τρόπο"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download: unlimited, Upload: unlimited"
-msgstr ""
+msgstr "Download: απεριόριστη, Ανεβάστε: απεριόριστη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download:"
-msgstr ""
+msgstr "Λήψη:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Upload:"
-msgstr ""
+msgstr "Ανεβάστε:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "unlimited"
-msgstr ""
+msgstr "απεριόριστη"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hide details"
-msgstr ""
+msgstr "Απόκρυψη λεπτομερειών"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Show details"
-msgstr ""
+msgstr "Εμφάνιση λεπτομερειών"
 
 #, qt-format
 msgctxt "RPCLocalization|"
@@ -724,101 +908,123 @@ msgid_plural "%n files selected."
 msgstr[0] ""
 msgstr[1] ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Παράσταση στο φάκελο"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Reveal in Finder"
-msgstr ""
+msgstr "Αποκαλύπτουν στο Finder"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Pause"
-msgstr ""
+msgstr "Παύση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Restart"
-msgstr ""
+msgstr "Επανεκκίνηση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start"
-msgstr ""
+msgstr "Έναρξη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Selected size:"
-msgstr ""
+msgstr "Επιλεγμένο μέγεθος:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Size:"
-msgstr ""
+msgstr "Μέγεθος:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "File size:"
-msgstr ""
+msgstr "Μέγεθος αρχείου:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Disk space:"
-msgstr ""
+msgstr "Χώρος στο δίσκο:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Total size:"
-msgstr ""
+msgstr "Συνολικό μέγεθος:"
 
 msgctxt "RPCLocalization|"
 msgid "Checked size:"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Downloaded:"
-msgstr ""
+msgstr "Κατέβηκε:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download speed:"
-msgstr ""
+msgstr "Ταχύτητα λήψης:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Seeds:"
-msgstr ""
+msgstr "Σπόροι:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Domain:"
-msgstr ""
+msgstr "Τομέας:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Uploaded:"
-msgstr ""
+msgstr "Φορτώθηκε:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Upload speed:"
-msgstr ""
+msgstr "Ταχύτητα upload:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Peers:"
-msgstr ""
+msgstr "Peers:"
 
 msgctxt "RPCLocalization|"
 msgid "Share ratio:"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Availability:"
-msgstr ""
+msgstr "Διαθεσιμότητα:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "DHT nodes:"
-msgstr ""
+msgstr "DHT κόμβους:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Client"
-msgstr ""
+msgstr "Προγράμματος-πελάτη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Flags"
-msgstr ""
+msgstr "Σημαίες"
 
 msgctxt "RPCLocalization|"
 msgid "Requests"
@@ -828,189 +1034,220 @@ msgctxt "RPCLocalization|"
 msgid "Downloaded"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Uploaded"
-msgstr ""
+msgstr "Ανεβάσει"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Files"
-msgstr ""
+msgstr "Αρχεία"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Trackers"
-msgstr ""
+msgstr "Ιχνηλάτες"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Peers"
-msgstr ""
+msgstr "Συνομηλίκους τους"
 
 msgctxt "RPCLocalization|"
 msgid "Log"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
-msgstr ""
+msgstr "Ενεργοποίηση σπορά"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Progress"
-msgstr ""
+msgstr "Πρόοδος"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Priority"
-msgstr ""
+msgstr "Προτεραιότητα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "URL"
-msgstr ""
+msgstr "ΔΙΕΎΘΥΝΣΗ URL"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Next announce"
-msgstr ""
+msgstr "Επόμενο ανακοινώσει"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Snail mode"
-msgstr ""
+msgstr "Σαλιγκάρι λειτουργία"
 
-msgctxt "RPCLocalization|"
-msgid "Bandwidth limits"
-msgstr ""
-
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Cancel"
-msgstr ""
+msgstr "Άκυρο"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Apply"
-msgstr ""
+msgstr "Εφαρμόστε"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
-msgstr ""
+msgstr "Ολοκλήρωση του προγράμματος περιήγησης"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Next"
-msgstr ""
+msgstr "Επόμενη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Proceed to download"
-msgstr ""
+msgstr "Προχωρήσει για να κατεβάσετε"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Add download"
-msgstr ""
+msgstr "Προσθήκη κατεβάσετε"
 
 msgctxt "RPCLocalization|"
 msgid "Enter download URL:"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download"
-msgstr ""
+msgstr "Λήψη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download anyway"
-msgstr ""
+msgstr "Λήψη ούτως ή άλλως"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Add"
-msgstr ""
+msgstr "Προσθέστε"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "torrent"
-msgstr ""
+msgstr "torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Save to:"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Select folder"
-msgstr ""
+msgstr "Επιλέξτε φάκελο"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting download info..."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Quality:"
-msgstr ""
+msgstr "Ποιότητα:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Select all"
-msgstr ""
+msgstr "Επιλογή όλων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Select none"
-msgstr ""
+msgstr "Επιλέξτε none"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Torrent already exists"
-msgstr ""
+msgstr "Torrent υπάρχει ήδη"
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
-msgstr ""
+msgstr "Καμία ενεργές λήψεις"
 
 msgctxt "RPCLocalization|"
 msgid "No completed downloads"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "No results found for"
-msgstr ""
+msgstr "Δεν βρέθηκαν αποτελέσματα για"
 
 msgctxt "RPCLocalization|"
 msgid "No results tagged"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "found"
-msgstr ""
+msgstr "βρέθηκαν"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Show all"
-msgstr ""
+msgstr "Εμφάνιση όλων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Nothing found"
-msgstr ""
+msgstr "Τίποτα δεν βρέθηκε"
 
 msgctxt "RPCLocalization|"
 msgid "Moving"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Unknown file size"
-msgstr ""
+msgstr "Άγνωστο το μέγεθος του αρχείου"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Merging media streams"
-msgstr ""
+msgstr "Συγχώνευση ροές πολυμέσων"
 
 msgctxt "RPCLocalization|"
 msgid "Allocating disk space..."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
-msgstr ""
+msgstr "Επανασύνδεση..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Paused"
-msgstr ""
+msgstr "Σε παύση"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading metadata"
@@ -1020,9 +1257,10 @@ msgctxt "RPCLocalization|"
 msgid "Downloading"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Error"
-msgstr ""
+msgstr "Σφάλμα"
 
 msgctxt "RPCLocalization|"
 msgid "Checking files..."
@@ -1039,17 +1277,19 @@ msgid_plural "Completed %n / %2 files"
 msgstr[0] ""
 msgstr[1] ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Complete"
-msgstr ""
+msgstr "Πλήρης"
 
 msgctxt "RPCLocalization|"
 msgid "Queued"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Stop seeding"
-msgstr ""
+msgstr "Σταματήσω σπορά"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting info..."
@@ -1059,85 +1299,101 @@ msgctxt "RPCLocalization|"
 msgid "Open torrent file..."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Preferences..."
-msgstr ""
+msgstr "Προτιμήσεις..."
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Settings..."
-msgstr ""
+msgstr "Ρυθμίσεις..."
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Settings"
-msgstr ""
+msgstr "Ρυθμίσεις"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Contact support"
-msgstr ""
+msgstr "Επικοινωνήστε με την υποστήριξη"
 
 msgctxt "RPCLocalization|"
 msgid "Auto shutdown"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Sleep"
-msgstr ""
+msgstr "Ύπνος"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hibernate"
-msgstr ""
+msgstr "Χειμερία νάρκη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Shutdown"
-msgstr ""
+msgstr "Τερματισμός λειτουργίας"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Check for updates"
-msgstr ""
+msgstr "Έλεγχος για ενημερωμένες εκδόσεις"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "About Free Download Manager"
-msgstr ""
+msgstr "Σχετικά Με Το Free Download Manager"
 
 msgctxt "RPCLocalization|"
 msgid "Quit"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Exit"
-msgstr ""
+msgstr "Έξοδος"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Vote for new features"
-msgstr ""
+msgstr "Ψηφοφορία για νέα χαρακτηριστικά"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "About FDM"
-msgstr ""
+msgstr "Σχετικά με το FDM"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Are you sure this is a valid file extension?"
-msgstr ""
+msgstr "Είστε βέβαιοι ότι αυτό είναι ένα έγκυρο αρχείο επέκταση;"
 
 msgctxt "RPCLocalization|"
 msgid "Please enter numbers only"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too small?"
-msgstr ""
+msgstr "Είστε βέβαιοι ότι δεν είναι πάρα πολύ μικρό;"
 
 msgctxt "RPCLocalization|"
 msgid "Why should it be so huge?"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Extremely slow, isn't it?"
-msgstr ""
+msgstr "Εξαιρετικά αργή, δεν είναι;"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Faster doesn't mean better"
-msgstr ""
+msgstr "Πιο γρήγορα δεν σημαίνει καλύτερα"
 
 msgctxt "RPCLocalization|"
 msgid "Isn't it too frequent?"
@@ -1151,9 +1407,10 @@ msgctxt "RPCLocalization|"
 msgid "Maybe you'd let it be a little longer?"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
-msgstr ""
+msgstr "Είσαι σίγουρος ότι δεν είναι πάρα πολύ καιρό;"
 
 #, qt-format
 msgctxt "RPCLocalization|"
@@ -1177,137 +1434,156 @@ msgctxt "RPCLocalization|"
 msgid "Oh no, too many connections!"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "It seems like an understatement."
-msgstr ""
+msgstr "Φαίνεται σαν μια συγκρατημένη περιγραφή."
 
 msgctxt "RPCLocalization|"
 msgid "So many? It's overwhelming!"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "General"
-msgstr ""
+msgstr "Γενικά"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Browser Integration"
-msgstr ""
+msgstr "Ενσωμάτωση Στο Πρόγραμμα Περιήγησης"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "BitTorrent"
-msgstr ""
+msgstr "BitTorrent"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Traffic Limits"
-msgstr ""
+msgstr "Όρια Κυκλοφορίας"
 
-msgctxt "RPCLocalization|settings"
-msgid "Traffic Limits"
-msgstr ""
-
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Advanced"
-msgstr ""
+msgstr "Για προχωρημένους"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Network"
-msgstr ""
+msgstr "Δίκτυο"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Proxy"
-msgstr ""
+msgstr "Μεσολάβησης"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "No proxy"
-msgstr ""
+msgstr "Χωρίς διακομιστή μεσολάβησης"
 
 msgctxt "RPCLocalization|"
 msgid "System proxy"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Configure manually:"
-msgstr ""
+msgstr "Ρυθμίσετε με μη αυτόματο τρόπο:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "HTTP:"
-msgstr ""
+msgstr "HTTP:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "HTTPS:"
-msgstr ""
+msgstr "HTTPS:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "FTP:"
-msgstr ""
+msgstr "FTP:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Address"
-msgstr ""
+msgstr "Διεύθυνση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Port"
-msgstr ""
+msgstr "Λιμάνι"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Login"
-msgstr ""
+msgstr "Είσοδος"
 
-msgctxt "RPCLocalization|settings"
-msgid "Login"
-msgstr ""
-
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Password"
-msgstr ""
+msgstr "Κωδικό πρόσβασης"
 
 msgctxt "RPCLocalization|"
 msgid "Startup"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Downloads"
-msgstr ""
+msgstr "Λήψεις"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Launch at startup (minimized)"
-msgstr ""
+msgstr "Έναρξη κατά την εκκίνηση (ελαχιστοποιείται)"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Open at Login"
-msgstr ""
+msgstr "Ανοικτό κατά τη Σύνδεση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Close button minimizes window"
-msgstr ""
+msgstr "Κουμπί κλείσιμο για να ελαχιστοποιεί το παράθυρο"
 
 msgctxt "RPCLocalization|"
 msgid "Check if FDM is your default torrent client"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Update"
-msgstr ""
+msgstr "Ενημερωμένη έκδοση"
 
-msgctxt "RPCLocalization|settings"
-msgid "Update"
-msgstr ""
-
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "Έλεγχος για ενημερώσεις αυτόματα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Install updates automatically"
-msgstr ""
+msgstr "Αυτόματη εγκατάσταση ενημερώσεων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
-msgstr ""
+msgstr "Safari: ενεργοποίηση FDM"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "for context menu"
-msgstr ""
+msgstr "για μενού περιβάλλοντος"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Compare with"
+msgstr "Συγκρίνετε με"
 
 msgctxt "RPCLocalization|"
 msgid "Hold"
@@ -1321,22 +1597,24 @@ msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
-msgstr ""
+msgstr "Χώρος στο δίσκο που χρειάζεται:"
 
 msgctxt "RPCLocalization|"
 msgid "Hide bottom panel"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
-msgstr ""
+msgstr "Εμφάνιση κάτω μέρος του πίνακα"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "disk %1"
-msgstr ""
+msgstr "δίσκος %1"
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
@@ -1346,13 +1624,15 @@ msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "on"
-msgstr ""
+msgstr "σχετικά με"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "and"
-msgstr ""
+msgstr "και"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
@@ -1362,13 +1642,15 @@ msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Share with friends"
-msgstr ""
+msgstr "Μοιραστείτε με τους φίλους"
 
 msgctxt "RPCLocalization|"
 msgid "Paste urls from clipboard"
@@ -1378,17 +1660,20 @@ msgctxt "RPCLocalization|"
 msgid "Change download URL"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Saved as:"
-msgstr ""
+msgstr "Αποθηκευτεί ως:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Invalid URL"
-msgstr ""
+msgstr "Μη έγκυρη διεύθυνση URL"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Seeding"
-msgstr ""
+msgstr "Σπορά"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
@@ -1399,32 +1684,135 @@ msgid "Set days of the week to enable Scheduler"
 msgstr ""
 
 msgctxt "RPCLocalization|"
+msgid "Enter URL or choose torrent file"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr "Νέο αρχείο"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr "Νέα αρχεία"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr "Νέο βίντεο"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr "Νέο torrent"
+
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr "Όνομα αρχείου"
+
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr "Περιεχόμενα του torrent"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr "Απαιτείται έλεγχος ταυτότητας:"
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr "Θέση του αρχείου"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr "Μεταφορτώνει τις συνδέσεις"
+
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr "Προεπιλεγμένες ρυθμίσεις"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr "Βρέθηκαν ελλιπή λήψη με ίδιο όνομα και μέγεθος."
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr "Θα θέλατε να ξεκινήσετε νέα ή να συνεχίσετε τη λήψη;"
+
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr "Βιογραφικό"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr "Κατακερματισμού"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr "Επιλεγμένο filepath δεν είναι έγκυρη."
+
+msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on download URL"
-msgstr ""
+msgstr "Προτείνω φακέλους με βάση κατεβάσετε URL"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Default folder:"
-msgstr ""
+msgstr "Προεπιλεγμένος φάκελος:"
 
 msgctxt "RPCLocalization|"
 msgid "Associate with torrents"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Notifications"
-msgstr ""
+msgstr "Ειδοποιήσεις"
 
 msgctxt "RPCLocalization|"
 msgid "Notify me of completed downloads via Notification Center"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Only when FDM window is inactive"
-msgstr ""
+msgstr "Μόνο όταν FDM παράθυρο είναι ανενεργό"
 
 msgctxt "RPCLocalization|"
 msgid "Action of Remove button (main panel) or Delete key"
@@ -1438,17 +1826,20 @@ msgctxt "RPCLocalization|"
 msgid "Delete file(s) from disk"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Always ask"
-msgstr ""
+msgstr "Πάντα να ρωτάτε"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads from"
-msgstr ""
+msgstr "Μην πιάσει λήψεις από"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Maximum number of connections"
-msgstr ""
+msgstr "Μέγιστος αριθμός συνδέσεων"
 
 msgctxt "RPCLocalization|"
 msgid "Using Alt key"
@@ -1486,109 +1877,138 @@ msgctxt "RPCLocalization|"
 msgid "Use only HTTP ports to catch downloads in Edge"
 msgstr ""
 
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Traffic limits"
+msgstr "Όρια της κυκλοφορίας"
+
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "extension"
-msgstr ""
+msgstr "επέκταση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
-msgstr ""
+msgstr "Αυτόματα πιάσει λήψεις από προγράμματα περιήγησης"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Edge"
-msgstr ""
+msgstr "Άκρη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Internet Explorer"
-msgstr ""
+msgstr "Internet Explorer"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Chrome"
-msgstr ""
+msgstr "Χρώμιο"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Verify if"
-msgstr ""
+msgstr "Επαληθεύστε εάν"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "is enabled"
-msgstr ""
+msgstr "είναι ενεργοποιημένη"
 
 msgctxt "RPCLocalization|"
 msgid "No Chrome installation was found."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "You can"
-msgstr ""
+msgstr "Μπορείς"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "download Chrome here"
-msgstr ""
+msgstr "κατεβάστε το Chrome εδώ"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads smaller than"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Kbytes"
-msgstr ""
+msgstr "Kbytes"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Skip files with extensions:"
-msgstr ""
+msgstr "Περάστε τα αρχεία με επεκτάσεις:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Add FDM to browser context menu"
-msgstr ""
+msgstr "Προσθέστε FDM να περιήγησης το πλαίσιο μενού"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Use proxy for P2P connections"
-msgstr ""
+msgstr "Χρήση διακομιστή μεσολάβησης για συνδέσεις P2P"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Parameters"
-msgstr ""
+msgstr "Παράμετροι"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Low"
-msgstr ""
+msgstr "Χαμηλή"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Medium"
-msgstr ""
+msgstr "Μέσο"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "High"
-msgstr ""
+msgstr "Υψηλή"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Normal"
-msgstr ""
+msgstr "Κανονική"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Skip"
-msgstr ""
+msgstr "Skip"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download speed"
-msgstr ""
+msgstr "Ταχύτητα λήψης"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Upload speed"
-msgstr ""
+msgstr "Ταχύτητα αποστολής"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "History"
-msgstr ""
+msgstr "Ιστορία"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Remember all destination folders"
-msgstr ""
+msgstr "Θυμηθείτε όλοι οι φάκελοι προορισμού"
 
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
@@ -1602,169 +2022,205 @@ msgid_plural "days"
 msgstr[0] ""
 msgstr[1] ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Maximum number of history records:"
-msgstr ""
+msgstr "Μέγιστο αριθμό από τα αρχεία της ιστορίας:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Disk usage"
-msgstr ""
+msgstr "Χρήση του δίσκου"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Preallocate disk space for files larger than"
-msgstr ""
+msgstr "Preallocate χώρο στο δίσκο για αρχεία μεγαλύτερα από"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Gbytes"
-msgstr ""
+msgstr "Gbytes"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Power management"
-msgstr ""
+msgstr "Διαχείριση ενέργειας"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Prevent sleep if there are active downloads"
-msgstr ""
+msgstr "Εμποδίζει τον ύπνο της, αν υπάρχουν ενεργές λήψεις"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Delete button action"
-msgstr ""
+msgstr "Κουμπί διαγραφή δράση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Delete files"
-msgstr ""
+msgstr "Διαγραφή αρχείων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "DHT"
-msgstr ""
+msgstr "DHT"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Port forwarding"
-msgstr ""
+msgstr "Προώθηση θυρών"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Local peer discovery"
-msgstr ""
+msgstr "Τοπική ανακάλυψη από ομοτίμους"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Peer exchange"
-msgstr ""
+msgstr "Ανταλλαγή μεταξύ συνομηλίκων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "uTP"
-msgstr ""
+msgstr "uTP"
 
 msgctxt "RPCLocalization|"
 msgid "Use ports in range:"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "to"
-msgstr ""
+msgstr "για να"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Reset"
-msgstr ""
+msgstr "Επαναφορά"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Select All"
-msgstr ""
+msgstr "Επιλέξτε Όλα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Name"
-msgstr ""
+msgstr "Όνομα"
 
 msgctxt "RPCLocalization|"
 msgid "Status"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Speed"
-msgstr ""
+msgstr "Ταχύτητα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Size"
-msgstr ""
+msgstr "Μέγεθος"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Added"
-msgstr ""
+msgstr "Πρόσθεσαν"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start all"
-msgstr ""
+msgstr "Έναρξη όλα τα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Pause all"
-msgstr ""
+msgstr "Παύση όλων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start selected"
-msgstr ""
+msgstr "Ξεκινήστε επιλεγμένων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Pause selected"
-msgstr ""
+msgstr "Παύση που επιλέξατε"
 
 msgctxt "RPCLocalization|"
 msgid "Add new download..."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Move to trash"
-msgstr ""
+msgstr "Μετακίνηση στον κάδο απορριμμάτων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Remove from list"
-msgstr ""
+msgstr "Κατάργηση από τη λίστα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Delete selected"
-msgstr ""
+msgstr "Διαγραφή επιλεγμένων"
 
 msgctxt "RPCLocalization|"
 msgid "Move to..."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Search"
-msgstr ""
+msgstr "Αναζήτηση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Main menu"
-msgstr ""
+msgstr "Κύριο μενού"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Delete selected downloads"
-msgstr ""
+msgstr "Διαγραφή επιλεγμένων λήψεις"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Remember my choice"
-msgstr ""
+msgstr "Θυμάμαι my choice"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Delete file"
-msgstr ""
+msgstr "Διαγραφή αρχείου"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "All"
-msgstr ""
+msgstr "Όλα τα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Active"
-msgstr ""
+msgstr "Ενεργό"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Completed"
-msgstr ""
+msgstr "Ολοκληρώθηκε"
 
 msgctxt "RPCLocalization|"
 msgid "Customize color"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Remove tag"
-msgstr ""
+msgstr "Κατάργηση ετικέτας"
 
 msgctxt "RPCLocalization|"
 msgid ""
@@ -1775,9 +2231,10 @@ msgctxt "RPCLocalization|"
 msgid "Don’t ask again"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Set as Default"
-msgstr ""
+msgstr "Ορισμός ως Προεπιλογή"
 
 msgctxt "RPCLocalization|"
 msgid "Computer will be put to sleep after all downloads are completed."
@@ -1799,9 +2256,10 @@ msgctxt "RPCLocalization|"
 msgid "Retry"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Error:"
-msgstr ""
+msgstr "Σφάλμα:"
 
 msgctxt "RPCLocalization|"
 msgid "Error downloading update:"
@@ -1815,25 +2273,29 @@ msgctxt "RPCLocalization|"
 msgid "Checking..."
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Update downloaded"
-msgstr ""
+msgstr "Ενημέρωση κατεβάσει"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Install update"
-msgstr ""
+msgstr "Εγκαταστήστε την ενημερωμένη έκδοση"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Installing updates"
-msgstr ""
+msgstr "Με την εγκατάσταση ενημερώσεων"
 
 msgctxt "RPCLocalization|"
 msgid "Relaunch FDM to update"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Relaunch"
-msgstr ""
+msgstr "Επανέναρξη"
 
 msgctxt "RPCLocalization|"
 msgid "Error occurred during installation:"
@@ -1843,13 +2305,15 @@ msgctxt "RPCLocalization|"
 msgid "Restart computer to complete installation"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "FDM is up to date!"
-msgstr ""
+msgstr "FDM είναι ενημερωμένο!"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New version is available"
-msgstr ""
+msgstr "Νέα έκδοση είναι διαθέσιμη"
 
 #, qt-format
 msgctxt "RPCLocalization|"
@@ -1893,89 +2357,108 @@ msgid_plural "%ny"
 msgstr[0] ""
 msgstr[1] ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Torrent"
-msgstr ""
+msgstr "Torrent"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Options"
-msgstr ""
+msgstr "Επιλογές"
 
 msgctxt "RPCLocalization|"
 msgid "Open Scheduler"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Sсheduler"
-msgstr ""
+msgstr "Sсheduler"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start and pause downloads at specified time"
-msgstr ""
+msgstr "Έναρξη και παύση λήψεις στο καθορισμένο χρονικό διάστημα"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
-msgstr ""
+msgstr "Ενεργοποίηση Scheduler"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Sun"
-msgstr ""
+msgstr "Ήλιος"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Mon"
-msgstr ""
+msgstr "Δευ"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Tue"
-msgstr ""
+msgstr "Tue"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Wed"
-msgstr ""
+msgstr "Τετ"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Thu"
-msgstr ""
+msgstr "Πεμ"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Fri"
-msgstr ""
+msgstr "Παρ"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Sat"
-msgstr ""
+msgstr "Σαβ"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "From:"
-msgstr ""
+msgstr "Από:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "To:"
-msgstr ""
+msgstr "Να:"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Change settings"
-msgstr ""
+msgstr "Αλλαγή ρυθμίσεων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Change preferences"
-msgstr ""
+msgstr "Αλλαγή προτιμήσεων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Tip"
-msgstr ""
+msgstr "Συμβουλή"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
-msgstr ""
+msgstr "Scheduler"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there're scheduled downloads"
@@ -1985,87 +2468,113 @@ msgctxt "RPCLocalization|"
 msgid "Restore"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start download"
-msgstr ""
+msgstr "Έναρξη λήψης"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Press"
-msgstr ""
+msgstr "Πατήστε το πλήκτρο"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start downloading without confirmation"
-msgstr ""
+msgstr "Ξεκινήσει η λήψη χωρίς επιβεβαίωση"
 
 msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Maximum number of simultaneous downloads"
-msgstr ""
+msgstr "Μέγιστος αριθμός ταυτόχρονων Λήψεων"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "to let the browser process the download"
-msgstr ""
+msgstr "να αφήσει το πρόγραμμα περιήγησης να επεξεργάζεται τη λήψη"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Check file integrity"
-msgstr ""
+msgstr "Ελέγξτε την ακεραιότητα του αρχείου"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Calculate"
-msgstr ""
+msgstr "Υπολογίστε"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Calculating"
-msgstr ""
+msgstr "Τον υπολογισμό"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Verification OK"
-msgstr ""
+msgstr "Επαλήθευση OK"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Verification failed"
-msgstr ""
+msgstr "Απέτυχε η επαλήθευση"
 
-msgctxt "RPCLocalization|"
-msgid "Compare with:"
-msgstr ""
-
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Close"
-msgstr ""
+msgstr "Κλείστε"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 left"
-msgstr ""
+msgstr "%1 αριστερά"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Browsers:"
-msgstr ""
-
-msgctxt "RPCLocalization|Advanced"
-msgid "Options"
-msgstr ""
+msgstr "Προγράμματα περιήγησης:"
 
 msgctxt "RPCLocalization|"
 msgid "Done"
 msgstr ""
 
-msgctxt "RPCLocalization|tags panel"
-msgid "Completed"
-msgstr ""
-
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 of %2"
-msgstr ""
+msgstr "%1 του %2"
 
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "Όρια Κυκλοφορίας"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "Είσοδος"
+
+#, fuzzy
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "Ενημερωμένη έκδοση"
+
+#, fuzzy
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr "Επιλογές"
+
+#, fuzzy
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "Ολοκληρώθηκε"
+
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Προεπιλεγμένο φάκελο λήψης"
 
 msgctxt "RPCSystem|"
 msgid "Accept"
@@ -2075,17 +2584,20 @@ msgctxt "RPCSystem|"
 msgid "Download to"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Open torrent file"
-msgstr ""
+msgstr "Αρχείο ανοιχτό torrent"
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr ""
+msgstr "Αρχεία torrent"
 
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
@@ -2103,61 +2615,64 @@ msgctxt "TorrentDownload|"
 msgid "Sequential downloading disabled"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Trackers merged"
-msgstr ""
+msgstr "Ιχνηλάτες συγχωνευμένη"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
-msgstr ""
+msgstr "Ξεκινώντας τη σπορά"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
-msgstr ""
+msgstr "Παρουσιάστηκε άγνωστο σφάλμα"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Error occurred: %1"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "Μέγιστος αριθμός συνδέσεων είναι %1"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "unlimited"
-msgstr ""
+msgstr "απεριόριστη"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Ταχύτητα λήψης είναι απεριόριστη"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr ""
+msgstr "Κατεβάζω ταχύτητα περιορίζεται σε %1/s"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr ""
+msgstr "Ταχύτητα upload είναι απεριόριστη"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
-msgstr ""
+msgstr "Ανεβάστε ταχύτητα είναι περιορισμένη σε %1/s"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Αρχείο λείπει"
 
-msgctxt "TorrentDownload|"
-msgid "Files are missing"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "File is missing"
-msgstr ""
-
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Starting download"
-msgstr ""
+msgstr "Ξεκινώντας λήψη"
 
 msgctxt "TorrentDownload|"
 msgid "Checking files"
@@ -2179,35 +2694,39 @@ msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
-msgstr ""
+msgstr "Μετακίνηση αρχείων για να %1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
-msgstr ""
+msgstr "Μετακίνηση αρχείου για να %1"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Waiting for metadata"
-msgstr ""
+msgstr "Αναμονή για τα μετα-δεδομένα"
 
 msgctxt "TorrentDownload|"
 msgid "Updating"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Working"
-msgstr ""
+msgstr "Εργασίας"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
-msgstr ""
+msgstr "Μετα-δεδομένα που έλαβε"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
-msgstr ""
+msgstr "Εξουσιοδότηση χρήστη που απαιτούνται"
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
@@ -2231,14 +2750,15 @@ msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
-msgstr ""
+msgstr "Μεταφέρθηκε με επιτυχία"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", μέση ταχύτητα: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2254,25 +2774,35 @@ msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
 msgstr ""
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr ""
+msgstr "Μετακίνηση αρχείων ακυρωθεί"
 
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "Μη αναμενόμενο σφάλμα"
+
+#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Show main window"
-msgstr ""
+msgstr "Δείχνουν κύριο παράθυρο"
 
+#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Open at Login"
-msgstr ""
+msgstr "Ανοικτό κατά τη Σύνδεση"
 
+#, fuzzy
 msgctxt "TrayMenu|"
 msgid "Launch at startup"
-msgstr ""
+msgstr "Ξεκινήσει κατά την εκκίνηση"
 
+#, fuzzy
 msgctxt "TrayMenu|"
 msgid "About FDM"
-msgstr ""
+msgstr "Σχετικά με το FDM"
 
 msgctxt "TrayMenu|"
 msgid "Quit FDM"
@@ -2282,55 +2812,64 @@ msgctxt "TrayMenu|"
 msgid "Quit"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "About %1"
-msgstr ""
+msgstr "Σχετικά με %1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "Version %1 (%2)"
-msgstr ""
+msgstr "Έκδοση %1 (%2)"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Open"
-msgstr ""
+msgstr "Ανοιχτό"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Reveal in Finder"
-msgstr ""
+msgstr "Αποκαλύπτουν στο Finder"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Παράσταση στο φάκελο"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Show info"
-msgstr ""
+msgstr "Show info"
 
 msgctxt "UIHelper|"
 msgid "Choose files..."
 msgstr ""
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Pause all except selected"
-msgstr ""
+msgstr "Παύση όλα εκτός από επιλεγμένα"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Pause all except this one"
-msgstr ""
+msgstr "Παύση όλα εκτός από αυτό το ένα"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Restart selected"
-msgstr ""
+msgstr "Επανεκκίνηση επιλεγμένο"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Restart"
-msgstr ""
+msgstr "Επανεκκίνηση"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Set priority"
-msgstr ""
+msgstr "Ορισμός προτεραιότητας"
 
 msgctxt "UIHelper|"
 msgid "Move to..."
@@ -2340,121 +2879,142 @@ msgctxt "UIHelper|"
 msgid "Download to..."
 msgstr ""
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Move to trash"
-msgstr ""
+msgstr "Μετακίνηση στον κάδο απορριμμάτων"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Delete files"
-msgstr ""
+msgstr "Διαγραφή αρχείων"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Delete file"
-msgstr ""
+msgstr "Διαγραφή αρχείου"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Remove from list"
-msgstr ""
+msgstr "Κατάργηση από τη λίστα"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Enable seeding"
-msgstr ""
+msgstr "Ενεργοποίηση σπορά"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Sequential download"
-msgstr ""
+msgstr "Διαδοχική λήψη"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Force recheck"
-msgstr ""
+msgstr "Force recheck"
 
 msgctxt "UIHelper|"
 msgid "Force reannounce"
 msgstr ""
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Copy link"
-msgstr ""
+msgstr "Αντιγραφή σύνδεσης"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Add tag"
-msgstr ""
+msgstr "Προσθήκη ετικέτας"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "File integrity"
-msgstr ""
+msgstr "Ακεραιότητα του αρχείου"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Schedule"
-msgstr ""
+msgstr "Χρονοδιάγραμμα"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Change URL"
-msgstr ""
+msgstr "Αλλαγή URL"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "High priority"
-msgstr ""
+msgstr "Υψηλής προτεραιότητας"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Normal priority"
-msgstr ""
+msgstr "Κανονική προτεραιότητα"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Low priority"
-msgstr ""
+msgstr "Χαμηλής προτεραιότητας"
+#, fuzzy
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "Skip"
 
-msgctxt "UIHelper|"
-msgid "Skip"
-msgstr ""
-
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Remove"
-msgstr ""
+msgstr "Κατάργηση"
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Untag"
-msgstr ""
+msgstr "Untag"
 
 msgctxt "UIHelper|"
 msgid "Copy log to clipboard"
 msgstr ""
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Save log to file"
-msgstr ""
+msgstr "Αποθήκευση καταγραφής σε αρχείο"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "FDM Log [%1].txt"
-msgstr ""
+msgstr "FDM Log [%1].txt"
 
 msgctxt "UIHelper|"
 msgid "Save Log"
 msgstr ""
 
+#, fuzzy
 msgctxt "UIHelper|"
 msgid "Text files"
-msgstr ""
+msgstr "Αρχεία κειμένου"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "%1 K"
-msgstr ""
+msgstr "%1 K"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
-msgstr ""
+msgstr "%1 M"
 
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Αρχείο λείπει"
 
 msgctxt "YoutubeDownload|"
 msgid "Error: files are missing."
@@ -2464,36 +3024,38 @@ msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
-msgstr ""
+msgstr "Κινείται για να %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
 msgstr ""
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Merging media streams"
-msgstr ""
+msgstr "Συγχώνευση ροές πολυμέσων"
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Redirecting"
-msgstr ""
+msgstr "Τον επαναπροσανατολισμό"
 
 msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "AudioStream: %1"
-msgstr ""
+msgstr "AudioStream: %1"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
-msgstr ""
+msgstr "VideoStream: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Downloading page"
@@ -2529,24 +3091,25 @@ msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
-msgstr ""
+msgstr "Μεταφέρθηκε με επιτυχία"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", μέση ταχύτητα: %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
-msgstr ""
+msgstr "Μετακίνηση απέτυχε: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."

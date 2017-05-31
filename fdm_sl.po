@@ -20,24 +20,48 @@ msgstr "Prenesi video s FDM"
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
 msgstr ""
 
+#, fuzzy
 msgid "No flash video found. Try reloading this page."
+msgstr "No flash video našel. Poskusite ponovnega te strani."
+
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
 msgstr ""
-#~ msgid "Download by FDM"
-#~ msgstr "Prenesi s FDM"
-#~ msgid ""
-#~ "An error occurred while trying to transfer downloads to FDM.\n"
-#~ "Error: 0x%x."
-#~ msgstr ""
-#~ "Med poskusom premika prenosov v FDM je prišlo do napake.\n"
-#~ "Napaka: 0x%x."
-#~ msgid ""
-#~ "There were no flash videos found on this page. Make sure the videos on "
-#~ "this page are playing or try to reload it (refresh page or clear "
-#~ "browser's cache)."
-#~ msgstr ""
-#~ "Na strani nismo našli nobenega videa flash. Prepričajte se, da se videi "
-#~ "na strani predvajajo ali jih poskusite ponovno naložiti (osvežite stran "
-#~ "ali počistite predpomnilnik brskalnika)."
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr ""
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr ""
+
+#, fuzzy
+msgctxt "Download|"
+msgid "Queued"
+msgstr "V čakalni vrsti"
 
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
@@ -67,43 +91,52 @@ msgctxt "DownloadInfo|"
 msgid "High"
 msgstr "Visoko"
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
-msgstr ""
+msgstr "HTTP Napaka %1: %2"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Napaka %1"
 
 #, qt-format
 msgctxt "HttpError|"
-msgid "Error %1"
+msgid "HTTP Error %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Neznana napaka"
 
 msgctxt "HttpError|"
 msgid "Remote host name not found"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "Delovanje odpovedana"
 
 msgctxt "HttpError|"
 msgid "Remote server closed connection"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr ""
+msgstr "Povezava je potekla"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr ""
+msgstr "Rokovanje SSL/TLS, ni uspelo"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Povezava zavrnjena"
 
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
@@ -113,13 +146,15 @@ msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "Slabo Zahtevo"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "Nedovoljene"
 
 msgctxt "HttpError|"
 msgid "Payment Required"
@@ -129,41 +164,47 @@ msgctxt "HttpError|"
 msgid "Forbidden"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr ""
+msgstr "Ni Najdeno"
 
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Not Acceptable"
-msgstr ""
+msgstr "Ni Sprejemljiv"
 
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "Zahtevo Timeout"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr ""
+msgstr "Konflikt"
 
 msgctxt "HttpError|"
 msgid "Gone"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr ""
+msgstr "Dolžina Zahtevana"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "Predpogoj Ni Uspel"
 
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
@@ -181,149 +222,175 @@ msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "Pričakovanj Ni Uspelo"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "Jaz sem čajnik"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "Preverjanje Pristnosti Timeout"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr ""
+msgstr "Metoda Okvare / Izboljšajte Svojo Miren"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr ""
+msgstr "Unprocessable Podjetje"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr ""
+msgstr "Zaklenjena"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "Neurejen Zbirka"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "Nadgradnja Zahteva"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr ""
+msgstr "Preveč Zahteve"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr ""
+msgstr "Zahtevo, V Poljih Glave Prevelika"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "Časovna Omejitev Prijave"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "No Response"
-msgstr ""
+msgstr "Ni Odziva"
 
 msgctxt "HttpError|"
 msgid "Retry With"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "Blokirana z Windows Starševski Nadzor"
 
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr ""
+msgstr "Zahtevo Glavi Prevelika"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "Cert Napaka"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr ""
+msgstr "Ni Cert"
 
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr ""
+msgstr "Žeton potekel/neveljaven"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Notranja Napaka Strežnika"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "Slab prehod"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "Prehod Timeout"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "HTTP Različica Ne Podpira"
 
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "Nezadostno Shranjevanje"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "Zanke Zaznan"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "Omejitve Pasovne Širine Presežena"
 
 msgctxt "HttpError|"
 msgid "Not Extended"
 msgstr ""
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "Preverjanje Omrežja Zahteva"
 
+#, fuzzy
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "Omrežje preberite timeout error"
 
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
@@ -337,9 +404,6 @@ msgstr "Največje število povezav je %1"
 msgctxt "HttpFileDownload|"
 msgid "unlimited"
 msgstr "neomejeno"
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Download speed isn't limited"
-#~ msgstr "Hitrost prenosa ni omejena"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -362,13 +426,11 @@ msgstr "Pričetek prenosa"
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
 msgstr "Začasno ustavljanje prenosa"
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Can't resume downloading: URL changed"
-#~ msgstr "Ne moremo nadaljevati prenašanja: URL se je spremenil"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Travnato gričevje hitrost je neomejen"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
@@ -436,9 +498,10 @@ msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
 msgstr "Predhodno dodeljevanje diskovnega prostora za prenos"
 
+#, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
-msgstr ""
+msgstr "Nepričakovana napaka"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
@@ -490,9 +553,6 @@ msgstr "Datoteko smo uspešno premaknili"
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
 msgstr ""
-#~ msgctxt "HttpFileDownload|"
-#~ msgid "Moving file failed"
-#~ msgstr "Premikanje datoteke je spodletelo"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -680,6 +740,44 @@ msgstr ""
 
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr "Potrdi"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr "Pozornost!"
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr "Vaš računalnik se bo hibernated."
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr "Vaš računalnik se bo zaustavil."
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr "Datoteke manjkajo"
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr "Datoteka manjka"
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -900,10 +998,6 @@ msgid "Snail mode"
 msgstr "Polžji način"
 
 msgctxt "RPCLocalization|"
-msgid "Bandwidth limits"
-msgstr "Omejitve pasovne širine"
-
-msgctxt "RPCLocalization|"
 msgid "Cancel"
 msgstr "Prekliči"
 
@@ -914,27 +1008,6 @@ msgstr "Uveljavi"
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
 msgstr "Vključitev v brskalnik"
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "Free Download Manager has automatically intercepted the URL that another "
-#~ "Internet Application used to download a file. Thanks to the flexible "
-#~ "settings FDM offers, you can easily adjust the option in the Settings "
-#~ "window:"
-#~ msgstr ""
-#~ "Free Download Manager je samodejno prestregel URL, ki ga je druga "
-#~ "internetna aplikacije uporabila za prenos datoteke. Zahvaljujoč "
-#~ "prilagodljivim nastavitvam FDM, lahko možnost enostavno prilagodite v "
-#~ "oknu Nastavitve:"
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "Working with browsers, you can configure FDM so that it doesn't monitor "
-#~ "left-click actions."
-#~ msgstr ""
-#~ "Ko delate z brskalniki, lahko FDM nastavite tako, da ne spremlja dejanj "
-#~ "levega klika."
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Don't show this tip again"
-#~ msgstr "Tega namiga ne prikaži več"
 
 msgctxt "RPCLocalization|"
 msgid "Next"
@@ -999,9 +1072,10 @@ msgstr "Opusti vse"
 msgctxt "RPCLocalization|"
 msgid "Torrent already exists"
 msgstr "Torrent že obstaja"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Do you want to load its trackers?"
-#~ msgstr "Želite naložiti njegove sledilnike?"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic limits"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
@@ -1258,10 +1332,6 @@ msgctxt "RPCLocalization|"
 msgid "Traffic Limits"
 msgstr "Omejitve prometa"
 
-msgctxt "RPCLocalization|settings"
-msgid "Traffic Limits"
-msgstr "Omejitve prometa"
-
 msgctxt "RPCLocalization|"
 msgid "Advanced"
 msgstr "Napredno"
@@ -1310,10 +1380,6 @@ msgctxt "RPCLocalization|"
 msgid "Login"
 msgstr "Prijava"
 
-msgctxt "RPCLocalization|settings"
-msgid "Login"
-msgstr "Prijava"
-
 msgctxt "RPCLocalization|"
 msgid "Password"
 msgstr "Geslo"
@@ -1346,10 +1412,6 @@ msgctxt "RPCLocalization|"
 msgid "Update"
 msgstr "Posodobitev"
 
-msgctxt "RPCLocalization|settings"
-msgid "Update"
-msgstr "Posodobitev"
-
 msgctxt "RPCLocalization|"
 msgid "Check for updates automatically"
 msgstr "Samodejno preveri za posodobitve"
@@ -1362,9 +1424,10 @@ msgctxt "RPCLocalization|"
 msgid "Use only HTTP ports to catch downloads in Edge"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
-msgstr ""
+msgstr "Safari: omogoči FDM"
 
 msgctxt "RPCLocalization|"
 msgid "for context menu"
@@ -1378,9 +1441,10 @@ msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Use proxy for P2P connections"
-msgstr ""
+msgstr "Raba zastopstvo za P2P povezave"
 
 msgctxt "RPCLocalization|"
 msgid "Start and pause downloads at specified time"
@@ -1390,17 +1454,24 @@ msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
 msgstr ""
 
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Compare with"
+msgstr "Primerjati z"
+
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hold"
-msgstr ""
+msgstr "Držite"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Alt key"
-msgstr ""
+msgstr "Alt tipka"
 
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
@@ -1410,34 +1481,38 @@ msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hide bottom panel"
-msgstr ""
+msgstr "Skrij spodnji plošči"
 
 msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "RPCLocalization|"
 msgid "disk %1"
-msgstr ""
+msgstr "kolut %1"
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
-msgstr ""
+msgstr "Usposobiti spanec način, medtem ko sejanje močna ploha"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "on"
-msgstr ""
+msgstr "na"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "and"
-msgstr ""
+msgstr "in"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
@@ -1447,9 +1522,10 @@ msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Save"
-msgstr ""
+msgstr "Shrani"
 
 msgctxt "RPCLocalization|"
 msgid "Share with friends"
@@ -1467,17 +1543,20 @@ msgctxt "RPCLocalization|"
 msgid "Saved as:"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Invalid URL"
-msgstr ""
+msgstr "Neveljaven URL"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Start download"
-msgstr ""
+msgstr "Začni prenos,"
 
+#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Seeding"
-msgstr ""
+msgstr "Sejanje"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
@@ -1486,9 +1565,99 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "Set days of the week to enable Scheduler"
 msgstr ""
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Send anonymous statistics"
-#~ msgstr "Pošiljaj brezimne statistike"
+
+msgctxt "RPCLocalization|"
+msgid "Enter URL or choose torrent file"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr "Novo datoteko"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr "Nove datoteke"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr "Nov video"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr "Nov torrent"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr "Shrani, da"
+
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr "Torrent vsebina"
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr "Zahtevano preverjanje pristnosti:"
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr "Travnato gričevje peščena morska obala"
+
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr "Razprševanje"
+
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
@@ -1541,22 +1710,10 @@ msgstr "Ne prestrezi prenosov z domen"
 msgctxt "RPCLocalization|"
 msgid "Start downloading without confirmation"
 msgstr "Začni prenašati brez potrditve"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Catch links in Edge only from HTTP ports (improves performance)"
-#~ msgstr "V Edge prestrezi samo povezave z vrat HTTP (izboljša zmogljivost)"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "FDM appears in Safari's context menu if"
-#~ msgstr "FDM se prikaže v kontekstnem meniju Safarija, če je"
 
 msgctxt "RPCLocalization|"
 msgid "extension"
 msgstr "razširitev"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "is installed and enabled."
-#~ msgstr "je nameščena in omogočena."
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Automatically catch links from browsers"
-#~ msgstr "Samodejno prestrezi povezave iz brskalnikov"
 
 msgctxt "RPCLocalization|"
 msgid "Edge"
@@ -1593,12 +1750,6 @@ msgstr "Chrome lahko"
 msgctxt "RPCLocalization|"
 msgid "download Chrome here"
 msgstr "prenesete tukaj"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "ALT must be pressed"
-#~ msgstr "Alt mora biti pritisnjen"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Start using browser if you cancel download via FDM"
-#~ msgstr "Začni z uporabo brskalnika, če prekinete prenos v FDM"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads smaller than"
@@ -1615,9 +1766,6 @@ msgstr "Preskoči datoteke s končnicami:"
 msgctxt "RPCLocalization|"
 msgid "Add FDM to browser context menu"
 msgstr "Dodaj FDM v kontekstni meni brskalnika"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Use proxy for peer-to-peer connections"
-#~ msgstr "Uporabi posredniški strežnik za povezave vsak-z-vsakim"
 
 msgctxt "RPCLocalization|"
 msgid "Parameters"
@@ -1714,9 +1862,6 @@ msgstr "Dejanje gumba za izbris"
 msgctxt "RPCLocalization|"
 msgid "Delete files"
 msgstr "Izbriši datoteke"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Restore settings to their original defaults"
-#~ msgstr "Obnovi nastavitve na njihove privzete vrednosti"
 
 msgctxt "RPCLocalization|"
 msgid "DHT"
@@ -1745,9 +1890,6 @@ msgstr "Uporabi vrata v območju:"
 msgctxt "RPCLocalization|"
 msgid "to"
 msgstr "do"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "All settings will be restored to their original defaults"
-#~ msgstr "Vse nastavitve bomo obnovili na njihove privzete vrednosti"
 
 msgctxt "RPCLocalization|"
 msgid "Reset"
@@ -2000,21 +2142,6 @@ msgstr "YouTube"
 msgctxt "RPCLocalization|"
 msgid "Torrent"
 msgstr "Torrent"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Catch only when Alt is pressed"
-#~ msgstr "Prestrezi samo, ko je pritisnjen Alt"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Do not catch when Alt is pressed"
-#~ msgstr "Ne prestrezi, ko je pritisnjen Alt"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Automatic link-catching"
-#~ msgstr "Samodejno prestrezanje povezav"
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "While holding down the Alt key, set the desired link-catching behaviour "
-#~ "via available."
-#~ msgstr ""
-#~ "Med držanjem tipke Alt nastavite želeno vedenje prestrezanja povezav."
 
 msgctxt "RPCLocalization|"
 msgid "Options"
@@ -2027,9 +2154,6 @@ msgstr "Odpri Načrtovalnik"
 msgctxt "RPCLocalization|"
 msgid "Sсheduler"
 msgstr "Načrtovalnik"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Start and pause downloads at the specified time"
-#~ msgstr "Začnite in začasno ustavite prenose ob določenem času"
 
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
@@ -2082,14 +2206,6 @@ msgstr "Spremeni nastavitve"
 msgctxt "RPCLocalization|"
 msgid "Tip"
 msgstr "Namig"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Press Alt if you don't want FDM to automatically catch links."
-#~ msgstr "Pritisnite Alt, če ne želite, da FDM samodejno prestreže povezave."
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Computer won't be put to sleep because you have scheduled downloads"
-#~ msgstr ""
-#~ "Računalniku ne bomo omogočili prehoda v spanje, saj imate načrtovane "
-#~ "prenose"
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
@@ -2128,10 +2244,6 @@ msgid "Verification failed"
 msgstr "Preverjanje je spodletelo"
 
 msgctxt "RPCLocalization|"
-msgid "Compare with:"
-msgstr "Primerjaj z:"
-
-msgctxt "RPCLocalization|"
 msgid "Close"
 msgstr "Zapri"
 
@@ -2144,16 +2256,8 @@ msgctxt "RPCLocalization|"
 msgid "Browsers:"
 msgstr "Brskalniki:"
 
-msgctxt "RPCLocalization|Advanced"
-msgid "Options"
-msgstr "Možnosti"
-
 msgctxt "RPCLocalization|"
 msgid "Done"
-msgstr "Končano"
-
-msgctxt "RPCLocalization|tags panel"
-msgid "Completed"
 msgstr "Končano"
 
 #, qt-format
@@ -2168,9 +2272,6 @@ msgstr "Obnovi"
 msgctxt "RPCLocalization|"
 msgid "Using Alt key"
 msgstr "Z uporabo tipke Alt"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Do not catch downloads when Alt is pressed"
-#~ msgstr "Ne prestrezi prenosov, ko je pritisnjen Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
@@ -2195,20 +2296,35 @@ msgstr "Odstrani samo s seznama prenosov"
 msgctxt "RPCLocalization|"
 msgid "Go back to default settings"
 msgstr "Ponastavi nastavitve na privzete vrednosti"
-#~ msgctxt "RPCLocalization|"
-#~ msgid ""
-#~ "Hold the Alt key and click the link to start downloading via your browser"
-#~ msgstr ""
-#~ "Držite tipko Alt in kliknite na povezavo, da pričnete prenašanje v svojem "
-#~ "brskalniku"
+
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "Omejitve prometa"
+
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "Prijava"
+
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "Posodobitev"
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr "Možnosti"
+
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "Končano"
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
 msgstr ""
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Accept"
-msgstr ""
+msgstr "Sprejmite"
 
 msgctxt "RPCSystem|"
 msgid "Download to"
@@ -2219,13 +2335,15 @@ msgctxt "RPCSystem|"
 msgid "OK"
 msgstr "V redu"
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Open torrent file"
-msgstr ""
+msgstr "Plan neurnik pila"
 
+#, fuzzy
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr ""
+msgstr "Neurnik pila"
 
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
@@ -2269,17 +2387,20 @@ msgctxt "TorrentDownload|"
 msgid "unlimited"
 msgstr "neomejeno"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Travnato gričevje hitrost je neomejen"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr ""
+msgstr "Upload hitrost je neomejen"
 
+#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Can't move files recursively"
-msgstr ""
+msgstr "Ne more premakniti datotek rekurzivno"
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
@@ -2289,40 +2410,31 @@ msgctxt "TorrentDownload|"
 msgid "File moving failed"
 msgstr ""
 
-#, qt-format
+#, fuzzy, qt-format
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
-msgstr ""
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Download speed isn't limited"
-#~ msgstr "Hitrost prenosa ni omejena"
+msgstr "Datoteke se gibljejo ni: %1"
+
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "Nepričakovana napaka"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr "Hitrost prenosa je omejena na %1/s"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Upload speed isn't limited"
-#~ msgstr "Hitrost nalaganja ni omejena"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Hitrost nalaganja je omejena na %1/s"
 #~ msgctxt "TorrentDownload|"
-#~ msgid "Pausing download"
-#~ msgstr "Začasno ustavljanje prenosa"
+#~ msgid "Files are missing"
+#~ msgstr "Datoteke manjkajo"
 #~ msgctxt "TorrentDownload|"
-#~ msgid "Download paused"
-#~ msgstr "Prenos je začasno ustavljen"
-
-msgctxt "TorrentDownload|"
-msgid "Files are missing"
-msgstr "Datoteke manjkajo"
-
-msgctxt "TorrentDownload|"
-msgid "File is missing"
-msgstr "Datoteka manjka"
+#~ msgid "File is missing"
+#~ msgstr "Datoteka manjka"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2339,9 +2451,6 @@ msgstr "Prenašanje"
 msgctxt "TorrentDownload|"
 msgid "Download complete"
 msgstr "Prenos je končan"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Cannot move files recursively"
-#~ msgstr "Ne moremo rekurzivno premakniti datotek"
 
 msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
@@ -2376,19 +2485,10 @@ msgstr "Prejeli smo metapodatke"
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
 msgstr "Zahtevana je overitev uporabnika"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Mapped files to new directory"
-#~ msgstr "Datoteke smo preslikali v novo mapo"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Mapped file to new directory"
-#~ msgstr "Datoteko smo preslikali v novo mapo"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving failed"
 msgstr "Premikanje datotek je spodletelo"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Moving file failed"
-#~ msgstr "Premikanje datoteke je spodletelo"
 
 #, qt-format
 msgctxt "TorrentDownload|"
@@ -2413,10 +2513,6 @@ msgstr ", povprečna hitrost: %1"
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
 msgstr "Premikanje datotek je spodletelo: %1"
-#, qt-format
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Moving file failed: %1"
-#~ msgstr "Premikanje datoteke je spodletelo: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
@@ -2571,10 +2667,9 @@ msgstr "Navadna prednost"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Nizka prednost"
-
-msgctxt "UIHelper|"
-msgid "Skip"
-msgstr "Preskoči"
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "Preskoči"
 
 msgctxt "UIHelper|"
 msgid "Edit"
@@ -2692,9 +2787,6 @@ msgstr ""
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
 msgstr ""
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Can't find URLs for this quality"
-#~ msgstr "Ne najdemo URL-jev za to kakovost"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2704,10 +2796,6 @@ msgstr "Napaka pri razčlenjevanju: %1"
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
 msgstr "Prenos je končan"
-#, qt-format
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Moving operation has been declined: %1"
-#~ msgstr "Poseg premikanja je bil odklonjen: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
@@ -2722,10 +2810,6 @@ msgstr ", povprečna hitrost: %1"
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
 msgstr "Datoteko smo preimenovali v %1"
-#, qt-format
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Moving operation failed: %1"
-#~ msgstr "Poseg premikanja je spodletel: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
