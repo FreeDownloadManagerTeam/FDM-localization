@@ -6,6 +6,13 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: it_IT\n"
 "X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: bovirus <bovirus@gmail.com>\n"
+"Language-Team: \n"
+"Language: it\n"
+"X-Generator: Poedit 2.0.2\n"
 
 msgid "No flash video found. Try reloading this page."
 msgstr "Nessun video flash trovato. Prova a ricaricare questa pagina."
@@ -25,38 +32,37 @@ msgstr "Errore: 0x%x - trasferimento download a FDM fallito."
 #, qt-format
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "Il percorso specificato è relativo. Il percorso completo è %1"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 B"
-msgstr ""
+msgstr "%1 B"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 KB"
-msgstr ""
+msgstr "%1 KB"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 MB"
-msgstr ""
+msgstr "%1 MB"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "Riconnessione tra %1 secondi"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr ""
+msgstr "Priorità impostata a %1"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "In coda: modo lumaca abilitato. Dsiabilitalo per continuare."
 
-#, fuzzy
 msgctxt "Download|"
 msgid "Queued"
 msgstr "In coda"
@@ -233,10 +239,6 @@ msgstr "Servizio non disponibile"
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
 msgstr "Handshake SSL/TLS fallito"
-#, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Errore %1"
 
 msgctxt "HttpError|"
 msgid "Connection timed out"
@@ -253,7 +255,7 @@ msgstr "Timeout accesso"
 #, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1"
-msgstr ""
+msgstr "Errore HTTP %1"
 
 msgctxt "HttpError|"
 msgid "Operation canceled"
@@ -440,7 +442,6 @@ msgstr "#%1 chiuso"
 msgctxt "HttpFileDownload|"
 msgid "Preallocating queued"
 msgstr "Assegnazione messa in coda"
-
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
@@ -2464,9 +2465,6 @@ msgstr "Modifica"
 msgctxt "UIHelper|"
 msgid "Open"
 msgstr "Apri"
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Salta"
 
 msgctxt "UIHelper|"
 msgid "Copy log to clipboard"
@@ -2646,8 +2644,6 @@ msgctxt "YoutubeDownload|"
 msgid "Page is downloaded"
 msgstr "La pagina è stata scaricata"
 
-
-#, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "File mancante"
@@ -2716,3 +2712,11 @@ msgstr "Spostamento file completato"
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
 msgstr "Non è stato possibile trovare video con questa qualità"
+
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Errore %1"
+
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "Salta"
