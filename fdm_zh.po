@@ -423,7 +423,7 @@ msgstr "连接#%1已关闭"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr ""
+msgstr "无法完成下载"
 
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
@@ -432,7 +432,7 @@ msgstr "意外错误"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr ""
+msgstr "无法重启连接#%1，正在关闭"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
