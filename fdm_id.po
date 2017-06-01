@@ -4,2540 +4,2717 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: vi_VN\n"
+"X-Language: id_ID\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 
 msgid "Download with FDM"
-msgstr ""
+msgstr "Unduh dengan FDM"
 
 msgid "Download selected with FDM"
-msgstr ""
+msgstr "Unduh pilihan dengan FDM"
 
 msgid "Download video with FDM"
-msgstr ""
+msgstr "Unduh video dengan FDM"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
-msgstr ""
+msgstr "Kesalahan: 0x%x. Gagal untuk memindahkan unduhan ke FDM."
 
 msgid "No flash video found. Try reloading this page."
+msgstr "Tidak ada video flash yang ditemukan. Coba muat ulang laman ini."
+
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
 msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr ""
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr ""
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr ""
+
+#, fuzzy
+msgctxt "Download|"
+msgid "Queued"
+msgstr "Dalam antrian"
 
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
-msgstr ""
+msgstr "Lewati"
 
 msgctxt "DownloadFileInfo|"
 msgid "Low"
-msgstr ""
+msgstr "Rendah"
 
 msgctxt "DownloadFileInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "DownloadFileInfo|"
 msgid "High"
-msgstr ""
+msgstr "Tinggi"
 
 msgctxt "DownloadInfo|"
 msgid "Low"
-msgstr ""
+msgstr "Rendah"
 
 msgctxt "DownloadInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "DownloadInfo|"
 msgid "High"
-msgstr ""
+msgstr "Tinggi"
 
 #, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
-msgstr ""
+msgstr "Kesalahan HTTP %1: %2"
+#, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Kesalahan %1"
 
 #, qt-format
 msgctxt "HttpError|"
-msgid "Error %1"
+msgid "HTTP Error %1"
 msgstr ""
 
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Kesalahan tidak diketahui"
 
 msgctxt "HttpError|"
 msgid "Remote host name not found"
-msgstr ""
+msgstr "Nama Remote Host tidak ditemukan"
 
 msgctxt "HttpError|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "Operasi dibatalkan"
 
 msgctxt "HttpError|"
 msgid "Remote server closed connection"
-msgstr ""
+msgstr "Server Remote telah menutup sambungan"
 
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr ""
+msgstr "Waktu sambungan telah habis"
 
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr ""
+msgstr "Sambungan SSL/TLS  gagal"
 
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Hubungan ditolak"
 
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
-msgstr ""
+msgstr "Ditemukan kesalahan terkait jaringan yang tak dikenal"
 
 msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
-msgstr ""
+msgstr "Operasi yang diminta tidak diizinkan"
 
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "Permintaan Buruk"
 
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "Tidak sah"
 
 msgctxt "HttpError|"
 msgid "Payment Required"
-msgstr ""
+msgstr "Diperlukan Pembayaran"
 
 msgctxt "HttpError|"
 msgid "Forbidden"
-msgstr ""
+msgstr "Terlarang"
 
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr ""
+msgstr "Tidak Ditemukan"
 
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "Metode Tidak Diizinkan"
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
-msgstr ""
+msgstr "Tidak Diterima"
 
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "Diperlukan Otentifikasi Proxy"
 
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "Permohonan Telah Melebihi Batas Waktu"
 
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr ""
+msgstr "Konflik"
 
 msgctxt "HttpError|"
 msgid "Gone"
-msgstr ""
+msgstr "Hilang"
 
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr ""
+msgstr "Panjang Diperlukan"
 
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "Prekondisi Gagal"
 
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "Permohonan Entitas Terlalu Besar"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr ""
+msgstr "URL Yang Diminta Terlalu Panjang"
 
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr ""
+msgstr "Jenis Media Tidak Dapat Didukung"
 
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr ""
+msgstr "Rentang yang Diminta Tidak Dapat Memuaskan"
 
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "Ekspektasi Gagal"
 
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "Saya sebuah teko"
 
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "Proses Otentifikasi Melebihi Batas Waktu"
 
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr ""
+msgstr "Metode Gagal / Tingkatkan Kesabaran Anda"
 
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr ""
+msgstr "Entitas yang Tidak Dapat Diproses"
 
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr ""
+msgstr "Terkunci"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr ""
+msgstr "Gagalnya Ketergantungan / Metode yang Gagal"
 
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "Koleksi Tak Diatur"
 
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "Diperlukan Peningkatkan"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
-msgstr ""
+msgstr "Diperlukan Prekondisi"
 
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr ""
+msgstr "Terlalu Banyak Permohonan"
 
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr ""
+msgstr "Permohonan Ruang Header Terlalu Besar"
 
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "Proses Masuk Melebihi Batas Waktu"
 
 msgctxt "HttpError|"
 msgid "No Response"
-msgstr ""
+msgstr "Tidak Ada Respon"
 
 msgctxt "HttpError|"
 msgid "Retry With"
-msgstr ""
+msgstr "Ulangi Dengan"
 
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "Diblokir oleh Aplikasi Bimbingan Orang Tua Windows"
 
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
-msgstr ""
+msgstr "Tidak Tersedia Karena Alasan Hukum"
 
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr ""
+msgstr "Permohonan Header Terlalu Besar"
 
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "Kesalahan Sertifikat"
 
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr ""
+msgstr "Sertifikat Tidak Ditemukan"
 
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
-msgstr ""
+msgstr "HTTP ke HTTPS"
 
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr ""
+msgstr "Tanda Bukti Telah Kadaluarsa/Salah"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
-msgstr ""
+msgstr "Klien Menutup Permohonan"
 
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Kesalahan Server Internal"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr ""
+msgstr "Tidak Dapat Diwujudkan"
 
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "Pintu Gerbang yang Buruk"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
-msgstr ""
+msgstr "Layanan Tidak Tersedia"
 
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "Pintu Gerbang Melebihi Batas Waktu"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "Versi HTTP Tidak Didukung"
 
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr ""
+msgstr "Varian Turut Bernegosiasi"
 
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "Ruang Penyimpanan Tidak Cukup"
 
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "Putaran Loop Terdeteksi"
 
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "Melebihi Batas Pita Jaringan"
 
 msgctxt "HttpError|"
 msgid "Not Extended"
-msgstr ""
+msgstr "Tidak Dapat Diperpanjang"
 
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "Diperlukan Otentifikasi Jaringan"
 
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "Kesalahan Pembacaan Batas Waktu Jaringan"
 
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr ""
+msgstr "Kesalahan pada batas waktu penyambungan jaringan"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "Jumlah Maksimum Sambungan sebesar %1"
 
 msgctxt "HttpFileDownload|"
 msgid "unlimited"
-msgstr ""
+msgstr "tidak terbatas"
 
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Kecepatan Unduh Tidak Terbatas"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr ""
+msgstr "Kecepatan Unduh Dibatasi Sebesar %1/s"
 
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
-msgstr ""
+msgstr "Tidak Dapat Mengulangi Pengunduhan Berkas"
 
 msgctxt "HttpFileDownload|"
 msgid "Reconnecting"
-msgstr ""
+msgstr "Menyambungkan Kembali"
 
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr ""
+msgstr "Memulai Pengunduhan"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
-msgstr ""
+msgstr "Menunda Pengunduhan"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
-msgstr ""
+msgstr "Gagal Untuk Melanjutkan Akibat URL Berubah"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
-msgstr ""
+msgstr "Memindahkan berkas ke %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File \"%1\" exists. Saving as %2"
-msgstr ""
+msgstr "Berkas \"%1\" telah tersedia. Simpan sebagai %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Restarting download"
-msgstr ""
+msgstr "Mengulangi Pengunduhan"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
-msgstr ""
+msgstr "Gagal membersihkan isi konten dari berkas asli."
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File is renamed to %1"
-msgstr ""
+msgstr "Nama berkas dirubah menjadi %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr "Kembali menggunakan sambungan  #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr ""
+msgstr "Membuka sambungan #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
-msgstr ""
+msgstr "#%1 Telah Ditutup"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr "Gagal menyelesaikan unduhan"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
-msgstr ""
+msgstr "Buka berkas dari penyimpanan..."
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Berkas telah hilang"
 
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Unduhan Selesai"
 
 msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
-msgstr ""
+msgstr "Menghapus berkas ekstensi sementara"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
-msgstr ""
+msgstr "Meninjau ruang penyimpanan untuk unduhan"
+
+msgctxt "HttpFileDownload|"
+msgid "Unexpected error"
+msgstr "Kesalahan Tak Terduga"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
-msgstr ""
+msgstr "Berkas berubah pada server remote"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr "Tidak dapat menggunakan koneksi #%1, menutup"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
-msgstr ""
+msgstr "Gagal menuliskan data yang diterima ke dalam berkas"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
-msgstr ""
+msgstr "#%1 menerima data"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "downloaded %1"
-msgstr ""
+msgstr "terunduh %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "(%1/s)"
-msgstr ""
+msgstr "(%1/d)"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
-msgstr ""
+msgstr "Mengarahkan ke %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1: server ignored partial content request"
-msgstr ""
+msgstr "#%1: server mengabaikan permintaan konten parsial"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 failed with error: %2"
-msgstr ""
+msgstr "#%1 gagal dengan kesalahan: %2"
 
 msgctxt "HttpFileDownload|"
 msgid "File moved successfully"
-msgstr ""
+msgstr "Berkas berhasil dipindahkan"
 
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
-msgstr ""
+msgstr "Berkas gagal dipindahkan"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
-msgstr ""
+msgstr "Penyiapan ruang gagal: %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "%1 finished successfully"
-msgstr ""
+msgstr "%1 sukses diselesaikan"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", kecepatan rata-rata: %1"
 
 msgctxt "HttpFileDownload|"
 msgid "Space allocation"
-msgstr ""
+msgstr "Alokasi Ruang"
 
 msgctxt "HttpFileDownload|"
 msgid "Move"
-msgstr ""
+msgstr "Pindahkan"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocation cancelled"
-msgstr ""
+msgstr "Penyiapan dibatalkan"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating queued"
-msgstr ""
+msgstr "Penyiapan dalam antrian"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating started"
-msgstr ""
+msgstr "Penyiapan dimulai"
 
 msgctxt "MacMainMenu|"
 msgid "Add Download from URL..."
-msgstr ""
+msgstr "Tambahkan Unduhan melalui URL..."
 
 msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
-msgstr ""
+msgstr "Buka Berkas Torrent..."
 
 msgctxt "MacMainMenu|"
 msgid "Edit"
-msgstr ""
+msgstr "Ubah"
 
 msgctxt "MacMainMenu|"
 msgid "Remove from List"
-msgstr ""
+msgstr "Hapus dari Daftar"
 
 #, qt-format
 msgctxt "MacMainMenu|"
 msgid "About %1"
-msgstr ""
+msgstr "Perihal %1"
 
 msgctxt "MacMainMenu|"
 msgid "Preferences..."
-msgstr ""
+msgstr "Pengaturan..."
 
 msgctxt "MacMainMenu|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Tinjau Pembaharuan..."
 
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
-msgstr ""
+msgstr "Mulai Yang Dipilih"
 
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
-msgstr ""
+msgstr "Tunda Yang Dipilih"
 
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr ""
+msgstr "Mulai Ulang Yang Dipilih"
 
 msgctxt "MacMainMenu|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Hubungi Bantuan"
 
 msgctxt "MacMainMenu|"
 msgid "Vote for New Features"
-msgstr ""
+msgstr "Suarakan Aspirasimu untuk Fitur Terbaru"
 
 msgctxt "MacMainMenu|"
 msgid "File"
-msgstr ""
+msgstr "Berkas"
 
 msgctxt "MacMainMenu|"
 msgid "Downloads"
-msgstr ""
+msgstr "Unduhan"
 
 msgctxt "MacMainMenu|"
 msgid "Help"
-msgstr ""
+msgstr "Bantuan"
 
 msgctxt "QObject|"
 msgid "About Free Download Manager"
-msgstr ""
+msgstr "Mengenai Free Download Manager"
 
 msgctxt "QObject|"
 msgid "Preferences"
-msgstr ""
+msgstr "Pengaturan"
 
 msgctxt "QObject|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Tinjau Pembaharuan..."
 
 msgctxt "QObject|"
 msgid "Window"
-msgstr ""
+msgstr "Jendela"
 
 msgctxt "QObject|"
 msgid "Minimize"
-msgstr ""
+msgstr "Minimalkan"
 
 msgctxt "QObject|"
 msgid "Zoom"
-msgstr ""
+msgstr "Perbesar"
 
 msgctxt "QObject|"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "Masuk Ke Layar Penuh"
 
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr ""
+msgstr "Bawa Semua Ke Depan"
 
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Hubungi Bantuan"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
-msgstr ""
+msgstr "Buka Berkas Torrent..."
 
 msgctxt "QObject|"
 msgid "File"
-msgstr ""
+msgstr "Berkas"
 
 msgctxt "QObject|"
 msgid "Select All"
-msgstr ""
+msgstr "Pilih Semua"
 
 msgctxt "QObject|"
 msgid "Delete"
-msgstr ""
+msgstr "Hapus"
 
 msgctxt "QObject|"
 msgid "Paste"
-msgstr ""
+msgstr "Tempelkan"
 
 msgctxt "QObject|"
 msgid "Copy"
-msgstr ""
+msgstr "Salin"
 
 msgctxt "QObject|"
 msgid "Cut"
-msgstr ""
+msgstr "Potong"
 
 msgctxt "QObject|"
 msgid "Edit"
-msgstr ""
+msgstr "Ubah"
 
 msgctxt "QObject|"
 msgid "Help"
-msgstr ""
+msgstr "Bantuan"
 
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
-msgstr ""
+msgstr "Terdapat kesalahan dengan pengunduhan internal."
 
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr ""
+msgstr "Jalur Berkas Terpilih Tidak Benar."
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
-msgstr ""
+msgstr "Nama Berkas Terpilih Terlalu Panjang"
 
 msgctxt "QObject|"
 msgid "Selected filename is not valid."
-msgstr ""
+msgstr "Nama Berkas Terpilih Tidak Benar."
 
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
+msgstr "Direktori yang ditentukan tidak dapat diakses."
+
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr ""
+
+#, fuzzy
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr "Berkas dinyatakan hilang"
+
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr ""
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
 msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "locale"
-msgstr ""
+msgstr "lokal"
 
 msgctxt "RPCLocalization|"
 msgid "Drag & Drop"
-msgstr ""
+msgstr "Seret & Letakkan"
 
 msgctxt "RPCLocalization|"
 msgid "URL or torrent here"
-msgstr ""
+msgstr "URL atau Torrent di sini"
 
 msgctxt "RPCLocalization|"
 msgid "Add tag"
-msgstr ""
+msgstr "Sematkan Tagar"
 
 msgctxt "RPCLocalization|"
 msgid "Preferences"
-msgstr ""
+msgstr "Pengaturan"
 
 msgctxt "RPCLocalization|"
 msgid "Unlimited"
-msgstr ""
+msgstr "Tidak Terbatas"
 
 msgctxt "RPCLocalization|"
 msgid "Manual..."
-msgstr ""
+msgstr "Petunjuk..."
 
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
-msgstr ""
+msgstr "Atur batasan secara manual"
 
 msgctxt "RPCLocalization|"
 msgid "Download: unlimited, Upload: unlimited"
-msgstr ""
+msgstr "Unduhan: tidak terbatas, Unggahan: tidak terbatas"
 
 msgctxt "RPCLocalization|"
 msgid "Download:"
-msgstr ""
+msgstr "Unduhan:"
 
 msgctxt "RPCLocalization|"
 msgid "Upload:"
-msgstr ""
+msgstr "Unggahan:"
 
 msgctxt "RPCLocalization|"
 msgid "unlimited"
-msgstr ""
+msgstr "tidak terbatas"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
 msgstr ""
+"Mode siput membebaskan pita jaringan tanpa menghentikan proses pengunduhan."
 
 msgctxt "RPCLocalization|"
 msgid "Hide details"
-msgstr ""
+msgstr "Sembunyikan detil"
 
 msgctxt "RPCLocalization|"
 msgid "Show details"
-msgstr ""
+msgstr "Tunjukkan detil"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
-msgstr[0] ""
+msgstr[0] "%n berkas terpilih."
 
 msgctxt "RPCLocalization|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Tunjukkan dalam map berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Reveal in Finder"
-msgstr ""
+msgstr "Perlihatkan dalam Finder"
 
 msgctxt "RPCLocalization|"
 msgid "Pause"
-msgstr ""
+msgstr "Tunda"
 
 msgctxt "RPCLocalization|"
 msgid "Restart"
-msgstr ""
+msgstr "Mulai Ulang"
 
 msgctxt "RPCLocalization|"
 msgid "Start"
-msgstr ""
+msgstr "Mulai"
 
 msgctxt "RPCLocalization|"
 msgid "Selected size:"
-msgstr ""
+msgstr "Ukuran terpilih:"
 
 msgctxt "RPCLocalization|"
 msgid "Size:"
-msgstr ""
+msgstr "Ukuran:"
 
 msgctxt "RPCLocalization|"
 msgid "File size:"
-msgstr ""
+msgstr "Ukuran berkas:"
 
 msgctxt "RPCLocalization|"
 msgid "Disk space:"
-msgstr ""
+msgstr "Ruang penyimpanan:"
 
 msgctxt "RPCLocalization|"
 msgid "Total size:"
-msgstr ""
+msgstr "Jumlah ukuran:"
 
 msgctxt "RPCLocalization|"
 msgid "Checked size:"
-msgstr ""
+msgstr "Ukuran diperiksa:"
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded:"
-msgstr ""
+msgstr "Diunduh:"
 
 msgctxt "RPCLocalization|"
 msgid "Download speed:"
-msgstr ""
+msgstr "Kecepatan Unduh:"
 
 msgctxt "RPCLocalization|"
 msgid "Seeds:"
-msgstr ""
+msgstr "Sumber:"
 
 msgctxt "RPCLocalization|"
 msgid "Domain:"
-msgstr ""
+msgstr "Domain:"
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded:"
-msgstr ""
+msgstr "Terunggah:"
 
 msgctxt "RPCLocalization|"
 msgid "Upload speed:"
-msgstr ""
+msgstr "Kecepatan Unggahan:"
 
 msgctxt "RPCLocalization|"
 msgid "Peers:"
-msgstr ""
+msgstr "Rekanan:"
 
 msgctxt "RPCLocalization|"
 msgid "Share ratio:"
-msgstr ""
+msgstr "Rasio pembagian:"
 
 msgctxt "RPCLocalization|"
 msgid "Availability:"
-msgstr ""
+msgstr "Ketersediaan:"
 
 msgctxt "RPCLocalization|"
 msgid "DHT nodes:"
-msgstr ""
+msgstr "Jumlah Node DHT:"
 
 msgctxt "RPCLocalization|"
 msgid "IP"
-msgstr ""
+msgstr "IP"
 
 msgctxt "RPCLocalization|"
 msgid "Client"
-msgstr ""
+msgstr "Klien"
 
 msgctxt "RPCLocalization|"
 msgid "Flags"
-msgstr ""
+msgstr "Bendera"
 
 msgctxt "RPCLocalization|"
 msgid "Requests"
-msgstr ""
+msgstr "Permintaan"
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded"
-msgstr ""
+msgstr "Terunduh"
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded"
-msgstr ""
+msgstr "Terunggah"
 
 msgctxt "RPCLocalization|"
 msgid "Files"
-msgstr ""
+msgstr "Berkas-berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Trackers"
-msgstr ""
+msgstr "Pelacak"
 
 msgctxt "RPCLocalization|"
 msgid "Peers"
-msgstr ""
+msgstr "Rekanan"
 
 msgctxt "RPCLocalization|"
 msgid "Log"
-msgstr ""
+msgstr "Catatan"
 
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
-msgstr ""
+msgstr "Izinkan sumber"
 
 msgctxt "RPCLocalization|"
 msgid "Progress"
-msgstr ""
+msgstr "Tingkat Kemajuan"
 
 msgctxt "RPCLocalization|"
 msgid "Priority"
-msgstr ""
+msgstr "Prioritas"
 
 msgctxt "RPCLocalization|"
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 msgctxt "RPCLocalization|"
 msgid "Next announce"
-msgstr ""
+msgstr "Pemberitahuan Selanjutnya"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode"
-msgstr ""
+msgstr "Mode Siput"
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Bandwidth limits"
+#~ msgstr "Batasan Pita Jaringan"
 
 msgctxt "RPCLocalization|"
-msgid "Bandwidth limits"
+msgid "Traffic limits"
 msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Cancel"
-msgstr ""
+msgstr "Batalkan"
 
 msgctxt "RPCLocalization|"
 msgid "Apply"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "KB/s"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "MB/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 B/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 KB/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 MB/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 GB/s"
-msgstr ""
+msgstr "Terapkan"
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
-msgstr ""
+msgstr "Integrasi browser"
 
 msgctxt "RPCLocalization|"
 msgid "Next"
-msgstr ""
+msgstr "Selanjutnya"
 
 msgctxt "RPCLocalization|"
 msgid "Proceed to download"
-msgstr ""
+msgstr "Lanjutkan ke unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Add download"
-msgstr ""
+msgstr "Tambahkan unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Enter download URL:"
-msgstr ""
+msgstr "Masukkan URL unduhan:"
 
 msgctxt "RPCLocalization|"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgctxt "RPCLocalization|"
 msgid "Download"
-msgstr ""
+msgstr "Unduh"
 
 msgctxt "RPCLocalization|"
 msgid "Download anyway"
-msgstr ""
+msgstr "Unduh bagaimanapun juga"
 
 msgctxt "RPCLocalization|"
 msgid "Add"
-msgstr ""
+msgstr "Tambahkan"
 
 msgctxt "RPCLocalization|"
 msgid "torrent"
-msgstr ""
+msgstr "torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Save to:"
-msgstr ""
+msgstr "Simpan ke:"
 
 msgctxt "RPCLocalization|"
 msgid "Select folder"
-msgstr ""
+msgstr "Pilih Map Berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting download info..."
-msgstr ""
+msgstr "Meminta informasi unduhan..."
 
 msgctxt "RPCLocalization|"
 msgid "Quality:"
-msgstr ""
+msgstr "Kualitas:"
 
 msgctxt "RPCLocalization|"
 msgid "Select all"
-msgstr ""
+msgstr "Pilih semua"
 
 msgctxt "RPCLocalization|"
 msgid "Select none"
-msgstr ""
+msgstr "Tidak memilih apapun"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent already exists"
-msgstr ""
+msgstr "Torrent telah tersedia"
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
-msgstr ""
+msgstr "Ingin memuat pelacaknya?"
 
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
-msgstr ""
+msgstr "Tidak ada unduhan aktif"
 
 msgctxt "RPCLocalization|"
 msgid "No completed downloads"
-msgstr ""
+msgstr "Tidak ada unduhan selesai"
 
 msgctxt "RPCLocalization|"
 msgid "No results found for"
-msgstr ""
+msgstr "Tidak ditemukan hasil untuk"
 
 msgctxt "RPCLocalization|"
 msgid "No results tagged"
-msgstr ""
+msgstr "Tidak ditemukan hasil tagar"
 
 msgctxt "RPCLocalization|"
 msgid "found"
-msgstr ""
+msgstr "ditemukan"
 
 msgctxt "RPCLocalization|"
 msgid "Show all"
-msgstr ""
+msgstr "Tampilkan semua"
 
 msgctxt "RPCLocalization|"
 msgid "Nothing found"
-msgstr ""
+msgstr "Tidak ditemukan apapun"
 
 msgctxt "RPCLocalization|"
 msgid "Moving"
-msgstr ""
+msgstr "Memindahkan"
 
 msgctxt "RPCLocalization|"
 msgid "Unknown file size"
-msgstr ""
+msgstr "Ukuran berkas tidak diketahui"
 
 msgctxt "RPCLocalization|"
 msgid "Merging media streams"
-msgstr ""
+msgstr "Gabungkan aliran media"
 
 msgctxt "RPCLocalization|"
 msgid "Allocating disk space..."
-msgstr ""
+msgstr "Menyiapkan ruang penyimpanan..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
-msgstr ""
+msgstr "Menghubungkan kembali..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting"
-msgstr ""
+msgstr "Menghubungkan kembali"
 
 msgctxt "RPCLocalization|"
 msgid "Paused"
-msgstr ""
+msgstr "Ditunda"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading metadata"
-msgstr ""
+msgstr "Mengunduh data meta"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading"
-msgstr ""
+msgstr "Mengunduh"
 
 msgctxt "RPCLocalization|"
 msgid "Error"
-msgstr ""
+msgstr "Kesalahan"
 
 msgctxt "RPCLocalization|"
 msgid "Checking files..."
-msgstr ""
+msgstr "Meninjau berkas..."
 
 msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
-msgstr ""
+msgstr "Sedang mengunduh, menyiapkan ruang penyimpanan..."
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
-msgstr[0] ""
+msgstr[0] "Telah selesai %n / %2 berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Complete"
-msgstr ""
+msgstr "Selesai"
 
 msgctxt "RPCLocalization|"
 msgid "Queued"
-msgstr ""
+msgstr "Dalam antrian"
 
 msgctxt "RPCLocalization|"
 msgid "Stop seeding"
-msgstr ""
+msgstr "Hentikan penyemaian"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting info..."
-msgstr ""
+msgstr "Meminta informasi..."
 
 msgctxt "RPCLocalization|"
 msgid "Open torrent file..."
-msgstr ""
+msgstr "Buka berkas torrent..."
 
 msgctxt "RPCLocalization|"
 msgid "Preferences..."
-msgstr ""
+msgstr "Pilihan..."
 
 msgctxt "RPCLocalization|"
 msgid "Settings..."
-msgstr ""
+msgstr "Pengaturan..."
 
 msgctxt "RPCLocalization|"
 msgid "Settings"
-msgstr ""
+msgstr "Pengaturan"
 
 msgctxt "RPCLocalization|"
 msgid "Contact support"
-msgstr ""
+msgstr "Hubungi bantuan"
 
 msgctxt "RPCLocalization|"
 msgid "Auto shutdown"
-msgstr ""
+msgstr "Matikan komputer secara otomatis"
 
 msgctxt "RPCLocalization|"
 msgid "Sleep"
-msgstr ""
+msgstr "Mode tidur"
 
 msgctxt "RPCLocalization|"
 msgid "Hibernate"
-msgstr ""
+msgstr "Mode hibernasi"
 
 msgctxt "RPCLocalization|"
 msgid "Shutdown"
-msgstr ""
+msgstr "Matikan komputer"
 
 msgctxt "RPCLocalization|"
 msgid "Check for updates"
-msgstr ""
+msgstr "Periksa pembaharuan"
 
 msgctxt "RPCLocalization|"
 msgid "About Free Download Manager"
-msgstr ""
+msgstr "Mengenai Free Download Manager"
 
 msgctxt "RPCLocalization|"
 msgid "Quit"
-msgstr ""
+msgstr "Keluar"
 
 msgctxt "RPCLocalization|"
 msgid "Exit"
-msgstr ""
+msgstr "Keluar"
 
 msgctxt "RPCLocalization|"
 msgid "Vote for new features"
-msgstr ""
+msgstr "Suarakan aspirasimu untuk fitur terbaru"
 
 msgctxt "RPCLocalization|"
 msgid "About FDM"
-msgstr ""
+msgstr "Mengenai FDM"
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure this is a valid file extension?"
-msgstr ""
+msgstr "Apakah Anda yakin bahwa ini adalah ekstensi berkas yang sah?"
 
 msgctxt "RPCLocalization|"
 msgid "Please enter numbers only"
-msgstr ""
+msgstr "Mohon masukkan angka saja"
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too small?"
-msgstr ""
+msgstr "Apakah Anda yakin bahwa ini tidak terlalu keci?"
 
 msgctxt "RPCLocalization|"
 msgid "Why should it be so huge?"
-msgstr ""
+msgstr "Mengapa ini perlu berukuran sangat besar?"
 
 msgctxt "RPCLocalization|"
 msgid "Extremely slow, isn't it?"
-msgstr ""
+msgstr "Apakah ini terlalu lamban?"
 
 msgctxt "RPCLocalization|"
 msgid "Faster doesn't mean better"
-msgstr ""
+msgstr "Lebih cepat tidak bermakna lebih baik"
 
 msgctxt "RPCLocalization|"
 msgid "Isn't it too frequent?"
-msgstr ""
+msgstr "Apakah ini tidak terlalu sering?"
 
 msgctxt "RPCLocalization|"
 msgid "Pretty rare to move with the time."
-msgstr ""
+msgstr "Situasi langka untuk berpindah saat ini."
 
 msgctxt "RPCLocalization|"
 msgid "Maybe you'd let it be a little longer?"
-msgstr ""
+msgstr "Mungkin Anda membuat hal ini sedikit lebih lama?"
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
-msgstr ""
+msgstr "Apakah Anda yakin hal ini tidak terlalu panjang?"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
-msgstr[0] ""
+msgstr[0] "Hanya %n catatan? FDM dapat memuat lebih banyak lagi!"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
-msgstr[0] ""
+msgstr[0] "%n catatan terlalu banyak untuk disimpan."
 
 msgctxt "RPCLocalization|"
 msgid "Do you actually want to connect?"
-msgstr ""
+msgstr "Apakah Anda benar-benar ingin menyambungkan?"
 
 msgctxt "RPCLocalization|"
 msgid "Oh no, too many connections!"
-msgstr ""
+msgstr "Oh tidak, terlalu banyak sambungan!"
 
 msgctxt "RPCLocalization|"
 msgid "It seems like an understatement."
-msgstr ""
+msgstr "Ini nampak seperti pernyataan yang meremehkan."
 
 msgctxt "RPCLocalization|"
 msgid "So many? It's overwhelming!"
-msgstr ""
+msgstr "Nampak banyak? Ini sangat banyak!"
 
 msgctxt "RPCLocalization|"
 msgid "General"
-msgstr ""
+msgstr "Umum"
 
 msgctxt "RPCLocalization|"
 msgid "Browser Integration"
-msgstr ""
+msgstr "Penyatuan Peramban"
 
 msgctxt "RPCLocalization|"
 msgid "BitTorrent"
-msgstr ""
+msgstr "BitTorrent"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic Limits"
-msgstr ""
+msgstr "Batasan lalu lintas"
 
 msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
-msgstr ""
+msgstr "Batasan lalu lintas"
 
 msgctxt "RPCLocalization|"
 msgid "Advanced"
-msgstr ""
+msgstr "Lanjutan"
 
 msgctxt "RPCLocalization|"
 msgid "Network"
-msgstr ""
+msgstr "Jaringan"
 
 msgctxt "RPCLocalization|"
 msgid "Proxy"
-msgstr ""
+msgstr "Proxy"
 
 msgctxt "RPCLocalization|"
 msgid "No proxy"
-msgstr ""
+msgstr "Tidak ada proxy"
 
 msgctxt "RPCLocalization|"
 msgid "System proxy"
-msgstr ""
+msgstr "Proxy sistem"
 
 msgctxt "RPCLocalization|"
 msgid "Configure manually:"
-msgstr ""
+msgstr "Atur secara manual:"
 
 msgctxt "RPCLocalization|"
 msgid "HTTP:"
-msgstr ""
+msgstr "HTTP:"
 
 msgctxt "RPCLocalization|"
 msgid "HTTPS:"
-msgstr ""
+msgstr "HTTPS:"
 
 msgctxt "RPCLocalization|"
 msgid "FTP:"
-msgstr ""
+msgstr "FTP:"
 
 msgctxt "RPCLocalization|"
 msgid "Address"
-msgstr ""
+msgstr "Alamat"
 
 msgctxt "RPCLocalization|"
 msgid "Port"
-msgstr ""
+msgstr "Port"
 
 msgctxt "RPCLocalization|"
 msgid "Login"
-msgstr ""
+msgstr "Masuk"
 
 msgctxt "RPCLocalization|settings"
 msgid "Login"
-msgstr ""
+msgstr "Masuk"
 
 msgctxt "RPCLocalization|"
 msgid "Password"
-msgstr ""
+msgstr "Kata Sandi"
 
 msgctxt "RPCLocalization|"
 msgid "Startup"
-msgstr ""
+msgstr "Memulai"
 
 msgctxt "RPCLocalization|"
 msgid "Downloads"
-msgstr ""
+msgstr "Unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Launch at startup (minimized)"
-msgstr ""
+msgstr "Luncurkan saat memulai (minimalkan)"
 
 msgctxt "RPCLocalization|"
 msgid "Open at Login"
-msgstr ""
+msgstr "Buka saat Masuk"
 
 msgctxt "RPCLocalization|"
 msgid "Close button minimizes window"
-msgstr ""
+msgstr "Tombol tutup meminimalkan jendela"
 
 msgctxt "RPCLocalization|"
 msgid "Check if FDM is your default torrent client"
-msgstr ""
+msgstr "Pastikan jika FDM adalah klien utama Anda"
 
 msgctxt "RPCLocalization|"
 msgid "Update"
-msgstr ""
+msgstr "Pembaharuan"
 
 msgctxt "RPCLocalization|settings"
 msgid "Update"
-msgstr ""
+msgstr "Pembaharuan"
 
 msgctxt "RPCLocalization|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "Periksa pembaharuan secara otomatis"
 
 msgctxt "RPCLocalization|"
 msgid "Install updates automatically"
-msgstr ""
+msgstr "Pasang pembaharuan secara otomatis"
 
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
-msgstr ""
+msgstr "Berikan saran map berdasarkan jenis berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on download URL"
-msgstr ""
+msgstr "Berkan saran map berdasarkan URL unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Default folder:"
-msgstr ""
+msgstr "Map utama:"
 
 msgctxt "RPCLocalization|"
 msgid "Associate with torrents"
-msgstr ""
+msgstr "Kaitkan dengan torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Notifications"
-msgstr ""
+msgstr "Pemberitahuan"
 
 msgctxt "RPCLocalization|"
 msgid "Notify me of completed downloads via Notification Center"
-msgstr ""
+msgstr "Beritahu saya mengenai unduhan yang selesai melalui Pusat Notifikasi"
 
 msgctxt "RPCLocalization|"
 msgid "Only when FDM window is inactive"
-msgstr ""
+msgstr "Hanya saat jendela FDM tidak aktif"
 
 msgctxt "RPCLocalization|"
 msgid "Action of Remove button (main panel) or Delete key"
 msgstr ""
+"Tanggapan atas penggunaan tombol Hapus (panel utama) atau tombol Delete"
 
 msgctxt "RPCLocalization|"
 msgid "Remove only from list"
-msgstr ""
+msgstr "Hapus dari daftar saja"
 
 msgctxt "RPCLocalization|"
 msgid "Delete file(s) from disk"
-msgstr ""
+msgstr "Hapus berkas dari media penyimpanan"
 
 msgctxt "RPCLocalization|"
 msgid "Always ask"
-msgstr ""
+msgstr "Selalu tanyakan"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads from"
-msgstr ""
+msgstr "Jangan menangkap unduhan dari"
 
 msgctxt "RPCLocalization|"
 msgid "Start downloading without confirmation"
-msgstr ""
+msgstr "Mulai pengunduhan tanpa konfirmasi"
 
 msgctxt "RPCLocalization|"
 msgid "Use only HTTP ports to catch downloads in Edge"
-msgstr ""
+msgstr "Hanya menggunakan port HTTP untuk menangkap unduhan di Edge"
 
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
-msgstr ""
+msgstr "Safari: izinkan FDM"
 
 msgctxt "RPCLocalization|"
 msgid "extension"
-msgstr ""
+msgstr "ekstensi"
 
 msgctxt "RPCLocalization|"
 msgid "for context menu"
-msgstr ""
+msgstr "untuk menu konteks"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
-msgstr ""
+msgstr "Secara otomatis menangkan unduhan dari peramban-peramban"
 
 msgctxt "RPCLocalization|"
 msgid "Edge"
-msgstr ""
+msgstr "Edge"
 
 msgctxt "RPCLocalization|"
 msgid "Internet Explorer"
-msgstr ""
+msgstr "Internet Explorer"
 
 msgctxt "RPCLocalization|"
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 msgctxt "RPCLocalization|"
 msgid "Chrome"
-msgstr ""
+msgstr "Chrome"
 
 msgctxt "RPCLocalization|"
 msgid "Verify if"
-msgstr ""
+msgstr "Periksa apabila"
 
 msgctxt "RPCLocalization|"
 msgid "is enabled"
-msgstr ""
+msgstr "diizinkan"
 
 msgctxt "RPCLocalization|"
 msgid "No Chrome installation was found."
-msgstr ""
+msgstr "Tidak ditemukan pemasangan Chrome."
 
 msgctxt "RPCLocalization|"
 msgid "You can"
-msgstr ""
+msgstr "Anda dapat"
 
 msgctxt "RPCLocalization|"
 msgid "download Chrome here"
-msgstr ""
+msgstr "unduh Chrome di sini"
 
 msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
-msgstr ""
+msgstr "Gunakan peramban apabila Anda membatalkan unduhan melalui FDM"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads smaller than"
-msgstr ""
+msgstr "Jangan menangkap unduhan lebih kecil dari"
 
 msgctxt "RPCLocalization|"
 msgid "Kbytes"
-msgstr ""
+msgstr "Kbit"
 
 msgctxt "RPCLocalization|"
 msgid "Skip files with extensions:"
-msgstr ""
+msgstr "Lewati berkas dengan ekstensi:"
 
 msgctxt "RPCLocalization|"
 msgid "Add FDM to browser context menu"
-msgstr ""
+msgstr "Tambahkan FDM ke dalam menu konteks peramban"
 
 msgctxt "RPCLocalization|"
 msgid "Use proxy for P2P connections"
-msgstr ""
+msgstr "Gunakan proxy untuk sambungan P2P"
 
 msgctxt "RPCLocalization|"
 msgid "Parameters"
-msgstr ""
+msgstr "Batasan Pengaturan"
 
 msgctxt "RPCLocalization|"
 msgid "Low"
-msgstr ""
+msgstr "Rendah"
 
 msgctxt "RPCLocalization|"
 msgid "Medium"
-msgstr ""
+msgstr "Sedang"
 
 msgctxt "RPCLocalization|"
 msgid "High"
-msgstr ""
+msgstr "Tinggi"
 
 msgctxt "RPCLocalization|"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "RPCLocalization|"
 msgid "Skip"
-msgstr ""
+msgstr "Lewati"
 
 msgctxt "RPCLocalization|"
 msgid "Download speed"
-msgstr ""
+msgstr "Kecepatan unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Upload speed"
-msgstr ""
+msgstr "Kecepatan unggahan"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of simultaneous downloads"
-msgstr ""
+msgstr "Jumlah maksimal unduhan bersamaan"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of connections"
-msgstr ""
+msgstr "Jumlah maksimal sambungan"
 
 msgctxt "RPCLocalization|"
 msgid "History"
-msgstr ""
+msgstr "Riwayat"
 
 msgctxt "RPCLocalization|"
 msgid "Remember all destination folders"
-msgstr ""
+msgstr "Mengingat seluruh map berkas tujuan"
 
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
 msgid_plural "Clear history older than"
-msgstr[0] ""
+msgstr[0] "Bersihkan riwayat apabila lebih dari"
 
 msgctxt "RPCLocalization|"
 msgid "days"
 msgid_plural "days"
-msgstr[0] ""
+msgstr[0] "hari"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of history records:"
-msgstr ""
+msgstr "Jumlah maksimal catatan riwayat:"
 
 msgctxt "RPCLocalization|"
 msgid "Disk usage"
-msgstr ""
+msgstr "Penggunaan ruang penyimpanan"
 
 msgctxt "RPCLocalization|"
 msgid "Preallocate disk space for files larger than"
 msgstr ""
+"Menyiapkan media penyimpanan untuk berkas yang berukuran lebih besar dari"
 
 msgctxt "RPCLocalization|"
 msgid "Gbytes"
-msgstr ""
+msgstr "Gbit"
 
 msgctxt "RPCLocalization|"
 msgid "Power management"
-msgstr ""
+msgstr "Pengaturan daya"
 
 msgctxt "RPCLocalization|"
 msgid "Prevent sleep if there are active downloads"
-msgstr ""
+msgstr "Hindari mode tidur apabila masih terdapat unduhan aktif"
 
 msgctxt "RPCLocalization|"
 msgid "Delete button action"
-msgstr ""
+msgstr "Tanggapan tombol Hapus"
 
 msgctxt "RPCLocalization|"
 msgid "Delete files"
-msgstr ""
+msgstr "Hapus berkas"
 
 msgctxt "RPCLocalization|"
 msgid "DHT"
-msgstr ""
+msgstr "DHT"
 
 msgctxt "RPCLocalization|"
 msgid "Port forwarding"
-msgstr ""
+msgstr "Penerusan port"
 
 msgctxt "RPCLocalization|"
 msgid "Local peer discovery"
-msgstr ""
+msgstr "Penemuan peer lokal"
 
 msgctxt "RPCLocalization|"
 msgid "Peer exchange"
-msgstr ""
+msgstr "Pertukaran peer"
 
 msgctxt "RPCLocalization|"
 msgid "uTP"
-msgstr ""
+msgstr "uTP"
 
 msgctxt "RPCLocalization|"
 msgid "Use ports in range:"
-msgstr ""
+msgstr "Penggunaan port dalam jarak:"
 
 msgctxt "RPCLocalization|"
 msgid "to"
-msgstr ""
+msgstr "menuju"
 
 msgctxt "RPCLocalization|"
 msgid "Reset"
-msgstr ""
+msgstr "Kembali ke awal"
 
 msgctxt "RPCLocalization|"
 msgid "Select All"
-msgstr ""
+msgstr "Pilih Semua"
 
 msgctxt "RPCLocalization|"
 msgid "Name"
-msgstr ""
+msgstr "Nama"
 
 msgctxt "RPCLocalization|"
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgctxt "RPCLocalization|"
 msgid "Speed"
-msgstr ""
+msgstr "Kecepatan"
 
 msgctxt "RPCLocalization|"
 msgid "Size"
-msgstr ""
+msgstr "Ukuran"
 
 msgctxt "RPCLocalization|"
 msgid "Added"
-msgstr ""
+msgstr "Ditambahkan"
 
 msgctxt "RPCLocalization|"
 msgid "Start all"
-msgstr ""
+msgstr "Mulai semua"
 
 msgctxt "RPCLocalization|"
 msgid "Pause all"
-msgstr ""
+msgstr "Tunda semua"
 
 msgctxt "RPCLocalization|"
 msgid "Start selected"
-msgstr ""
+msgstr "Mulai untuk yang dipilih"
 
 msgctxt "RPCLocalization|"
 msgid "Pause selected"
-msgstr ""
+msgstr "Tunda untuk yang dipilih"
 
 msgctxt "RPCLocalization|"
 msgid "Add new download..."
-msgstr ""
+msgstr "Tambahkan unduhan baru..."
 
 msgctxt "RPCLocalization|"
 msgid "Move to trash"
-msgstr ""
+msgstr "Pindahkan ke tong sampah"
 
 msgctxt "RPCLocalization|"
 msgid "Remove from list"
-msgstr ""
+msgstr "Hilangkan dari daftar"
 
 msgctxt "RPCLocalization|"
 msgid "Delete selected"
-msgstr ""
+msgstr "Hapus yang dipilih"
 
 msgctxt "RPCLocalization|"
 msgid "Move to..."
-msgstr ""
+msgstr "Pindahkan ke..."
 
 msgctxt "RPCLocalization|"
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 msgctxt "RPCLocalization|"
 msgid "Main menu"
-msgstr ""
+msgstr "Menu utama"
 
 msgctxt "RPCLocalization|"
 msgid "Delete selected downloads"
-msgstr ""
+msgstr "Hapus unduhan yang dipilih"
 
 msgctxt "RPCLocalization|"
 msgid "Remember my choice"
-msgstr ""
+msgstr "Ingat pilihan saya"
 
 msgctxt "RPCLocalization|"
 msgid "Delete file"
-msgstr ""
+msgstr "Hapus berkas"
 
 msgctxt "RPCLocalization|"
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 msgctxt "RPCLocalization|"
 msgid "Active"
-msgstr ""
+msgstr "Aktif"
 
 msgctxt "RPCLocalization|"
 msgid "Completed"
-msgstr ""
+msgstr "Selesai"
 
 msgctxt "RPCLocalization|"
 msgid "Customize color"
-msgstr ""
+msgstr "Penyesuaian warna"
 
 msgctxt "RPCLocalization|"
 msgid "Remove tag"
-msgstr ""
+msgstr "Hapuskan tagar"
 
 msgctxt "RPCLocalization|"
 msgid ""
 "Would you like to make Free Download Manager the default torrent client?"
 msgstr ""
+"Apakah Anda berminat menjadikan Free Download Manager sebagai klien torrent "
+"yang utama?"
 
 msgctxt "RPCLocalization|"
 msgid "Don’t ask again"
-msgstr ""
+msgstr "Jangan tanyakan lagi"
 
 msgctxt "RPCLocalization|"
 msgid "Set as Default"
-msgstr ""
+msgstr "Atur sebagai yang Utama"
 
 msgctxt "RPCLocalization|"
 msgid "Computer will be put to sleep after all downloads are completed."
 msgstr ""
+"Komputer akan masuk ke mode tidur apabila seluruh unduhan telah selesai."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will shut down after all downloads are completed."
-msgstr ""
+msgstr "Komputer akan dimatikan apabila seluruh unduhan telah selesai."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will hibernate after all downloads are completed."
 msgstr ""
+"Komputer akan masuk ke mode hibernasi apabila seluruh unduhan telah selesai."
 
 msgctxt "RPCLocalization|"
 msgid "Checking for updates..."
-msgstr ""
+msgstr "Memeriksa pembaharuan..."
 
 msgctxt "RPCLocalization|"
 msgid "Retry"
-msgstr ""
+msgstr "Ulangi kembali"
 
 msgctxt "RPCLocalization|"
 msgid "Error:"
-msgstr ""
+msgstr "Kesalahan:"
 
 msgctxt "RPCLocalization|"
 msgid "Error downloading update:"
-msgstr ""
+msgstr "Terjadi kesalahan dalam mengunduh pembaharuan:"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading update"
-msgstr ""
+msgstr "Mengunduh pembaharuan"
 
 msgctxt "RPCLocalization|"
 msgid "Checking..."
-msgstr ""
+msgstr "Memeriksa..."
 
 msgctxt "RPCLocalization|"
 msgid "Update downloaded"
-msgstr ""
+msgstr "Pembaharuan telah selesai diunduh"
 
 msgctxt "RPCLocalization|"
 msgid "Install update"
-msgstr ""
+msgstr "Pasang pembaharuan"
 
 msgctxt "RPCLocalization|"
 msgid "Installing updates"
-msgstr ""
+msgstr "Memasang pembaharuan"
 
 msgctxt "RPCLocalization|"
 msgid "Relaunch FDM to update"
-msgstr ""
+msgstr "Luncurkan ulang FDM untuk membaharui"
 
 msgctxt "RPCLocalization|"
 msgid "Relaunch"
-msgstr ""
+msgstr "Meluncurkan ulang"
 
 msgctxt "RPCLocalization|"
 msgid "Error occurred during installation:"
-msgstr ""
+msgstr "Terjadi kesalahan selama pemasangan:"
 
 msgctxt "RPCLocalization|"
 msgid "Restart computer to complete installation"
-msgstr ""
+msgstr "Hidupkan kembali komputer untuk menyelesaikan pemasangan"
 
 msgctxt "RPCLocalization|"
 msgid "FDM is up to date!"
-msgstr ""
+msgstr "FDM dalam kondisi mutakhir!"
 
 msgctxt "RPCLocalization|"
 msgid "New version is available"
-msgstr ""
+msgstr "Versi terbaru telah tersedia"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ns"
 msgid_plural "%ns"
-msgstr[0] ""
+msgstr[0] "%ndetik"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nm"
 msgid_plural "%nm"
-msgstr[0] ""
+msgstr[0] "%nmenit"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nh"
 msgid_plural "%nh"
-msgstr[0] ""
+msgstr[0] "%njam"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nd"
 msgid_plural "%nd"
-msgstr[0] ""
+msgstr[0] "%nhari"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nw"
 msgid_plural "%nw"
-msgstr[0] ""
+msgstr[0] "%npekan"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ny"
 msgid_plural "%ny"
-msgstr[0] ""
+msgstr[0] "%ntahun"
 
 msgctxt "RPCLocalization|"
 msgid "YouTube"
-msgstr ""
+msgstr "Youtube"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent"
-msgstr ""
+msgstr "Torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Options"
-msgstr ""
+msgstr "Pengaturan"
 
 msgctxt "RPCLocalization|"
 msgid "Open Scheduler"
-msgstr ""
+msgstr "Buka Penjadwalan"
 
 msgctxt "RPCLocalization|"
 msgid "Sсheduler"
-msgstr ""
+msgstr "Penjadwalan"
 
 msgctxt "RPCLocalization|"
 msgid "Start and pause downloads at specified time"
-msgstr ""
+msgstr "Mulai dan tunda unduhan untuk waktu khusus"
 
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
-msgstr ""
+msgstr "Hidupkan Penjadwalan"
 
 msgctxt "RPCLocalization|"
 msgid "Sun"
-msgstr ""
+msgstr "Min"
 
 msgctxt "RPCLocalization|"
 msgid "Mon"
-msgstr ""
+msgstr "Sen"
 
 msgctxt "RPCLocalization|"
 msgid "Tue"
-msgstr ""
+msgstr "Sel"
 
 msgctxt "RPCLocalization|"
 msgid "Wed"
-msgstr ""
+msgstr "Rab"
 
 msgctxt "RPCLocalization|"
 msgid "Thu"
-msgstr ""
+msgstr "Kam"
 
 msgctxt "RPCLocalization|"
 msgid "Fri"
-msgstr ""
+msgstr "Jum"
 
 msgctxt "RPCLocalization|"
 msgid "Sat"
-msgstr ""
+msgstr "Sab"
 
 msgctxt "RPCLocalization|"
 msgid "From:"
-msgstr ""
+msgstr "Dari:"
 
 msgctxt "RPCLocalization|"
 msgid "To:"
-msgstr ""
+msgstr "Menuju:"
 
 msgctxt "RPCLocalization|"
 msgid "Change settings"
-msgstr ""
+msgstr "Ubah pengaturan"
 
 msgctxt "RPCLocalization|"
 msgid "Change preferences"
-msgstr ""
+msgstr "Ubah pilihan"
 
 msgctxt "RPCLocalization|"
 msgid "Tip"
-msgstr ""
+msgstr "Saran"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
 msgstr ""
+"Komputer tidak akan masuk ke mode tidur akibat adanya unduhan terjadwal"
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
-msgstr ""
+msgstr "Penjadwal"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there're scheduled downloads"
 msgstr ""
+"Jangan buat komputer masuk ke mode tidur apabila terdapat unduhan terjadwal"
 
 msgctxt "RPCLocalization|"
 msgid "Press"
-msgstr ""
+msgstr "Tekan"
 
 msgctxt "RPCLocalization|"
 msgid "to let the browser process the download"
-msgstr ""
+msgstr "untuk membiarkan peramban Anda yang mengolah unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Check file integrity"
-msgstr ""
+msgstr "Periksa kesatuan berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Calculate"
-msgstr ""
+msgstr "Hitung"
 
 msgctxt "RPCLocalization|"
 msgid "Calculating"
-msgstr ""
+msgstr "Menghitung"
 
 msgctxt "RPCLocalization|"
 msgid "Verification OK"
-msgstr ""
+msgstr "Pemeriksaan BAGUS"
 
 msgctxt "RPCLocalization|"
 msgid "Verification failed"
+msgstr "Pemeriksaan gagal"
+
+msgctxt "RPCLocalization|"
+msgid "Compare with"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Compare with:"
+msgid "Enter URL or choose torrent file"
 msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr ""
+
+#, fuzzy
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr "Jalur Berkas Terpilih Tidak Benar."
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Compare with:"
+#~ msgstr "Bandingkan dengan:"
 
 msgctxt "RPCLocalization|"
 msgid "Close"
-msgstr ""
+msgstr "Tutup"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 left"
-msgstr ""
+msgstr "%1 tersisa"
 
 msgctxt "RPCLocalization|"
 msgid "Browsers:"
-msgstr ""
+msgstr "Peramban:"
 
 msgctxt "RPCLocalization|Advanced"
 msgid "Options"
-msgstr ""
+msgstr "Pilihan"
 
 msgctxt "RPCLocalization|"
 msgid "Done"
-msgstr ""
+msgstr "Selesai"
 
 msgctxt "RPCLocalization|tags panel"
 msgid "Completed"
-msgstr ""
+msgstr "Berhasil"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 of %2"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 B"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 KB"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 MB"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 GB"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 TB"
-msgstr ""
+msgstr "%1 dari %2"
 
 msgctxt "RPCLocalization|"
 msgid "Restore"
-msgstr ""
+msgstr "Kembalikan"
 
 msgctxt "RPCLocalization|"
 msgid "Using Alt key"
-msgstr ""
+msgstr "Gunakan tombol Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
-msgstr ""
+msgstr "Jangan menangkap unduhan ketika tombol Alt ditekan"
 
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
-msgstr ""
+msgstr "Tangkap unduhan hanya ketika tombol Alt ditekan"
 
 msgctxt "RPCLocalization|"
 msgid "Skip domains:"
-msgstr ""
+msgstr "Lewati domain:"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is a scheduled download"
-msgstr ""
+msgstr "Hindari mode tidur apabila masih terdapat unduhan terjadwal"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is an active download"
-msgstr ""
+msgstr "Hindari mode tidur apabila masih terdapat unduhan aktif"
 
 msgctxt "RPCLocalization|"
 msgid "Remove only from download list"
-msgstr ""
+msgstr "Hapuskan hanya dari daftar unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Go back to default settings"
-msgstr ""
+msgstr "Kembali ke pengaturan awal"
 
 msgctxt "RPCLocalization|"
 msgid "Hold"
-msgstr ""
+msgstr "Tahan"
 
 msgctxt "RPCLocalization|"
 msgid "Alt key"
-msgstr ""
+msgstr "Tombol Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
 msgstr ""
+"Menahan tombol Alt, tekan tautan untuk mengunduh melalui peramban Anda."
 
 msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
-msgstr ""
+msgstr "Penyimpanan yang diperlukan:"
 
 msgctxt "RPCLocalization|"
 msgid "Hide bottom panel"
-msgstr ""
+msgstr "Sembunyikan panel bawah"
 
 msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
-msgstr ""
+msgstr "Tampilkan panel bawah"
 
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "disk %1"
-msgstr ""
+msgstr "penyimpanan %1"
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
-msgstr ""
+msgstr "Tagar dengan nama yang sama telah ada"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
-msgstr ""
+msgstr "Izinkan mode tidur ketika menyemai torrent"
 
 msgctxt "RPCLocalization|"
 msgid "on"
-msgstr ""
+msgstr "pada"
 
 msgctxt "RPCLocalization|"
 msgid "and"
-msgstr ""
+msgstr "dan"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
-msgstr ""
+msgstr "Menghilangkan berkas yang dihapus dari daftar unduhan secara otomatis"
 
 msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
-msgstr ""
+msgstr "Beberapa berkas mengalami kerusakan"
 
 msgctxt "RPCLocalization|"
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
+
+msgctxt "RPCLocalization|"
+msgid "Share with friends"
+msgstr "Bagikan dengan teman"
+
+msgctxt "RPCLocalization|"
+msgid "Paste urls from clipboard"
+msgstr "Tempelkan URL dari papan klip"
+
+msgctxt "RPCLocalization|"
+msgid "Change download URL"
+msgstr "Ubah URL unduhan"
+
+msgctxt "RPCLocalization|"
+msgid "Saved as:"
+msgstr "Simpan sebagai:"
+
+msgctxt "RPCLocalization|"
+msgid "Invalid URL"
+msgstr "URL salah"
+
+msgctxt "RPCLocalization|"
+msgid "Start download"
+msgstr "Mulai pengunduhan"
+
+msgctxt "RPCLocalization|"
+msgid "Seeding"
+msgstr "Penyemaian"
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr "Gunakan waktu server untuk pembuatan berkas"
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr "Atur hari dalam minggu untuk mengaktifkan mode Penjadwalan"
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Map berkas unduhan utama"
 
 msgctxt "RPCSystem|"
 msgid "Accept"
-msgstr ""
+msgstr "Terima"
 
 msgctxt "RPCSystem|"
 msgid "Download to"
-msgstr ""
+msgstr "Unduh ke"
 
 msgctxt "RPCSystem|"
 msgid "OK"
-msgstr ""
+msgstr "BAIK"
 
 msgctxt "RPCSystem|"
 msgid "Open torrent file"
-msgstr ""
+msgstr "Buka berkas torrent"
 
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr ""
+msgstr "Berkas Torrent"
 
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
-msgstr ""
+msgstr "Priorias berkas berubah"
 
 msgctxt "TorrentDownload|"
 msgid "Stopping seeding"
-msgstr ""
+msgstr "Menghentikan penyemaian"
 
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading enabled"
-msgstr ""
+msgstr "Pengunduhan berurutan diaktifkan"
 
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading disabled"
-msgstr ""
+msgstr "Pengunduhan berurutan dimatikan"
 
 msgctxt "TorrentDownload|"
 msgid "Trackers merged"
-msgstr ""
+msgstr "Penyatuan pelacak"
 
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
-msgstr ""
+msgstr "Memulai penyemaian"
 
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
-msgstr ""
+msgstr "Terjadi kesalahan tak diketahui"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Error occurred: %1"
-msgstr ""
+msgstr "Kesalahan terjadi: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "Jumlah maksimal sambungan adalah %1"
 
 msgctxt "TorrentDownload|"
 msgid "unlimited"
-msgstr ""
+msgstr "tidak terbatas"
 
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "Kecepatan unduh tidak terbatas"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr ""
+msgstr "Kecepatan unduh dibatasi sebesar %1/d"
 
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr ""
+msgstr "Kecepatan unggah tidak terbatas"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "Pausing download"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "Download paused"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "Files are missing"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "File is missing"
-msgstr ""
+msgstr "Kecepatan unggah dibatasi sebesar %1/d"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "Berkas dinyatakan hilang"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Berkas dinyatakan hilang"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
-msgstr ""
+msgstr "Memulai pengunduhan"
 
 msgctxt "TorrentDownload|"
 msgid "Checking files"
-msgstr ""
+msgstr "Memeriksa berkas"
 
 msgctxt "TorrentDownload|"
 msgid "Downloading"
-msgstr ""
+msgstr "Mengunduh"
 
 msgctxt "TorrentDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Unduhan selesai"
 
 msgctxt "TorrentDownload|"
 msgid "Can't move files recursively"
-msgstr ""
+msgstr "Tidak dapat memindahkan berkas berulang kali"
 
 msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
-msgstr ""
+msgstr "Mengubah map berkas tujuan"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
-msgstr ""
+msgstr "Memindahkan berkas ke %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
-msgstr ""
+msgstr "Memindahkan berkas ke %1"
 
 msgctxt "TorrentDownload|"
 msgid "Waiting for metadata"
-msgstr ""
+msgstr "Menunggu data meta"
 
 msgctxt "TorrentDownload|"
 msgid "Updating"
-msgstr ""
+msgstr "Memperbaharui"
 
 msgctxt "TorrentDownload|"
 msgid "Working"
-msgstr ""
+msgstr "Sedang bekerja"
 
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
-msgstr ""
+msgstr "Data meta diterima"
 
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
-msgstr ""
+msgstr "Otorisasi pengguna diperlukan"
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
-msgstr ""
+msgstr "Berkas dipetakan ke dalam map berkas baru"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving failed"
-msgstr ""
+msgstr "Pemindahan berkas gagal"
 
 msgctxt "TorrentDownload|"
 msgid "File moving failed"
-msgstr ""
+msgstr "Pemindahan berkas gagal"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving declined: %1"
-msgstr ""
+msgstr "Penolakan pemindahan berkas: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
-msgstr ""
+msgstr "Pemindahan berkas ditolak: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
-msgstr ""
+msgstr "Berhasil dipindahkan"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", kecepatan rata-rata: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
-msgstr ""
+msgstr "Pemindahan berkas gagal: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
-msgstr ""
+msgstr "Pemindahan berkas gagal: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
-msgstr ""
+msgstr "Pemindahan berkas dibatalkan"
 
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr ""
+msgstr "Proses pemindahan berkas dibatalkan"
+
+#, fuzzy
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "Kesalahan Tak Terduga"
 
 msgctxt "TrayMenu|"
 msgid "Show main window"
-msgstr ""
+msgstr "Tampilkan jendela utama"
 
 msgctxt "TrayMenu|"
 msgid "Open at Login"
-msgstr ""
+msgstr "Buka saat Masuk"
 
 msgctxt "TrayMenu|"
 msgid "Launch at startup"
-msgstr ""
+msgstr "Luncurkan saat mulai"
 
 msgctxt "TrayMenu|"
 msgid "About FDM"
-msgstr ""
+msgstr "Mengenai FDM"
 
 msgctxt "TrayMenu|"
 msgid "Quit FDM"
-msgstr ""
+msgstr "Keluar dari FDM"
 
 msgctxt "TrayMenu|"
 msgid "Quit"
-msgstr ""
+msgstr "Keluar"
 
 #, qt-format
 msgctxt "UIHelper|"
 msgid "About %1"
-msgstr ""
+msgstr "Mengenai %1"
 
 #, qt-format
 msgctxt "UIHelper|"
 msgid "Version %1 (%2)"
-msgstr ""
+msgstr "Versi %1 (%2)"
 
 msgctxt "UIHelper|"
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 msgctxt "UIHelper|"
 msgid "Reveal in Finder"
-msgstr ""
+msgstr "Tampilkan melalui Finder"
 
 msgctxt "UIHelper|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Tampilkan dalam map berkas"
 
 msgctxt "UIHelper|"
 msgid "Show info"
-msgstr ""
+msgstr "Tampilkan informasi"
 
 msgctxt "UIHelper|"
 msgid "Choose files..."
-msgstr ""
+msgstr "Pilih berkas..."
 
 msgctxt "UIHelper|"
 msgid "Pause all except selected"
-msgstr ""
+msgstr "Tunda semua kecuali yang dipilih"
 
 msgctxt "UIHelper|"
 msgid "Pause all except this one"
-msgstr ""
+msgstr "Tunda semua kecuali ini"
 
 msgctxt "UIHelper|"
 msgid "Restart selected"
-msgstr ""
+msgstr "Mulai ulang yang dipilih"
 
 msgctxt "UIHelper|"
 msgid "Restart"
-msgstr ""
+msgstr "Mulai ulang"
 
 msgctxt "UIHelper|"
 msgid "Set priority"
-msgstr ""
+msgstr "Tetapkan prioritas"
 
 msgctxt "UIHelper|"
 msgid "Move to..."
-msgstr ""
+msgstr "Pindahkan ke..."
 
 msgctxt "UIHelper|"
 msgid "Download to..."
-msgstr ""
+msgstr "Unduh ke..."
 
 msgctxt "UIHelper|"
 msgid "Move to trash"
-msgstr ""
+msgstr "Pindahkan ke tong sampah"
 
 msgctxt "UIHelper|"
 msgid "Delete files"
-msgstr ""
+msgstr "Hapus berkas-berkas"
 
 msgctxt "UIHelper|"
 msgid "Delete file"
-msgstr ""
+msgstr "Hapus berkas"
 
 msgctxt "UIHelper|"
 msgid "Remove from list"
-msgstr ""
+msgstr "Hilangkan dari daftar"
 
 msgctxt "UIHelper|"
 msgid "Enable seeding"
-msgstr ""
+msgstr "Izinkan penyemaian"
 
 msgctxt "UIHelper|"
 msgid "Sequential download"
-msgstr ""
+msgstr "Unduhan berurutan"
 
 msgctxt "UIHelper|"
 msgid "Force recheck"
-msgstr ""
+msgstr "Paksa pengecekan kembali"
 
 msgctxt "UIHelper|"
 msgid "Force reannounce"
-msgstr ""
+msgstr "Paksa pengumuman kembali"
 
 msgctxt "UIHelper|"
 msgid "Copy link"
-msgstr ""
+msgstr "Salin tautan"
 
 msgctxt "UIHelper|"
 msgid "Add tag"
-msgstr ""
+msgstr "Tambahkan tagar"
 
 msgctxt "UIHelper|"
 msgid "File integrity"
-msgstr ""
+msgstr "Integritas berkas"
 
 msgctxt "UIHelper|"
 msgid "Schedule"
-msgstr ""
+msgstr "Jadwal"
+
+msgctxt "UIHelper|"
+msgid "Change URL"
+msgstr "Ubah URL"
 
 msgctxt "UIHelper|"
 msgid "High priority"
-msgstr ""
+msgstr "Prioritas tinggi"
 
 msgctxt "UIHelper|"
 msgid "Normal priority"
-msgstr ""
+msgstr "Prioritas Normal"
 
 msgctxt "UIHelper|"
 msgid "Low priority"
-msgstr ""
-
-msgctxt "UIHelper|"
-msgid "Skip"
-msgstr ""
+msgstr "Prioritas rendah"
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "Lewati"
 
 msgctxt "UIHelper|"
 msgid "Edit"
-msgstr ""
+msgstr "Ubah"
 
 msgctxt "UIHelper|"
 msgid "Remove"
-msgstr ""
+msgstr "Hilangkan"
 
 msgctxt "UIHelper|"
 msgid "Untag"
-msgstr ""
+msgstr "Lepaskan tagar"
 
 msgctxt "UIHelper|"
 msgid "Copy log to clipboard"
-msgstr ""
+msgstr "Salin catatan ke papan klip"
 
 msgctxt "UIHelper|"
 msgid "Save log to file"
-msgstr ""
+msgstr "Simpan catatan ke berkas"
 
 #, qt-format
 msgctxt "UIHelper|"
 msgid "FDM Log [%1].txt"
-msgstr ""
+msgstr "Catatan FDM [%1].txt"
 
 msgctxt "UIHelper|"
 msgid "Save Log"
-msgstr ""
+msgstr "Simpan Catatan"
 
 msgctxt "UIHelper|"
 msgid "Text files"
-msgstr ""
+msgstr "Berkas teks"
 
 #, qt-format
 msgctxt "UIHelper|"
 msgid "%1 K"
-msgstr ""
+msgstr "%1 K"
 
 #, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
-msgstr ""
+msgstr "%1 M"
+
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Berkas dinyatakan hilang"
 
 msgctxt "YoutubeDownload|"
 msgid "Error: files are missing."
-msgstr ""
+msgstr "Kesalahan: berkas dinyatakan hilang."
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
-msgstr ""
+msgstr "Berkas berhasil dipindahkan"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
-msgstr ""
+msgstr "Memindahkan ke %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
-msgstr ""
+msgstr "Proses penyatuan gagal"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging media streams"
-msgstr ""
+msgstr "Menyatukan aliran media"
 
 msgctxt "YoutubeDownload|"
 msgid "Redirecting"
-msgstr ""
+msgstr "Mengalihkan"
 
 msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
-msgstr ""
+msgstr "Menangani pengalihan"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "AudioStream: %1"
-msgstr ""
+msgstr "AliranSuara: %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
-msgstr ""
+msgstr "AliranTayangan: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Downloading page"
-msgstr ""
+msgstr "Halaman pengunduhan"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is downloaded"
-msgstr ""
+msgstr "Halaman berhasil diunduh"
 
 msgctxt "YoutubeDownload|"
 msgid "Launching parser"
-msgstr ""
+msgstr "Meluncurkan pengurai"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
-msgstr ""
+msgstr "Halaman berhasil diurai"
 
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
-msgstr ""
+msgstr "Tidak dapat menemukan tayangan dengan kualitas ini"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
-msgstr ""
+msgstr "Penguraian gagal: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Unduhan selesai"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
-msgstr ""
+msgstr "Pemindahan ditolak: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
-msgstr ""
+msgstr "Berhasil dipindahkan"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", kecepatan rata-rata: %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
-msgstr ""
+msgstr "Berkas berubah nama menjadi %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
-msgstr ""
+msgstr "Pemindahan gagal: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
-msgstr ""
+msgstr "Pemindahan dibatalkan."

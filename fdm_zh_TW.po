@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: vi_VN\n"
+"X-Language: zh_TW\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 
@@ -377,12 +377,21 @@ msgstr ""
 
 #, qt-format
 msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr ""
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
 msgstr ""
 
 msgctxt "HttpFileDownload|"
@@ -406,7 +415,16 @@ msgid "Preallocating disk space for download"
 msgstr ""
 
 msgctxt "HttpFileDownload|"
+msgid "Unexpected error"
+msgstr ""
+
+msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
+msgstr ""
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
 msgstr ""
 
 msgctxt "HttpFileDownload|"
@@ -863,34 +881,6 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Apply"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "KB/s"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "MB/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 B/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 KB/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 MB/s"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 GB/s"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -1932,31 +1922,6 @@ msgctxt "RPCLocalization|"
 msgid "%1 of %2"
 msgstr ""
 
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 B"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 KB"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 MB"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 GB"
-msgstr ""
-
-#, qt-format
-msgctxt "RPCLocalization|"
-msgid "%1 TB"
-msgstr ""
-
 msgctxt "RPCLocalization|"
 msgid "Restore"
 msgstr ""
@@ -2050,6 +2015,42 @@ msgctxt "RPCLocalization|"
 msgid "Save"
 msgstr ""
 
+msgctxt "RPCLocalization|"
+msgid "Share with friends"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Paste urls from clipboard"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Change download URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Saved as:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Invalid URL"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Start download"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Seeding"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr ""
+
 msgctxt "RPCSystem|"
 msgid "Default download folder"
 msgstr ""
@@ -2132,14 +2133,6 @@ msgstr ""
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "Pausing download"
-msgstr ""
-
-msgctxt "TorrentDownload|"
-msgid "Download paused"
 msgstr ""
 
 msgctxt "TorrentDownload|"
@@ -2384,6 +2377,10 @@ msgid "Schedule"
 msgstr ""
 
 msgctxt "UIHelper|"
+msgid "Change URL"
+msgstr ""
+
+msgctxt "UIHelper|"
 msgid "High priority"
 msgstr ""
 
@@ -2441,6 +2438,7 @@ msgstr ""
 msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr ""
+
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
