@@ -7,6 +7,13 @@ msgstr ""
 "X-Language: ja_JP\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 2.0.3\n"
 
 msgid "Download with FDM"
 msgstr "FDMでダウンロード"
@@ -18,7 +25,7 @@ msgid "Download video with FDM"
 msgstr "FDMでビデオをダウンロード"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
-msgstr "エラー：0x％x。 ダウンロードをFDMに転送できませんでした。"
+msgstr "エラー：0x％x ダウンロードをFDMに転送できませんでした"
 
 msgid "No flash video found. Try reloading this page."
 msgstr "フラッシュビデオは見つかりませんでした。 このページを再読み込みしてみてください。"
@@ -31,33 +38,32 @@ msgstr ""
 #, qt-format
 msgctxt "Download|"
 msgid "%1 B"
-msgstr ""
+msgstr "%1 B"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 KB"
-msgstr ""
+msgstr "%1 KB"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 MB"
-msgstr ""
+msgstr "%1 MB"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "%1秒後に再接続する"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr ""
+msgstr "優先度を%1に設定しました"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "待機中: Snail mode がオンです。 続行するにはオフにしてください"
 
-#, fuzzy
 msgctxt "Download|"
 msgid "Queued"
 msgstr "キュー"
@@ -94,10 +100,6 @@ msgstr "高い"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "HTTP エラー  %1： %2"
-#, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "エラー %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -374,7 +376,6 @@ msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr "ダウンロード速度は%1/sに制限されている"
 
-
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
 msgstr "ファイルのダウンロードを再開することはできません"
@@ -385,7 +386,7 @@ msgstr "再接続"
 
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr "ダウンロードを再開"
+msgstr "ダウンロード開始"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
@@ -411,7 +412,7 @@ msgstr "ダウンロードをやり直す"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
-msgstr "元のファイルの内容をクリアに失敗しました"
+msgstr "元ファイルの消去に失敗しました"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -421,17 +422,17 @@ msgstr "ファイルは、%1に変更されました"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
-msgstr "#%1のコネクション再接続"
+msgstr "#%1の回線を再接続中"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr "接続された回線数 #%1"
+msgstr "接続中の回線 #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
-msgstr "#%1 が閉じられれている"
+msgstr "#%1 完了"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
@@ -439,7 +440,7 @@ msgstr "ダウンロードを完了できませんでした"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
-msgstr "ディスク上のファイルを開く..."
+msgstr "ファイル保存場所の事前割当中..."
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
@@ -459,7 +460,7 @@ msgstr "ダウンロードするための事前割り当てディスク容量"
 
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
-msgstr "予期しないエラーが発生しました。"
+msgstr "予期しないエラーが発生しました"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
@@ -468,7 +469,7 @@ msgstr "ファイルがリモートサーバー上で変更しました"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr "コネクション#%1,の接続に失敗しました。"
+msgstr "コネクション#%1,の接続に失敗しました"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -682,7 +683,7 @@ msgstr "ヘルプ"
 
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr "選択したファイルパスが有効ではありません。"
+msgstr "選択したファイルパスが有効ではありません"
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
@@ -690,43 +691,40 @@ msgstr "選択されたファイル名が長すぎます"
 
 msgctxt "QObject|"
 msgid "Selected filename is not valid."
-msgstr "選択したファイル名が有効ではありません。"
+msgstr "選択したファイル名が有効ではありません"
 
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
-msgstr "指定されたディレクトリにアクセスすることができません。"
+msgstr "指定されたディレクトリにアクセスすることができません"
 
 msgctxt "QObject|"
 msgid "Confirm"
 msgstr ""
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Attention! "
-msgstr "注意!"
+msgstr "注意"
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "コンピュータはスリープモードになります"
 
 msgctxt "QObject|"
 msgid "Your computer will be hibernated."
-msgstr ""
+msgstr "コンピュータは休止状態になります"
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr ""
+msgstr "コンピュータがシャットダウンされます"
 
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
-msgstr ""
+msgstr "内部ダウンロードで不明なエラーが発生しました。"
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Files are missing"
 msgstr "ファイルが消去されています"
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "File is missing"
 msgstr "ファイルが消去されています"
@@ -785,7 +783,7 @@ msgstr "無制限"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
-msgstr "「カタツムリ モード」はダウンロードを停止することなく、帯域幅を解放します。"
+msgstr "「Snail mode」はダウンロードを停止することなく、帯域幅を解放します"
 
 msgctxt "RPCLocalization|"
 msgid "Hide details"
@@ -795,11 +793,11 @@ msgctxt "RPCLocalization|"
 msgid "Show details"
 msgstr "詳細を表示"
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
-msgstr[0] "％n個のファイルが選択されています。"
+msgstr[0] "％n個のファイルが選択されています"
 
 msgctxt "RPCLocalization|"
 msgid "Show in folder"
@@ -1134,11 +1132,11 @@ msgstr "Torrentファイルを追加... "
 
 msgctxt "RPCLocalization|"
 msgid "Preferences..."
-msgstr "環境設定... "
+msgstr "環境設定"
 
 msgctxt "RPCLocalization|"
 msgid "Settings..."
-msgstr "設定..."
+msgstr "設定"
 
 msgctxt "RPCLocalization|"
 msgid "Settings"
@@ -1182,7 +1180,7 @@ msgstr "終了"
 
 msgctxt "RPCLocalization|"
 msgid "Vote for new features"
-msgstr "新機能を投票する"
+msgstr "新機能を投票"
 
 msgctxt "RPCLocalization|"
 msgid "About FDM"
@@ -1226,7 +1224,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
-msgstr "Are you sure it's not too long?"
+msgstr ""
 
 #, fuzzy, qt-format
 msgctxt "RPCLocalization|"
@@ -1234,11 +1232,11 @@ msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
 msgstr[0] "％n個のレコードのみ？FDMは、はるかに多くの情報を保存することができます！"
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
-msgstr[0] "％n個のレコードが保存するにはあまりにも多いのです。"
+msgstr[0] "％n個の履歴は、多すぎて保存する事ができません。"
 
 msgctxt "RPCLocalization|"
 msgid "Do you actually want to connect?"
@@ -1246,7 +1244,7 @@ msgstr "接続しますか？"
 
 msgctxt "RPCLocalization|"
 msgid "Oh no, too many connections!"
-msgstr "あまりにもコネクションが多すぎます"
+msgstr "あまりにもコネクションが多すぎます。"
 
 msgctxt "RPCLocalization|"
 msgid "It seems like an understatement."
@@ -1254,7 +1252,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "So many? It's overwhelming!"
-msgstr "あまりにもコネクションが多すぎます"
+msgstr "あまりにもコネクションが多すぎます!"
 
 msgctxt "RPCLocalization|"
 msgid "General"
@@ -1270,7 +1268,7 @@ msgstr "BitTorrent"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic Limits"
-msgstr "トラフィックの制限"
+msgstr "通信量の制限"
 
 msgctxt "RPCLocalization|"
 msgid "Advanced"
@@ -1310,7 +1308,7 @@ msgstr "FTP："
 
 msgctxt "RPCLocalization|"
 msgid "Address"
-msgstr "アドレス："
+msgstr "アドレス"
 
 msgctxt "RPCLocalization|"
 msgid "Port"
@@ -1342,11 +1340,11 @@ msgstr "ログイン時に開く"
 
 msgctxt "RPCLocalization|"
 msgid "Close button minimizes window"
-msgstr "[閉じる]ボタンは、ウィンドウを最小化"
+msgstr "[閉じる]ボタンでプログラムを終了しない"
 
 msgctxt "RPCLocalization|"
 msgid "Check if FDM is your default torrent client"
-msgstr "FDMは、デフォルトのTorrentクライアントであるかどうかを確認"
+msgstr "FDMがデフォルトのTorrentクライアントであるかどうかを確認"
 
 msgctxt "RPCLocalization|"
 msgid "Update"
@@ -1458,7 +1456,7 @@ msgstr "で確認する"
 
 msgctxt "RPCLocalization|"
 msgid "No Chrome installation was found."
-msgstr "Chromeが見つかりません"
+msgstr "Chromeが見つかりません。"
 
 msgctxt "RPCLocalization|"
 msgid "You can"
@@ -1474,7 +1472,7 @@ msgstr "あなたはFDMを経由してダウンロードをキャンセルした
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads smaller than"
-msgstr "この容量より小さいファイルをダウンロードしないでください："
+msgstr "この容量より小さいファイルをダウンロードしないでください"
 
 msgctxt "RPCLocalization|"
 msgid "Kbytes"
@@ -1538,13 +1536,12 @@ msgstr "履歴"
 
 msgctxt "RPCLocalization|"
 msgid "Remember all destination folders"
-msgstr "すべての宛先フォルダを覚えておいてください"
+msgstr "すべての宛先フォルダを保存する"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
 msgid_plural "Clear history older than"
-msgstr[0] "履歴を消去よりも古いです"
+msgstr[0] "これより古い履歴を消去"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1554,7 +1551,7 @@ msgstr[0] "日"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of history records:"
-msgstr "履歴レコードの最大数"
+msgstr "履歴の最大数:"
 
 msgctxt "RPCLocalization|"
 msgid "Disk usage"
@@ -1562,7 +1559,7 @@ msgstr "ディスク使用量"
 
 msgctxt "RPCLocalization|"
 msgid "Preallocate disk space for files larger than"
-msgstr "より大きなファイルのため事前に割り当てるディスク容量"
+msgstr "大容量ファイルのダウンロード時、事前に割り当てるディスク容量"
 
 msgctxt "RPCLocalization|"
 msgid "Gbytes"
@@ -1582,7 +1579,7 @@ msgstr "削除ボタンのアクション"
 
 msgctxt "RPCLocalization|"
 msgid "Delete files"
-msgstr "削除したファイル"
+msgstr "ファイルを削除"
 
 msgctxt "RPCLocalization|"
 msgid "DHT"
@@ -1642,11 +1639,11 @@ msgstr "追加日時"
 
 msgctxt "RPCLocalization|"
 msgid "Start all"
-msgstr "すべてを再開"
+msgstr "すべて再開"
 
 msgctxt "RPCLocalization|"
 msgid "Pause all"
-msgstr "すべてを一時停止"
+msgstr "すべて一時停止"
 
 msgctxt "RPCLocalization|"
 msgid "Start selected"
@@ -1658,7 +1655,7 @@ msgstr "選択したものを一時停止"
 
 msgctxt "RPCLocalization|"
 msgid "Add new download..."
-msgstr "新しいダウンロードを追加... "
+msgstr "新しいダウンロードを追加..."
 
 msgctxt "RPCLocalization|"
 msgid "Move to trash"
@@ -1674,7 +1671,7 @@ msgstr "選択したものを削除"
 
 msgctxt "RPCLocalization|"
 msgid "Move to..."
-msgstr "選択したもの...に移動"
+msgstr "選択したものを移動"
 
 msgctxt "RPCLocalization|"
 msgid "Search"
@@ -1690,7 +1687,7 @@ msgstr "選択したダウンロードを消去"
 
 msgctxt "RPCLocalization|"
 msgid "Remember my choice"
-msgstr "この選択を忘れないでください"
+msgstr "この選択を保存する"
 
 msgctxt "RPCLocalization|"
 msgid "Delete file"
@@ -1717,8 +1714,7 @@ msgid "Remove tag"
 msgstr "タグを削除"
 
 msgctxt "RPCLocalization|"
-msgid ""
-"Would you like to make Free Download Manager the default torrent client?"
+msgid "Would you like to make Free Download Manager the default torrent client?"
 msgstr "Free Download ManagerをデフォルトのTorrentのクライアントにしますか？"
 
 msgctxt "RPCLocalization|"
@@ -1731,15 +1727,15 @@ msgstr "デフォルトとして設定"
 
 msgctxt "RPCLocalization|"
 msgid "Computer will be put to sleep after all downloads are completed."
-msgstr "すべてのダウンロードが完了した後にこのコンピュータをスリープ状態にします"
+msgstr "すべてのダウンロードが完了した後にこのコンピュータをスリープ状態にします."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will shut down after all downloads are completed."
-msgstr "すべてのダウンロードが完了した後にこのコンピュータをシャットダウンします"
+msgstr "すべてのダウンロードが完了した後にこのコンピュータをシャットダウンします."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will hibernate after all downloads are completed."
-msgstr "すべてのダウンロードが完了した後にこのコンピュータを休止状態にします"
+msgstr "すべてのダウンロードが完了した後にこのコンピュータを休止状態にします."
 
 msgctxt "RPCLocalization|"
 msgid "Checking for updates..."
@@ -1961,7 +1957,6 @@ msgctxt "RPCLocalization|"
 msgid "Would you like to start new or resume downloading?"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Selected filepath is not valid."
 msgstr "選択したファイルパスが有効ではありません。"
@@ -2007,7 +2002,7 @@ msgstr "スケジュールを有効にする曜日を設定する"
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "URLを入力するか、Torrentファイルを選択してください"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -2023,10 +2018,9 @@ msgctxt "RPCLocalization|"
 msgid "New video"
 msgstr "新しいビデオ"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New torrent"
-msgstr "新しい急流"
+msgstr "新しいTorrent"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -2042,19 +2036,17 @@ msgctxt "RPCLocalization|"
 msgid "Create subfolder"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Torrent contents"
-msgstr "激流内容"
+msgstr "Torrent内容"
 
 msgctxt "RPCLocalization|"
 msgid "Authentication required:"
 msgstr ""
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Enter new URL"
-msgstr "新しい url を入力"
+msgstr "新しい URL を入力"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -2063,16 +2055,15 @@ msgstr "ファイルの場所"
 
 msgctxt "RPCLocalization|"
 msgid "Download links"
-msgstr ""
+msgstr "ダウンロードリンク"
 
 msgctxt "RPCLocalization|"
 msgid "Restore default settings?"
-msgstr ""
+msgstr "デフォルト設定を復元しますか？"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Default settings"
-msgstr "既定の設定"
+msgstr "既定に設定"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -2084,7 +2075,6 @@ msgctxt "RPCLocalization|"
 msgid "Resume"
 msgstr "再開"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hash"
 msgstr "ハッシュ"
@@ -2095,7 +2085,7 @@ msgstr "復元"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic limits"
-msgstr ""
+msgstr "通信量の制限"
 
 msgctxt "RPCLocalization|"
 msgid "Compare with"
@@ -2107,11 +2097,11 @@ msgstr "Altキーを使用"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
-msgstr "Altキーが押されたときは、ダウンロードしないでください"
+msgstr "Altキーが押されたときはダウンロードしない"
 
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
-msgstr "Altキーが押されたときにのみ、ダウンロードします"
+msgstr "Altキーが押されたときにのみダウンロード"
 
 msgctxt "RPCLocalization|"
 msgid "Skip domains:"
@@ -2119,11 +2109,11 @@ msgstr "このドメインをスキップ："
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is a scheduled download"
-msgstr "ダウンロードが予約されている場合はコンピューターをスリープ状態にしないようにする"
+msgstr "ダウンロードが予約されている場合はコンピューターをスリープ状態にしない"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is an active download"
-msgstr "ダウンロードを実行している場合はコンピューターをスリープ状態にしないようにする"
+msgstr "ダウンロードを実行している場合はコンピューターをスリープ状態にしない"
 
 msgctxt "RPCLocalization|"
 msgid "Remove only from download list"
@@ -2131,7 +2121,7 @@ msgstr "ダウンロードリストからのみ削除"
 
 msgctxt "RPCLocalization|"
 msgid "Go back to default settings"
-msgstr "デフォルトの設定に戻る"
+msgstr "デフォルトの設定に復元"
 
 msgctxt "RPCLocalization|"
 msgid "Hold"
@@ -2143,7 +2133,7 @@ msgstr "Altキー"
 
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
-msgstr "Altキーが押されている時に、ブラウザのリンクをクリックしてください"
+msgstr "Altキーが押されている時に、ブラウザのリンクをクリックしてください."
 
 msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
@@ -2172,11 +2162,11 @@ msgstr "Torrentのシード中に、スリープを有効にする"
 
 msgctxt "RPCLocalization|"
 msgid "on"
-msgstr "on"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "and"
-msgstr "and"
+msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
@@ -2192,11 +2182,11 @@ msgstr "保存"
 
 msgctxt "RPCLocalization|"
 msgid "Share with friends"
-msgstr "友達にシェア！"
+msgstr "友達にシェア"
 
 msgctxt "RPCLocalization|"
 msgid "Paste urls from clipboard"
-msgstr "クリップボードのURLを貼り付けます"
+msgstr "クリップボードのURLを貼り付け"
 
 msgctxt "RPCLocalization|"
 msgid "Change download URL"
@@ -2212,7 +2202,7 @@ msgstr "無効なURL"
 
 msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
-msgstr "トラフィックの制限"
+msgstr "通信量の制限"
 
 msgctxt "RPCLocalization|settings"
 msgid "Login"
@@ -2240,7 +2230,7 @@ msgstr "受け入れる"
 
 msgctxt "RPCSystem|"
 msgid "Download to"
-msgstr "Download to"
+msgstr ""
 
 msgctxt "RPCSystem|"
 msgid "OK"
@@ -2313,12 +2303,6 @@ msgstr "速度は無制限でアップロード"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "アップロード速度は%1/sに制限されている"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Files are missing"
-#~ msgstr "ファイルが消去されています"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "ファイルが消去されています"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2368,7 +2352,7 @@ msgstr "作業中"
 
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
-msgstr "メタデータを受信しました。"
+msgstr "メタデータを受信しました"
 
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
@@ -2417,16 +2401,15 @@ msgstr "１つののファイルの移動に失敗しました：%1"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
-msgstr "複数のファイルの移動をキャンセルしました。"
+msgstr "複数のファイルの移動をキャンセルしました"
 
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr "ファイルの移動をキャンセルしました。"
+msgstr "ファイルの移動をキャンセルしました"
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
-msgstr "予期しないエラーが発生しました。"
+msgstr "予期しないエラーが発生しました"
 
 msgctxt "TrayMenu|"
 msgid "Show main window"
@@ -2455,7 +2438,7 @@ msgstr "終了"
 #, qt-format
 msgctxt "UIHelper|"
 msgid "About %1"
-msgstr " %1について"
+msgstr "%1について"
 
 #, qt-format
 msgctxt "UIHelper|"
@@ -2480,7 +2463,7 @@ msgstr "情報を表示"
 
 msgctxt "UIHelper|"
 msgid "Choose files..."
-msgstr "ファイルを選択してください... "
+msgstr "ファイルを選択してください..."
 
 msgctxt "UIHelper|"
 msgid "Pause all except selected"
@@ -2500,7 +2483,7 @@ msgstr "やり直し"
 
 msgctxt "UIHelper|"
 msgid "Set priority"
-msgstr "設定された優先度"
+msgstr "優先度"
 
 msgctxt "UIHelper|"
 msgid "Move to..."
@@ -2520,7 +2503,7 @@ msgstr "ファイルを削除"
 
 msgctxt "UIHelper|"
 msgid "Delete file"
-msgstr "Delete files"
+msgstr "ファイルを削除"
 
 msgctxt "UIHelper|"
 msgid "Remove from list"
@@ -2540,7 +2523,7 @@ msgstr "強制的に再チェック"
 
 msgctxt "UIHelper|"
 msgid "Force reannounce"
-msgstr "Force reannounce"
+msgstr ""
 
 msgctxt "UIHelper|"
 msgid "Copy link"
@@ -2573,9 +2556,6 @@ msgstr "通常の優先順位"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "優先度が低い"
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "スキップ"
 
 msgctxt "UIHelper|"
 msgid "Edit"
@@ -2620,14 +2600,13 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
 
-
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "ファイルが消去されています"
 
 msgctxt "YoutubeDownload|"
 msgid "Error: files are missing."
-msgstr "エラー：ファイルが存在しません"
+msgstr "エラー：ファイルが存在しません。"
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
@@ -2719,4 +2698,20 @@ msgstr "移動が失敗しました：%1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
-msgstr "移動をキャンセルします"
+msgstr "移動をキャンセルします。"
+
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "エラー %1"
+
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "ファイルが消去されています"
+
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "ファイルが消去されています"
+
+#~ msgctxt "UIHelper|"
+#~ msgid "Skip"
+#~ msgstr "スキップ"
