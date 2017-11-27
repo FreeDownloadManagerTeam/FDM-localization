@@ -1444,7 +1444,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "输入URL或者选择种子文件"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1453,7 +1453,7 @@ msgstr "新的文件"
 
 msgctxt "RPCLocalization|"
 msgid "New files"
-msgstr ""
+msgstr "新的文件"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1488,39 +1488,39 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Enter new URL"
-msgstr ""
+msgstr "输入新URL"
 
 msgctxt "RPCLocalization|"
 msgid "File location"
-msgstr ""
+msgstr "文件位置"
 
 msgctxt "RPCLocalization|"
 msgid "Download links"
-msgstr ""
+msgstr "下载链接"
 
 msgctxt "RPCLocalization|"
 msgid "Restore default settings?"
-msgstr ""
+msgstr "恢复默认设置?"
 
 msgctxt "RPCLocalization|"
 msgid "Default settings"
-msgstr ""
+msgstr "默认设置"
 
 msgctxt "RPCLocalization|"
 msgid "Found incomplete download with same name and size."
-msgstr ""
+msgstr "发现有相同名字和大小的未完成的下载"
 
 msgctxt "RPCLocalization|"
 msgid "Would you like to start new or resume downloading?"
-msgstr ""
+msgstr "你想开始新下载还是继续下载?"
 
 msgctxt "RPCLocalization|"
 msgid "Start new"
-msgstr ""
+msgstr "开始新下载"
 
 msgctxt "RPCLocalization|"
 msgid "Resume"
-msgstr ""
+msgstr "继续"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1783,7 +1783,7 @@ msgstr "记录所有目标文件夹"
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
 msgid_plural "Clear history older than"
-msgstr[0] ""
+msgstr[0] "删除多少天以上的历史记录"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
