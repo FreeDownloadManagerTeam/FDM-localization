@@ -721,7 +721,7 @@ msgstr "你的计算机将进行休眠。"
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr ""
+msgstr "你的计算机将关闭"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -735,7 +735,7 @@ msgstr "文件丢失"
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr ""
+msgstr "不正确的用户名或密码"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -1415,7 +1415,7 @@ msgstr "在有计划的下载项时阻止计算机睡眠"
 
 msgctxt "RPCLocalization|"
 msgid "Compare with"
-msgstr ""
+msgstr "比较"
 
 #, qt-format
 msgctxt "RPCLocalization|"
@@ -1424,7 +1424,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
-msgstr ""
+msgstr "自动从下载列表移除已删除的文件"
 
 msgctxt "RPCLocalization|"
 msgid "Start download"
@@ -1436,15 +1436,15 @@ msgstr "做种中"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
-msgstr ""
+msgstr "创建文件使用服务器的时间"
 
 msgctxt "RPCLocalization|"
 msgid "Set days of the week to enable Scheduler"
-msgstr ""
+msgstr "设置启用计划任务的日期"
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "输入URL或选择种子文件"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1453,7 +1453,7 @@ msgstr "新的文件"
 
 msgctxt "RPCLocalization|"
 msgid "New files"
-msgstr ""
+msgstr "新的文件"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1467,7 +1467,7 @@ msgstr "新的洪流"
 
 msgctxt "RPCLocalization|"
 msgid "Save to"
-msgstr ""
+msgstr "保存到"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -1476,7 +1476,7 @@ msgstr "文件名"
 
 msgctxt "RPCLocalization|"
 msgid "Create subfolder"
-msgstr ""
+msgstr "创建子文件夹"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent contents"
