@@ -103,10 +103,6 @@ msgstr "Høj"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "HTTP-Fejl %1: %2"
-#, fuzzy, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Fejl %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -405,6 +401,10 @@ msgstr "Netværk læse timeout-fejl"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Netværk connect timeout fejl"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Fejl %1"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -1677,6 +1677,10 @@ msgid "Selected filepath is not valid."
 msgstr "Valgte filepath er ikke gyldig."
 
 msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Special tilbud"
+
+msgctxt "RPCLocalization|"
 msgid "Hold"
 msgstr ""
 
@@ -2496,10 +2500,6 @@ msgstr "Uploadhastighed er ubegrænset"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Uploadhastighed er begrænset til %1/s"
-#, fuzzy
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "Filen mangler"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2615,6 +2615,10 @@ msgstr "Flytning fil aflyst"
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Uventet fejl"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Filen mangler"
 
 #, fuzzy
 msgctxt "TrayMenu|"
@@ -2793,6 +2797,10 @@ msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Lav prioritet"
 
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr ""
+
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Edit"
@@ -2842,15 +2850,10 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 MØLLER"
 
-
 #, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "Filen mangler"
-
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr ""
 
 #, fuzzy
 msgctxt "YoutubeDownload|"

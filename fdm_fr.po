@@ -99,10 +99,6 @@ msgstr "Haut"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "Erreur HTTP %1 : %2"
-#, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Erreur %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -360,6 +356,10 @@ msgstr "Erreur de dépassement de délai de lecture réseau"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Erreur de dépassement de délai de connexion réseau"
+#, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Erreur %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -1592,6 +1592,10 @@ msgid "Selected filepath is not valid."
 msgstr "Le chemin de fichier sélectionné n'est pas valide"
 
 msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Offre spéciale"
+
+msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
 msgstr "Capture automatiquement les téléchargements des navigateurs"
 
@@ -2638,9 +2642,10 @@ msgstr "Priorité normale"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Priorité faible"
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Ignorer"
+
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Ignorer"
 
 msgctxt "UIHelper|"
 msgid "Edit"
@@ -2685,14 +2690,9 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
 
-
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "Fichier perdu"
-
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr "Erreur : fichiers perdus"
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
@@ -2785,3 +2785,6 @@ msgstr "Echec du déplacement : %1"
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr "Opération de déplacement annulée"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Error: files are missing."
+#~ msgstr "Erreur : fichiers perdus"

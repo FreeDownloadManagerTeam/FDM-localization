@@ -104,10 +104,6 @@ msgstr "Hoog"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "HTTP-Fout %1: %2"
-#, fuzzy, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Fout %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -411,6 +407,10 @@ msgstr "Netwerk lezen time-out fout"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Netwerk verbinden time-outfout"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Fout %1"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -1683,6 +1683,10 @@ msgid "Selected filepath is not valid."
 msgstr "Geselecteerde filepath is niet geldig."
 
 msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Speciale aanbieding"
+
+msgctxt "RPCLocalization|"
 msgid "Hold"
 msgstr ""
 
@@ -2501,14 +2505,6 @@ msgstr "Uploadsnelheid is onbeperkt"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Uploadsnelheid is beperkt tot %1/s"
-#, fuzzy
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Files are missing"
-#~ msgstr "Bestanden ontbreken"
-#, fuzzy
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "Bestand ontbreekt"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2624,6 +2620,14 @@ msgstr "Verplaatsen van bestand geannuleerd"
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Onverwachte fout"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "Bestanden ontbreken"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Bestand ontbreekt"
 
 #, fuzzy
 msgctxt "TrayMenu|"
@@ -2802,10 +2806,11 @@ msgstr "Normale prioriteit"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Lage prioriteit"
+
 #, fuzzy
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Skip"
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Skip"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2855,16 +2860,10 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
 
-
 #, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "Bestand ontbreekt"
-
-#, fuzzy
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr "Fout: bestanden ontbreken."
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
@@ -2962,3 +2961,7 @@ msgstr ""
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr "Bewegende geannuleerd."
+#, fuzzy
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Error: files are missing."
+#~ msgstr "Fout: bestanden ontbreken."

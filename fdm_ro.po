@@ -105,10 +105,6 @@ msgstr "Ridicat"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "Eroare HTTP %1: %2"
-#, fuzzy, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Eroare %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -413,6 +409,10 @@ msgstr "Reteaua citi eroare de timeout"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Reţea conecta eroare de timeout"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Eroare %1"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -1697,6 +1697,10 @@ msgctxt "RPCLocalization|"
 msgid "Selected filepath is not valid."
 msgstr "Selectate filepath nu este valabil."
 
+msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Oferta speciala"
+
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hold"
@@ -2521,10 +2525,6 @@ msgstr "Viteza de upload este nelimitat"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Viteza de upload este limitat la %1/s"
-#, fuzzy
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "Dosar is misiune"
 
 #, fuzzy
 msgctxt "TorrentDownload|"
@@ -2645,6 +2645,10 @@ msgstr "Mutarea fişier anulate"
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Eroare neașteptată"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Dosar is misiune"
 
 #, fuzzy
 msgctxt "TrayMenu|"
@@ -2821,10 +2825,11 @@ msgstr "Prioritate normală"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Prioritate scăzută"
+
 #, fuzzy
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Skip"
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Skip"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2874,16 +2879,10 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
 
-
 #, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "Dosar is misiune"
-
-#, fuzzy
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr "Eroare: fişierele lipsesc."
 
 #, fuzzy
 msgctxt "YoutubeDownload|"
@@ -2982,3 +2981,7 @@ msgstr "Mutarea nu a reușit: %1"
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr ""
+#, fuzzy
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Error: files are missing."
+#~ msgstr "Eroare: fişierele lipsesc."

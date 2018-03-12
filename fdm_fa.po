@@ -2205,6 +2205,10 @@ msgctxt "RPCLocalization|"
 msgid "Selected filepath is not valid."
 msgstr ""
 
+msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr ""
+
 msgctxt "RPCSystem|"
 msgid "Default download folder"
 msgstr ""
@@ -2587,10 +2591,6 @@ msgstr ""
 #, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
-msgstr ""
-
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
 msgstr ""
 
 msgctxt "YoutubeDownload|"
