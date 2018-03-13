@@ -12,13 +12,13 @@ msgid "Download with FDM"
 msgstr "تحميل بـ FDM"
 
 msgid "Download selected with FDM"
-msgstr "تحميل المحدد بـ  FDM"
+msgstr "تحميل المحدد بـ FDM"
 
 msgid "Download video with FDM"
-msgstr "تحميل الفيديو بـ  FDM"
+msgstr "تحميل الفيديو بـ FDM"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
-msgstr "خطأ:  0x%x. فشل نقل التحميلات إلى FDM."
+msgstr "خطأ:  0x%x. فشل نقل النزيلات إلى FDM."
 
 msgid "No flash video found. Try reloading this page."
 msgstr "لا يوجد فيديو فلاش. حاول إعادة تحميل هذه الصفحة."
@@ -26,38 +26,37 @@ msgstr "لا يوجد فيديو فلاش. حاول إعادة تحميل هذه
 #, qt-format
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "مسار المجلد المحدد نسبي، المسار الكامل هو %1"
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 B"
-msgstr ""
+msgstr "%1 ب."
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 KB"
-msgstr ""
+msgstr "%1 ك.ب."
 
 #, qt-format
 msgctxt "Download|"
 msgid "%1 MB"
-msgstr ""
+msgstr "%1 م.ب."
 
 #, qt-format
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "إعادة الاتصال خلال %1 ثانية"
 
 #, qt-format
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr ""
+msgstr "تم تعيين الأولوية إلى 1%"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "قيد الانتظار: وضع القوقع قيد التشغيل. أوقف تشغيله للمتابعة"
 
-#, fuzzy
 msgctxt "Download|"
 msgid "Queued"
 msgstr "قيد الانتظار"
@@ -94,15 +93,11 @@ msgstr "مرتفعة"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "خطأ HTTP %1: %2"
-#, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "خطأ %1"
 
 #, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1"
-msgstr ""
+msgstr "خطأ HTTP %1"
 
 msgctxt "HttpError|"
 msgid "Unknown error"
@@ -126,7 +121,7 @@ msgstr "انتهت مهلة الاتصال"
 
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr "فشل SSL/TLS handshake"
+msgstr "فشل مصادقة SSL/TLS"
 
 msgctxt "HttpError|"
 msgid "Connection refused"
@@ -162,7 +157,7 @@ msgstr "غير موجود"
 
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr "الأسلوب غير مسموح به"
+msgstr "الطريقة غير مسموح بها"
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
@@ -194,11 +189,11 @@ msgstr "فشل الشرط المسبق"
 
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr "كيان الطلب كبير جدا"
+msgstr "كيان الطلب كبير جداً"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr "رابط الطلب طويل جدا"
+msgstr "رابط الطلب طويل جداً"
 
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
@@ -206,7 +201,7 @@ msgstr "نوع وسائط غير مدعوم"
 
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr "النطاق المطلوب غير كاف"
+msgstr "النطاق المطلوب غير كافِ"
 
 msgctxt "HttpError|"
 msgid "Expectation Failed"
@@ -222,7 +217,7 @@ msgstr "مهلة المصادقة"
 
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr "فشل الأسلوب/عزز هدوئك"
+msgstr "فشل الطريقة/عزز هدوئك"
 
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
@@ -234,7 +229,7 @@ msgstr "مقفل"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr "فشل التبعية/فشل الأسلوب"
+msgstr "فشل التبعية/فشل الطريقة"
 
 msgctxt "HttpError|"
 msgid "Unordered Collection"
@@ -306,7 +301,7 @@ msgstr "خطأ داخلي في الخادم"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr "غير منفذ"
+msgstr "غير مٌنفذ"
 
 msgctxt "HttpError|"
 msgid "Bad Gateway"
@@ -326,7 +321,7 @@ msgstr "إصدار HTTP غير معتمد"
 
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr "المتغير يفاوض أيضا"
+msgstr "المتغير يفاوض أيضاً"
 
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
@@ -334,11 +329,11 @@ msgstr "مساحة تخزين غير كافية"
 
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr "تم الكشف عن تكرار حلقي"
+msgstr "تم الكشف عن تكرار"
 
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr "تم تجاوز حد عرض النطاق الترددي"
+msgstr "تم تجاوز حد عرض النطاق"
 
 msgctxt "HttpError|"
 msgid "Not Extended"
@@ -355,6 +350,10 @@ msgstr "خطأ في مهلة قراءة الشبكة"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "خطأ في مهلة اتصال الشبكة"
+#, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "خطأ %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -367,29 +366,29 @@ msgstr "غير محدد"
 
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr "سرعة التحميل غير محدودة"
+msgstr "سرعة التنزيل غير محدودة"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr "سرعة التحميل محددة بـ %1/s"
+msgstr "سرعة التنزيل محددة بـ %1/s"
 
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
-msgstr "لا يمكن استئناف تحميل الملف"
+msgstr "لا يمكن استئناف تنزيل الملف"
 
 msgctxt "HttpFileDownload|"
 msgid "Reconnecting"
-msgstr "إعادة الاتصال"
+msgstr "يعيد الاتصال"
 
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr "يتم بدء التحميل"
+msgstr "يبدء التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
-msgstr "إيقاف التحميل"
+msgstr "يوقف التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
@@ -398,7 +397,7 @@ msgstr "فشل الاستئناف بسبب تغير الرابط"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
-msgstr "نقل الملف إلى %1"
+msgstr "ينقل الملف إلى %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -407,7 +406,7 @@ msgstr "الملف \"%1\" موجود. حفظ كـ %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Restarting download"
-msgstr "يتم إعادة بدء التحميل"
+msgstr "يعيد بدء التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
@@ -416,17 +415,17 @@ msgstr "فشل في مسح محتويات الملف الأصلي."
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File is renamed to %1"
-msgstr "تتم إعادة تسمية الملف إلى %1"
+msgstr "تم إعادة تسمية الملف إلى %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
-msgstr "إعادة استخدام الاتصال #%1"
+msgstr "يعيد استخدام الاتصال #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr "فتح الاتصال #%1"
+msgstr "يفتح الاتصال #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -435,11 +434,11 @@ msgstr "#%1 مغلق"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr "فشل إكمال التحميل"
+msgstr "فشل إكمال التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
-msgstr "فتح الملف على القرص..."
+msgstr "يفتح الملف على القرص..."
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
@@ -447,15 +446,15 @@ msgstr "الملف مفقود"
 
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
-msgstr "اكتمل التحميل"
+msgstr "اكتمل التنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
-msgstr "إزالة امتداد ملف المؤقت"
+msgstr "يزيل امتداد الملف المؤقت"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
-msgstr "إعادة تعيين مساحة القرص للتحميل"
+msgstr "إعادة تعيين مساحة القرص للتنزيل"
 
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
@@ -468,7 +467,7 @@ msgstr "الملف تم تغييره على الخادم البعيد"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr "لا يمكن إعادة استخدام الاتصال #%1، جار الإغلاق"
+msgstr "لا يمكن إعادة استخدام الاتصال #%1، إغلاق"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
@@ -477,12 +476,12 @@ msgstr "فشل كتابة البيانات الواردة إلى الملف"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
-msgstr "#%1 تلقي البيانات"
+msgstr "#%1 يتلقى البيانات"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "downloaded %1"
-msgstr "تم تحميل %1"
+msgstr "تم تنزيل %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -549,15 +548,15 @@ msgstr "تم بدء إعادة التعيين"
 
 msgctxt "MacMainMenu|"
 msgid "Add Download from URL..."
-msgstr "أضف تحميل من رابط..."
+msgstr "أضف تنزيل من رابط..."
 
 msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
-msgstr "فتح ملف تورنت..."
+msgstr "فتح ملف التورنت..."
 
 msgctxt "MacMainMenu|"
 msgid "Edit"
-msgstr "تحرير"
+msgstr "تعديل"
 
 msgctxt "MacMainMenu|"
 msgid "Remove from List"
@@ -578,15 +577,15 @@ msgstr "التحقق من التحديثات..."
 
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
-msgstr "بدء المحددة"
+msgstr "بدء المحدد"
 
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
-msgstr "إيقاف المحددة"
+msgstr "إيقاف المحدد"
 
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr "إعادة بدء المحددة"
+msgstr "إعادة بدء المحدد"
 
 msgctxt "MacMainMenu|"
 msgid "Contact Support"
@@ -602,7 +601,7 @@ msgstr "ملف"
 
 msgctxt "MacMainMenu|"
 msgid "Downloads"
-msgstr "التحميلات"
+msgstr "التنزيلات"
 
 msgctxt "MacMainMenu|"
 msgid "Help"
@@ -638,7 +637,7 @@ msgstr "دخول ملء الشاشة"
 
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr "إحضار الكل إلى الواجهة"
+msgstr "يحضر الكل إلى الواجهة"
 
 msgctxt "QObject|"
 msgid "Contact Support"
@@ -674,7 +673,7 @@ msgstr "قص"
 
 msgctxt "QObject|"
 msgid "Edit"
-msgstr "تحرير"
+msgstr "تعديل"
 
 msgctxt "QObject|"
 msgid "Help"
@@ -682,7 +681,7 @@ msgstr "مساعدة"
 
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
-msgstr "حدث خطأ مع التحميلات الداخلية."
+msgstr "حدث خطأ مع التنزيلات الداخلية."
 
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
@@ -690,7 +689,7 @@ msgstr "مسار الملف المحدد غير صالح."
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
-msgstr "اسم الملف المحدد طويل جدا"
+msgstr "اسم الملف المحدد طويل جداً"
 
 msgctxt "QObject|"
 msgid "Selected filename is not valid."
@@ -698,44 +697,39 @@ msgstr "اسم الملف المحدد غير صالح."
 
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
-msgstr "لا يمكن الوصول إلى الدليل المحدد."
+msgstr "لا يمكن المسار إلى الدليل المحدد."
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Confirm"
 msgstr "تأكيد"
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Attention! "
-msgstr "الاهتمام!"
+msgstr "انتباه"
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "حاسوبك سيوضع في وضع السكون."
 
 msgctxt "QObject|"
 msgid "Your computer will be hibernated."
-msgstr ""
+msgstr "حاسوبك سيتم اسبته."
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr "جهاز الكمبيوتر الخاص بك سيتم إيقاف تشغيل."
+msgstr "حاسوبك سيتم إيقاف تشغيله."
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Files are missing"
 msgstr "الملفات مفقودة"
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "File is missing"
 msgstr "الملف مفقود"
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr ""
+msgstr "كلمة السر أو تسجيل الدخول غير صحيح"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -771,11 +765,11 @@ msgstr "تعيين الحدود يدويا"
 
 msgctxt "RPCLocalization|"
 msgid "Download: unlimited, Upload: unlimited"
-msgstr "التحميل: غير محدود، الرفع: غير محدود"
+msgstr "التنزيل: غير محدود، الرفع: غير محدود"
 
 msgctxt "RPCLocalization|"
 msgid "Download:"
-msgstr "التحميل:"
+msgstr "التنزيل:"
 
 msgctxt "RPCLocalization|"
 msgid "Upload:"
@@ -787,7 +781,7 @@ msgstr "غير محدد"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
-msgstr "يحرر وضع Snail عرض النطاق الترددي بدون إيقاف التحميلات."
+msgstr "وضع القوقع يخلي عرض النطاق الترددي بدون إيقاف التنزيلات."
 
 msgctxt "RPCLocalization|"
 msgid "Hide details"
@@ -801,7 +795,7 @@ msgstr "عرض التفاصيل"
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
-msgstr[0] "%n ملف محدد"
+msgstr[0] "%n ملف محدد."
 msgstr[1] "ملف واحد محدد."
 msgstr[2] "ملفان محددان."
 msgstr[3] "%n ملفات محددة."
@@ -854,11 +848,11 @@ msgstr "الحجم المفحوص:"
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded:"
-msgstr "تم تحميل:"
+msgstr "تم تنزيل:"
 
 msgctxt "RPCLocalization|"
 msgid "Download speed:"
-msgstr "سرعة التحميل:"
+msgstr "سرعة التنزيل:"
 
 msgctxt "RPCLocalization|"
 msgid "Seeds:"
@@ -890,7 +884,7 @@ msgstr "التوافر:"
 
 msgctxt "RPCLocalization|"
 msgid "DHT nodes:"
-msgstr "DHT nodes:"
+msgstr "نقاط DHT:"
 
 msgctxt "RPCLocalization|"
 msgid "IP"
@@ -910,11 +904,11 @@ msgstr "الطلبات"
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded"
-msgstr "المحمل"
+msgstr "تم تنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded"
-msgstr "تم رفعه"
+msgstr "تم رفع"
 
 msgctxt "RPCLocalization|"
 msgid "Files"
@@ -954,12 +948,11 @@ msgstr "الإعلان التالي"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode"
-msgstr "وضع Snail"
+msgstr "وضع القوقع"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Traffic limits"
-msgstr "حدود المرور"
+msgstr "حدود نقل البيانات"
 
 msgctxt "RPCLocalization|"
 msgid "Cancel"
@@ -979,15 +972,15 @@ msgstr "التالي"
 
 msgctxt "RPCLocalization|"
 msgid "Proceed to download"
-msgstr "المتابعة إلى التحميل"
+msgstr "المتابعة إلى التنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Add download"
-msgstr "إضافة تحميل"
+msgstr "إضافة تنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Enter download URL:"
-msgstr "أدخل رابط للتحميل:"
+msgstr "ادخل رابط للتنزيل:"
 
 msgctxt "RPCLocalization|"
 msgid "OK"
@@ -995,11 +988,11 @@ msgstr "موافق"
 
 msgctxt "RPCLocalization|"
 msgid "Download"
-msgstr "تحميل"
+msgstr "تنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Download anyway"
-msgstr "تحميل على اي حال"
+msgstr "تنزيل على أي حال"
 
 msgctxt "RPCLocalization|"
 msgid "Add"
@@ -1019,7 +1012,7 @@ msgstr "تحديد المجلد"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting download info..."
-msgstr "طلب معلومات التحميل..."
+msgstr "يطلب معلومات التنزيل..."
 
 msgctxt "RPCLocalization|"
 msgid "Quality:"
@@ -1031,7 +1024,7 @@ msgstr "اختر الكل"
 
 msgctxt "RPCLocalization|"
 msgid "Select none"
-msgstr "لا تختر شيئا"
+msgstr "لا تختر شيئاً"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent already exists"
@@ -1039,15 +1032,15 @@ msgstr "التورنت موجود بالفعل"
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
-msgstr "هل تريد تحميل التتبع منه؟"
+msgstr "هل تريد تنزيل المتعقبات؟"
 
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
-msgstr "لا توجد تحميلات نشطة"
+msgstr "لا توجد تنزيلات نشطة"
 
 msgctxt "RPCLocalization|"
 msgid "No completed downloads"
-msgstr "لا توجد تحميلات مكتملة"
+msgstr "لا توجد تنزيلات مكتملة"
 
 msgctxt "RPCLocalization|"
 msgid "No results found for"
@@ -1071,7 +1064,7 @@ msgstr "لم يعثر على شيء"
 
 msgctxt "RPCLocalization|"
 msgid "Moving"
-msgstr "جار النقل"
+msgstr "ينقل"
 
 msgctxt "RPCLocalization|"
 msgid "Unknown file size"
@@ -1079,15 +1072,15 @@ msgstr "حجم الملف غير معروف"
 
 msgctxt "RPCLocalization|"
 msgid "Merging media streams"
-msgstr "دمج دفق الوسائط"
+msgstr "يدمج دفق الوسائط"
 
 msgctxt "RPCLocalization|"
 msgid "Allocating disk space..."
-msgstr "تخصيص مساحة على القرص..."
+msgstr "يخصص مساحة على القرص..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
-msgstr "إعادة الاتصال..."
+msgstr "يعيد الاتصال..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting"
@@ -1099,11 +1092,11 @@ msgstr "متوقف مؤقتا"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading metadata"
-msgstr "جار تحميل البيانات الوصفية"
+msgstr "ينزل البيانات الوصفية"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading"
-msgstr "جار التحميل"
+msgstr "تنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Error"
@@ -1115,7 +1108,7 @@ msgstr "التحقق من الملفات..."
 
 msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
-msgstr "تحميل، تخصيص مساحة القرص..."
+msgstr "تنزيل، تخصيص مساحة القرص..."
 
 #, qt-format
 msgctxt "RPCLocalization|"
@@ -1134,7 +1127,7 @@ msgstr "مكتمل"
 
 msgctxt "RPCLocalization|"
 msgid "Queued"
-msgstr "قيد الانتظار"
+msgstr "قيد الاِنتظار"
 
 msgctxt "RPCLocalization|"
 msgid "Stop seeding"
@@ -1146,7 +1139,7 @@ msgstr "طلب المعلومات..."
 
 msgctxt "RPCLocalization|"
 msgid "Open torrent file..."
-msgstr "فتح ملف تورنت..."
+msgstr "فتح ملف التورنت..."
 
 msgctxt "RPCLocalization|"
 msgid "Preferences..."
@@ -1166,7 +1159,7 @@ msgstr "الاتصال بالدعم"
 
 msgctxt "RPCLocalization|"
 msgid "Auto shutdown"
-msgstr "إيقاف التشغيل تلقائيا"
+msgstr "إيقاف التشغيل تلقائياً"
 
 msgctxt "RPCLocalization|"
 msgid "Sleep"
@@ -1182,7 +1175,7 @@ msgstr "إيقاف التشغيل"
 
 msgctxt "RPCLocalization|"
 msgid "Check for updates"
-msgstr "بحث عن تحديثات"
+msgstr "تحقق من التحديثات"
 
 msgctxt "RPCLocalization|"
 msgid "About Free Download Manager"
@@ -1190,7 +1183,7 @@ msgstr "حول Free Download Manager"
 
 msgctxt "RPCLocalization|"
 msgid "Quit"
-msgstr "خروج"
+msgstr "إنهاء"
 
 msgctxt "RPCLocalization|"
 msgid "Exit"
@@ -1214,11 +1207,11 @@ msgstr "يرجى إدخال أرقام فقط"
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too small?"
-msgstr "هل أنت متأكد أنه ليس صغير جدا؟"
+msgstr "هل أنت متأكد أنه ليس صغير جداً؟"
 
 msgctxt "RPCLocalization|"
 msgid "Why should it be so huge?"
-msgstr "لماذا ينبغي أن يكون ضخما جدا؟"
+msgstr "لماذا ينبغي أن يكون ضخماً جداً؟"
 
 msgctxt "RPCLocalization|"
 msgid "Extremely slow, isn't it?"
@@ -1230,19 +1223,19 @@ msgstr "أسرع لا يعني أفضل"
 
 msgctxt "RPCLocalization|"
 msgid "Isn't it too frequent?"
-msgstr "أليس متكررا جدا؟"
+msgstr "أليس كثير التكرار؟"
 
 msgctxt "RPCLocalization|"
 msgid "Pretty rare to move with the time."
-msgstr "نادر جدا التحرك مع الوقت."
+msgstr "نادر جداً التحرك مع الوقت."
 
 msgctxt "RPCLocalization|"
 msgid "Maybe you'd let it be a little longer?"
-msgstr "ربما يمكنك تركه لفترة أطول قليلا؟"
+msgstr "ربما يمكنك تركه لفترة أطول قليلاً؟"
 
 msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
-msgstr "هل أنت متأكد من أنه ليس طويل جدا؟"
+msgstr "هل أنت متأكد من أنه ليس طويل جداً؟"
 
 #, qt-format
 msgctxt "RPCLocalization|"
@@ -1259,7 +1252,7 @@ msgstr[5] "فقط %n سجل? FDM يمكنه تخزين المزيد!"
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
-msgstr[0] "%n سجل يعتبر كثير جدا لحفظه."
+msgstr[0] "%n سجل يعتبر كثير جداً لحفظه."
 msgstr[1] "%n سجل يعتبر كثير جدا لحفظه."
 msgstr[2] "%n سجل يعتبر كثير جدا لحفظه."
 msgstr[3] "%n سجل يعتبر كثير جدا لحفظه."
@@ -1268,11 +1261,11 @@ msgstr[5] "%n سجل يعتبر كثير جدا لحفظه."
 
 msgctxt "RPCLocalization|"
 msgid "Do you actually want to connect?"
-msgstr "هل تريد فعلا الاتصال؟"
+msgstr "هل تريد فعلاً الاتصال؟"
 
 msgctxt "RPCLocalization|"
 msgid "Oh no, too many connections!"
-msgstr "أوه لا، عدد كبير جدا من الاتصالات!"
+msgstr "أوه لا، عدد كبير جداً من الاتصالات!"
 
 msgctxt "RPCLocalization|"
 msgid "It seems like an understatement."
@@ -1280,7 +1273,7 @@ msgstr "يبدو وكأنه تصريح مكبوح."
 
 msgctxt "RPCLocalization|"
 msgid "So many? It's overwhelming!"
-msgstr "الكثير؟ إنه ساحق!"
+msgstr "كثير جداً؟ إنه امتلاء!"
 
 msgctxt "RPCLocalization|"
 msgid "General"
@@ -1296,7 +1289,7 @@ msgstr "BitTorrent"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic Limits"
-msgstr "حدود استخدام الشبكة"
+msgstr "حدود نقل البيانات"
 
 msgctxt "RPCLocalization|"
 msgid "Advanced"
@@ -1308,15 +1301,15 @@ msgstr "الشبكة"
 
 msgctxt "RPCLocalization|"
 msgid "Proxy"
-msgstr "الملقم الوكيل"
+msgstr "الخادم الوكيل"
 
 msgctxt "RPCLocalization|"
 msgid "No proxy"
-msgstr "بدون ملقم وكيل"
+msgstr "بدون خادم وكيل"
 
 msgctxt "RPCLocalization|"
 msgid "System proxy"
-msgstr "الملقم الوكيل للنظام"
+msgstr "الخادم الوكيل للنظام"
 
 msgctxt "RPCLocalization|"
 msgid "Configure manually:"
@@ -1356,11 +1349,11 @@ msgstr "بدء التشغيل"
 
 msgctxt "RPCLocalization|"
 msgid "Downloads"
-msgstr "التحميلات"
+msgstr "التنزيلات"
 
 msgctxt "RPCLocalization|"
 msgid "Launch at startup (minimized)"
-msgstr "البدء في بدء التشغيل (مصغر)"
+msgstr "البدء مع بدء التشغيل (مصغر)"
 
 msgctxt "RPCLocalization|"
 msgid "Open at Login"
@@ -1368,11 +1361,11 @@ msgstr "فتح عند تسجيل الدخول"
 
 msgctxt "RPCLocalization|"
 msgid "Close button minimizes window"
-msgstr "زر الإغلاق يقوم بتصغير النافذة"
+msgstr "زر الإغلاق يصغر النافذة"
 
 msgctxt "RPCLocalization|"
 msgid "Check if FDM is your default torrent client"
-msgstr "تحقق من أن FDM هو عميل تورنت الافتراضي الخاص بك"
+msgstr "تحقق من أن FDM هو عميل التورنت الافتراضي خاصتك"
 
 msgctxt "RPCLocalization|"
 msgid "Update"
@@ -1380,19 +1373,19 @@ msgstr "تحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Check for updates automatically"
-msgstr "التحقق من وجود تحديثات تلقائيا"
+msgstr "التحقق من وجود تحديثات تلقائياً"
 
 msgctxt "RPCLocalization|"
 msgid "Install updates automatically"
-msgstr "تثبيت التحديثات تلقائيا"
+msgstr "تثبيت التحديثات تلقائياً"
 
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
-msgstr "اقتراح مجلدات استنادا على نوع الملف"
+msgstr "اقتراح مجلدات استناداً على نوع الملف"
 
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on download URL"
-msgstr "اقتراح مجلدات استنادا على رابط التحميل"
+msgstr "اقتراح مجلدات استناداً على رابط التنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Default folder:"
@@ -1404,11 +1397,11 @@ msgstr "اقتران مع ملفات التورنت"
 
 msgctxt "RPCLocalization|"
 msgid "Notifications"
-msgstr "التنبيهات"
+msgstr "الإشعارات"
 
 msgctxt "RPCLocalization|"
 msgid "Notify me of completed downloads via Notification Center"
-msgstr "نبهني حول التحميلات المكتملة عبر مركز الإعلامات"
+msgstr "نبهني حول التحميلات المكتملة عبر مركز الإشعارات"
 
 msgctxt "RPCLocalization|"
 msgid "Only when FDM window is inactive"
@@ -1424,23 +1417,23 @@ msgstr "إزالة من القائمة فقط"
 
 msgctxt "RPCLocalization|"
 msgid "Delete file(s) from disk"
-msgstr "حذف الملفات من القرص"
+msgstr "حذف الملف(ات) من القرص"
 
 msgctxt "RPCLocalization|"
 msgid "Always ask"
-msgstr "اسأل دائما"
+msgstr "اسأل دائماً"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads from"
-msgstr "لا تقم بالتقاط التحميلات من"
+msgstr "لا تقم بالتقاط التنزيلات من"
 
 msgctxt "RPCLocalization|"
 msgid "Start downloading without confirmation"
-msgstr "بدء التحميل دون تأكيد"
+msgstr "بدء التنزيل دون تأكيد"
 
 msgctxt "RPCLocalization|"
 msgid "Use only HTTP ports to catch downloads in Edge"
-msgstr "استخدام منافذ HTTP فقط لالتقاط التحميلات في Edge"
+msgstr "استخدام منافذ HTTP فقط لالتقاط التنزيلات في Edge"
 
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
@@ -1456,7 +1449,7 @@ msgstr "لقائمة السياق"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
-msgstr "التقاط التحميلات تلقائيا من المتصفحات"
+msgstr "التقاط التنزيلات تلقائياً من المتصفحات"
 
 msgctxt "RPCLocalization|"
 msgid "Edge"
@@ -1480,7 +1473,7 @@ msgstr "تحقق إذا"
 
 msgctxt "RPCLocalization|"
 msgid "is enabled"
-msgstr "ممكن"
+msgstr "ممَكن"
 
 msgctxt "RPCLocalization|"
 msgid "No Chrome installation was found."
@@ -1496,15 +1489,15 @@ msgstr "تحميل Chrome من هنا"
 
 msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
-msgstr "استخدام المتصفح إذا قمت بإلغاء التحميل عن طريق FDM"
+msgstr "استخدام المتصفح إذا قمت بإلغاء التنزيل عبر FDM"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads smaller than"
-msgstr "لا تقم بالتقاط التحميلات أصغر من"
+msgstr "لا تقم بالتقاط التنزيلات أصغر من"
 
 msgctxt "RPCLocalization|"
 msgid "Kbytes"
-msgstr "كيلوبايت"
+msgstr "ك.بايت"
 
 msgctxt "RPCLocalization|"
 msgid "Skip files with extensions:"
@@ -1544,7 +1537,7 @@ msgstr "تخطي"
 
 msgctxt "RPCLocalization|"
 msgid "Download speed"
-msgstr "سرعة التحميل"
+msgstr "سرعة التنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Upload speed"
@@ -1552,7 +1545,7 @@ msgstr "سرعة الرفع"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of simultaneous downloads"
-msgstr "الحد الأقصى لعدد التحميلات المتزامنة"
+msgstr "الحد الأقصى لعدد التنزيلات المتزامنة"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of connections"
@@ -1600,7 +1593,7 @@ msgstr "إعادة تعيين مساحة القرص للملفات أكبر من
 
 msgctxt "RPCLocalization|"
 msgid "Gbytes"
-msgstr "جيجابايت"
+msgstr "ج.بايت"
 
 msgctxt "RPCLocalization|"
 msgid "Power management"
@@ -1608,7 +1601,7 @@ msgstr "إدارة الطاقة"
 
 msgctxt "RPCLocalization|"
 msgid "Prevent sleep if there are active downloads"
-msgstr "منع السكون إذا كان هناك تحميلات نشطة"
+msgstr "منع السكون إذا كان هناك تنزيلات نشطة"
 
 msgctxt "RPCLocalization|"
 msgid "Delete button action"
@@ -1640,7 +1633,7 @@ msgstr "uTP"
 
 msgctxt "RPCLocalization|"
 msgid "Use ports in range:"
-msgstr "استخدام المنافذ في النطاق:"
+msgstr "استخدام المنافذ في المدى:"
 
 msgctxt "RPCLocalization|"
 msgid "to"
@@ -1680,19 +1673,19 @@ msgstr "بدء الكل"
 
 msgctxt "RPCLocalization|"
 msgid "Pause all"
-msgstr "إيقاف مؤقت للكل"
+msgstr "إيقاف للكل"
 
 msgctxt "RPCLocalization|"
 msgid "Start selected"
-msgstr "بدء المحددة"
+msgstr "بدء المحدد"
 
 msgctxt "RPCLocalization|"
 msgid "Pause selected"
-msgstr "إيقاف المحددة"
+msgstr "إيقاف المحدد"
 
 msgctxt "RPCLocalization|"
 msgid "Add new download..."
-msgstr "إضافة تحميل جديد..."
+msgstr "إضافة تنزيل جديد..."
 
 msgctxt "RPCLocalization|"
 msgid "Move to trash"
@@ -1720,7 +1713,7 @@ msgstr "القائمة الرئيسية"
 
 msgctxt "RPCLocalization|"
 msgid "Delete selected downloads"
-msgstr "حذف التحميلات المحددة"
+msgstr "حذف التنزيلات المحددة"
 
 msgctxt "RPCLocalization|"
 msgid "Remember my choice"
@@ -1757,7 +1750,7 @@ msgstr "هل تريد جعل Free Download Manager عميل التورنت ال�
 
 msgctxt "RPCLocalization|"
 msgid "Don’t ask again"
-msgstr "عدم السؤال مجددا"
+msgstr "عدم السؤال مجدداً"
 
 msgctxt "RPCLocalization|"
 msgid "Set as Default"
@@ -1765,19 +1758,19 @@ msgstr "تعيين كافتراضي"
 
 msgctxt "RPCLocalization|"
 msgid "Computer will be put to sleep after all downloads are completed."
-msgstr "سيتم وضع جهاز الكمبيوتر في وضع السكون بعد الانتهاء من كافة التحميلات."
+msgstr "سيدخل الحاسوب في وضع السكون بعد الانتهاء من كافة التنزيلات."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will shut down after all downloads are completed."
-msgstr "سيتم إيقاف تشغيل الكمبيوتر بعد الانتهاء من كافة التحميلات."
+msgstr "سيتم إيقاف تشغيل الحاسوب بعد الانتهاء من كافة التنزيلات."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will hibernate after all downloads are completed."
-msgstr "سوف إسبات الكمبيوتر بعد إكمال كافة التحميلات."
+msgstr "سيدخل الحاسوب في وضع السبات بعد إكمال كافة التنزيلات."
 
 msgctxt "RPCLocalization|"
 msgid "Checking for updates..."
-msgstr "جار التحقق من وجود تحديثات..."
+msgstr "يتحقق من وجود تحديثات..."
 
 msgctxt "RPCLocalization|"
 msgid "Retry"
@@ -1793,15 +1786,15 @@ msgstr "خطأ في تحميل التحديث:"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading update"
-msgstr "جار تحميل التحديث"
+msgstr "ينزل التحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Checking..."
-msgstr "جار التحقق ..."
+msgstr "يتحقق..."
 
 msgctxt "RPCLocalization|"
 msgid "Update downloaded"
-msgstr "تم تحميل التحديث"
+msgstr "تم تنزيل التحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Install update"
@@ -1809,7 +1802,7 @@ msgstr "تثبيت التحديث"
 
 msgctxt "RPCLocalization|"
 msgid "Installing updates"
-msgstr "جار تثبيت التحديثات"
+msgstr "جارِ تثبيت التحديثات"
 
 msgctxt "RPCLocalization|"
 msgid "Relaunch FDM to update"
@@ -1825,11 +1818,11 @@ msgstr "حدث خطأ أثناء التثبيت:"
 
 msgctxt "RPCLocalization|"
 msgid "Restart computer to complete installation"
-msgstr "قم بإعادة تشغيل الكمبيوتر لإكمال التثبيت"
+msgstr "إعادة تشغيل الحاسوب لإكمال التثبيت"
 
 msgctxt "RPCLocalization|"
 msgid "FDM is up to date!"
-msgstr "FDM محدث!"
+msgstr "FDM مُحدث!"
 
 msgctxt "RPCLocalization|"
 msgid "New version is available"
@@ -1923,7 +1916,7 @@ msgstr "الجدولة"
 
 msgctxt "RPCLocalization|"
 msgid "Start and pause downloads at specified time"
-msgstr "بدء وإيقاف التحميلات في الوقت المحدد"
+msgstr "بدء وإيقاف التنزيلات في الوقت المحدد"
 
 msgctxt "RPCLocalization|"
 msgid "Enable Scheduler"
@@ -1931,31 +1924,31 @@ msgstr "تمكين الجدولة"
 
 msgctxt "RPCLocalization|"
 msgid "Sun"
-msgstr "الأحد"
+msgstr "أحد"
 
 msgctxt "RPCLocalization|"
 msgid "Mon"
-msgstr "الإثنبن"
+msgstr "إثنبن"
 
 msgctxt "RPCLocalization|"
 msgid "Tue"
-msgstr "الثلاثاء"
+msgstr "ثلاثاء"
 
 msgctxt "RPCLocalization|"
 msgid "Wed"
-msgstr "الأربعاء"
+msgstr "أربعاء"
 
 msgctxt "RPCLocalization|"
 msgid "Thu"
-msgstr "الخميس"
+msgstr "خميس"
 
 msgctxt "RPCLocalization|"
 msgid "Fri"
-msgstr "الجمعة"
+msgstr "جمعة"
 
 msgctxt "RPCLocalization|"
 msgid "Sat"
-msgstr "السبت"
+msgstr "سبت"
 
 msgctxt "RPCLocalization|"
 msgid "From:"
@@ -1967,7 +1960,7 @@ msgstr "إلى:"
 
 msgctxt "RPCLocalization|"
 msgid "Change settings"
-msgstr "تغيير الاعدادات"
+msgstr "تغيير الإعدادات"
 
 msgctxt "RPCLocalization|"
 msgid "Change preferences"
@@ -1979,7 +1972,7 @@ msgstr "تلميح"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
-msgstr "لن يتم وضع جهاز الكمبيوتر في وضع السكون لأن هناك تحميلات مجدولة."
+msgstr "لن يدخل الحاسوب في وضع السكون لأن هناك تنزيلات مجدولة."
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
@@ -1987,7 +1980,7 @@ msgstr "الجدولة"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there're scheduled downloads"
-msgstr "لا تقم بوضع جهاز الكمبيوتر في وضع السكون إذا كان هناك تحميلات مجدولة."
+msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيلات مجدولة."
 
 msgctxt "RPCLocalization|"
 msgid "Press"
@@ -1995,7 +1988,7 @@ msgstr "اضغط"
 
 msgctxt "RPCLocalization|"
 msgid "to let the browser process the download"
-msgstr "للسماح للمتصفح بمعالجة التحميل"
+msgstr "للسماح للمتصفح بمعالجة التنزل"
 
 msgctxt "RPCLocalization|"
 msgid "Check file integrity"
@@ -2007,33 +2000,35 @@ msgstr "حساب"
 
 msgctxt "RPCLocalization|"
 msgid "Calculating"
-msgstr "جار الحساب....."
+msgstr "يحسب"
 
 msgctxt "RPCLocalization|"
 msgid "Verification OK"
-msgstr "التحقق جيد"
+msgstr "تم التحقق"
 
 msgctxt "RPCLocalization|"
 msgid "Verification failed"
 msgstr "فشل التحقق"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Compare with"
 msgstr "مقارنة مع"
 
 msgctxt "RPCLocalization|"
 msgid "Found incomplete download with same name and size."
-msgstr ""
+msgstr "وجد تنزيل غير مكتمل له نفس الاسم و الحجم."
 
 msgctxt "RPCLocalization|"
 msgid "Would you like to start new or resume downloading?"
-msgstr ""
+msgstr "هل تريد أن تبدأ تنزيل جديد أو تستأنف التنزيل؟"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Selected filepath is not valid."
 msgstr "مسار الملف المحدد غير صالح."
+
+msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "عرض خاص"
 
 msgctxt "RPCLocalization|"
 msgid "Close"
@@ -2067,11 +2062,11 @@ msgstr "استخدام مفتاح Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
-msgstr "لا تلتقط التحميلات عند الضغط على Alt"
+msgstr "لا تلتقط التنزيلات عند الضغط على Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
-msgstr "التقط التحميلات فقط عند الضغط على Alt"
+msgstr "التقط التنزيلات فقط عند الضغط على Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Skip domains:"
@@ -2079,15 +2074,15 @@ msgstr "تخطي النطاقات:"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is a scheduled download"
-msgstr "لا تضع الكمبيوتر في حالة السكون إذا كان هناك تحميل مجدول"
+msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيل مجدول"
 
 msgctxt "RPCLocalization|"
 msgid "Don't put your computer to sleep if there is an active download"
-msgstr "لا تضع الكمبيوتر في حالة السكون إذا كان هناك تحميل نشط"
+msgstr "لا تدخل الحاسوب في وضع السكون إذا كان هناك تنزيل نشط"
 
 msgctxt "RPCLocalization|"
 msgid "Remove only from download list"
-msgstr "إزالة من قائمة التحميل فقط"
+msgstr "إزالة من قائمة التنزيل فقط"
 
 msgctxt "RPCLocalization|"
 msgid "Go back to default settings"
@@ -2095,7 +2090,7 @@ msgstr "العودة إلى الإعدادات الافتراضية"
 
 msgctxt "RPCLocalization|"
 msgid "Hold"
-msgstr "استمر بالضغط على"
+msgstr "اضغط باستمرار"
 
 msgctxt "RPCLocalization|"
 msgid "Alt key"
@@ -2103,7 +2098,7 @@ msgstr "مفتاح Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
-msgstr "بالضغط المستمر على Alt، انقر فوق الرابط للتحميل عن طريق المتصفح."
+msgstr "اضغط باستمرار على Alt، انقر فوق الرابط للتنزيل عن طريق المتصفح."
 
 msgctxt "RPCLocalization|"
 msgid "Disk space needed:"
@@ -2124,7 +2119,7 @@ msgstr "القرص %1"
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
-msgstr "وسم بنفس الاسم موجود مسبقا"
+msgstr "وسم بنفس الاسم موجود مسبقاً"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
@@ -2140,7 +2135,7 @@ msgstr "و"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
-msgstr "إزالة الملفات المحذوفة من قائمة التحميل تلقائيا"
+msgstr "إزالة الملفات المحذوفة من قائمة التنزيلا تلقائياً"
 
 msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
@@ -2160,7 +2155,7 @@ msgstr "لصق روابط من الحافظة"
 
 msgctxt "RPCLocalization|"
 msgid "Change download URL"
-msgstr "تغيير رابط التحميل"
+msgstr "تغيير رابط التنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Saved as:"
@@ -2172,11 +2167,11 @@ msgstr "رابط غير صحيح"
 
 msgctxt "RPCLocalization|"
 msgid "Start download"
-msgstr "بدء التحميل"
+msgstr "بدء التنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Seeding"
-msgstr "التلقيم"
+msgstr "يلقم"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
@@ -2188,89 +2183,79 @@ msgstr "تعيين أيام من الأسبوع لتمكين الجدولة"
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "ادخل رابط أو اختر ملف تورنت"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New file"
 msgstr "ملف جديد"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New files"
 msgstr "ملفات جديدة"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New video"
 msgstr "فيديو جديد"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "New torrent"
-msgstr "سيل جديد"
+msgstr "تورنت جديد"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Save to"
 msgstr "حفظ إلى"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "File name"
 msgstr "اسم الملف"
 
 msgctxt "RPCLocalization|"
 msgid "Create subfolder"
-msgstr ""
+msgstr "إنشاء مجلد فرعي"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent contents"
-msgstr ""
+msgstr "محتويات التورنت"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Authentication required:"
 msgstr "المصادقة المطلوبة:"
 
 msgctxt "RPCLocalization|"
 msgid "Enter new URL"
-msgstr ""
+msgstr "ادخل رابط جديد"
 
 msgctxt "RPCLocalization|"
 msgid "File location"
-msgstr ""
+msgstr "موقع الملف"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download links"
-msgstr "وصلات التحميل"
+msgstr "روابط التنزيل"
 
 msgctxt "RPCLocalization|"
 msgid "Restore default settings?"
-msgstr ""
+msgstr "استعادة الإعدادات الافتراضية"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Default settings"
 msgstr "الإعدادات الافتراضية"
 
 msgctxt "RPCLocalization|"
 msgid "Start new"
-msgstr ""
+msgstr "بدأ جديد"
 
 msgctxt "RPCLocalization|"
 msgid "Resume"
-msgstr ""
+msgstr "استئناف"
 
-#, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Hash"
 msgstr "تجزئة"
 
 msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
-msgstr "حدود استخدام الشبكة"
+msgstr "حدود نقل البيانات"
 
 msgctxt "RPCLocalization|settings"
 msgid "Login"
@@ -2290,7 +2275,7 @@ msgstr "مكتمل"
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
-msgstr "مجلد التحميل الإفتراضي"
+msgstr "مجلد التنزيل الإفتراضي"
 
 msgctxt "RPCSystem|"
 msgid "Accept"
@@ -2298,7 +2283,7 @@ msgstr "قبول"
 
 msgctxt "RPCSystem|"
 msgid "Download to"
-msgstr "تحميل إلى"
+msgstr "تنزيل إلى"
 
 msgctxt "RPCSystem|"
 msgid "OK"
@@ -2306,11 +2291,11 @@ msgstr "موافق"
 
 msgctxt "RPCSystem|"
 msgid "Open torrent file"
-msgstr "فتح ملف تورنت"
+msgstr "فتح ملف التورنت"
 
 msgctxt "RPCSystem|"
 msgid "Torrent files"
-msgstr "ملفات تورنت"
+msgstr "ملفات التورنت"
 
 msgctxt "TorrentDownload|"
 msgid "File priorities changed"
@@ -2318,23 +2303,23 @@ msgstr "تغيرت أولويات الملف"
 
 msgctxt "TorrentDownload|"
 msgid "Stopping seeding"
-msgstr "جار إيقاف التلقيم"
+msgstr "يوقف التلقيم"
 
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading enabled"
-msgstr "التحميل المتسلسل ممكن"
+msgstr "التنزيل المتسلسل ممَكن"
 
 msgctxt "TorrentDownload|"
 msgid "Sequential downloading disabled"
-msgstr "التحميل المتسلسل معطل"
+msgstr "التنزيل المتسلسل معطل"
 
 msgctxt "TorrentDownload|"
 msgid "Trackers merged"
-msgstr "تم دمج وحدات التتبع"
+msgstr "المتتبعات دمجت"
 
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
-msgstr "جار بدء التلقيم"
+msgstr "يبدء التلقيم"
 
 msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
@@ -2356,12 +2341,12 @@ msgstr "غير محدود"
 
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr "سرعة التحميل غير محدودة"
+msgstr "سرعة التنزيل غير محدودة"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr "سرعة التحميل محددة بـ %1/s"
+msgstr "سرعة التنزيل محددة بـ %1/s"
 
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
@@ -2371,28 +2356,22 @@ msgstr "سرعة الرفع غير محدودة"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "سرعة الرفع محددة بـ %1/s"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Files are missing"
-#~ msgstr "الملفات مفقودة"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "الملف مفقود"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
-msgstr "يتم بدء التحميل"
+msgstr "يبدء التنزيل"
 
 msgctxt "TorrentDownload|"
 msgid "Checking files"
-msgstr "فحص الملفات"
+msgstr "يفحص الملفات"
 
 msgctxt "TorrentDownload|"
 msgid "Downloading"
-msgstr "جار التحميل"
+msgstr "ينزيل"
 
 msgctxt "TorrentDownload|"
 msgid "Download complete"
-msgstr "اكتمل التحميل"
+msgstr "اكتمل التنزيل"
 
 msgctxt "TorrentDownload|"
 msgid "Can't move files recursively"
@@ -2405,12 +2384,12 @@ msgstr "تغيير مجلد الوجهة"
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
-msgstr "جار نقل الملفات إلى %1"
+msgstr "نقل الملفات إلى %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
-msgstr "جار نقل الملف إلى %1"
+msgstr "نقل الملف إلى %1"
 
 msgctxt "TorrentDownload|"
 msgid "Waiting for metadata"
@@ -2418,11 +2397,11 @@ msgstr "بانتظار البيانات الوصفية"
 
 msgctxt "TorrentDownload|"
 msgid "Updating"
-msgstr "جار التحديث"
+msgstr "تحديث"
 
 msgctxt "TorrentDownload|"
 msgid "Working"
-msgstr "جار العمل"
+msgstr "يعمل"
 
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
@@ -2430,11 +2409,11 @@ msgstr "تم استلام البيانات الوصفية"
 
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
-msgstr "مصادقة المستخدم المطلوب"
+msgstr "مصادقة المستخدم مطلوبة"
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
-msgstr "تم تعيين الملفات إلى دليل جديد"
+msgstr "تم تعيين الملفات إلى مسار جديد"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving failed"
@@ -2481,10 +2460,15 @@ msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
 msgstr "تم إلغاء نقل الملف"
 
-#, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "خطأ غير متوقع"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "الملفات مفقودة"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "الملف مفقود"
 
 msgctxt "TrayMenu|"
 msgid "Show main window"
@@ -2566,7 +2550,7 @@ msgstr "نقل إلى..."
 
 msgctxt "UIHelper|"
 msgid "Download to..."
-msgstr "تحميل إلى..."
+msgstr "تنزيل إلى..."
 
 msgctxt "UIHelper|"
 msgid "Move to trash"
@@ -2590,7 +2574,7 @@ msgstr "تمكين التلقيم"
 
 msgctxt "UIHelper|"
 msgid "Sequential download"
-msgstr "تحميل متسلسل"
+msgstr "تنزيل متسلسل"
 
 msgctxt "UIHelper|"
 msgid "Force recheck"
@@ -2631,13 +2615,10 @@ msgstr "أولوية عادية"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "أولوية منخفضة"
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "تخطي"
 
 msgctxt "UIHelper|"
 msgid "Edit"
-msgstr "تحرير"
+msgstr "تعديل"
 
 msgctxt "UIHelper|"
 msgid "Remove"
@@ -2671,21 +2652,20 @@ msgstr "ملفات نصية"
 #, qt-format
 msgctxt "UIHelper|"
 msgid "%1 K"
-msgstr "%1 K"
+msgstr "%1 ك."
 
 #, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
-msgstr "%1 M"
+msgstr "%1 م."
 
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "تخطي"
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "الملف مفقود"
-
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr "خطأ: الملفات مفقودة."
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
@@ -2694,7 +2674,7 @@ msgstr "تم نقل الملفات بنجاح"
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
-msgstr "جار النقل إلى %1"
+msgstr "ينقل إلى %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
@@ -2706,11 +2686,11 @@ msgstr "دمج دفق الوسائط"
 
 msgctxt "YoutubeDownload|"
 msgid "Redirecting"
-msgstr "إعادة توجيه"
+msgstr "إعادة التوجيه"
 
 msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
-msgstr "التعامل مع إعادة توجيه"
+msgstr "التعامل مع إعادة التوجيه"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2724,11 +2704,11 @@ msgstr "بث فيديو: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Downloading page"
-msgstr "جار تحميل الصفحة"
+msgstr "ينزل الصفحة"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is downloaded"
-msgstr "تم تحميل الصفحة"
+msgstr "تم تنزيل الصفحة"
 
 msgctxt "YoutubeDownload|"
 msgid "Launching parser"
@@ -2749,7 +2729,7 @@ msgstr "فشل التحليل: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
-msgstr "اكتمل التحميل"
+msgstr "اكتمل التنزيل"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2768,7 +2748,7 @@ msgstr "، متوسط السرعة: %1"
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
-msgstr "تتم إعادة تسمية الملف إلى %1"
+msgstr "تم إعادة تسمية الملف إلى %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2778,3 +2758,6 @@ msgstr "فشل النقل: %1"
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr "تم إلغاء النقل"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Error: files are missing."
+#~ msgstr "خطأ: الملفات مفقودة."

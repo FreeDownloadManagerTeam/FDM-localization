@@ -103,10 +103,6 @@ msgstr "Υψηλή"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "Σφάλμα HTTP %1: %2"
-#, fuzzy, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Σφάλμα %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -407,6 +403,10 @@ msgstr "Δίκτυο διαβάστε σφάλμα χρονικού ορίου"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Network connect σφάλμα χρονικού ορίου"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Σφάλμα %1"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -1783,6 +1783,10 @@ msgid "Selected filepath is not valid."
 msgstr "Επιλεγμένο filepath δεν είναι έγκυρη."
 
 msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Ειδική προσφορά"
+
+msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
 msgstr ""
 
@@ -2664,10 +2668,6 @@ msgstr "Ταχύτητα upload είναι απεριόριστη"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Ανεβάστε ταχύτητα είναι περιορισμένη σε %1/s"
-#, fuzzy
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "Αρχείο λείπει"
 
 #, fuzzy
 msgctxt "TorrentDownload|"
@@ -2783,6 +2783,10 @@ msgstr "Μετακίνηση αρχείων ακυρωθεί"
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Μη αναμενόμενο σφάλμα"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Αρχείο λείπει"
 
 #, fuzzy
 msgctxt "TrayMenu|"
@@ -2957,10 +2961,11 @@ msgstr "Κανονική προτεραιότητα"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Χαμηλής προτεραιότητας"
+
 #, fuzzy
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Skip"
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Skip"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -3010,15 +3015,10 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
 
-
 #, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "Αρχείο λείπει"
-
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr ""
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"

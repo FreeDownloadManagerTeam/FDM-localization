@@ -103,10 +103,6 @@ msgstr "Hög"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "HTTP-Fel %1: %2"
-#, fuzzy, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Fel %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -413,6 +409,10 @@ msgstr ""
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Nätverket ansluta tidsgränsfel"
+#, fuzzy, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Fel %1"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -1786,6 +1786,10 @@ msgctxt "RPCLocalization|"
 msgid "Selected filepath is not valid."
 msgstr "Valda filepath är inte giltig."
 
+msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Specialerbjudande"
+
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
@@ -2660,10 +2664,6 @@ msgstr "Ladda upp hastigheten är obegränsad"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "Ladda upp hastigheten är begränsad till %1/s"
-#, fuzzy
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Files are missing"
-#~ msgstr "Filer saknas"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2778,6 +2778,10 @@ msgstr ""
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Oväntat fel"
+#, fuzzy
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "Filer saknas"
 
 #, fuzzy
 msgctxt "TrayMenu|"
@@ -2951,10 +2955,11 @@ msgstr "Normal prioritet"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Låg prioritet"
+
 #, fuzzy
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Hoppa över"
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Hoppa över"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -3004,15 +3009,9 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
 
-
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr ""
-
-#, fuzzy
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr "Fel: filer saknas."
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
@@ -3109,3 +3108,7 @@ msgstr ""
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr ""
+#, fuzzy
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Error: files are missing."
+#~ msgstr "Fel: filer saknas."

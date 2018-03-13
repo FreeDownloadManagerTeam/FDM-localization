@@ -48,10 +48,10 @@ msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
 msgstr ""
 
-#, fuzzy, qt-format
+#, qt-format
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr "Prioridade %1"
+msgstr ""
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
@@ -94,10 +94,6 @@ msgstr "Alto"
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr "Erro HTTP %1: %2"
-#, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Erro: %1"
 
 #, qt-format
 msgctxt "HttpError|"
@@ -355,6 +351,10 @@ msgstr "Erro de tempo limite de leitura de rede"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Erro de tempo limite de conexão de rede"
+#, qt-format
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Erro: %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -1545,6 +1545,10 @@ msgid "Selected filepath is not valid."
 msgstr "O caminho selecionado não é válido."
 
 msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Oferta especial"
+
+msgctxt "RPCLocalization|"
 msgid "Suggest folders based on file type"
 msgstr "Sugerir pastas com base no tipo de arquivo"
 
@@ -2310,12 +2314,6 @@ msgstr "A velocidade de upload é ilimitada"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "A velocidade de upload é limitada a %1/s"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Files are missing"
-#~ msgstr "Arquivos em falta"
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "Arquivo em falta"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2423,6 +2421,12 @@ msgstr "Mover arquivo cancelado"
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Erro inesperado"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "Arquivos em falta"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "Arquivo em falta"
 
 msgctxt "TrayMenu|"
 msgid "Show main window"
@@ -2569,9 +2573,10 @@ msgstr "Prioridade normal"
 msgctxt "UIHelper|"
 msgid "Low priority"
 msgstr "Prioridade baixa"
-#~ msgctxt "UIHelper|"
-#~ msgid "Skip"
-#~ msgstr "Ignorar"
+
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Ignorar"
 
 msgctxt "UIHelper|"
 msgid "Edit"
@@ -2616,14 +2621,9 @@ msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr "%1 M"
 
-
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "Arquivo em falta"
-
-msgctxt "YoutubeDownload|"
-msgid "Error: files are missing."
-msgstr "Erro: arquivos em falta."
 
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
@@ -2716,3 +2716,6 @@ msgstr "Falha ao mover: %1"
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr "Mover cancelado."
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Error: files are missing."
+#~ msgstr "Erro: arquivos em falta."
