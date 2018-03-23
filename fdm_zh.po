@@ -1541,11 +1541,11 @@ msgstr "使用Alt键"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
-msgstr "按下Alt时不捕获下载项"
+msgstr "按下Alt键时不捕获下载项"
 
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
-msgstr "仅在按下Alt时捕获下载项"
+msgstr "仅在按下Alt键时捕获下载项"
 
 msgctxt "RPCLocalization|"
 msgid "Skip domains:"
@@ -1602,7 +1602,7 @@ msgstr "使用已存在的名称做标签"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
-msgstr "做种时启用睡眠模式"
+msgstr "做种时允许计算机睡眠"
 
 msgctxt "RPCLocalization|"
 msgid "on"
