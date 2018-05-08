@@ -1880,7 +1880,7 @@ msgid "Light"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Dark )"
+msgid "Dark"
 msgstr ""
 
 #, fuzzy
