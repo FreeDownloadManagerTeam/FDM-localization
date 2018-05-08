@@ -1681,6 +1681,99 @@ msgid "Special offer"
 msgstr "Special tilbud"
 
 msgctxt "RPCLocalization|"
+msgid "Download Youtube Channel Videos"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download Youtube Channel"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Videos"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Load More"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add date of uploading video to YouTube to file name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Video Quality"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "High (1080p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Medium (480p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Low (240p)"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n videos are chosen"
+msgid_plural "%n videos are chosen"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "RPCLocalization|"
+msgid "A new version of the Firefox extension is available"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "To update the extension:"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Click %1 to remove the old version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "here"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 the new version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Install"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Before that, restart Firefox if it's running."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error while removing:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Close Firefox if it's running and try again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Choose app mode"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Light"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Dark )"
+msgstr ""
+
+msgctxt "RPCLocalization|"
 msgid "Hold"
 msgstr ""
 
@@ -2762,6 +2855,10 @@ msgctxt "UIHelper|"
 msgid "Copy link"
 msgstr "Kopier link"
 
+msgctxt "UIHelper|"
+msgid "See on YouTube"
+msgstr ""
+
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Add tag"
@@ -2894,15 +2991,7 @@ msgid "VideoStream: %1"
 msgstr ""
 
 msgctxt "YoutubeDownload|"
-msgid "Downloading page"
-msgstr ""
-
-msgctxt "YoutubeDownload|"
-msgid "Page is downloaded"
-msgstr ""
-
-msgctxt "YoutubeDownload|"
-msgid "Launching parser"
+msgid "Parsing page"
 msgstr ""
 
 #, fuzzy

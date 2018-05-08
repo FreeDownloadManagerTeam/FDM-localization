@@ -1541,11 +1541,11 @@ msgstr "使用Alt键"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
-msgstr "按下Alt键时不捕获下载项"
+msgstr "按下Alt时不捕获下载项"
 
 msgctxt "RPCLocalization|"
 msgid "Catch downloads only when Alt is pressed"
-msgstr "仅在按下Alt键时捕获下载项"
+msgstr "仅在按下Alt时捕获下载项"
 
 msgctxt "RPCLocalization|"
 msgid "Skip domains:"
@@ -1602,7 +1602,7 @@ msgstr "使用已存在的名称做标签"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
-msgstr "做种时允许计算机睡眠"
+msgstr "做种时启用睡眠模式"
 
 msgctxt "RPCLocalization|"
 msgid "on"
@@ -2206,6 +2206,98 @@ msgctxt "RPCLocalization|"
 msgid "Special offer"
 msgstr "特价"
 
+msgctxt "RPCLocalization|"
+msgid "Download Youtube Channel Videos"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download Youtube Channel"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Videos"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Load More"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add date of uploading video to YouTube to file name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Video Quality"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "High (1080p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Medium (480p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Low (240p)"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n videos are chosen"
+msgid_plural "%n videos are chosen"
+msgstr[0] ""
+
+msgctxt "RPCLocalization|"
+msgid "A new version of the Firefox extension is available"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "To update the extension:"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Click %1 to remove the old version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "here"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 the new version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Install"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Before that, restart Firefox if it's running."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error while removing:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Close Firefox if it's running and try again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Choose app mode"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Light"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Dark )"
+msgstr ""
+
 msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
 msgstr "流量限制"
@@ -2327,6 +2419,12 @@ msgstr "下载速度限制为每秒%1"
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr "上传速度限制为每秒%1"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "Files are missing"
+#~ msgstr "文件丢失"
+#~ msgctxt "TorrentDownload|"
+#~ msgid "File is missing"
+#~ msgstr "文件丢失"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2538,6 +2636,10 @@ msgid "Copy link"
 msgstr "复制链接"
 
 msgctxt "UIHelper|"
+msgid "See on YouTube"
+msgstr ""
+
+msgctxt "UIHelper|"
 msgid "Add tag"
 msgstr "添加标签"
 
@@ -2650,18 +2752,15 @@ msgstr "音频流：%1"
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
 msgstr "视频流：%1"
-
-msgctxt "YoutubeDownload|"
-msgid "Downloading page"
-msgstr "下载页面"
-
-msgctxt "YoutubeDownload|"
-msgid "Page is downloaded"
-msgstr "页面已下载"
-
-msgctxt "YoutubeDownload|"
-msgid "Launching parser"
-msgstr "正在启动解析器"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Downloading page"
+#~ msgstr "下载页面"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Page is downloaded"
+#~ msgstr "页面已下载"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Launching parser"
+#~ msgstr "正在启动解析器"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
@@ -2689,6 +2788,10 @@ msgstr "已取消移动。"
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
 msgstr "解析失败，原因：%1"
+
+msgctxt "YoutubeDownload|"
+msgid "Parsing page"
+msgstr ""
 
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
