@@ -2032,11 +2032,19 @@ msgid "Special offer"
 msgstr "Özel teklif"
 
 msgctxt "RPCLocalization|"
-msgid "Download Youtube Channel Videos"
+msgid "Download Youtube channel"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Download Youtube Channel"
+msgid "Download YouTube playlist"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add YouTube upload date to file name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "try again"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -2045,10 +2053,6 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Load More"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Add date of uploading video to YouTube to file name"
 msgstr ""
 
 msgctxt "RPCLocalization|"
