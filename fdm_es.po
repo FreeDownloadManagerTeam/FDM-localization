@@ -4,9 +4,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Qt-Contexts: true\n"
 "X-Language: es\n"
 "X-Source-Language: en\n"
-"X-Qt-Contexts: true\n"
 
 msgid "Download with FDM"
 msgstr "Descargar con FDM"
@@ -26,7 +26,7 @@ msgstr "No se encontró vídeo flash. Intenta recargar esta página."
 #, qt-format
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr "La ruta de carpeta especificada es relativa, la ruta completa es %1"
+msgstr "Ruta de carpeta especificada es relativa, la ruta completa es %1"
 
 #, qt-format
 msgctxt "Download|"
@@ -55,7 +55,7 @@ msgstr "Prioridad establecida a %1"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr "En cola: El modo caracol está activado. Apágalo para continuar"
+msgstr "En cola: Modo caracol está encendido. Apágalo para continuar"
 
 msgctxt "Download|"
 msgid "Queued"
@@ -277,7 +277,7 @@ msgstr "Solicitud de encabezado demasiado grande"
 
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr "Error de Certificado"
+msgstr "Error de certificado"
 
 msgctxt "HttpError|"
 msgid "No Cert"
@@ -313,7 +313,7 @@ msgstr "Servicio no disponible"
 
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr "Tiempo de Espera de la Puerta de Enlace"
+msgstr "Tiempo de espera de la puerta de enlace"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
@@ -350,10 +350,6 @@ msgstr "Error de tiempo de espera de lectura de red"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Error de tiempo de espera de conexión de red"
-#, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Error %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -362,12 +358,12 @@ msgstr "Número máximo de conexiones es %1"
 
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr "Velocidad de descarta es ilimitada"
+msgstr "Velocidad de descarga es ilimitada"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr "Velocidad de descarta está limitada a %1/s"
+msgstr "Velocidad de descarga está limitada a %1/s"
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
@@ -387,7 +383,7 @@ msgstr "Pausando descarga"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
-msgstr "Fallo al continuar porque la URL ha cambió"
+msgstr "Fallo al continuar porque la URL cambió"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -400,7 +396,7 @@ msgstr "Reiniciando descarga"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
-msgstr "Fallo al limpiar los contenidos del archivo original."
+msgstr "Fallo al limpiar contenidos del archivo original."
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -410,7 +406,7 @@ msgstr "Archivo es renombrado a %1"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr "Abriendo conexión a #%1"
+msgstr "Abriendo conexión #%1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -508,7 +504,7 @@ msgstr "Archivo movido correctamente"
 
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
-msgstr "Fallo moviendo el archivo"
+msgstr "Fallo moviendo archivo"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -555,7 +551,7 @@ msgstr "Agregar descarga desde URL..."
 
 msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
-msgstr "Abrir archivo Torrent..."
+msgstr "Abrir archivo torrent..."
 
 msgctxt "MacMainMenu|"
 msgid "Edit"
@@ -576,15 +572,15 @@ msgstr "Comprobar actualizaciones..."
 
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
-msgstr "Inicio seleccionado"
+msgstr "Iniciar seleccionado"
 
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
-msgstr "Pausa seleccionada"
+msgstr "Pausar seleccionado"
 
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr "Reinicio seleccionado"
+msgstr "Reiniciar seleccionado"
 
 msgctxt "MacMainMenu|"
 msgid "Remove from List"
@@ -644,7 +640,7 @@ msgstr "Contactar soporte"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
-msgstr "Abrir archivo Torrent..."
+msgstr "Abrir archivo torrent..."
 
 msgctxt "QObject|"
 msgid "File"
@@ -708,11 +704,11 @@ msgstr "¡Atención! "
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr "Tu computador sera puesto en modo Suspensión."
+msgstr "Tu computador sera puesto en modo suspensión."
 
 msgctxt "QObject|"
 msgid "Your computer will be hibernated."
-msgstr "Tu computador Hibernara."
+msgstr "Tu computador sera hibernado."
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
@@ -1031,7 +1027,7 @@ msgstr "No hay descargas activas"
 
 msgctxt "RPCLocalization|"
 msgid "No completed downloads"
-msgstr "Sin descargas completadas"
+msgstr "No hay descargas completadas"
 
 msgctxt "RPCLocalization|"
 msgid "No results found for"
@@ -1039,7 +1035,7 @@ msgstr "No se encontraron resultados para"
 
 msgctxt "RPCLocalization|"
 msgid "No results tagged"
-msgstr "Sin resultados etiquetados"
+msgstr "No hay resultados etiquetados"
 
 msgctxt "RPCLocalization|"
 msgid "found"
@@ -1210,7 +1206,7 @@ msgstr "¿No es demasiado frecuente?"
 
 msgctxt "RPCLocalization|"
 msgid "Pretty rare to move with the time."
-msgstr "Bastante raro para moverse el tiempo."
+msgstr "Bastante raro para moverse con el tiempo."
 
 msgctxt "RPCLocalization|"
 msgid "Maybe you'd let it be a little longer?"
@@ -1244,7 +1240,7 @@ msgstr "¡Oh no, hay demasiadas conexiones!"
 
 msgctxt "RPCLocalization|"
 msgid "It seems like an understatement."
-msgstr "Esto parece como un eufemismo."
+msgstr "Esto parece como una subestimacion."
 
 msgctxt "RPCLocalization|"
 msgid "So many? It's overwhelming!"
@@ -1430,7 +1426,7 @@ msgstr "Saltar dominios:"
 
 msgctxt "RPCLocalization|"
 msgid "Hold"
-msgstr "Espera"
+msgstr "Mantener"
 
 msgctxt "RPCLocalization|"
 msgid "Alt key"
@@ -1459,25 +1455,19 @@ msgstr "Oferta especial"
 
 msgctxt "RPCLocalization|"
 msgid "Download Youtube channel"
-msgstr ""
+msgstr "Descargar canal de YouTube"
 
 msgctxt "RPCLocalization|"
 msgid "Download YouTube playlist"
-msgstr ""
+msgstr "Descargar lista de reproducción de YouTube"
 
 msgctxt "RPCLocalization|"
 msgid "Add YouTube upload date to file name"
-msgstr ""
+msgstr "Agregar fecha de YouTube al nombre de archivo"
 
 msgctxt "RPCLocalization|"
 msgid "try again"
-msgstr ""
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Download Youtube Channel Videos"
-#~ msgstr "Descargar vídeos del canal de YouTube"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Download Youtube Channel"
-#~ msgstr "Descargar canal de YouTube"
+msgstr "intentar nuevamente"
 
 msgctxt "RPCLocalization|"
 msgid "Videos"
@@ -1486,10 +1476,6 @@ msgstr "vídeos"
 msgctxt "RPCLocalization|"
 msgid "Load More"
 msgstr "Cargar mas"
-#~ msgctxt "RPCLocalization|"
-#~ msgid "Add date of uploading video to YouTube to file name"
-#~ msgstr ""
-#~ "Agregar la fecha de subida del vídeo a YouTube al nombre del archivo"
 
 msgctxt "RPCLocalization|"
 msgid "Video Quality"
@@ -1534,7 +1520,7 @@ msgstr "aquí"
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 the new version."
-msgstr "%1 de la nueva versión."
+msgstr "%1 la nueva versión."
 
 msgctxt "RPCLocalization|"
 msgid "Install"
@@ -1611,7 +1597,7 @@ msgstr "No capturar descargas desde"
 
 msgctxt "RPCLocalization|"
 msgid "Using Alt key"
-msgstr "Usar Tecla Alt"
+msgstr "Usando tecla Alt"
 
 msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
@@ -1647,7 +1633,7 @@ msgstr "extensión"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
-msgstr "Capturar automáticamente las descargas de los navegadores"
+msgstr "Capturar automáticamente descargas desde los navegadores"
 
 msgctxt "RPCLocalization|"
 msgid "Edge"
@@ -1695,11 +1681,11 @@ msgstr "Saltar archivos con extensiones:"
 
 msgctxt "RPCLocalization|"
 msgid "Add FDM to browser context menu"
-msgstr "Agregar FDM al menú contextual del explorador"
+msgstr "Agregar FDM al menú contextual del navegador"
 
 msgctxt "RPCLocalization|"
 msgid "Use proxy for P2P connections"
-msgstr "Usar proxy para conexiones par-a-par"
+msgstr "Usar proxy para conexiones P2P"
 
 msgctxt "RPCLocalization|"
 msgid "Parameters"
@@ -1771,7 +1757,7 @@ msgstr "Prevenir suspensión si hay descargas activas"
 
 msgctxt "RPCLocalization|"
 msgid "Delete button action"
-msgstr "Borrar la acción del botón"
+msgstr "Acción del botón borrar"
 
 msgctxt "RPCLocalization|"
 msgid "Delete files"
@@ -1843,11 +1829,11 @@ msgstr "Pausar todo"
 
 msgctxt "RPCLocalization|"
 msgid "Start selected"
-msgstr "Iniciar seleccionada"
+msgstr "Iniciar seleccionado"
 
 msgctxt "RPCLocalization|"
 msgid "Pause selected"
-msgstr "Pausar seleccionada"
+msgstr "Pausar seleccionado"
 
 msgctxt "RPCLocalization|"
 msgid "Add new download..."
@@ -1863,7 +1849,7 @@ msgstr "Remover de la lista"
 
 msgctxt "RPCLocalization|"
 msgid "Delete selected"
-msgstr "Borrar seleccionada"
+msgstr "Borrar seleccionado"
 
 msgctxt "RPCLocalization|"
 msgid "Move to..."
@@ -1956,7 +1942,7 @@ msgstr "Error descargando actualización:"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading update"
-msgstr "Descargando la actualización"
+msgstr "Descargando actualización"
 
 msgctxt "RPCLocalization|"
 msgid "Checking..."
@@ -2112,12 +2098,11 @@ msgstr "Restaurar"
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
 msgstr ""
-"Manteniendo pulsada Alt, cliquea el enlace para descargar a través del "
-"navegador."
+"Manteniendo Alt, cliquea el enlace para descargar a través del navegador."
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
-msgstr "Etiquetar con el mismo nombre que ya existe"
+msgstr "Etiqueta con el mismo nombre ya existe"
 
 msgctxt "RPCLocalization|"
 msgid "Enable sleep mode while seeding torrents"
@@ -2137,7 +2122,7 @@ msgstr "Remover automáticamente los archivos borrados de la lista de descargas"
 
 msgctxt "RPCLocalization|"
 msgid "Some files corrupted"
-msgstr "Algunos archivos están corruptos"
+msgstr "Algunos archivos corruptos"
 
 msgctxt "RPCLocalization|"
 msgid "Save"
@@ -2173,11 +2158,11 @@ msgstr "Sembrando"
 
 msgctxt "RPCLocalization|"
 msgid "Use server time for file creation"
-msgstr "Usar fecha del servidor para las creacion de archivos"
+msgstr "Usar fecha del servidor para la creacion del archivo"
 
 msgctxt "RPCLocalization|"
 msgid "Set days of the week to enable Scheduler"
-msgstr "Establecer días de la semana para activar el Programador"
+msgstr "Establecer días de la semana para activar el programador"
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
@@ -2197,7 +2182,7 @@ msgstr "Nuevo vídeo"
 
 msgctxt "RPCLocalization|"
 msgid "New torrent"
-msgstr "Nuev torrent"
+msgstr "Nuevo torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Save to"
@@ -2213,7 +2198,7 @@ msgstr "Crear subcarpeta"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent contents"
-msgstr "Contenido del torrent"
+msgstr "Contenidos del torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Authentication required:"
@@ -2245,11 +2230,11 @@ msgstr "Encontrada descarga incompleta con el mismo nombre y tamaño."
 
 msgctxt "RPCLocalization|"
 msgid "Would you like to start new or resume downloading?"
-msgstr "¿Le gustaría empezar de nuevo o continuar con la descarga?"
+msgstr "¿Le gustaría iniciar nuevo o continuar con la descarga?"
 
 msgctxt "RPCLocalization|"
 msgid "Start new"
-msgstr "Inicio nuevo"
+msgstr "Iniciar nuevo"
 
 msgctxt "RPCLocalization|"
 msgid "Resume"
@@ -2261,7 +2246,7 @@ msgstr "Hash"
 
 msgctxt "RPCLocalization|"
 msgid "Selected filepath is not valid."
-msgstr "La ruta seleccionada no es válida."
+msgstr "Ruta seleccionada no es válida."
 
 msgctxt "RPCLocalization|"
 msgid "Press"
@@ -2273,7 +2258,7 @@ msgstr "Descargando, asignando espacio en disco..."
 
 msgctxt "RPCLocalization|"
 msgid "Start downloading without confirmation"
-msgstr "Iniciar la descarga sin confirmación"
+msgstr "Iniciar descarga sin confirmación"
 
 msgctxt "RPCLocalization|"
 msgid "Safari: enable FDM"
@@ -2285,7 +2270,7 @@ msgstr "para el menú contextual"
 
 msgctxt "RPCLocalization|"
 msgid "Use browser if you cancel download via FDM"
-msgstr "Usar el navegador si cancelas la descarga a través de FDM"
+msgstr "Usar navegador si cancelas la descarga a través de FDM"
 
 msgctxt "RPCLocalization|"
 msgid "Maximum number of simultaneous downloads"
@@ -2297,7 +2282,7 @@ msgstr "para permitir que el navegador procese la descarga"
 
 msgctxt "RPCLocalization|"
 msgid "Check file integrity"
-msgstr "Comprobar la integridad del archivo"
+msgstr "Comprobar integridad del archivo"
 
 msgctxt "RPCLocalization|"
 msgid "Calculate"
@@ -2309,7 +2294,7 @@ msgstr "Calculando"
 
 msgctxt "RPCLocalization|"
 msgid "Verification OK"
-msgstr "Verificación OK"
+msgstr "Verificación correcta"
 
 msgctxt "RPCLocalization|"
 msgid "Verification failed"
@@ -2383,7 +2368,7 @@ msgstr "Descarga secuencial desactivada"
 
 msgctxt "TorrentDownload|"
 msgid "Trackers merged"
-msgstr "Trackers fusionados"
+msgstr "Rastreadores fusionados"
 
 msgctxt "TorrentDownload|"
 msgid "Starting seeding"
@@ -2409,21 +2394,21 @@ msgstr "ilimitado"
 
 msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
-msgstr "Velocidad de descarta es ilimitada"
+msgstr "Velocidad de descarga es ilimitada"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr "Velocidad de descarta está limitada a %1/s"
+msgstr "Velocidad de descarga está limitada a %1/s"
 
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
-msgstr "La velocidad de subida es ilimitada"
+msgstr "Velocidad de subida es ilimitada"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
-msgstr "La velocidad de subida está limitada al %1/s"
+msgstr "Velocidad de subida está limitada a %1/s"
 
 msgctxt "TorrentDownload|"
 msgid "Starting download"
@@ -2477,7 +2462,7 @@ msgstr "Metadatos recibidos"
 
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
-msgstr "Se requiere autorización del usuario"
+msgstr "Autorización del usuario requerida"
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
@@ -2485,21 +2470,21 @@ msgstr "Archivos mapeados al nuevo directorio"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving failed"
-msgstr "Fallo al mover los archivos"
+msgstr "Fallo moviendo archivos"
 
 msgctxt "TorrentDownload|"
 msgid "File moving failed"
-msgstr "Fallo moviendo el archivo"
+msgstr "Fallo moviendo archivo"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving declined: %1"
-msgstr "Mover archivos declinado: %1"
+msgstr "Movimiento de archivos declinado: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
-msgstr "Mover archivo declinado: %1"
+msgstr "Movimiento de archivo declinado: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
@@ -2513,32 +2498,24 @@ msgstr ", velocidad promedio: %1"
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
-msgstr "Fallo al mover los archivos: %1"
+msgstr "Fallo moviendo archivos: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
-msgstr "Fallo moviendo el archivo: %1"
+msgstr "Fallo moviendo archivo: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
-msgstr "Mover archivos cancelado"
+msgstr "Movimiento de archivos cancelado"
 
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr "Mover archivo cancelado: 1%"
+msgstr "Movimiento de archivo cancelado"
 
 msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Error inesperado"
-
-#~ msgctxt "TorrentDownload|"
-#~ msgid "Files are missing"
-#~ msgstr "Archivos no encontrados"
-
-#~ msgctxt "TorrentDownload|"
-#~ msgid "File is missing"
-#~ msgstr "Archivo no encontrado"
 
 msgctxt "TrayMenu|"
 msgid "Show main window"
@@ -2774,19 +2751,7 @@ msgstr "Transmisión de audio: %1"
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
-msgstr "transmisión de vídeo: %1"
-
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Downloading page"
-#~ msgstr "Descargando página"
-
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Page is downloaded"
-#~ msgstr "Página descargada"
-
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Launching parser"
-#~ msgstr "Iniciando analizador"
+msgstr "Transmisión de vídeo: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Parsing page"
@@ -2803,7 +2768,7 @@ msgstr "No se puede encontrar vídeo para esta calidad"
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
-msgstr "Fallo al analizar: %1"
+msgstr "Fallo analizando: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
@@ -2826,7 +2791,7 @@ msgstr ", velocidad promedio: %1"
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
-msgstr "El archivo se renombro a %1"
+msgstr "Archivo es renombrado a %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2836,7 +2801,3 @@ msgstr "Movimiento fallido: %1"
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr "Movimiento cancelado."
-
-#~ msgctxt "YoutubeDownload|"
-#~ msgid "Error: files are missing."
-#~ msgstr "Error: archivos no encontrados"
