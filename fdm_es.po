@@ -1471,7 +1471,7 @@ msgstr "intentar nuevamente"
 
 msgctxt "RPCLocalization|"
 msgid "Videos"
-msgstr "vídeos"
+msgstr "Vídeos"
 
 msgctxt "RPCLocalization|"
 msgid "Load More"
@@ -1511,7 +1511,7 @@ msgstr "Para actualizar la extensión:"
 #, qt-format
 msgctxt "RPCLocalization|"
 msgid "Click %1 to remove the old version."
-msgstr "cliquear %1 para remover la versión antigua."
+msgstr "Cliquear %1 para remover la versión antigua."
 
 msgctxt "RPCLocalization|"
 msgid "here"
