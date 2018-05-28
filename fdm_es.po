@@ -1372,21 +1372,19 @@ msgstr "Verificar si"
 
 msgctxt "RPCLocalization|"
 msgid "is enabled"
-msgstr "está habilitado"
+msgstr "está habilitada"
 
-# not sure if this is correct please verify because the original text does not contains %n string but there is a warning if not present.
 msgctxt "RPCLocalization|"
 msgid "Clear history older than"
 msgid_plural "Clear history older than"
-msgstr[0] "Limpiar historial mas antiguo que %n"
-msgstr[1] "Limpiar historial mas antiguos que %n"
+msgstr[0] "Limpiar historial mas antiguo que"
+msgstr[1] "Limpiar historial mas antiguos que"
 
-# not sure if this is correct please verify because the original text does not contains %n string but there is a warning if not present.
 msgctxt "RPCLocalization|"
 msgid "days"
 msgid_plural "days"
-msgstr[0] "%n día"
-msgstr[1] "%n días"
+msgstr[0] "día"
+msgstr[1] "días"
 
 #, qt-format
 msgctxt "RPCLocalization|"
