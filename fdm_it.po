@@ -6,6 +6,14 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: it_IT\n"
 "X-Qt-Contexts: true\n"
+"Project-Id-Version: Free Download Manager 24.05.2018\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: bovirus <bovirus@gmail.com>\n"
+"Language-Team: bovirus@gmail.com\n"
+"Language: it_IT\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "No flash video found. Try reloading this page."
 msgstr "Nessun video flash trovato. Prova a ricaricare questa pagina."
@@ -54,7 +62,7 @@ msgstr "Priorità impostata a %1"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr "In coda: modo lumaca abilitato. Dsiabilitalo per continuare."
+msgstr "In coda: modo lumaca abilitato disabilitalo per continuare"
 
 msgctxt "Download|"
 msgid "Queued"
@@ -349,10 +357,6 @@ msgstr "Troppe richieste"
 msgctxt "HttpError|"
 msgid "Loop Detected"
 msgstr "Rilevato loop"
-#, qt-format
-#~ msgctxt "HttpError|"
-#~ msgid "Error %1"
-#~ msgstr "Errore %1"
 
 msgctxt "HttpFileDownload|"
 msgid "Move"
@@ -439,7 +443,6 @@ msgstr "#%1 chiuso"
 msgctxt "HttpFileDownload|"
 msgid "Preallocating queued"
 msgstr "Assegnazione messa in coda"
-
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
@@ -1427,6 +1430,103 @@ msgid "Special offer"
 msgstr "Offerta speciale"
 
 msgctxt "RPCLocalization|"
+msgid "Videos"
+msgstr "Video"
+
+msgctxt "RPCLocalization|"
+msgid "Load More"
+msgstr "Carica altri"
+
+msgctxt "RPCLocalization|"
+msgid "Download Youtube channel"
+msgstr "Download canale YouTube"
+
+msgctxt "RPCLocalization|"
+msgid "Download YouTube playlist"
+msgstr "Download playlist YouTube"
+
+msgctxt "RPCLocalization|"
+msgid "Add YouTube upload date to file name"
+msgstr "Aggiungi data upload YouTube al nome file"
+
+msgctxt "RPCLocalization|"
+msgid "Video Quality"
+msgstr "Qualità video"
+
+msgctxt "RPCLocalization|"
+msgid "High (1080p)"
+msgstr "Alta (1080p)"
+
+msgctxt "RPCLocalization|"
+msgid "Medium (480p)"
+msgstr "Media (480p)"
+
+msgctxt "RPCLocalization|"
+msgid "Low (240p)"
+msgstr "Bassa (240p)"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n videos are chosen"
+msgid_plural "%n videos are chosen"
+msgstr[0] "%n video selezionato"
+msgstr[1] "%n video selezionati"
+
+msgctxt "RPCLocalization|"
+msgid "A new version of the Firefox extension is available"
+msgstr "È disponibile una nuova versione dell'estensione Firefox"
+
+msgctxt "RPCLocalization|"
+msgid "To update the extension:"
+msgstr "Per aggiornare l'estensione:"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Click %1 to remove the old version."
+msgstr "Fai clc su %1 per rimuovere la vecchia versione."
+
+msgctxt "RPCLocalization|"
+msgid "here"
+msgstr "qui"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 the new version."
+msgstr "la nuova versione %1."
+
+msgctxt "RPCLocalization|"
+msgid "Install"
+msgstr "Installa"
+
+msgctxt "RPCLocalization|"
+msgid "Before that, restart Firefox if it's running."
+msgstr "Prima di questo, se è in esecuzione Firefox riavvialo."
+
+msgctxt "RPCLocalization|"
+msgid "Error while removing:"
+msgstr "Errore durante la rimozione:"
+
+msgctxt "RPCLocalization|"
+msgid "Close Firefox if it's running and try again"
+msgstr "Se è in esecuzione Firefox chiudilo e riprova"
+
+msgctxt "RPCLocalization|"
+msgid "Choose app mode"
+msgstr "Scegli modo app"
+
+msgctxt "RPCLocalization|"
+msgid "Light"
+msgstr "Chiaro"
+
+msgctxt "RPCLocalization|"
+msgid "Dark"
+msgstr "Scuro"
+
+msgctxt "RPCLocalization|"
+msgid "try again"
+msgstr "riprova"
+
+msgctxt "RPCLocalization|"
 msgid "Don't catch downloads when Alt is pressed"
 msgstr "Non catturare download quando il tasto ALT è premuto"
 
@@ -1461,7 +1561,7 @@ msgstr "Internet Explorer"
 
 msgctxt "RPCLocalization|"
 msgid "Vote for new features"
-msgstr "Vota per nuove funzioni"
+msgstr "Vota per le nuove funzioni"
 
 msgctxt "RPCLocalization|"
 msgid "Automatically remove deleted files from download list"
@@ -2571,6 +2671,10 @@ msgid "Show in folder"
 msgstr "Visualizza nella cartella"
 
 msgctxt "UIHelper|"
+msgid "See on YouTube"
+msgstr "Visto su YouTube"
+
+msgctxt "UIHelper|"
 msgid "Schedule"
 msgstr "Pianificazione"
 
@@ -2628,10 +2732,6 @@ msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
 msgstr "La pagina è stata analizzata"
 
-msgctxt "YoutubeDownload|"
-msgid "Downloading page"
-msgstr "Download pagina"
-
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
@@ -2647,10 +2747,6 @@ msgid ", average speed: %1"
 msgstr ", velocità media: %1"
 
 msgctxt "YoutubeDownload|"
-msgid "Page is downloaded"
-msgstr "La pagina è stata scaricata"
-
-msgctxt "YoutubeDownload|"
 msgid "File is missing"
 msgstr "File mancante"
 
@@ -2658,10 +2754,6 @@ msgstr "File mancante"
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
 msgstr "Analisi fallita: %1"
-
-msgctxt "YoutubeDownload|"
-msgid "Launching parser"
-msgstr "Esecuzione analisi"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
@@ -2698,6 +2790,10 @@ msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
 msgstr "Spostamento in %1"
 
+msgctxt "YoutubeDownload|"
+msgid "Parsing page"
+msgstr "Analisi pagina"
+
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
@@ -2714,6 +2810,35 @@ msgstr "Spostamento file completato"
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
 msgstr "Non è stato possibile trovare video con questa qualità"
+
+#~ msgctxt "HttpError|"
+#~ msgid "Error %1"
+#~ msgstr "Errore %1"
+
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Download Youtube Channel Videos"
+#~ msgstr "Download video canale YouTube"
+
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Download Youtube Channel"
+#~ msgstr "Download canale YouTube"
+
+#~ msgctxt "RPCLocalization|"
+#~ msgid "Add date of uploading video to YouTube to file name"
+#~ msgstr "Aggiungi al nome file la data di caricamento del video in YouTube"
+
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Downloading page"
+#~ msgstr "Download pagina"
+
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Page is downloaded"
+#~ msgstr "La pagina è stata scaricata"
+
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Launching parser"
+#~ msgstr "Esecuzione analisi"
+
 #~ msgctxt "YoutubeDownload|"
 #~ msgid "Error: files are missing."
 #~ msgstr "Errore: file mancanti."

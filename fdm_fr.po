@@ -1596,6 +1596,103 @@ msgid "Special offer"
 msgstr "Offre spéciale"
 
 msgctxt "RPCLocalization|"
+msgid "Download Youtube channel"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download YouTube playlist"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add YouTube upload date to file name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "try again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Videos"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Load More"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Video Quality"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "High (1080p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Medium (480p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Low (240p)"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n videos are chosen"
+msgid_plural "%n videos are chosen"
+msgstr[0] ""
+msgstr[1] ""
+
+msgctxt "RPCLocalization|"
+msgid "A new version of the Firefox extension is available"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "To update the extension:"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Click %1 to remove the old version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "here"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 the new version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Install"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Before that, restart Firefox if it's running."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error while removing:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Close Firefox if it's running and try again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Choose app mode"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Light"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "RPCLocalization|"
 msgid "Automatically catch downloads from browsers"
 msgstr "Capture automatiquement les téléchargements des navigateurs"
 
@@ -2616,6 +2713,10 @@ msgid "Copy link"
 msgstr "Copier le lien"
 
 msgctxt "UIHelper|"
+msgid "See on YouTube"
+msgstr ""
+
+msgctxt "UIHelper|"
 msgid "Add tag"
 msgstr "Ajouter l'étiquette"
 
@@ -2728,18 +2829,19 @@ msgstr "FluxAudio : %1"
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
 msgstr "FluxVidéo : %1"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Downloading page"
+#~ msgstr "Téléchargement en cours"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Page is downloaded"
+#~ msgstr "Page téléchargée"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Launching parser"
+#~ msgstr "Début de l'analyse"
 
 msgctxt "YoutubeDownload|"
-msgid "Downloading page"
-msgstr "Téléchargement en cours"
-
-msgctxt "YoutubeDownload|"
-msgid "Page is downloaded"
-msgstr "Page téléchargée"
-
-msgctxt "YoutubeDownload|"
-msgid "Launching parser"
-msgstr "Début de l'analyse"
+msgid "Parsing page"
+msgstr ""
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"

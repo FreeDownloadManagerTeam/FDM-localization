@@ -2059,6 +2059,102 @@ msgid "Special offer"
 msgstr "特别优惠"
 
 msgctxt "RPCLocalization|"
+msgid "Download Youtube channel"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Download YouTube playlist"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add YouTube upload date to file name"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "try again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Videos"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Load More"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Video Quality"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "High (1080p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Medium (480p)"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Low (240p)"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n videos are chosen"
+msgid_plural "%n videos are chosen"
+msgstr[0] ""
+
+msgctxt "RPCLocalization|"
+msgid "A new version of the Firefox extension is available"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "To update the extension:"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Click %1 to remove the old version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "here"
+msgstr ""
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 the new version."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Install"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Before that, restart Firefox if it's running."
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Error while removing:"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Close Firefox if it's running and try again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Choose app mode"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Light"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Dark"
+msgstr ""
+
+msgctxt "RPCLocalization|"
 msgid "Close"
 msgstr "關閉"
 
@@ -2540,6 +2636,10 @@ msgid "Copy link"
 msgstr "複製鏈結"
 
 msgctxt "UIHelper|"
+msgid "See on YouTube"
+msgstr ""
+
+msgctxt "UIHelper|"
 msgid "Add tag"
 msgstr "添加標籤"
 
@@ -2652,18 +2752,19 @@ msgstr "音訊串流：%1"
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
 msgstr "影片串流：%1"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Downloading page"
+#~ msgstr "正在下載頁面"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Page is downloaded"
+#~ msgstr "頁面已下載"
+#~ msgctxt "YoutubeDownload|"
+#~ msgid "Launching parser"
+#~ msgstr "正在啟動分析器"
 
 msgctxt "YoutubeDownload|"
-msgid "Downloading page"
-msgstr "正在下載頁面"
-
-msgctxt "YoutubeDownload|"
-msgid "Page is downloaded"
-msgstr "頁面已下載"
-
-msgctxt "YoutubeDownload|"
-msgid "Launching parser"
-msgstr "正在啟動分析器"
+msgid "Parsing page"
+msgstr ""
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
