@@ -3,7 +3,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
@@ -357,6 +357,11 @@ msgstr "Помилка: таймаут читання з мережі"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Помилка: таймаут з'єднання мережі"
+
+#, qt-format
+msgctxt "HttpError|"
+msgid "Error %1"
+msgstr "Помилка %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
@@ -731,7 +736,7 @@ msgstr "Відсутній файл"
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr "Неправильний логін або пароль"
+msgstr "Неправильне ім'я або пароль"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -763,7 +768,7 @@ msgstr "Вручну..."
 
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
-msgstr "Встановити межі вручну"
+msgstr "Встановити обмеження вручну"
 
 msgctxt "RPCLocalization|"
 msgid "Download: unlimited, Upload: unlimited"
@@ -1520,11 +1525,11 @@ msgstr "Посилання на завантаження"
 
 msgctxt "RPCLocalization|"
 msgid "Restore default settings?"
-msgstr "Відновити установки за замовчанням?"
+msgstr "Відновити установки за замовчуванням?"
 
 msgctxt "RPCLocalization|"
 msgid "Default settings"
-msgstr "Установки за замовчанням"
+msgstr "Установки за замовчуванням"
 
 msgctxt "RPCLocalization|"
 msgid "Found incomplete download with same name and size."
@@ -1662,7 +1667,7 @@ msgstr "Пропонувати теки залежно від URL-адреси �
 
 msgctxt "RPCLocalization|"
 msgid "Default folder:"
-msgstr "Тека за замовчанням:"
+msgstr "Тека за замовчуванням:"
 
 msgctxt "RPCLocalization|"
 msgid "Associate with torrents"
@@ -2027,8 +2032,9 @@ msgid "Remove tag"
 msgstr "Видалити мітку"
 
 msgctxt "RPCLocalization|"
-msgid "Would you like to make Free Download Manager the default torrent client?"
-msgstr "Встановити Free Download Manager як торрент-клієнт за замовчанням?"
+msgid ""
+"Would you like to make Free Download Manager the default torrent client?"
+msgstr "Встановити Free Download Manager як торрент-клієнт за замовчуванням?"
 
 msgctxt "RPCLocalization|"
 msgid "Don’t ask again"
@@ -2036,11 +2042,12 @@ msgstr "Не питати знову"
 
 msgctxt "RPCLocalization|"
 msgid "Set as Default"
-msgstr "Встановити за замовчанням"
+msgstr "Встановити за замовчуванням"
 
 msgctxt "RPCLocalization|"
 msgid "Computer will be put to sleep after all downloads are completed."
-msgstr "Після завершення всіх завантажень комп'ютер буде переведено в режим сну."
+msgstr ""
+"Після завершення всіх завантажень комп'ютер буде переведено в режим сну."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will shut down after all downloads are completed."
@@ -2048,7 +2055,9 @@ msgstr "Після завершення всіх завантажень комп
 
 msgctxt "RPCLocalization|"
 msgid "Computer will hibernate after all downloads are completed."
-msgstr "Після завершення всіх завантажень комп'ютер буде переведено в режим глибокого сну."
+msgstr ""
+"Після завершення всіх завантажень комп'ютер буде переведено в режим "
+"глибокого сну."
 
 msgctxt "RPCLocalization|"
 msgid "Checking for updates..."
@@ -2236,7 +2245,8 @@ msgstr "Підказка"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
-msgstr "Комп'ютер не буде введено в режим сну, оскільки є заплановані завантаження"
+msgstr ""
+"Комп'ютер не буде введено в режим сну, оскільки є заплановані завантаження"
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
@@ -2318,7 +2328,7 @@ msgstr "%1 із %2"
 
 msgctxt "RPCLocalization|settings"
 msgid "Traffic Limits"
-msgstr "Межі трафіку"
+msgstr "Обмеження трафіку"
 
 msgctxt "RPCLocalization|settings"
 msgid "Login"
@@ -2338,7 +2348,7 @@ msgstr "Завершено"
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
-msgstr "Тека завантажень за замовчанням"
+msgstr "Тека завантажень за замовчуванням"
 
 msgctxt "RPCSystem|"
 msgid "Accept"
@@ -2409,7 +2419,7 @@ msgstr "Швидкість завантаження необмежена"
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr "Швидкість завантаження обмежено  %1/с"
+msgstr "Швидкість завантаження обмежено до %1/с"
 
 msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
@@ -2527,6 +2537,10 @@ msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Неочікувана помилка"
 
+msgctxt "TorrentDownload|"
+msgid "Files are missing"
+msgstr "Відсутні файли"
+
 msgctxt "TrayMenu|"
 msgid "Show main window"
 msgstr "Показати головне вікно"
@@ -2603,7 +2617,7 @@ msgstr "Встановити пріоритет"
 
 msgctxt "UIHelper|"
 msgid "Move to..."
-msgstr "Перенести до.."
+msgstr "Перенести до..."
 
 msgctxt "UIHelper|"
 msgid "Download to..."
@@ -2811,12 +2825,3 @@ msgstr "Помилка перенесення: %1"
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
 msgstr "Перенесення скасовано."
-
-#, qt-format
-msgctxt "HttpError|"
-msgid "Error %1"
-msgstr "Помилка %1"
-
-msgctxt "TorrentDownload|"
-msgid "Files are missing"
-msgstr "Відсутні файли"
