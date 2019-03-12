@@ -383,16 +383,16 @@ msgstr "Nie przedłużony"
 
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "Wymagana autoryzacja sieci"
 
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "Upłynął czas na odpowiedź"
 
 #, fuzzy
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr "Połączenia sieciowe błąd limitu czasu"
+msgstr "Upłynął czas połączenia"
 #, fuzzy, qt-format
 #~ msgctxt "HttpError|"
 #~ msgid "Error %1"
@@ -401,17 +401,17 @@ msgstr "Połączenia sieciowe błąd limitu czasu"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "Maksymalna liczba połączeń to %1"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "unlimited"
-msgstr "nieograniczony"
+msgstr "nieograniczona"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr "Prędkość pobierania jest nieograniczony"
+msgstr "Prędkość pobierania jest nieograniczona"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -421,7 +421,7 @@ msgstr "Prędkość pobierania jest ograniczona do %1/s"
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
-msgstr ""
+msgstr "Nie mogę wznawiać pobierania pliku"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
@@ -431,58 +431,58 @@ msgstr "Ponowne łączenie"
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr "Począwszy pobierz"
+msgstr "Rozpoczynam pobieranie"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
-msgstr ""
+msgstr "Pauza pobierania"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
-msgstr ""
+msgstr "Błąd wznowienia - zmiana adresu pliku"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
-msgstr ""
+msgstr "Przenoszę plik do %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File \"%1\" exists. Saving as %2"
-msgstr ""
+msgstr "Plik \"%1\" już istnieje. Zapisuję jako %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Restarting download"
-msgstr ""
+msgstr "Restart pobierania"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
-msgstr ""
+msgstr "Błąd czyszczenia zawartości oryginalnego pliku."
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File is renamed to %1"
-msgstr ""
+msgstr "Zmieniona nazwa pliku na %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
-msgstr ""
+msgstr "Ponownie używam połączenia #%1"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr "Otwarcie połączenia #%1"
+msgstr "Otwieram połączenie #%1"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
-msgstr "#%1 zamknięty"
+msgstr "#%1 zamknięte"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr "Nie udało się zakończyć pobieranie"
+msgstr "Nie udało się zakończyć pobierania"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
@@ -492,7 +492,7 @@ msgstr "Nieoczekiwany błąd"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr ""
+msgstr "Nie mogę użyć połączenia #%1, zamykam"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -512,7 +512,7 @@ msgstr "(%1/s)"
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1: server ignored partial content request"
-msgstr ""
+msgstr "#%1: serwer zignorował żądanie części pliku"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
@@ -521,60 +521,60 @@ msgstr "#%1 nie powiodło się z powodu błędu: %2"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
-msgstr ""
+msgstr "Otwieram plik na dysku..."
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Brak pliku"
 
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Pobieranie zakończone"
 
 msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
-msgstr ""
+msgstr "Usuwam tymczasowe rozszerzenie pliku"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
-msgstr ""
+msgstr "Rezerwuję miejsce na dysku do pobrania pliku"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
-msgstr ""
+msgstr "Plik został zmieniony na serwerze"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
-msgstr ""
+msgstr "Błąd zapisu pobranych danych do pliku"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
-msgstr ""
+msgstr "Przekierowanie do %1"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "File moved successfully"
-msgstr "Plik przeniósł się pomyślnie"
+msgstr "Plik przeniesiony pomyślnie"
 
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
-msgstr ""
+msgstr "Błąd przenoszenia pliku"
 
 #, fuzzy, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
-msgstr "Wstępne zaznaczenie nie udało: %1"
+msgstr "Wstępne zaznaczenie nie udało się: %1"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid "%1 finished successfully"
-msgstr ""
+msgstr "%1 zakończony poprawnie"
 
 #, qt-format
 msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", średnia prędkość: %1"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
@@ -584,20 +584,20 @@ msgstr "Alokacja miejsca"
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Move"
-msgstr "Przenieść"
+msgstr "Przenieś"
 
 #, fuzzy
 msgctxt "HttpFileDownload|"
 msgid "Preallocation cancelled"
-msgstr "Wstępne przydzielanie odwołany"
+msgstr "Rezerwacja miejsca anulowana"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating queued"
-msgstr ""
+msgstr "Żądanie rezerwacji miejsca"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating started"
-msgstr ""
+msgstr "Rezerwacja rozpoczęta"
 
 #, fuzzy
 msgctxt "MacMainMenu|"
@@ -606,11 +606,11 @@ msgstr "Plik"
 
 msgctxt "MacMainMenu|"
 msgid "Add Download from URL..."
-msgstr ""
+msgstr "Dodaj pobieranie z adresu URL..."
 
 msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
-msgstr ""
+msgstr "Otwórz plik Torrent..."
 
 #, fuzzy
 msgctxt "MacMainMenu|"
@@ -624,7 +624,7 @@ msgstr "O %1"
 
 msgctxt "MacMainMenu|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Szukam aktualizacji..."
 
 #, fuzzy
 msgctxt "MacMainMenu|"
@@ -633,21 +633,21 @@ msgstr "Pliki do pobrania"
 
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
-msgstr ""
+msgstr "Uruchom wybrany"
 
 #, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
-msgstr "Pauza Wybranego"
+msgstr "Wstrzymaj wybrany"
 
 #, fuzzy
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr "Uruchom Ponownie Wybrany"
+msgstr "Wznów wybrany"
 
 msgctxt "MacMainMenu|"
 msgid "Remove from List"
-msgstr ""
+msgstr "Usuń z listy"
 
 #, fuzzy
 msgctxt "MacMainMenu|"
@@ -656,15 +656,15 @@ msgstr "Pomoc"
 
 msgctxt "MacMainMenu|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Pomoc techniczna"
 
 msgctxt "MacMainMenu|"
 msgid "Vote for New Features"
-msgstr ""
+msgstr "Głosuj na nowe opcje"
 
 msgctxt "MacMainMenu|"
 msgid "Preferences..."
-msgstr ""
+msgstr "Preferencje..."
 
 #, fuzzy
 msgctxt "QObject|"
@@ -678,7 +678,7 @@ msgstr "Preferencje"
 
 msgctxt "QObject|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Szukaj aktualizacji..."
 
 #, fuzzy
 msgctxt "QObject|"
@@ -688,7 +688,7 @@ msgstr "Okno"
 #, fuzzy
 msgctxt "QObject|"
 msgid "Minimize"
-msgstr "Zminimalizować"
+msgstr "Minimalizuj"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -697,19 +697,19 @@ msgstr "Zoom"
 
 msgctxt "QObject|"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "Powiększ na pełny ekran"
 
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr ""
+msgstr "Pokazuj na wierzchu"
 
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Pomoc techniczna"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
-msgstr ""
+msgstr "Otwórz plik Torrent..."
 
 #, fuzzy
 msgctxt "QObject|"
@@ -719,7 +719,7 @@ msgstr "Plik"
 #, fuzzy
 msgctxt "QObject|"
 msgid "Select All"
-msgstr "Wybrać Wszystkie"
+msgstr "Zaznacz wszystkie"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -728,22 +728,22 @@ msgstr "Usuń"
 
 msgctxt "QObject|"
 msgid "Paste"
-msgstr ""
+msgstr "Wklej"
 
 #, fuzzy
 msgctxt "QObject|"
 msgid "Copy"
-msgstr "Kopiowanie"
+msgstr "Kopiuj"
 
 #, fuzzy
 msgctxt "QObject|"
 msgid "Cut"
-msgstr "Wyciąć"
+msgstr "Wytnij"
 
 #, fuzzy
 msgctxt "QObject|"
 msgid "Edit"
-msgstr "Edycja"
+msgstr "Edytuj"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -752,28 +752,28 @@ msgstr "Pomoc"
 
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
-msgstr ""
+msgstr "Coś poszło nie tak przy pobieraniu."
 
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr ""
+msgstr "Wybrna ścieżka jest nieprawidłowa"
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
-msgstr ""
+msgstr "Wybrana nazwa pliku jest zbyt długa"
 
 msgctxt "QObject|"
 msgid "Selected filename is not valid."
-msgstr ""
+msgstr "Wybrana nazwa pliku jest nieprawidłowa"
 
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
-msgstr ""
+msgstr "Brak dostępu do podanego folderu."
 
 #, fuzzy
 msgctxt "QObject|"
 msgid "Confirm"
-msgstr "Potwierdzić"
+msgstr "Potwierdź"
 
 #, fuzzy
 msgctxt "QObject|"
@@ -782,28 +782,28 @@ msgstr "Uwaga!"
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "Komputer przejdzie w stan uśpienia."
 
 msgctxt "QObject|"
 msgid "Your computer will be hibernated."
-msgstr ""
+msgstr "Komputer przejdzie w hibernację."
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr ""
+msgstr "Komputer zostanie zamknięty."
 
 #, fuzzy
 msgctxt "QObject|"
 msgid "Files are missing"
-msgstr "Brakuje plików"
+msgstr "Brak plików"
 
 msgctxt "QObject|"
 msgid "File is missing"
-msgstr ""
+msgstr "Brak pliku"
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr ""
+msgstr "Nieprawidłowy login lub hasło"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -811,12 +811,12 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Drag & Drop"
-msgstr ""
+msgstr "Przeciąganie"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "URL or torrent here"
-msgstr "Adres URL lub torrent tutaj"
+msgstr "Podaj adres URL lub torrent"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
@@ -835,31 +835,31 @@ msgstr "Nieograniczony"
 
 msgctxt "RPCLocalization|"
 msgid "Manual..."
-msgstr ""
+msgstr "Ręcznie..."
 
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
-msgstr ""
+msgstr "Ustaw limity ręcznie"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download: unlimited, Upload: unlimited"
-msgstr "Pobierz: nieograniczony, Upload: nieograniczony"
+msgstr "Pobieranie: nieograniczone, Wysyłanie: nieograniczone"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Download:"
-msgstr "Pobierz:"
+msgstr "Pobieranie:"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "Upload:"
-msgstr "Upload:"
+msgstr "Wysyłanie:"
 
 #, fuzzy
 msgctxt "RPCLocalization|"
 msgid "unlimited"
-msgstr "nieograniczony"
+msgstr "nieograniczone"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
