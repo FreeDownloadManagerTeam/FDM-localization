@@ -2020,7 +2020,7 @@ msgstr "Zakończone"
 
 msgctxt "RPCLocalization|"
 msgid "Customize color"
-msgstr "Dopasuj kolor"
+msgstr "Dostosuj kolory"
 
 msgctxt "RPCLocalization|"
 msgid "Remove tag"
@@ -2439,93 +2439,93 @@ msgstr "Pobieranie zakończone"
 #, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Can't move files recursively"
-msgstr "Nie mogę przenieść pliki rekurencyjnie"
+msgstr "Nie mogę przenieść plików z podfolderami"
 
 msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
-msgstr ""
+msgstr "Zmieniam folder docelowy"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
-msgstr ""
+msgstr "Przenoszę pliki do %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
-msgstr ""
+msgstr "Przenoszę plik do %1"
 
 #, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Waiting for metadata"
-msgstr "Czekam na metadanych"
+msgstr "Czekam na metadane"
 
 msgctxt "TorrentDownload|"
 msgid "Updating"
-msgstr ""
+msgstr "Uaktualniam"
 
 #, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Working"
-msgstr "Robocza"
+msgstr "Pracuję"
 
 msgctxt "TorrentDownload|"
 msgid "Metadata received"
-msgstr ""
+msgstr "Otrzymałem metadane"
 
 msgctxt "TorrentDownload|"
 msgid "User authorization required"
-msgstr ""
+msgstr "Wymagana autoryzacja użytkownika"
 
 msgctxt "TorrentDownload|"
 msgid "Files mapped to new directory"
-msgstr ""
+msgstr "Pliki przeniesione do nowego folderu"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving failed"
-msgstr ""
+msgstr "Nie udało się przenieść plików"
 
 msgctxt "TorrentDownload|"
 msgid "File moving failed"
-msgstr ""
+msgstr "Nie udało się przenieść pliku"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving declined: %1"
-msgstr ""
+msgstr "Zabronione przeniesienie plików: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
-msgstr ""
+msgstr "Zabronione przeniesienie pliku: %1"
 
 #, fuzzy
 msgctxt "TorrentDownload|"
 msgid "Moved successfully"
-msgstr "Przeniósł się pomyślnie"
+msgstr "Przenoszenie zakończone"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", średnia prędkość: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
-msgstr ""
+msgstr "Nie udało się przenieść plików: %1"
 
 #, qt-format
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
-msgstr ""
+msgstr "Nie udało się przenieść pliku: %1"
 
 msgctxt "TorrentDownload|"
 msgid "Files moving cancelled"
-msgstr ""
+msgstr "Anulowano przenoszenie plików"
 
 msgctxt "TorrentDownload|"
 msgid "Moving file cancelled"
-msgstr ""
+msgstr "Anulowano przeniesienie pliku"
 
 #, fuzzy
 msgctxt "TorrentDownload|"
@@ -2539,23 +2539,23 @@ msgstr "Pokaż okno główne"
 
 msgctxt "TrayMenu|"
 msgid "Open at Login"
-msgstr ""
+msgstr "Otwórz po zalogowaniu"
 
 msgctxt "TrayMenu|"
 msgid "Launch at startup"
-msgstr ""
+msgstr "Uruchom przy starcie"
 
 msgctxt "TrayMenu|"
 msgid "About FDM"
-msgstr ""
+msgstr "O programie FDM"
 
 msgctxt "TrayMenu|"
 msgid "Quit FDM"
-msgstr ""
+msgstr "Wyjdź z FDM"
 
 msgctxt "TrayMenu|"
 msgid "Quit"
-msgstr ""
+msgstr "Wyjście"
 
 #, fuzzy, qt-format
 msgctxt "UIHelper|"
@@ -2570,7 +2570,7 @@ msgstr "Wersja %1 (%2)"
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Open"
-msgstr "Otwarte"
+msgstr "Otwórz"
 
 msgctxt "UIHelper|"
 msgid "Reveal in Finder"
@@ -2583,21 +2583,21 @@ msgstr "Pokaż w folderze"
 
 msgctxt "UIHelper|"
 msgid "Show info"
-msgstr ""
+msgstr "Pokaż info"
 
 msgctxt "UIHelper|"
 msgid "Choose files..."
-msgstr ""
+msgstr "Wybierz plik..."
 
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Pause all except selected"
-msgstr "Wstrzymać wszystkie z wyjątkiem wybranych"
+msgstr "Wstrzymaj wszystkie oprócz zaznaczonych"
 
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Pause all except this one"
-msgstr "Wstrzymać wszystkie z wyjątkiem tego jednego"
+msgstr "Wstrzymaj wszystkie z wyjątkiem zaznaczonego"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2616,11 +2616,11 @@ msgstr "Ustaw priorytet"
 
 msgctxt "UIHelper|"
 msgid "Move to..."
-msgstr ""
+msgstr "Przenieś do..."
 
 msgctxt "UIHelper|"
 msgid "Download to..."
-msgstr ""
+msgstr "Pobierz do..."
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2634,7 +2634,7 @@ msgstr "Usuń pliki"
 
 msgctxt "UIHelper|"
 msgid "Delete file"
-msgstr ""
+msgstr "Usuń plik"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2644,16 +2644,16 @@ msgstr "Usuń z listy"
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Enable seeding"
-msgstr "Włączyć wysiewu"
+msgstr "Włącz wysyłanie"
 
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Sequential download"
-msgstr "Sekwencyjnego pobrania"
+msgstr "Pobieranie sekwencyjne"
 
 msgctxt "UIHelper|"
 msgid "Force recheck"
-msgstr ""
+msgstr "Wymuś sprawdzenie"
 
 msgctxt "UIHelper|"
 msgid "Force reannounce"
@@ -2666,7 +2666,7 @@ msgstr "Kopiuj łącze"
 
 msgctxt "UIHelper|"
 msgid "See on YouTube"
-msgstr ""
+msgstr "Zobacz na YouTube"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2685,7 +2685,7 @@ msgstr "Harmonogram"
 
 msgctxt "UIHelper|"
 msgid "Change URL"
-msgstr ""
+msgstr "Zmień adres URL"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2695,7 +2695,7 @@ msgstr "Wysoki priorytet"
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Normal priority"
-msgstr "Priorytet normalny"
+msgstr "Normalny priorytet"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2715,29 +2715,29 @@ msgstr "Edycja"
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Remove"
-msgstr "Usunąć"
+msgstr "Usuń"
 
 msgctxt "UIHelper|"
 msgid "Untag"
-msgstr ""
+msgstr "Usuń tag"
 
 msgctxt "UIHelper|"
 msgid "Copy log to clipboard"
-msgstr ""
+msgstr "Kopiuj dziennik do schowka"
 
 msgctxt "UIHelper|"
 msgid "Save log to file"
-msgstr ""
+msgstr "Zapisz dziennik do pliku"
 
 #, qt-format
 msgctxt "UIHelper|"
 msgid "FDM Log [%1].txt"
-msgstr ""
+msgstr "FDM Log [%1].txt"
 
 #, fuzzy
 msgctxt "UIHelper|"
 msgid "Save Log"
-msgstr "Zapisz Dziennik"
+msgstr "Zapisz dziennik"
 
 #, fuzzy
 msgctxt "UIHelper|"
@@ -2756,21 +2756,21 @@ msgstr "%1 M"
 
 msgctxt "YoutubeDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "Brak pliku"
 
 #, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
-msgstr "Pliki przeniósł się pomyślnie"
+msgstr "Pliki przeniesione"
 
 #, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
-msgstr "Przeprowadzka do %1"
+msgstr "Przenoszę do %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Merging failed"
-msgstr ""
+msgstr "Scalanie nie powiodło się"
 
 #, fuzzy
 msgctxt "YoutubeDownload|"
@@ -2779,7 +2779,7 @@ msgstr "Scalanie strumieni multimediów"
 
 msgctxt "YoutubeDownload|"
 msgid "Redirecting"
-msgstr ""
+msgstr "Przekierowanie"
 
 msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
@@ -2788,62 +2788,62 @@ msgstr ""
 #, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "AudioStream: %1"
-msgstr "AudioStream: %1"
+msgstr "Strumień audio: %1"
 
 #, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
-msgstr "VideoStream: %1"
+msgstr "Strumień video: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Parsing page"
-msgstr ""
+msgstr "Przetwarzam stronę"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
-msgstr ""
+msgstr "Strona przetworzona"
 
 msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
-msgstr ""
+msgstr "Nie mogę znaleźć video o tej jakości"
 
 #, fuzzy, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
-msgstr "Podczas analizowania awarii: %1"
+msgstr "Błąd przetwarzania: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "Pobieranie zakończone"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
-msgstr ""
+msgstr "Przenoszenie zabronione: %1"
 
 #, fuzzy
 msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
-msgstr "Przeniósł się pomyślnie"
+msgstr "Przenoszenie zakończone"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", średnia prędkość: %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
-msgstr ""
+msgstr "Nazwa pliku zmieniona na %1"
 
 #, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
-msgstr ""
+msgstr "Przeniesienie nieudane: %1"
 
 msgctxt "YoutubeDownload|"
 msgid "Moving cancelled."
-msgstr ""
+msgstr "Przenoszenie anulowane."
 
 #, fuzzy
 #~ msgctxt "HttpError|"
