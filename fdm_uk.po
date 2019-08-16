@@ -1,0 +1,2827 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+"X-Source-Language: en\n"
+"X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: \n"
+"Language: uk_UA\n"
+
+msgid "Download with FDM"
+msgstr "Завантажити з FDM"
+
+msgid "Download selected with FDM"
+msgstr "Завантажити вибране з FDM"
+
+msgid "Download video with FDM"
+msgstr "Завантажити відео з FDM"
+
+msgid "Error: 0x%x. Failed to transfer downloads to FDM."
+msgstr "Помилка: 0x%x. Не вдалося передати завантаження до FDM."
+
+msgid "No flash video found. Try reloading this page."
+msgstr "Флеш-відео не знайдено. Спробуйте перезавантажити цю сторінку."
+
+#, qt-format
+msgctxt "Download|"
+msgid "Specified folder path is relative, full path is %1"
+msgstr "Вказаний шлях до теки відносний, повний шлях %1"
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 B"
+msgstr "%1 б"
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 KB"
+msgstr "%1 Кб"
+
+#, qt-format
+msgctxt "Download|"
+msgid "%1 MB"
+msgstr "%1 Мб"
+
+#, qt-format
+msgctxt "Download|"
+msgid "Reconnecting in %1 seconds"
+msgstr "Повторне з'єднання за %1 секунд(у,и)"
+
+#, qt-format
+msgctxt "Download|"
+msgid "Priority set to %1"
+msgstr "Встановлено пріоритет  %1"
+
+msgctxt "Download|"
+msgid "Queued: Snail mode is on. Turn it off to continue"
+msgstr "Черга: Увімкнено режим равлика. Для продовження вимкніть його"
+
+msgctxt "Download|"
+msgid "Queued"
+msgstr "У черзі"
+
+msgctxt "DownloadFileInfo|"
+msgid "Skip"
+msgstr "Пропустити"
+
+msgctxt "DownloadFileInfo|"
+msgid "Low"
+msgstr "Низький"
+
+msgctxt "DownloadFileInfo|"
+msgid "Normal"
+msgstr "Нормальний"
+
+msgctxt "DownloadFileInfo|"
+msgid "High"
+msgstr "Високий"
+
+msgctxt "DownloadInfo|"
+msgid "Low"
+msgstr "Низький"
+
+msgctxt "DownloadInfo|"
+msgid "Normal"
+msgstr "Нормальний"
+
+msgctxt "DownloadInfo|"
+msgid "High"
+msgstr "Високий"
+
+#, qt-format
+msgctxt "HttpError|"
+msgid "HTTP Error %1: %2"
+msgstr "Помилка HTTP %1: %2"
+
+#, qt-format
+msgctxt "HttpError|"
+msgid "HTTP Error %1"
+msgstr "Помилка HTTP %1"
+
+msgctxt "HttpError|"
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+msgctxt "HttpError|"
+msgid "Remote host name not found"
+msgstr "Ім'я віддаленого хосту не знайдено"
+
+msgctxt "HttpError|"
+msgid "Operation canceled"
+msgstr "Операцію перервано"
+
+msgctxt "HttpError|"
+msgid "Remote server closed connection"
+msgstr "Віддалений сервер відмовив у з'єднанні"
+
+msgctxt "HttpError|"
+msgid "Connection timed out"
+msgstr "Таймаут з'єднання"
+
+msgctxt "HttpError|"
+msgid "SSL/TLS handshake failed"
+msgstr "Збій синхронізації SSL/TLS"
+
+msgctxt "HttpError|"
+msgid "Connection refused"
+msgstr "У з'єднанні відмовлено"
+
+msgctxt "HttpError|"
+msgid "Unknown network-related error detected"
+msgstr "Сталася невідома помилка мережі"
+
+msgctxt "HttpError|"
+msgid "Requested operation is not permitted"
+msgstr "Запитану операцію не дозволено"
+
+msgctxt "HttpError|"
+msgid "Bad Request"
+msgstr "Неправильний запит"
+
+msgctxt "HttpError|"
+msgid "Unauthorized"
+msgstr "Дозвіл відсутній"
+
+msgctxt "HttpError|"
+msgid "Payment Required"
+msgstr "Потрібно сплатити"
+
+msgctxt "HttpError|"
+msgid "Forbidden"
+msgstr "Заборонено"
+
+msgctxt "HttpError|"
+msgid "Not Found"
+msgstr "Не знайдено"
+
+msgctxt "HttpError|"
+msgid "Method Not Allowed"
+msgstr "Метод не дозволено"
+
+msgctxt "HttpError|"
+msgid "Not Acceptable"
+msgstr "Неприйнятно"
+
+msgctxt "HttpError|"
+msgid "Proxy Authentication Required"
+msgstr "Потрібні логін та пароль для проксі"
+
+msgctxt "HttpError|"
+msgid "Request Timeout"
+msgstr "Час очікування запиту вийшов"
+
+msgctxt "HttpError|"
+msgid "Conflict"
+msgstr "Конфлікт"
+
+msgctxt "HttpError|"
+msgid "Gone"
+msgstr "Пропало"
+
+msgctxt "HttpError|"
+msgid "Length Required"
+msgstr "Потрібна довжина"
+
+msgctxt "HttpError|"
+msgid "Precondition Failed"
+msgstr "Не виконано попередню умову"
+
+msgctxt "HttpError|"
+msgid "Request Entity Too Large"
+msgstr "Запитані дані завеликі"
+
+msgctxt "HttpError|"
+msgid "Request-URI Too Long"
+msgstr "Надто довгий URI запиту"
+
+msgctxt "HttpError|"
+msgid "Unsupported Media Type"
+msgstr "Непідтримуваний вид даних"
+
+msgctxt "HttpError|"
+msgid "Requested Range Not Satisfiable"
+msgstr "Запитаний діапазон незадовільний"
+
+msgctxt "HttpError|"
+msgid "Expectation Failed"
+msgstr "Сподівання не виправдалися"
+
+msgctxt "HttpError|"
+msgid "I'm a teapot"
+msgstr "Я - чайник :)"
+
+msgctxt "HttpError|"
+msgid "Authentication Timeout"
+msgstr "Час ідентифікації скінчився"
+
+msgctxt "HttpError|"
+msgid "Method Failure / Enhance Your Calm"
+msgstr "Збій методу / Зберігайте спокій"
+
+msgctxt "HttpError|"
+msgid "Unprocessable Entity"
+msgstr "Неможливо обробити дані"
+
+msgctxt "HttpError|"
+msgid "Locked"
+msgstr "Заблоковано"
+
+msgctxt "HttpError|"
+msgid "Failed Dependency / Method Failure"
+msgstr "Збій залежності / Збій методу"
+
+msgctxt "HttpError|"
+msgid "Unordered Collection"
+msgstr "Несортована колекція"
+
+msgctxt "HttpError|"
+msgid "Upgrade Required"
+msgstr "Потрібне оновлення"
+
+msgctxt "HttpError|"
+msgid "Precondition Required"
+msgstr "Потрібна попередня умова"
+
+msgctxt "HttpError|"
+msgid "Too Many Requests"
+msgstr "Забагато запитів"
+
+msgctxt "HttpError|"
+msgid "Request Header Fields Too Large"
+msgstr "Завеликі поля заголовку запиту"
+
+msgctxt "HttpError|"
+msgid "Login Timeout"
+msgstr "Таймаут входу"
+
+msgctxt "HttpError|"
+msgid "No Response"
+msgstr "Немає відповіді"
+
+msgctxt "HttpError|"
+msgid "Retry With"
+msgstr "Спробуйте з"
+
+msgctxt "HttpError|"
+msgid "Blocked by Windows Parental Controls"
+msgstr "Заблоковано батьківським контролем Windows"
+
+msgctxt "HttpError|"
+msgid "Unavailable For Legal Reasons"
+msgstr "Недоступно з юридичних причин"
+
+msgctxt "HttpError|"
+msgid "Request Header Too Large"
+msgstr "Заголовок запиту завеликий"
+
+msgctxt "HttpError|"
+msgid "Cert Error"
+msgstr "Помилка в сертифікаті"
+
+msgctxt "HttpError|"
+msgid "No Cert"
+msgstr "Немає сертифікату"
+
+msgctxt "HttpError|"
+msgid "HTTP to HTTPS"
+msgstr "HTTP до HTTPS"
+
+msgctxt "HttpError|"
+msgid "Token expired/invalid"
+msgstr "Символ застарів/неправильний"
+
+msgctxt "HttpError|"
+msgid "Client Closed Request"
+msgstr "Запит закрити клієнтом"
+
+msgctxt "HttpError|"
+msgid "Internal Server Error"
+msgstr "Внутрішня помилка сервера"
+
+msgctxt "HttpError|"
+msgid "Not Implemented"
+msgstr "Не реалізовано"
+
+msgctxt "HttpError|"
+msgid "Bad Gateway"
+msgstr "Неправильний шлюз"
+
+msgctxt "HttpError|"
+msgid "Service Unavailable"
+msgstr "Служба недоступна"
+
+msgctxt "HttpError|"
+msgid "Gateway Timeout"
+msgstr "Таймаут шлюзу"
+
+msgctxt "HttpError|"
+msgid "HTTP Version Not Supported"
+msgstr "Версія HTTP не підтримується"
+
+msgctxt "HttpError|"
+msgid "Variant Also Negotiates"
+msgstr "Варіант теж узгоджено"
+
+msgctxt "HttpError|"
+msgid "Insufficient Storage"
+msgstr "Недостатньо місця"
+
+msgctxt "HttpError|"
+msgid "Loop Detected"
+msgstr "Зациклювання"
+
+msgctxt "HttpError|"
+msgid "Bandwidth Limit Exceeded"
+msgstr "Досягнуто межу пропускної здатності"
+
+msgctxt "HttpError|"
+msgid "Not Extended"
+msgstr "Не розширено"
+
+msgctxt "HttpError|"
+msgid "Network Authentication Required"
+msgstr "Потрібний вхід у мережу"
+
+msgctxt "HttpError|"
+msgid "Network read timeout error"
+msgstr "Помилка: таймаут читання з мережі"
+
+msgctxt "HttpError|"
+msgid "Network connect timeout error"
+msgstr "Помилка: таймаут з'єднання мережі"
+
+#, qt-format
+msgctxt "HttpError|"
+msgid "Error %1"
+msgstr "Помилка %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Maximum number of connections is %1"
+msgstr "Максимальна кількість з'єднань %1"
+
+msgctxt "HttpFileDownload|"
+msgid "unlimited"
+msgstr "необмежена"
+
+msgctxt "HttpFileDownload|"
+msgid "Download speed is unlimited"
+msgstr "Швидкість завантаження необмежена"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr "Швидкість завантаження обмежено  %1/с"
+
+msgctxt "HttpFileDownload|"
+msgid "Can't resume downloading file"
+msgstr "Неможливо відновити завантаження айлу"
+
+msgctxt "HttpFileDownload|"
+msgid "Reconnecting"
+msgstr "Повторне з'єднання"
+
+msgctxt "HttpFileDownload|"
+msgid "Starting download"
+msgstr "Запуск завантаження"
+
+msgctxt "HttpFileDownload|"
+msgid "Pausing download"
+msgstr "Зупинка завантаження"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to resume as URL changed"
+msgstr "Не вдалося продовжити після зміни URL-адреси"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Moving file to %1"
+msgstr "Перенесення файлу до: %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "File \"%1\" exists. Saving as %2"
+msgstr "Файл \"%1\" існує. Зберігаю як %2"
+
+msgctxt "HttpFileDownload|"
+msgid "Restarting download"
+msgstr "Перезапуск завантаження"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to clear contents of original file."
+msgstr "Не вдалося очистити зміст початкового файлу."
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "File is renamed to %1"
+msgstr "Файл перейменовано на  %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Reusing connection #%1"
+msgstr "Використовую з'єднання #%1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Opening connection #%1"
+msgstr "Відкриваю з'єднання #%1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 closed"
+msgstr "#%1 закрито"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed to complete the download"
+msgstr "Не вдалося завершити завантаження"
+
+msgctxt "HttpFileDownload|"
+msgid "Unexpected error"
+msgstr "Неочікувана помилка"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Couldn't reuse connection #%1, closing"
+msgstr "Неможливо використати з'єднання #%1, закриваю"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 receiving data"
+msgstr "#%1 отримую дані"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "downloaded %1"
+msgstr "завантажено %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "(%1/s)"
+msgstr "(%1/с)"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1: server ignored partial content request"
+msgstr "#%1: сервер проігнорував запит частини даних"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "#%1 failed with error: %2"
+msgstr "#%1 - помилка з кодом: %2"
+
+msgctxt "HttpFileDownload|"
+msgid "Opening file on disk..."
+msgstr "Відкриття файлу на диску..."
+
+msgctxt "HttpFileDownload|"
+msgid "File is missing"
+msgstr "Відсутній файл"
+
+msgctxt "HttpFileDownload|"
+msgid "Download complete"
+msgstr "Завантаження завершено"
+
+msgctxt "HttpFileDownload|"
+msgid "Removing temporary file extension"
+msgstr "Заміна тимчасового розширення файлу"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating disk space for download"
+msgstr "Резервування місця на диску для завантаження"
+
+msgctxt "HttpFileDownload|"
+msgid "File changed on remote server"
+msgstr "Файл змінено на віддаленому сервері"
+
+msgctxt "HttpFileDownload|"
+msgid "Failed writing received data to file"
+msgstr "Збій запису отриманих даних у файл"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Redirecting to %1"
+msgstr "Перенаправлення на %1"
+
+msgctxt "HttpFileDownload|"
+msgid "File moved successfully"
+msgstr "Файл успішно перенесено"
+
+msgctxt "HttpFileDownload|"
+msgid "File moving failed"
+msgstr "Помилка переносу файлу"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "Preallocation failed: %1"
+msgstr "Помилка резервування: %1"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid "%1 finished successfully"
+msgstr "%1 успішно завершено"
+
+#, qt-format
+msgctxt "HttpFileDownload|"
+msgid ", average speed: %1"
+msgstr ", середня швидкість: %1"
+
+msgctxt "HttpFileDownload|"
+msgid "Space allocation"
+msgstr "Резервування місця"
+
+msgctxt "HttpFileDownload|"
+msgid "Move"
+msgstr "Переміщення"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocation cancelled"
+msgstr "Резервування перервано"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating queued"
+msgstr "Резервування у черзі"
+
+msgctxt "HttpFileDownload|"
+msgid "Preallocating started"
+msgstr "Розпочато резервування"
+
+msgctxt "MacMainMenu|"
+msgid "File"
+msgstr "Файл"
+
+msgctxt "MacMainMenu|"
+msgid "Add Download from URL..."
+msgstr "Додати завантаження з URL-адреси..."
+
+msgctxt "MacMainMenu|"
+msgid "Open Torrent File..."
+msgstr "Відкрити торрент-файл..."
+
+msgctxt "MacMainMenu|"
+msgid "Edit"
+msgstr "Редагування"
+
+#, qt-format
+msgctxt "MacMainMenu|"
+msgid "About %1"
+msgstr "Про %1"
+
+msgctxt "MacMainMenu|"
+msgid "Check for Updates..."
+msgstr "Перевірити оновлення..."
+
+msgctxt "MacMainMenu|"
+msgid "Downloads"
+msgstr "Завантаження"
+
+msgctxt "MacMainMenu|"
+msgid "Start Selected"
+msgstr "Запустити вибране"
+
+msgctxt "MacMainMenu|"
+msgid "Pause Selected"
+msgstr "Зупинити вибране"
+
+msgctxt "MacMainMenu|"
+msgid "Restart Selected"
+msgstr "Перезапуск вибраного"
+
+msgctxt "MacMainMenu|"
+msgid "Remove from List"
+msgstr "Видалити зі списку"
+
+msgctxt "MacMainMenu|"
+msgid "Help"
+msgstr "Допомога"
+
+msgctxt "MacMainMenu|"
+msgid "Contact Support"
+msgstr "Технічна підтримка"
+
+msgctxt "MacMainMenu|"
+msgid "Vote for New Features"
+msgstr "Голосування за нові можливості"
+
+msgctxt "MacMainMenu|"
+msgid "Preferences..."
+msgstr "Вподобання..."
+
+msgctxt "QObject|"
+msgid "About Free Download Manager"
+msgstr "Про Free Download Manager"
+
+msgctxt "QObject|"
+msgid "Preferences"
+msgstr "Вподобання"
+
+msgctxt "QObject|"
+msgid "Check for Updates..."
+msgstr "Перевірити оновлення..."
+
+msgctxt "QObject|"
+msgid "Window"
+msgstr "Вікно"
+
+msgctxt "QObject|"
+msgid "Minimize"
+msgstr "Згорнути"
+
+msgctxt "QObject|"
+msgid "Zoom"
+msgstr "Розгорнути"
+
+msgctxt "QObject|"
+msgid "Enter Full Screen"
+msgstr "На весь екран"
+
+msgctxt "QObject|"
+msgid "Bring All to Front"
+msgstr "Все на передній план"
+
+msgctxt "QObject|"
+msgid "Contact Support"
+msgstr "Технічна підтримка"
+
+msgctxt "QObject|"
+msgid "Open Torrent File..."
+msgstr "Відкрити торрент-файл..."
+
+msgctxt "QObject|"
+msgid "File"
+msgstr "Файл"
+
+msgctxt "QObject|"
+msgid "Select All"
+msgstr "Вибрати все"
+
+msgctxt "QObject|"
+msgid "Delete"
+msgstr "Видалити"
+
+msgctxt "QObject|"
+msgid "Paste"
+msgstr "Вставити"
+
+msgctxt "QObject|"
+msgid "Copy"
+msgstr "Копіювати"
+
+msgctxt "QObject|"
+msgid "Cut"
+msgstr "Вирізати"
+
+msgctxt "QObject|"
+msgid "Edit"
+msgstr "Редагувати"
+
+msgctxt "QObject|"
+msgid "Help"
+msgstr "Допомога"
+
+msgctxt "QObject|"
+msgid "Something went wrong with internal downloads."
+msgstr "Щось пішло не так з внутрішніми завантаженнями."
+
+msgctxt "QObject|"
+msgid "Selected filepath is not valid."
+msgstr "Вибраний шлях неправильний."
+
+msgctxt "QObject|"
+msgid "Selected filename is too long"
+msgstr "Вибране ім'я файлу задовге"
+
+msgctxt "QObject|"
+msgid "Selected filename is not valid."
+msgstr "Вибране ім'я файлу неправильне."
+
+msgctxt "QObject|"
+msgid "Specified directory can't be accessed."
+msgstr "Немає доступу до до вказаної теки."
+
+msgctxt "QObject|"
+msgid "Confirm"
+msgstr "Підтвердіть"
+
+msgctxt "QObject|"
+msgid "Attention! "
+msgstr "Увага! "
+
+msgctxt "QObject|"
+msgid "Your computer will be put to Sleep mode."
+msgstr "Ваш комп'ютер буде переведено в режим сну."
+
+msgctxt "QObject|"
+msgid "Your computer will be hibernated."
+msgstr "Ваш комп'ютер буде перевдено в режим глибокого сну."
+
+msgctxt "QObject|"
+msgid "Your computer will be shut down."
+msgstr "Ваш комп'ютер буде вимкнено."
+
+msgctxt "QObject|"
+msgid "Files are missing"
+msgstr "Відсутні файли"
+
+msgctxt "QObject|"
+msgid "File is missing"
+msgstr "Відсутній файл"
+
+msgctxt "QObject|"
+msgid "Incorrect login or password"
+msgstr "Неправильне ім'я або пароль"
+
+msgctxt "RPCLocalization|"
+msgid "locale"
+msgstr "мова"
+
+msgctxt "RPCLocalization|"
+msgid "Drag & Drop"
+msgstr "Drag & Drop"
+
+msgctxt "RPCLocalization|"
+msgid "URL or torrent here"
+msgstr "Вкажіть URL-адресу або торрент"
+
+msgctxt "RPCLocalization|"
+msgid "Add tag"
+msgstr "Додати мітку"
+
+msgctxt "RPCLocalization|"
+msgid "Preferences"
+msgstr "Вподобання"
+
+msgctxt "RPCLocalization|"
+msgid "Unlimited"
+msgstr "Необмежено"
+
+msgctxt "RPCLocalization|"
+msgid "Manual..."
+msgstr "Вручну..."
+
+msgctxt "RPCLocalization|"
+msgid "Set limits manually"
+msgstr "Встановити обмеження вручну"
+
+msgctxt "RPCLocalization|"
+msgid "Download: unlimited, Upload: unlimited"
+msgstr "Завантаження: необмежена, Відвантаження: необмежена"
+
+msgctxt "RPCLocalization|"
+msgid "Download:"
+msgstr "Завантаження:"
+
+msgctxt "RPCLocalization|"
+msgid "Upload:"
+msgstr "Відвантаження:"
+
+msgctxt "RPCLocalization|"
+msgid "unlimited"
+msgstr "необмежена"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode frees bandwidth without stopping downloads."
+msgstr "Режим равлика звільняє канал Інтернету не зупиняючи завантаження."
+
+msgctxt "RPCLocalization|"
+msgid "Hide details"
+msgstr "Сховати деталі"
+
+msgctxt "RPCLocalization|"
+msgid "Show details"
+msgstr "Показати деталі"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n files selected."
+msgid_plural "%n files selected."
+msgstr[0] "%n файл вибрано."
+msgstr[1] "%n файли вибрано."
+msgstr[2] "%n файлів вибрано."
+
+msgctxt "RPCLocalization|"
+msgid "Show in folder"
+msgstr "Показати у теці"
+
+msgctxt "RPCLocalization|"
+msgid "Reveal in Finder"
+msgstr "Відобразити у Пошуку"
+
+msgctxt "RPCLocalization|"
+msgid "Pause"
+msgstr "Пауза"
+
+msgctxt "RPCLocalization|"
+msgid "Restart"
+msgstr "Перезапуск"
+
+msgctxt "RPCLocalization|"
+msgid "Start"
+msgstr "Запуск"
+
+msgctxt "RPCLocalization|"
+msgid "Selected size:"
+msgstr "Вибраний розмір:"
+
+msgctxt "RPCLocalization|"
+msgid "Size:"
+msgstr "Розмір:"
+
+msgctxt "RPCLocalization|"
+msgid "File size:"
+msgstr "Розмір файлу:"
+
+msgctxt "RPCLocalization|"
+msgid "Disk space:"
+msgstr "Місце на диску:"
+
+msgctxt "RPCLocalization|"
+msgid "Total size:"
+msgstr "Загальний розмір:"
+
+msgctxt "RPCLocalization|"
+msgid "Checked size:"
+msgstr "Розмір перевіреного:"
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded:"
+msgstr "Завантажено:"
+
+msgctxt "RPCLocalization|"
+msgid "Download speed:"
+msgstr "Швидкість завантаження:"
+
+msgctxt "RPCLocalization|"
+msgid "Seeds:"
+msgstr "Сідів:"
+
+msgctxt "RPCLocalization|"
+msgid "Domain:"
+msgstr "Домен:"
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded:"
+msgstr "Відвантажено:"
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed:"
+msgstr "Швидкість відвантаження:"
+
+msgctxt "RPCLocalization|"
+msgid "Peers:"
+msgstr "Пірів:"
+
+msgctxt "RPCLocalization|"
+msgid "Share ratio:"
+msgstr "Відв/Зав:"
+
+msgctxt "RPCLocalization|"
+msgid "Availability:"
+msgstr "Доступно:"
+
+msgctxt "RPCLocalization|"
+msgid "DHT nodes:"
+msgstr "Вузлів DHT:"
+
+msgctxt "RPCLocalization|"
+msgid "IP"
+msgstr "IP"
+
+msgctxt "RPCLocalization|"
+msgid "Client"
+msgstr "Клієнт"
+
+msgctxt "RPCLocalization|"
+msgid "Flags"
+msgstr "Прапорці"
+
+msgctxt "RPCLocalization|"
+msgid "Requests"
+msgstr "Запити"
+
+msgctxt "RPCLocalization|"
+msgid "Downloaded"
+msgstr "Завантажено"
+
+msgctxt "RPCLocalization|"
+msgid "Uploaded"
+msgstr "Відвантажено"
+
+msgctxt "RPCLocalization|"
+msgid "Files"
+msgstr "Файли"
+
+msgctxt "RPCLocalization|"
+msgid "Trackers"
+msgstr "Трекери"
+
+msgctxt "RPCLocalization|"
+msgid "Peers"
+msgstr "Піри"
+
+msgctxt "RPCLocalization|"
+msgid "Log"
+msgstr "Log"
+
+msgctxt "RPCLocalization|"
+msgid "Enable seeding"
+msgstr "Дозволити сідування"
+
+msgctxt "RPCLocalization|"
+msgid "Progress"
+msgstr "Хід"
+
+msgctxt "RPCLocalization|"
+msgid "Priority"
+msgstr "Пріоритет"
+
+msgctxt "RPCLocalization|"
+msgid "URL"
+msgstr "URL"
+
+msgctxt "RPCLocalization|"
+msgid "Next announce"
+msgstr "Наступне оголошення"
+
+msgctxt "RPCLocalization|"
+msgid "Snail mode"
+msgstr "Режим равлика"
+
+msgctxt "RPCLocalization|"
+msgid "Cancel"
+msgstr "Скасувати"
+
+msgctxt "RPCLocalization|"
+msgid "Apply"
+msgstr "Застосувати"
+
+msgctxt "RPCLocalization|"
+msgid "Browser integration"
+msgstr "Інтегрувати до браузера"
+
+msgctxt "RPCLocalization|"
+msgid "Next"
+msgstr "Наступний"
+
+msgctxt "RPCLocalization|"
+msgid "Proceed to download"
+msgstr "Перейти до завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Add download"
+msgstr "Додати завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Enter download URL:"
+msgstr "Введіть URL-адресу завантаження:"
+
+msgctxt "RPCLocalization|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "RPCLocalization|"
+msgid "Download"
+msgstr "Завантажити"
+
+msgctxt "RPCLocalization|"
+msgid "Download anyway"
+msgstr "Все одно завантажити"
+
+msgctxt "RPCLocalization|"
+msgid "Add"
+msgstr "Додати"
+
+msgctxt "RPCLocalization|"
+msgid "torrent"
+msgstr "torrent"
+
+msgctxt "RPCLocalization|"
+msgid "Save to:"
+msgstr "Зберегти до:"
+
+msgctxt "RPCLocalization|"
+msgid "Select folder"
+msgstr "Вибрати теку"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting download info..."
+msgstr "Запитати інформацію про завантаження...."
+
+msgctxt "RPCLocalization|"
+msgid "Quality:"
+msgstr "Якість:"
+
+msgctxt "RPCLocalization|"
+msgid "Select all"
+msgstr "Вибрати все"
+
+msgctxt "RPCLocalization|"
+msgid "Select none"
+msgstr "Скинути вибір"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent already exists"
+msgstr "Торрент вже існує"
+
+msgctxt "RPCLocalization|"
+msgid "Want to load its trackers?"
+msgstr "Завантажити трекери з нього?"
+
+msgctxt "RPCLocalization|"
+msgid "No active downloads"
+msgstr "Немає активних завантажень"
+
+msgctxt "RPCLocalization|"
+msgid "No completed downloads"
+msgstr "Немає завершених завантажень"
+
+msgctxt "RPCLocalization|"
+msgid "No results found for"
+msgstr "Не знайдено результатів для"
+
+msgctxt "RPCLocalization|"
+msgid "No results tagged"
+msgstr "Немає мічених результатів"
+
+msgctxt "RPCLocalization|"
+msgid "found"
+msgstr "знайдено"
+
+msgctxt "RPCLocalization|"
+msgid "Show all"
+msgstr "Показати все"
+
+msgctxt "RPCLocalization|"
+msgid "Nothing found"
+msgstr "Нічого не знайдено"
+
+msgctxt "RPCLocalization|"
+msgid "Moving"
+msgstr "Перенесення"
+
+msgctxt "RPCLocalization|"
+msgid "Unknown file size"
+msgstr "Розмір файлу невідомий"
+
+msgctxt "RPCLocalization|"
+msgid "Merging media streams"
+msgstr "Об'єднання медіапотоків"
+
+msgctxt "RPCLocalization|"
+msgid "Allocating disk space..."
+msgstr "Резервування місця на диску..."
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting..."
+msgstr "Повторне з'єднання..."
+
+msgctxt "RPCLocalization|"
+msgid "Reconnecting"
+msgstr "Повторне з'єднання"
+
+msgctxt "RPCLocalization|"
+msgid "Paused"
+msgstr "Зупинено"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading metadata"
+msgstr "Завантаження метаданих"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading"
+msgstr "Завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Error"
+msgstr "Помилка"
+
+msgctxt "RPCLocalization|"
+msgid "Checking files..."
+msgstr "Перевірка файлів..."
+
+msgctxt "RPCLocalization|"
+msgid "Downloading, allocating disk space..."
+msgstr "Завантаження, резервування місця на диску..."
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Completed %n / %2 files"
+msgid_plural "Completed %n / %2 files"
+msgstr[0] "Завершено %n / %2 файл"
+msgstr[1] "Завершено %n / %2 файли"
+msgstr[2] "Завершено %n / %2 файлів"
+
+msgctxt "RPCLocalization|"
+msgid "Complete"
+msgstr "Завершено"
+
+msgctxt "RPCLocalization|"
+msgid "Queued"
+msgstr "Додано в чергу"
+
+msgctxt "RPCLocalization|"
+msgid "Stop seeding"
+msgstr "Припинити сідування"
+
+msgctxt "RPCLocalization|"
+msgid "Requesting info..."
+msgstr "Запит інформації..."
+
+msgctxt "RPCLocalization|"
+msgid "Open torrent file..."
+msgstr "Відкрити торрент-файл..."
+
+msgctxt "RPCLocalization|"
+msgid "Preferences..."
+msgstr "Вподобання..."
+
+msgctxt "RPCLocalization|"
+msgid "Settings..."
+msgstr "Установки..."
+
+msgctxt "RPCLocalization|"
+msgid "Settings"
+msgstr "Установки"
+
+msgctxt "RPCLocalization|"
+msgid "Contact support"
+msgstr "Технічна підтримка"
+
+msgctxt "RPCLocalization|"
+msgid "Auto shutdown"
+msgstr "Автовимкнення"
+
+msgctxt "RPCLocalization|"
+msgid "Sleep"
+msgstr "Сон"
+
+msgctxt "RPCLocalization|"
+msgid "Hibernate"
+msgstr "Глибокий сон"
+
+msgctxt "RPCLocalization|"
+msgid "Shutdown"
+msgstr "Вимкнення"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates"
+msgstr "Перевірити оновлення"
+
+msgctxt "RPCLocalization|"
+msgid "About Free Download Manager"
+msgstr "Про Free Download Manager"
+
+msgctxt "RPCLocalization|"
+msgid "Quit"
+msgstr "Вихід"
+
+msgctxt "RPCLocalization|"
+msgid "Exit"
+msgstr "Вихід"
+
+msgctxt "RPCLocalization|"
+msgid "Vote for new features"
+msgstr "Голосування за нові можливості"
+
+msgctxt "RPCLocalization|"
+msgid "About FDM"
+msgstr "Про FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure this is a valid file extension?"
+msgstr "Ви впевнені, що це правильне розширення файлу?"
+
+msgctxt "RPCLocalization|"
+msgid "Please enter numbers only"
+msgstr "Будь ласка, вводьте лише цифри"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too small?"
+msgstr "Ви впевнені, що це не замало?"
+
+msgctxt "RPCLocalization|"
+msgid "Why should it be so huge?"
+msgstr "Чому воно настільки велике?"
+
+msgctxt "RPCLocalization|"
+msgid "Extremely slow, isn't it?"
+msgstr "Дуже повільно, правда ж?"
+
+msgctxt "RPCLocalization|"
+msgid "Faster doesn't mean better"
+msgstr "Швидше не значить краще"
+
+msgctxt "RPCLocalization|"
+msgid "Isn't it too frequent?"
+msgstr "Чи не занадто часто?"
+
+msgctxt "RPCLocalization|"
+msgid "Pretty rare to move with the time."
+msgstr "Надто рідко."
+
+msgctxt "RPCLocalization|"
+msgid "Maybe you'd let it be a little longer?"
+msgstr "Може, варто дати більше часу?"
+
+msgctxt "RPCLocalization|"
+msgid "Are you sure it's not too long?"
+msgstr "Ви впевнені, що це не задовго?"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Only %n records? FDM can store much more!"
+msgid_plural "Only %n records? FDM can store much more!"
+msgstr[0] "Лише %n запис? FDM може зберігати набагато більше!"
+msgstr[1] "Лише %n записи? FDM може зберігати набагато більше!"
+msgstr[2] "Лише %n записів? FDM може зберігати набагато більше!"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n records is too many to save."
+msgid_plural "%n records is too many to save."
+msgstr[0] "%n запис - це забагато для зберігання."
+msgstr[1] "%n записи - це забагато для зберігання."
+msgstr[2] "%n записів - це забагато для зберігання."
+
+msgctxt "RPCLocalization|"
+msgid "Do you actually want to connect?"
+msgstr "Ви дійсно хочете підключитися?"
+
+msgctxt "RPCLocalization|"
+msgid "Oh no, too many connections!"
+msgstr "О, ні, забагато з'єднань!"
+
+msgctxt "RPCLocalization|"
+msgid "It seems like an understatement."
+msgstr "Здається, кількість дещо занижено."
+
+msgctxt "RPCLocalization|"
+msgid "So many? It's overwhelming!"
+msgstr "Аж стільки? Це забагато!"
+
+msgctxt "RPCLocalization|"
+msgid "General"
+msgstr "Загальні"
+
+msgctxt "RPCLocalization|"
+msgid "Browser Integration"
+msgstr "Інтегрувати до браузера"
+
+msgctxt "RPCLocalization|"
+msgid "BitTorrent"
+msgstr "BitTorrent"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic Limits"
+msgstr "Обмеження трафіку"
+
+msgctxt "RPCLocalization|"
+msgid "Advanced"
+msgstr "Додатково"
+
+msgctxt "RPCLocalization|"
+msgid "Network"
+msgstr "Мережа"
+
+msgctxt "RPCLocalization|"
+msgid "Proxy"
+msgstr "Проксі"
+
+msgctxt "RPCLocalization|"
+msgid "No proxy"
+msgstr "Немає проксі"
+
+msgctxt "RPCLocalization|"
+msgid "System proxy"
+msgstr "Системні установки проксі"
+
+msgctxt "RPCLocalization|"
+msgid "Configure manually:"
+msgstr "Конфігурувати вручну:"
+
+msgctxt "RPCLocalization|"
+msgid "HTTP:"
+msgstr "HTTP:"
+
+msgctxt "RPCLocalization|"
+msgid "HTTPS:"
+msgstr "HTTPS:"
+
+msgctxt "RPCLocalization|"
+msgid "FTP:"
+msgstr "FTP:"
+
+msgctxt "RPCLocalization|"
+msgid "Address"
+msgstr "Адреса"
+
+msgctxt "RPCLocalization|"
+msgid "Port"
+msgstr "Порт"
+
+msgctxt "RPCLocalization|"
+msgid "Login"
+msgstr "Ім'я"
+
+msgctxt "RPCLocalization|"
+msgid "Password"
+msgstr "Пароль"
+
+msgctxt "RPCLocalization|"
+msgid "Startup"
+msgstr "Запуск"
+
+msgctxt "RPCLocalization|"
+msgid "Downloads"
+msgstr "Завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Launch at startup (minimized)"
+msgstr "Запуск під час запуску системи (згорнутим)"
+
+msgctxt "RPCLocalization|"
+msgid "Open at Login"
+msgstr "Відкрити при вході"
+
+msgctxt "RPCLocalization|"
+msgid "Close button minimizes window"
+msgstr "Кнопка \"Закрити\" згортає вікно"
+
+msgctxt "RPCLocalization|"
+msgid "Check if FDM is your default torrent client"
+msgstr "Перевіряти, чи є FDM торрент-клієнтом за замовчуванням"
+
+msgctxt "RPCLocalization|"
+msgid "Update"
+msgstr "Оновити"
+
+msgctxt "RPCLocalization|"
+msgid "Check for updates automatically"
+msgstr "Автоматично перевіряти оновлення"
+
+msgctxt "RPCLocalization|"
+msgid "Install updates automatically"
+msgstr "Автоматично встановлювати оновлення"
+
+msgctxt "RPCLocalization|"
+msgid "Safari: enable FDM"
+msgstr "Safari: дозволити FDM"
+
+msgctxt "RPCLocalization|"
+msgid "for context menu"
+msgstr "в контекстному меню"
+
+msgctxt "RPCLocalization|"
+msgid "Compare with"
+msgstr "Порівняти з"
+
+msgctxt "RPCLocalization|"
+msgid "Hold"
+msgstr "Утримуйте"
+
+msgctxt "RPCLocalization|"
+msgid "Alt key"
+msgstr "Клавіша Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Holding Alt, click link to download via browser."
+msgstr "Клікніть, утримуючи Alt, щоб завантажити браузером."
+
+msgctxt "RPCLocalization|"
+msgid "Disk space needed:"
+msgstr "Необхідно місця на диску:"
+
+msgctxt "RPCLocalization|"
+msgid "Hide bottom panel"
+msgstr "Сховати нижню панель"
+
+msgctxt "RPCLocalization|"
+msgid "Show bottom panel"
+msgstr "Показати нижню панель"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "disk %1"
+msgstr "диск %1"
+
+msgctxt "RPCLocalization|"
+msgid "Tag with the same name already exists"
+msgstr "Мітка з таким іменем вже існує"
+
+msgctxt "RPCLocalization|"
+msgid "Enable sleep mode while seeding torrents"
+msgstr "Дозволити режим сну при сідуванні торрентів"
+
+msgctxt "RPCLocalization|"
+msgid "on"
+msgstr "на"
+
+msgctxt "RPCLocalization|"
+msgid "and"
+msgstr "і"
+
+msgctxt "RPCLocalization|"
+msgid "Automatically remove deleted files from download list"
+msgstr "Автоматично прибирати видалені файли зі списку завантажень"
+
+msgctxt "RPCLocalization|"
+msgid "Some files corrupted"
+msgstr "Деякі файли пошкоджено"
+
+msgctxt "RPCLocalization|"
+msgid "Save"
+msgstr "Зберегти"
+
+msgctxt "RPCLocalization|"
+msgid "Share with friends"
+msgstr "Поділитися з друзями"
+
+msgctxt "RPCLocalization|"
+msgid "Paste urls from clipboard"
+msgstr "Вставити URL-адреси з буфера обміну"
+
+msgctxt "RPCLocalization|"
+msgid "Change download URL"
+msgstr "Змінити URL-адресу завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Saved as:"
+msgstr "Збережено як:"
+
+msgctxt "RPCLocalization|"
+msgid "Invalid URL"
+msgstr "Неправильна URL-адреса"
+
+msgctxt "RPCLocalization|"
+msgid "Seeding"
+msgstr "Сідування"
+
+msgctxt "RPCLocalization|"
+msgid "Use server time for file creation"
+msgstr "При створенні файлу використати час сервера"
+
+msgctxt "RPCLocalization|"
+msgid "Set days of the week to enable Scheduler"
+msgstr "Встановити дні тижня для ввімкнення планувальника"
+
+msgctxt "RPCLocalization|"
+msgid "Enter URL or choose torrent file"
+msgstr "Введіть URL-адресу або виберіть торрент-файл"
+
+msgctxt "RPCLocalization|"
+msgid "New file"
+msgstr "Новий файл"
+
+msgctxt "RPCLocalization|"
+msgid "New files"
+msgstr "Нові файли"
+
+msgctxt "RPCLocalization|"
+msgid "New video"
+msgstr "Нове відео"
+
+msgctxt "RPCLocalization|"
+msgid "New torrent"
+msgstr "Новий торрент"
+
+msgctxt "RPCLocalization|"
+msgid "Save to"
+msgstr "Зберегти до"
+
+msgctxt "RPCLocalization|"
+msgid "File name"
+msgstr "Ім'я файлу"
+
+msgctxt "RPCLocalization|"
+msgid "Create subfolder"
+msgstr "Створити підтеку"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent contents"
+msgstr "Зміст торренту"
+
+msgctxt "RPCLocalization|"
+msgid "Authentication required:"
+msgstr "Потрібна ідентифікація:"
+
+msgctxt "RPCLocalization|"
+msgid "Enter new URL"
+msgstr "Введіть нову URL-адресу"
+
+msgctxt "RPCLocalization|"
+msgid "File location"
+msgstr "Розташування файлу"
+
+msgctxt "RPCLocalization|"
+msgid "Download links"
+msgstr "Посилання на завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Restore default settings?"
+msgstr "Відновити установки за замовчуванням?"
+
+msgctxt "RPCLocalization|"
+msgid "Default settings"
+msgstr "Установки за замовчуванням"
+
+msgctxt "RPCLocalization|"
+msgid "Found incomplete download with same name and size."
+msgstr "Знайдено незавершене завантаження з тим же іменем."
+
+msgctxt "RPCLocalization|"
+msgid "Would you like to start new or resume downloading?"
+msgstr "Ви хочете запустити нове або відновити старе завантаження?"
+
+msgctxt "RPCLocalization|"
+msgid "Start new"
+msgstr "Почати нове"
+
+msgctxt "RPCLocalization|"
+msgid "Resume"
+msgstr "Продовжити"
+
+msgctxt "RPCLocalization|"
+msgid "Hash"
+msgstr "Хеш"
+
+msgctxt "RPCLocalization|"
+msgid "Selected filepath is not valid."
+msgstr "Вказаний шлях до файлу не існує."
+
+msgctxt "RPCLocalization|"
+msgid "Special offer"
+msgstr "Спеціальна пропозиція"
+
+msgctxt "RPCLocalization|"
+msgid "Download Youtube channel"
+msgstr "Завантажити канал Youtube"
+
+msgctxt "RPCLocalization|"
+msgid "Download YouTube playlist"
+msgstr "Завантажити список відтворення Youtube"
+
+msgctxt "RPCLocalization|"
+msgid "Add YouTube upload date to file name"
+msgstr "Додати до імені файлу дату завантаження на YouTube"
+
+msgctxt "RPCLocalization|"
+msgid "try again"
+msgstr "спробувати ще"
+
+msgctxt "RPCLocalization|"
+msgid "Videos"
+msgstr "Відео"
+
+msgctxt "RPCLocalization|"
+msgid "Load More"
+msgstr "Завантажити більше"
+
+msgctxt "RPCLocalization|"
+msgid "Video Quality"
+msgstr "Якість відео"
+
+msgctxt "RPCLocalization|"
+msgid "High (1080p)"
+msgstr "Висока (1080p)"
+
+msgctxt "RPCLocalization|"
+msgid "Medium (480p)"
+msgstr "Середня (480p)"
+
+msgctxt "RPCLocalization|"
+msgid "Low (240p)"
+msgstr "Низька (240p)"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%n videos are chosen"
+msgid_plural "%n videos are chosen"
+msgstr[0] "вибрано %n відео"
+msgstr[1] "вибрано %n відео"
+msgstr[2] "вибрано %n відео"
+
+msgctxt "RPCLocalization|"
+msgid "A new version of the Firefox extension is available"
+msgstr "Доступна нове версія додатку для Firefox"
+
+msgctxt "RPCLocalization|"
+msgid "To update the extension:"
+msgstr "Щоб оновити додаток:"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "Click %1 to remove the old version."
+msgstr "Клацніть %1 щоб видалити стару версію."
+
+msgctxt "RPCLocalization|"
+msgid "here"
+msgstr "тут"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 the new version."
+msgstr "%1 нова версія."
+
+msgctxt "RPCLocalization|"
+msgid "Install"
+msgstr "Встановити"
+
+msgctxt "RPCLocalization|"
+msgid "Before that, restart Firefox if it's running."
+msgstr "Перед цим вимкніть Firefox. якщо його завантажено."
+
+msgctxt "RPCLocalization|"
+msgid "Error while removing:"
+msgstr "Помилка при видаленні:"
+
+msgctxt "RPCLocalization|"
+msgid "Close Firefox if it's running and try again"
+msgstr "Закрийте Firefox якщо він запущений і спробуйте знову"
+
+msgctxt "RPCLocalization|"
+msgid "Choose app mode"
+msgstr "Виберіть режим програми"
+
+msgctxt "RPCLocalization|"
+msgid "Light"
+msgstr "Світла"
+
+msgctxt "RPCLocalization|"
+msgid "Dark"
+msgstr "Темна"
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on file type"
+msgstr "Пропонувати теки залежно від типу файлу"
+
+msgctxt "RPCLocalization|"
+msgid "Suggest folders based on download URL"
+msgstr "Пропонувати теки залежно від URL-адреси завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Default folder:"
+msgstr "Тека за замовчуванням:"
+
+msgctxt "RPCLocalization|"
+msgid "Associate with torrents"
+msgstr "Зв'язати з торрентами"
+
+msgctxt "RPCLocalization|"
+msgid "Notifications"
+msgstr "Повідомлення"
+
+msgctxt "RPCLocalization|"
+msgid "Notify me of completed downloads via Notification Center"
+msgstr "Повідомляти про завершені завантаження через Notification Center"
+
+msgctxt "RPCLocalization|"
+msgid "Only when FDM window is inactive"
+msgstr "Лише якщо вікно FDM неактивне"
+
+msgctxt "RPCLocalization|"
+msgid "Action of Remove button (main panel) or Delete key"
+msgstr "Дія кнопки \"Прибрати\" (головна панель) або клавіші Delete"
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from list"
+msgstr "Прибирати лише зі списку"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file(s) from disk"
+msgstr "Видаляти файл(и) з диску"
+
+msgctxt "RPCLocalization|"
+msgid "Always ask"
+msgstr "Завжди запитувати"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads from"
+msgstr "Не підхоплювати завантаження з"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of connections"
+msgstr "Максимальна кількість з'єднань"
+
+msgctxt "RPCLocalization|"
+msgid "Using Alt key"
+msgstr "Використання клавіші Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads when Alt is pressed"
+msgstr "Не підхоплювати завантаження, якщо натиснуто Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Catch downloads only when Alt is pressed"
+msgstr "Підхоплювати завантаження, лише коли натиснуто Alt"
+
+msgctxt "RPCLocalization|"
+msgid "Skip domains:"
+msgstr "Пропустити домени:"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is a scheduled download"
+msgstr "Не вводити комп'ютер в режим сну якщо є заплановане завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there is an active download"
+msgstr "Не вводити комп'ютер в режим сну якщо є активне завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Remove only from download list"
+msgstr "Прибирати лише зі списку завантажень"
+
+msgctxt "RPCLocalization|"
+msgid "Go back to default settings"
+msgstr "Відновити параметри за замовчуванням"
+
+msgctxt "RPCLocalization|"
+msgid "Use only HTTP ports to catch downloads in Edge"
+msgstr "Для підхоплення завантажень у Edge використовувати лише HTTP порти"
+
+msgctxt "RPCLocalization|"
+msgid "Traffic limits"
+msgstr "Обмеження трафіку"
+
+msgctxt "RPCLocalization|"
+msgid "extension"
+msgstr "розширення"
+
+msgctxt "RPCLocalization|"
+msgid "Automatically catch downloads from browsers"
+msgstr "Автоматично підхоплювати завантаження з браузерів"
+
+msgctxt "RPCLocalization|"
+msgid "Edge"
+msgstr "Edge"
+
+msgctxt "RPCLocalization|"
+msgid "Internet Explorer"
+msgstr "Internet Explorer"
+
+msgctxt "RPCLocalization|"
+msgid "Firefox"
+msgstr "Firefox"
+
+msgctxt "RPCLocalization|"
+msgid "Chrome"
+msgstr "Chrome"
+
+msgctxt "RPCLocalization|"
+msgid "Verify if"
+msgstr "Перевірте, чи"
+
+msgctxt "RPCLocalization|"
+msgid "is enabled"
+msgstr "дозволено"
+
+msgctxt "RPCLocalization|"
+msgid "No Chrome installation was found."
+msgstr "Не знайдено встановленого Chrome."
+
+msgctxt "RPCLocalization|"
+msgid "You can"
+msgstr "Ви можете"
+
+msgctxt "RPCLocalization|"
+msgid "download Chrome here"
+msgstr "завантажити Chrome тут"
+
+msgctxt "RPCLocalization|"
+msgid "Don't catch downloads smaller than"
+msgstr "Не підхоплювати завантаження менші за"
+
+msgctxt "RPCLocalization|"
+msgid "Kbytes"
+msgstr "Кілобайт"
+
+msgctxt "RPCLocalization|"
+msgid "Skip files with extensions:"
+msgstr "Пропускати файли з розширеннями:"
+
+msgctxt "RPCLocalization|"
+msgid "Add FDM to browser context menu"
+msgstr "Додати FDM до контекстного меню браузера"
+
+msgctxt "RPCLocalization|"
+msgid "Use proxy for P2P connections"
+msgstr "Використовувати проксі для P2P з'єднань"
+
+msgctxt "RPCLocalization|"
+msgid "Parameters"
+msgstr "Параметри"
+
+msgctxt "RPCLocalization|"
+msgid "Low"
+msgstr "Низький"
+
+msgctxt "RPCLocalization|"
+msgid "Medium"
+msgstr "Середній"
+
+msgctxt "RPCLocalization|"
+msgid "High"
+msgstr "Високий"
+
+msgctxt "RPCLocalization|"
+msgid "Normal"
+msgstr "Нормальний"
+
+msgctxt "RPCLocalization|"
+msgid "Skip"
+msgstr "Пропустити"
+
+msgctxt "RPCLocalization|"
+msgid "Download speed"
+msgstr "Швидкість завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Upload speed"
+msgstr "Швидкість відвантаження"
+
+msgctxt "RPCLocalization|"
+msgid "History"
+msgstr "Історія"
+
+msgctxt "RPCLocalization|"
+msgid "Remember all destination folders"
+msgstr "Пам'ятати всі теки призначення"
+
+msgctxt "RPCLocalization|"
+msgid "Clear history older than"
+msgid_plural "Clear history older than"
+msgstr[0] "Стирати історію старішу за"
+msgstr[1] "Стирати історію старішу за"
+msgstr[2] "Стирати історію старішу за"
+
+msgctxt "RPCLocalization|"
+msgid "days"
+msgid_plural "days"
+msgstr[0] "день"
+msgstr[1] "дні"
+msgstr[2] "днів"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of history records:"
+msgstr "Максимальна кількість записів у історії:"
+
+msgctxt "RPCLocalization|"
+msgid "Disk usage"
+msgstr "Використання диску"
+
+msgctxt "RPCLocalization|"
+msgid "Preallocate disk space for files larger than"
+msgstr "Резервувати місце на диску для файлів, більших за"
+
+msgctxt "RPCLocalization|"
+msgid "Gbytes"
+msgstr "Гбайт"
+
+msgctxt "RPCLocalization|"
+msgid "Power management"
+msgstr "Керування живленням"
+
+msgctxt "RPCLocalization|"
+msgid "Prevent sleep if there are active downloads"
+msgstr "Не дозволяти режим сну, якщо є активні завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Delete button action"
+msgstr "Дія кнопки Видалити"
+
+msgctxt "RPCLocalization|"
+msgid "Delete files"
+msgstr "Видаляти файли"
+
+msgctxt "RPCLocalization|"
+msgid "DHT"
+msgstr "DHT"
+
+msgctxt "RPCLocalization|"
+msgid "Port forwarding"
+msgstr "Розсилка портів"
+
+msgctxt "RPCLocalization|"
+msgid "Local peer discovery"
+msgstr "Пошук локальних пірів"
+
+msgctxt "RPCLocalization|"
+msgid "Peer exchange"
+msgstr "Обмін пірами"
+
+msgctxt "RPCLocalization|"
+msgid "uTP"
+msgstr "uTP"
+
+msgctxt "RPCLocalization|"
+msgid "Use ports in range:"
+msgstr "Використовувати порти з:"
+
+msgctxt "RPCLocalization|"
+msgid "to"
+msgstr "по"
+
+msgctxt "RPCLocalization|"
+msgid "Reset"
+msgstr "Скинути"
+
+msgctxt "RPCLocalization|"
+msgid "Select All"
+msgstr "Вибрати все"
+
+msgctxt "RPCLocalization|"
+msgid "Name"
+msgstr "Ім'я"
+
+msgctxt "RPCLocalization|"
+msgid "Status"
+msgstr "Статус"
+
+msgctxt "RPCLocalization|"
+msgid "Speed"
+msgstr "Швидкість"
+
+msgctxt "RPCLocalization|"
+msgid "Size"
+msgstr "Розмір"
+
+msgctxt "RPCLocalization|"
+msgid "Added"
+msgstr "Додано"
+
+msgctxt "RPCLocalization|"
+msgid "Start all"
+msgstr "Запустити все"
+
+msgctxt "RPCLocalization|"
+msgid "Pause all"
+msgstr "Зупинити все"
+
+msgctxt "RPCLocalization|"
+msgid "Start selected"
+msgstr "Запустити вибране"
+
+msgctxt "RPCLocalization|"
+msgid "Pause selected"
+msgstr "Зупинити вибране"
+
+msgctxt "RPCLocalization|"
+msgid "Add new download..."
+msgstr "Додати нове завантаження..."
+
+msgctxt "RPCLocalization|"
+msgid "Move to trash"
+msgstr "Видалити в кошик"
+
+msgctxt "RPCLocalization|"
+msgid "Remove from list"
+msgstr "Прибрати зі списку"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected"
+msgstr "Видалити вибране"
+
+msgctxt "RPCLocalization|"
+msgid "Move to..."
+msgstr "Перемістити до..."
+
+msgctxt "RPCLocalization|"
+msgid "Search"
+msgstr "Пошук"
+
+msgctxt "RPCLocalization|"
+msgid "Main menu"
+msgstr "Головне меню"
+
+msgctxt "RPCLocalization|"
+msgid "Delete selected downloads"
+msgstr "Видалити вибрані завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Remember my choice"
+msgstr "Пам'ятати мій вибір"
+
+msgctxt "RPCLocalization|"
+msgid "Delete file"
+msgstr "Видалити файл"
+
+msgctxt "RPCLocalization|"
+msgid "All"
+msgstr "Всі"
+
+msgctxt "RPCLocalization|"
+msgid "Active"
+msgstr "Активні"
+
+msgctxt "RPCLocalization|"
+msgid "Completed"
+msgstr "Завершені"
+
+msgctxt "RPCLocalization|"
+msgid "Customize color"
+msgstr "Змінити колір"
+
+msgctxt "RPCLocalization|"
+msgid "Remove tag"
+msgstr "Видалити мітку"
+
+msgctxt "RPCLocalization|"
+msgid ""
+"Would you like to make Free Download Manager the default torrent client?"
+msgstr "Встановити Free Download Manager як торрент-клієнт за замовчуванням?"
+
+msgctxt "RPCLocalization|"
+msgid "Don’t ask again"
+msgstr "Не питати знову"
+
+msgctxt "RPCLocalization|"
+msgid "Set as Default"
+msgstr "Встановити за замовчуванням"
+
+msgctxt "RPCLocalization|"
+msgid "Computer will be put to sleep after all downloads are completed."
+msgstr ""
+"Після завершення всіх завантажень комп'ютер буде переведено в режим сну."
+
+msgctxt "RPCLocalization|"
+msgid "Computer will shut down after all downloads are completed."
+msgstr "Після завершення всіх завантажень комп'ютер буде вимкнено."
+
+msgctxt "RPCLocalization|"
+msgid "Computer will hibernate after all downloads are completed."
+msgstr ""
+"Після завершення всіх завантажень комп'ютер буде переведено в режим "
+"глибокого сну."
+
+msgctxt "RPCLocalization|"
+msgid "Checking for updates..."
+msgstr "Перевірка оновлень..."
+
+msgctxt "RPCLocalization|"
+msgid "Retry"
+msgstr "Повторити"
+
+msgctxt "RPCLocalization|"
+msgid "Error:"
+msgstr "Помилка:"
+
+msgctxt "RPCLocalization|"
+msgid "Error downloading update:"
+msgstr "Помилка завантаження оновлення:"
+
+msgctxt "RPCLocalization|"
+msgid "Downloading update"
+msgstr "Завантаження оновлення"
+
+msgctxt "RPCLocalization|"
+msgid "Checking..."
+msgstr "Перевірка..."
+
+msgctxt "RPCLocalization|"
+msgid "Update downloaded"
+msgstr "Оновити завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Install update"
+msgstr "Встановити оновлення"
+
+msgctxt "RPCLocalization|"
+msgid "Installing updates"
+msgstr "Встановлення оновлень"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch FDM to update"
+msgstr "Для оновлення перезапустіть FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Relaunch"
+msgstr "Перезапуск"
+
+msgctxt "RPCLocalization|"
+msgid "Error occurred during installation:"
+msgstr "Під час встановлення сталася помилка:"
+
+msgctxt "RPCLocalization|"
+msgid "Restart computer to complete installation"
+msgstr "Для завершення встановлення перезавантажте комп'ютер"
+
+msgctxt "RPCLocalization|"
+msgid "FDM is up to date!"
+msgstr "FDM не потребує оновлення!"
+
+msgctxt "RPCLocalization|"
+msgid "New version is available"
+msgstr "Доступна нова версія"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%ns"
+msgid_plural "%ns"
+msgstr[0] "%nс"
+msgstr[1] "%nс"
+msgstr[2] "%nс"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nm"
+msgid_plural "%nm"
+msgstr[0] "%nхв"
+msgstr[1] "%nхв"
+msgstr[2] "%nхв"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nh"
+msgid_plural "%nh"
+msgstr[0] "%nгод"
+msgstr[1] "%nгод"
+msgstr[2] "%nгод"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nd"
+msgid_plural "%nd"
+msgstr[0] "%nд"
+msgstr[1] "%nд"
+msgstr[2] "%nд"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%nw"
+msgid_plural "%nw"
+msgstr[0] "%nм"
+msgstr[1] "%nм"
+msgstr[2] "%nм"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%ny"
+msgid_plural "%ny"
+msgstr[0] "%nр"
+msgstr[1] "%nр"
+msgstr[2] "%nр"
+
+msgctxt "RPCLocalization|"
+msgid "YouTube"
+msgstr "YouTube"
+
+msgctxt "RPCLocalization|"
+msgid "Torrent"
+msgstr "Торрент"
+
+msgctxt "RPCLocalization|"
+msgid "Options"
+msgstr "Параметри"
+
+msgctxt "RPCLocalization|"
+msgid "Open Scheduler"
+msgstr "Відкрити планувальник"
+
+msgctxt "RPCLocalization|"
+msgid "Sсheduler"
+msgstr "Планувальник"
+
+msgctxt "RPCLocalization|"
+msgid "Start and pause downloads at specified time"
+msgstr "Починати і зупиняти завантаження у заданий час"
+
+msgctxt "RPCLocalization|"
+msgid "Enable Scheduler"
+msgstr "Включити планувальник"
+
+msgctxt "RPCLocalization|"
+msgid "Sun"
+msgstr "Нд"
+
+msgctxt "RPCLocalization|"
+msgid "Mon"
+msgstr "Пн"
+
+msgctxt "RPCLocalization|"
+msgid "Tue"
+msgstr "Вт"
+
+msgctxt "RPCLocalization|"
+msgid "Wed"
+msgstr "Ср"
+
+msgctxt "RPCLocalization|"
+msgid "Thu"
+msgstr "Чт"
+
+msgctxt "RPCLocalization|"
+msgid "Fri"
+msgstr "Пт"
+
+msgctxt "RPCLocalization|"
+msgid "Sat"
+msgstr "Сб"
+
+msgctxt "RPCLocalization|"
+msgid "From:"
+msgstr "З:"
+
+msgctxt "RPCLocalization|"
+msgid "To:"
+msgstr "По:"
+
+msgctxt "RPCLocalization|"
+msgid "Change settings"
+msgstr "Змінити установки"
+
+msgctxt "RPCLocalization|"
+msgid "Change preferences"
+msgstr "Змінити вподобання"
+
+msgctxt "RPCLocalization|"
+msgid "Tip"
+msgstr "Підказка"
+
+msgctxt "RPCLocalization|"
+msgid "Computer won't be put to sleep because there are scheduled downloads"
+msgstr ""
+"Комп'ютер не буде введено в режим сну, оскільки є заплановані завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Scheduler"
+msgstr "Планувальник"
+
+msgctxt "RPCLocalization|"
+msgid "Don't put your computer to sleep if there're scheduled downloads"
+msgstr "Не вводити комп'ютер в режим сну якщо є заплановані завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Restore"
+msgstr "Відновити"
+
+msgctxt "RPCLocalization|"
+msgid "Start download"
+msgstr "Запуск завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Press"
+msgstr "Натисніть"
+
+msgctxt "RPCLocalization|"
+msgid "Start downloading without confirmation"
+msgstr "Почати завантаження без підтвердження"
+
+msgctxt "RPCLocalization|"
+msgid "Use browser if you cancel download via FDM"
+msgstr "Використовувати браузер якщо ви перервете завантаження FDM"
+
+msgctxt "RPCLocalization|"
+msgid "Maximum number of simultaneous downloads"
+msgstr "Максимальна кількість одночасних завантажень"
+
+msgctxt "RPCLocalization|"
+msgid "to let the browser process the download"
+msgstr "щоб дозволити браузеру обробляти завантаження"
+
+msgctxt "RPCLocalization|"
+msgid "Check file integrity"
+msgstr "Перевірка цілісності файлу"
+
+msgctxt "RPCLocalization|"
+msgid "Calculate"
+msgstr "Обчислити"
+
+msgctxt "RPCLocalization|"
+msgid "Calculating"
+msgstr "Обчислення"
+
+msgctxt "RPCLocalization|"
+msgid "Verification OK"
+msgstr "Перевірка OK"
+
+msgctxt "RPCLocalization|"
+msgid "Verification failed"
+msgstr "Збій перевірки"
+
+msgctxt "RPCLocalization|"
+msgid "Close"
+msgstr "Закрити"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 left"
+msgstr "%1 залишилось"
+
+msgctxt "RPCLocalization|"
+msgid "Browsers:"
+msgstr "Браузери:"
+
+msgctxt "RPCLocalization|"
+msgid "Done"
+msgstr "Готово"
+
+#, qt-format
+msgctxt "RPCLocalization|"
+msgid "%1 of %2"
+msgstr "%1 із %2"
+
+msgctxt "RPCLocalization|settings"
+msgid "Traffic Limits"
+msgstr "Обмеження трафіку"
+
+msgctxt "RPCLocalization|settings"
+msgid "Login"
+msgstr "Вхід"
+
+msgctxt "RPCLocalization|settings"
+msgid "Update"
+msgstr "Оновити"
+
+msgctxt "RPCLocalization|Advanced"
+msgid "Options"
+msgstr "Параметри"
+
+msgctxt "RPCLocalization|tags panel"
+msgid "Completed"
+msgstr "Завершено"
+
+msgctxt "RPCSystem|"
+msgid "Default download folder"
+msgstr "Тека завантажень за замовчуванням"
+
+msgctxt "RPCSystem|"
+msgid "Accept"
+msgstr "Прийняти"
+
+msgctxt "RPCSystem|"
+msgid "Download to"
+msgstr "Завантажити до"
+
+msgctxt "RPCSystem|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "RPCSystem|"
+msgid "Open torrent file"
+msgstr "Відкрити торрент-файл"
+
+msgctxt "RPCSystem|"
+msgid "Torrent files"
+msgstr "Торрент-файли"
+
+msgctxt "TorrentDownload|"
+msgid "File priorities changed"
+msgstr "Змінено пріоритети файлів"
+
+msgctxt "TorrentDownload|"
+msgid "Stopping seeding"
+msgstr "Припинення сідування"
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading enabled"
+msgstr "Послідовне завантаження дозволено"
+
+msgctxt "TorrentDownload|"
+msgid "Sequential downloading disabled"
+msgstr "Послідовне завантаження заборонено"
+
+msgctxt "TorrentDownload|"
+msgid "Trackers merged"
+msgstr "Трекери об'єднано"
+
+msgctxt "TorrentDownload|"
+msgid "Starting seeding"
+msgstr "Запуск сідування"
+
+msgctxt "TorrentDownload|"
+msgid "Unknown error occurred"
+msgstr "Сталася невідома помилка"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Error occurred: %1"
+msgstr "Сталася помилка %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Maximum number of connections is %1"
+msgstr "Максимальна кількість з'єднань %1"
+
+msgctxt "TorrentDownload|"
+msgid "unlimited"
+msgstr "необмежена"
+
+msgctxt "TorrentDownload|"
+msgid "Download speed is unlimited"
+msgstr "Швидкість завантаження необмежена"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Download speed is limited to %1/s"
+msgstr "Швидкість завантаження обмежено до %1/с"
+
+msgctxt "TorrentDownload|"
+msgid "Upload speed is unlimited"
+msgstr "Швидкість відвантаження необмежена"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Upload speed is limited to %1/s"
+msgstr "Швидкість відвантаження обмежено до %1/с"
+
+msgctxt "TorrentDownload|"
+msgid "Starting download"
+msgstr "Запуск завантаження"
+
+msgctxt "TorrentDownload|"
+msgid "Checking files"
+msgstr "Перевірка файлів"
+
+msgctxt "TorrentDownload|"
+msgid "Downloading"
+msgstr "Завантаження"
+
+msgctxt "TorrentDownload|"
+msgid "Download complete"
+msgstr "Завантаження завершено"
+
+msgctxt "TorrentDownload|"
+msgid "Can't move files recursively"
+msgstr "Не можна перемістити файли рекурентно"
+
+msgctxt "TorrentDownload|"
+msgid "Changing destination folder"
+msgstr "Зміна теки призначення"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Moving files to %1"
+msgstr "Переміщення файлів до %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Moving file to %1"
+msgstr "Переміщення файлу до: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Waiting for metadata"
+msgstr "Очікую на метадані"
+
+msgctxt "TorrentDownload|"
+msgid "Updating"
+msgstr "Оновлення"
+
+msgctxt "TorrentDownload|"
+msgid "Working"
+msgstr "Робота"
+
+msgctxt "TorrentDownload|"
+msgid "Metadata received"
+msgstr "Отримано метадані"
+
+msgctxt "TorrentDownload|"
+msgid "User authorization required"
+msgstr "Потрібна ідентифікація користувача"
+
+msgctxt "TorrentDownload|"
+msgid "Files mapped to new directory"
+msgstr "Файли перенаправлено в іншу теку"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving failed"
+msgstr "Помилка перенесення файлів"
+
+msgctxt "TorrentDownload|"
+msgid "File moving failed"
+msgstr "Помилка перенесення файлу"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Files moving declined: %1"
+msgstr "Відмовлено в перенесенні файлів: %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Moving file declined: %1"
+msgstr "Відмовлено в перенесенні файлу: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Moved successfully"
+msgstr "Успішно переміщено"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid ", average speed: %1"
+msgstr ", середня швидкість: %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "Files moving failed: %1"
+msgstr "Помилка перенесення файлів: %1"
+
+#, qt-format
+msgctxt "TorrentDownload|"
+msgid "File moving failed: %1"
+msgstr "Помилка перенесення файлу: %1"
+
+msgctxt "TorrentDownload|"
+msgid "Files moving cancelled"
+msgstr "Перенесення файлів скасовано"
+
+msgctxt "TorrentDownload|"
+msgid "Moving file cancelled"
+msgstr "Перенесення файлу скасовано"
+
+msgctxt "TorrentDownload|"
+msgid "Unexpected error"
+msgstr "Неочікувана помилка"
+
+msgctxt "TorrentDownload|"
+msgid "Files are missing"
+msgstr "Відсутні файли"
+
+msgctxt "TrayMenu|"
+msgid "Show main window"
+msgstr "Показати головне вікно"
+
+msgctxt "TrayMenu|"
+msgid "Open at Login"
+msgstr "Відкривати при вході"
+
+msgctxt "TrayMenu|"
+msgid "Launch at startup"
+msgstr "Запуск під час запуску системи"
+
+msgctxt "TrayMenu|"
+msgid "About FDM"
+msgstr "Про FDM"
+
+msgctxt "TrayMenu|"
+msgid "Quit FDM"
+msgstr "Вийти з FDM"
+
+msgctxt "TrayMenu|"
+msgid "Quit"
+msgstr "Вихід"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "About %1"
+msgstr "Про %1"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "Version %1 (%2)"
+msgstr "Версія %1 (%2)"
+
+msgctxt "UIHelper|"
+msgid "Open"
+msgstr "Відкрити"
+
+msgctxt "UIHelper|"
+msgid "Reveal in Finder"
+msgstr "Відобразити у Пошуку"
+
+msgctxt "UIHelper|"
+msgid "Show in folder"
+msgstr "Показати у теці"
+
+msgctxt "UIHelper|"
+msgid "Show info"
+msgstr "Показати інформацію"
+
+msgctxt "UIHelper|"
+msgid "Choose files..."
+msgstr "Вибрати файли..."
+
+msgctxt "UIHelper|"
+msgid "Pause all except selected"
+msgstr "Зупинити всі крім вибраних"
+
+msgctxt "UIHelper|"
+msgid "Pause all except this one"
+msgstr "Зупинити всі крім цього"
+
+msgctxt "UIHelper|"
+msgid "Restart selected"
+msgstr "Перезапуск вибраного"
+
+msgctxt "UIHelper|"
+msgid "Restart"
+msgstr "Перезапуск"
+
+msgctxt "UIHelper|"
+msgid "Set priority"
+msgstr "Встановити пріоритет"
+
+msgctxt "UIHelper|"
+msgid "Move to..."
+msgstr "Перенести до..."
+
+msgctxt "UIHelper|"
+msgid "Download to..."
+msgstr "Завантажити до..."
+
+msgctxt "UIHelper|"
+msgid "Move to trash"
+msgstr "Видалити в кошик"
+
+msgctxt "UIHelper|"
+msgid "Delete files"
+msgstr "Видалити файли"
+
+msgctxt "UIHelper|"
+msgid "Delete file"
+msgstr "Видалити файл"
+
+msgctxt "UIHelper|"
+msgid "Remove from list"
+msgstr "Видалити зі списку"
+
+msgctxt "UIHelper|"
+msgid "Enable seeding"
+msgstr "Дозволити сідування"
+
+msgctxt "UIHelper|"
+msgid "Sequential download"
+msgstr "Послідовне завантаження"
+
+msgctxt "UIHelper|"
+msgid "Force recheck"
+msgstr "Примусово перевірити"
+
+msgctxt "UIHelper|"
+msgid "Force reannounce"
+msgstr "Примусово анонсувати"
+
+msgctxt "UIHelper|"
+msgid "Copy link"
+msgstr "Копіювати посилання"
+
+msgctxt "UIHelper|"
+msgid "See on YouTube"
+msgstr "Дивитися на  YouTube"
+
+msgctxt "UIHelper|"
+msgid "Add tag"
+msgstr "Додати мітку"
+
+msgctxt "UIHelper|"
+msgid "File integrity"
+msgstr "Цілісність файлу"
+
+msgctxt "UIHelper|"
+msgid "Schedule"
+msgstr "Графік"
+
+msgctxt "UIHelper|"
+msgid "Change URL"
+msgstr "Змінити URL"
+
+msgctxt "UIHelper|"
+msgid "High priority"
+msgstr "Високий пріоритет"
+
+msgctxt "UIHelper|"
+msgid "Normal priority"
+msgstr "Нормальний пріоритет"
+
+msgctxt "UIHelper|"
+msgid "Low priority"
+msgstr "Низький пріоритет"
+
+msgctxt "UIHelper|"
+msgid "Skip"
+msgstr "Пропустити"
+
+msgctxt "UIHelper|"
+msgid "Edit"
+msgstr "Редагувати"
+
+msgctxt "UIHelper|"
+msgid "Remove"
+msgstr "Видалити"
+
+msgctxt "UIHelper|"
+msgid "Untag"
+msgstr "Зняти мітку"
+
+msgctxt "UIHelper|"
+msgid "Copy log to clipboard"
+msgstr "Скопіювати log до буферу"
+
+msgctxt "UIHelper|"
+msgid "Save log to file"
+msgstr "Зберегти log до файлу"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "FDM Log [%1].txt"
+msgstr "FDM Log [%1].txt"
+
+msgctxt "UIHelper|"
+msgid "Save Log"
+msgstr "Зберегти Log"
+
+msgctxt "UIHelper|"
+msgid "Text files"
+msgstr "Текстові файли"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "%1 K"
+msgstr "%1 К"
+
+#, qt-format
+msgctxt "UIHelper|"
+msgid "%1 M"
+msgstr "%1 М"
+
+msgctxt "YoutubeDownload|"
+msgid "File is missing"
+msgstr "Відсутній файл"
+
+msgctxt "YoutubeDownload|"
+msgid "Files moved successfully"
+msgstr "Файли успішно перенесено"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Moving to %1"
+msgstr "Переміщення до %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Merging failed"
+msgstr "Не вдалося об'єднати"
+
+msgctxt "YoutubeDownload|"
+msgid "Merging media streams"
+msgstr "Об'єднання медіапотоків"
+
+msgctxt "YoutubeDownload|"
+msgid "Redirecting"
+msgstr "Перенаправлення"
+
+msgctxt "YoutubeDownload|"
+msgid "Handling redirect"
+msgstr "Обробка перенаправлення"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "AudioStream: %1"
+msgstr "Аудіопотік: %1"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "VideoStream: %1"
+msgstr "Відеопотік: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Parsing page"
+msgstr "Аналізується сторінка"
+
+msgctxt "YoutubeDownload|"
+msgid "Page is parsed"
+msgstr "Сторінку проаналізовано"
+
+msgctxt "YoutubeDownload|"
+msgid "Can't find video for this quality"
+msgstr "Не вдається знайти відео такої якості"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Parsing failure: %1"
+msgstr "Помилка аналізу: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Download complete"
+msgstr "Завантаження завершено"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Moving declined: %1"
+msgstr "Відмовлено в перенесенні: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Moved successfully"
+msgstr "Успішно перенесено"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid ", average speed: %1"
+msgstr ", середня швидкість: %1"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "File is renamed to %1"
+msgstr "Файл перейменовано на  %1"
+
+#, qt-format
+msgctxt "YoutubeDownload|"
+msgid "Moving failed: %1"
+msgstr "Помилка перенесення: %1"
+
+msgctxt "YoutubeDownload|"
+msgid "Moving cancelled."
+msgstr "Перенесення скасовано."
