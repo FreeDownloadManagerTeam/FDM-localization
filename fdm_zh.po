@@ -2208,19 +2208,19 @@ msgstr "特价"
 
 msgctxt "RPCLocalization|"
 msgid "Download Youtube channel"
-msgstr ""
+msgstr "下载 Youtube 频道"
 
 msgctxt "RPCLocalization|"
 msgid "Download YouTube playlist"
-msgstr ""
+msgstr "下载 YouTube 播放列表"
 
 msgctxt "RPCLocalization|"
 msgid "Add YouTube upload date to file name"
-msgstr ""
+msgstr "添加 YouTube 视频上传时间到文件名中"
 
 msgctxt "RPCLocalization|"
 msgid "try again"
-msgstr ""
+msgstr "重试"
 #~ msgctxt "RPCLocalization|"
 #~ msgid "Download Youtube Channel Videos"
 #~ msgstr "下载 Youtube 频道视频"
