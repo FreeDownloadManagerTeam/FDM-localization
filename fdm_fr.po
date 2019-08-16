@@ -573,7 +573,7 @@ msgstr "Retirer de la liste"
 #, qt-format
 msgctxt "MacMainMenu|"
 msgid "About %1"
-msgstr "Près de %1"
+msgstr "À propos de %1"
 
 #, fuzzy
 msgctxt "MacMainMenu|"
