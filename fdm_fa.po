@@ -23,32 +23,26 @@ msgstr ""
 msgid "No flash video found. Try reloading this page."
 msgstr ""
 
-#, qt-format
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
 msgstr ""
 
-#, qt-format
 msgctxt "Download|"
 msgid "%1 B"
 msgstr ""
 
-#, qt-format
 msgctxt "Download|"
 msgid "%1 KB"
 msgstr ""
 
-#, qt-format
 msgctxt "Download|"
 msgid "%1 MB"
 msgstr ""
 
-#, qt-format
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
 msgstr ""
 
-#, qt-format
 msgctxt "Download|"
 msgid "Priority set to %1"
 msgstr ""
@@ -89,12 +83,10 @@ msgctxt "DownloadInfo|"
 msgid "High"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpError|"
 msgid "HTTP Error %1"
 msgstr ""
@@ -351,7 +343,6 @@ msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
 msgstr ""
@@ -364,11 +355,9 @@ msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr ""
-
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
@@ -390,12 +379,10 @@ msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File \"%1\" exists. Saving as %2"
 msgstr ""
@@ -408,22 +395,18 @@ msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "File is renamed to %1"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
 msgstr ""
@@ -460,7 +443,6 @@ msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
 msgstr ""
@@ -469,32 +451,26 @@ msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "downloaded %1"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "(%1/s)"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1: server ignored partial content request"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "#%1 failed with error: %2"
 msgstr ""
@@ -507,17 +483,14 @@ msgctxt "HttpFileDownload|"
 msgid "File moving failed"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid "%1 finished successfully"
 msgstr ""
 
-#, qt-format
 msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
 msgstr ""
@@ -558,7 +531,6 @@ msgctxt "MacMainMenu|"
 msgid "Remove from List"
 msgstr ""
 
-#, qt-format
 msgctxt "MacMainMenu|"
 msgid "About %1"
 msgstr ""
@@ -787,7 +759,6 @@ msgctxt "RPCLocalization|"
 msgid "Show details"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
@@ -1101,7 +1072,6 @@ msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
@@ -1223,13 +1193,11 @@ msgctxt "RPCLocalization|"
 msgid "Are you sure it's not too long?"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "Only %n records? FDM can store much more!"
 msgid_plural "Only %n records? FDM can store much more!"
 msgstr[0] ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n records is too many to save."
 msgid_plural "%n records is too many to save."
@@ -1806,37 +1774,31 @@ msgctxt "RPCLocalization|"
 msgid "New version is available"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ns"
 msgid_plural "%ns"
 msgstr[0] ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nm"
 msgid_plural "%nm"
 msgstr[0] ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nh"
 msgid_plural "%nh"
 msgstr[0] ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nd"
 msgid_plural "%nd"
 msgstr[0] ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%nw"
 msgid_plural "%nw"
 msgstr[0] ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%ny"
 msgid_plural "%ny"
@@ -1966,7 +1928,6 @@ msgctxt "RPCLocalization|"
 msgid "Close"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 left"
 msgstr ""
@@ -1987,7 +1948,6 @@ msgctxt "RPCLocalization|tags panel"
 msgid "Completed"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 of %2"
 msgstr ""
@@ -2052,7 +2012,6 @@ msgctxt "RPCLocalization|"
 msgid "Show bottom panel"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "disk %1"
 msgstr ""
@@ -2210,19 +2169,11 @@ msgid "Special offer"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Download Youtube channel"
+msgid "Download YouTube channel"
 msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Download YouTube playlist"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "Add YouTube upload date to file name"
-msgstr ""
-
-msgctxt "RPCLocalization|"
-msgid "try again"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -2231,6 +2182,10 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Load More"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Add YouTube upload date to file name"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -2249,7 +2204,6 @@ msgctxt "RPCLocalization|"
 msgid "Low (240p)"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%n videos are chosen"
 msgid_plural "%n videos are chosen"
@@ -2263,7 +2217,6 @@ msgctxt "RPCLocalization|"
 msgid "To update the extension:"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "Click %1 to remove the old version."
 msgstr ""
@@ -2272,7 +2225,6 @@ msgctxt "RPCLocalization|"
 msgid "here"
 msgstr ""
 
-#, qt-format
 msgctxt "RPCLocalization|"
 msgid "%1 the new version."
 msgstr ""
@@ -2294,7 +2246,7 @@ msgid "Close Firefox if it's running and try again"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid "Choose app mode"
+msgid "Choose theme"
 msgstr ""
 
 msgctxt "RPCLocalization|"
@@ -2303,6 +2255,18 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Dark"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Try again"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Please select download link"
+msgstr ""
+
+msgctxt "RPCLocalization|"
+msgid "Please select video"
 msgstr ""
 
 msgctxt "RPCSystem|"
@@ -2357,12 +2321,10 @@ msgctxt "TorrentDownload|"
 msgid "Unknown error occurred"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Error occurred: %1"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Maximum number of connections is %1"
 msgstr ""
@@ -2375,7 +2337,6 @@ msgctxt "TorrentDownload|"
 msgid "Download speed is unlimited"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Download speed is limited to %1/s"
 msgstr ""
@@ -2384,7 +2345,6 @@ msgctxt "TorrentDownload|"
 msgid "Upload speed is unlimited"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Upload speed is limited to %1/s"
 msgstr ""
@@ -2413,12 +2373,10 @@ msgctxt "TorrentDownload|"
 msgid "Changing destination folder"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving files to %1"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file to %1"
 msgstr ""
@@ -2455,12 +2413,10 @@ msgctxt "TorrentDownload|"
 msgid "File moving failed"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving declined: %1"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Moving file declined: %1"
 msgstr ""
@@ -2469,17 +2425,14 @@ msgctxt "TorrentDownload|"
 msgid "Moved successfully"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid ", average speed: %1"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "Files moving failed: %1"
 msgstr ""
 
-#, qt-format
 msgctxt "TorrentDownload|"
 msgid "File moving failed: %1"
 msgstr ""
@@ -2520,12 +2473,10 @@ msgctxt "TrayMenu|"
 msgid "Quit"
 msgstr ""
 
-#, qt-format
 msgctxt "UIHelper|"
 msgid "About %1"
 msgstr ""
 
-#, qt-format
 msgctxt "UIHelper|"
 msgid "Version %1 (%2)"
 msgstr ""
@@ -2670,7 +2621,6 @@ msgctxt "UIHelper|"
 msgid "Save log to file"
 msgstr ""
 
-#, qt-format
 msgctxt "UIHelper|"
 msgid "FDM Log [%1].txt"
 msgstr ""
@@ -2683,12 +2633,10 @@ msgctxt "UIHelper|"
 msgid "Text files"
 msgstr ""
 
-#, qt-format
 msgctxt "UIHelper|"
 msgid "%1 K"
 msgstr ""
 
-#, qt-format
 msgctxt "UIHelper|"
 msgid "%1 M"
 msgstr ""
@@ -2697,7 +2645,6 @@ msgctxt "YoutubeDownload|"
 msgid "Files moved successfully"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving to %1"
 msgstr ""
@@ -2722,12 +2669,10 @@ msgctxt "YoutubeDownload|"
 msgid "Handling redirect"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "AudioStream: %1"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
 msgstr ""
@@ -2744,7 +2689,6 @@ msgctxt "YoutubeDownload|"
 msgid "Can't find video for this quality"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Parsing failure: %1"
 msgstr ""
@@ -2753,7 +2697,6 @@ msgctxt "YoutubeDownload|"
 msgid "Download complete"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving declined: %1"
 msgstr ""
@@ -2762,17 +2705,14 @@ msgctxt "YoutubeDownload|"
 msgid "Moved successfully"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid ", average speed: %1"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "File is renamed to %1"
 msgstr ""
 
-#, qt-format
 msgctxt "YoutubeDownload|"
 msgid "Moving failed: %1"
 msgstr ""
