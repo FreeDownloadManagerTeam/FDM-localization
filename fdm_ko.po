@@ -7,389 +7,396 @@ msgstr ""
 "X-Language: ko_KR\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Kim Geonwoo <rlarjsdn122@naver.com>\n"
+"Language-Team: \n"
+"Language: ko_KR\n"
+"X-Generator: Poedit 2.2.1\n"
 
 msgid "Download with FDM"
-msgstr ""
+msgstr "FDM으로 내려받기"
 
 msgid "Download selected with FDM"
-msgstr ""
+msgstr "선택한 항목을 FDM으로 내려받기"
 
 msgid "Download video with FDM"
-msgstr ""
+msgstr "FDM으로 동영상 내려받기"
 
 msgid "Error: 0x%x. Failed to transfer downloads to FDM."
-msgstr ""
+msgstr "오류: 0x%x. FDM으로 내려받기를 가져오는 데 실패했습니다."
 
 msgid "No flash video found. Try reloading this page."
-msgstr ""
+msgstr "플래시 영상이 없습니다. 새로고침 하세요."
 
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "지정된 폴더 경로는 상대경로이며, 절대경로는 %1 입니다."
 
 msgctxt "Download|"
 msgid "%1 B"
-msgstr ""
+msgstr "%1 바이트"
 
 msgctxt "Download|"
 msgid "%1 KB"
-msgstr ""
+msgstr "%1 킬로바이트"
 
 msgctxt "Download|"
 msgid "%1 MB"
-msgstr ""
+msgstr "%1 메가바이트"
 
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "%1 초 후 재연결"
 
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr ""
+msgstr "우선순위를 %1 로 "
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "대기열: 저속 상태가 활성화되었습니다. 계속 하려면 비활성화 하십시오."
 
 msgctxt "Download|"
 msgid "Queued"
-msgstr ""
+msgstr "대기열"
 
 msgctxt "DownloadFileInfo|"
 msgid "Skip"
-msgstr ""
+msgstr "넘어가기"
 
 msgctxt "DownloadFileInfo|"
 msgid "Low"
-msgstr ""
+msgstr "낮음"
 
 msgctxt "DownloadFileInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "보통"
 
 msgctxt "DownloadFileInfo|"
 msgid "High"
-msgstr ""
+msgstr "높음"
 
 msgctxt "DownloadInfo|"
 msgid "Low"
-msgstr ""
+msgstr "낮음"
 
 msgctxt "DownloadInfo|"
 msgid "Normal"
-msgstr ""
+msgstr "보통"
 
 msgctxt "DownloadInfo|"
 msgid "High"
-msgstr ""
+msgstr "높음"
 
 msgctxt "HttpError|"
 msgid "HTTP Error %1: %2"
-msgstr ""
+msgstr "HTTP 오류 %1: %2"
 
 msgctxt "HttpError|"
 msgid "HTTP Error %1"
-msgstr ""
+msgstr "HTTP 오류 %1"
 
 msgctxt "HttpError|"
 msgid "Unknown error"
-msgstr ""
+msgstr "알 수 없는 오류"
 
 msgctxt "HttpError|"
 msgid "Remote host name not found"
-msgstr ""
+msgstr "원격 호스트 이름을 찾지 못했습니다."
 
 msgctxt "HttpError|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "명령 취소됨"
 
 msgctxt "HttpError|"
 msgid "Remote server closed connection"
-msgstr ""
+msgstr "원격 서버가 연결을 끊었습니다."
 
 msgctxt "HttpError|"
 msgid "Connection timed out"
-msgstr ""
+msgstr "연결 시간 초과"
 
 msgctxt "HttpError|"
 msgid "SSL/TLS handshake failed"
-msgstr ""
+msgstr "SSL/TLS 인증에 실패했습니다."
 
 msgctxt "HttpError|"
 msgid "Connection refused"
-msgstr ""
+msgstr "연결 거부됨."
 
 msgctxt "HttpError|"
 msgid "Unknown network-related error detected"
-msgstr ""
+msgstr "알 수 없는 통신망 관련 오류가 감지되었습니다."
 
 msgctxt "HttpError|"
 msgid "Requested operation is not permitted"
-msgstr ""
+msgstr "요청 명령이 거부되었습니다."
 
 msgctxt "HttpError|"
 msgid "Bad Request"
-msgstr ""
+msgstr "잘못된 요청"
 
 msgctxt "HttpError|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "인증 안됨"
 
 msgctxt "HttpError|"
 msgid "Payment Required"
-msgstr ""
+msgstr "지불 필요"
 
 msgctxt "HttpError|"
 msgid "Forbidden"
-msgstr ""
+msgstr "금지됨"
 
 msgctxt "HttpError|"
 msgid "Not Found"
-msgstr ""
+msgstr "없음"
 
 msgctxt "HttpError|"
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "허용되지 않은 방식"
 
 msgctxt "HttpError|"
 msgid "Not Acceptable"
-msgstr ""
+msgstr "수용 불가함"
 
 msgctxt "HttpError|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "프록시 인증이 필요함"
 
 msgctxt "HttpError|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "요청 시간 초과"
 
 msgctxt "HttpError|"
 msgid "Conflict"
-msgstr ""
+msgstr "충돌"
 
 msgctxt "HttpError|"
 msgid "Gone"
-msgstr ""
+msgstr "끝남"
 
 msgctxt "HttpError|"
 msgid "Length Required"
-msgstr ""
+msgstr "시간 필요"
 
 msgctxt "HttpError|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "전제 조건 실패"
 
 msgctxt "HttpError|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "요청이 너무 큼"
 
 msgctxt "HttpError|"
 msgid "Request-URI Too Long"
-msgstr ""
+msgstr "요청한 주소가 너무 긺"
 
 msgctxt "HttpError|"
 msgid "Unsupported Media Type"
-msgstr ""
+msgstr "지원하지 않는 형식"
 
 msgctxt "HttpError|"
 msgid "Requested Range Not Satisfiable"
-msgstr ""
+msgstr "요청 범위 불만족"
 
 msgctxt "HttpError|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "예상된 실패"
 
 msgctxt "HttpError|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "난 찻주전자야. 커피는 못 내려줘."
 
 msgctxt "HttpError|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "인증 시간 초과"
 
 msgctxt "HttpError|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr ""
+msgstr "방식 실패/진정해 "
 
 msgctxt "HttpError|"
 msgid "Unprocessable Entity"
-msgstr ""
+msgstr "처리 불능한 객체"
 
 msgctxt "HttpError|"
 msgid "Locked"
-msgstr ""
+msgstr "잠김"
 
 msgctxt "HttpError|"
 msgid "Failed Dependency / Method Failure"
-msgstr ""
+msgstr "의존성 실패/방식 실패"
 
 msgctxt "HttpError|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "정렬되지 않은 모음집"
 
 msgctxt "HttpError|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "판올림이 필요함"
 
 msgctxt "HttpError|"
 msgid "Precondition Required"
-msgstr ""
+msgstr "전제 조건 필요"
 
 msgctxt "HttpError|"
 msgid "Too Many Requests"
-msgstr ""
+msgstr "너무 많은 요청"
 
 msgctxt "HttpError|"
 msgid "Request Header Fields Too Large"
-msgstr ""
+msgstr "요청한 헤더 공간이 너무 큼."
 
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "들어가기 시간 초과"
 
 msgctxt "HttpError|"
 msgid "No Response"
-msgstr ""
+msgstr "응답 없음"
 
 msgctxt "HttpError|"
 msgid "Retry With"
-msgstr ""
+msgstr "다음과 함께 다시 시도"
 
 msgctxt "HttpError|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "윈도우 자녀 보호에 차단됨"
 
 msgctxt "HttpError|"
 msgid "Unavailable For Legal Reasons"
-msgstr ""
+msgstr "정당한 사유로 인해 불가능"
 
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr ""
+msgstr "요청한 헤더가 너무 큼."
 
 msgctxt "HttpError|"
 msgid "Cert Error"
-msgstr ""
+msgstr "증명서 오류"
 
 msgctxt "HttpError|"
 msgid "No Cert"
-msgstr ""
+msgstr "증명서 없음"
 
 msgctxt "HttpError|"
 msgid "HTTP to HTTPS"
-msgstr ""
+msgstr "HTTP에서 HTTPS로 바꿈."
 
 msgctxt "HttpError|"
 msgid "Token expired/invalid"
-msgstr ""
+msgstr "만료 또는 무효한 징표"
 
 msgctxt "HttpError|"
 msgid "Client Closed Request"
-msgstr ""
+msgstr "클라이언트가 요청을 닫음."
 
 msgctxt "HttpError|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "서버 내부 오류"
 
 msgctxt "HttpError|"
 msgid "Not Implemented"
-msgstr ""
+msgstr "구현 안됨"
 
 msgctxt "HttpError|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "잘못된 게이트웨이"
 
 msgctxt "HttpError|"
 msgid "Service Unavailable"
-msgstr ""
+msgstr "서비스 불가"
 
 msgctxt "HttpError|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "게이트웨이 시간 초과"
 
 msgctxt "HttpError|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "미지원되는 HTTP판"
 
 msgctxt "HttpError|"
 msgid "Variant Also Negotiates"
-msgstr ""
+msgstr "서버 내부 구성 오류"
 
 msgctxt "HttpError|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "부족한 저장소"
 
 msgctxt "HttpError|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "순환 감지됨."
 
 msgctxt "HttpError|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "대역폭 제한 초과"
 
 msgctxt "HttpError|"
 msgid "Not Extended"
-msgstr ""
+msgstr "확장되지 않음."
 
 msgctxt "HttpError|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "연결망 인증 필요"
 
 msgctxt "HttpError|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "연결망 읽기 시간 초과"
 
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
-msgstr ""
+msgstr "연결망 연결 시간 초과"
 
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
-msgstr ""
+msgstr "최대 연결 개수는 %1 개 입니다"
 
 msgctxt "HttpFileDownload|"
 msgid "unlimited"
-msgstr ""
+msgstr "무제한"
 
 msgctxt "HttpFileDownload|"
 msgid "Download speed is unlimited"
-msgstr ""
+msgstr "내려받기 속도가 무제한입니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Download speed is limited to %1/s"
-msgstr ""
+msgstr "내려받기 속도 제한은 %1/초 입니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Can't resume downloading file"
-msgstr ""
+msgstr "내려받기를 재개할 수 없습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Reconnecting"
-msgstr ""
+msgstr "재연결"
 
 msgctxt "HttpFileDownload|"
 msgid "Starting download"
-msgstr ""
+msgstr "내려받기 시작"
 
 msgctxt "HttpFileDownload|"
 msgid "Pausing download"
-msgstr ""
+msgstr "내려받기 일시정지"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to resume as URL changed"
-msgstr ""
+msgstr "주소가 바뀌어 재개할 수 없습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Moving file to %1"
-msgstr ""
+msgstr "%1로 기록철 옮기기"
 
 msgctxt "HttpFileDownload|"
 msgid "File \"%1\" exists. Saving as %2"
-msgstr ""
+msgstr "\"\"%1\"이 이미 있습니다. \"%2로 저장합니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Restarting download"
-msgstr ""
+msgstr "내려받기 다시 시작"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to clear contents of original file."
@@ -1690,8 +1697,7 @@ msgid "Remove tag"
 msgstr ""
 
 msgctxt "RPCLocalization|"
-msgid ""
-"Would you like to make Free Download Manager the default torrent client?"
+msgid "Would you like to make Free Download Manager the default torrent client?"
 msgstr ""
 
 msgctxt "RPCLocalization|"
