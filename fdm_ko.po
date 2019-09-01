@@ -52,7 +52,7 @@ msgstr "%1 초 후 재연결"
 
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr "우선순위를 %1 로 "
+msgstr "우선순위를 %1(으)로 "
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
@@ -272,7 +272,7 @@ msgstr "정당한 사유로 인해 불가능"
 
 msgctxt "HttpError|"
 msgid "Request Header Too Large"
-msgstr "요청한 헤더가 너무 큼."
+msgstr "요청한 헤더가 너무 ."
 
 msgctxt "HttpError|"
 msgid "Cert Error"
@@ -404,39 +404,39 @@ msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "File is renamed to %1"
-msgstr ""
+msgstr "%1로 기록철 이름이 바뀌었습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Reusing connection #%1"
-msgstr ""
+msgstr "연결 재사용 #%1"
 
 msgctxt "HttpFileDownload|"
 msgid "Opening connection #%1"
-msgstr ""
+msgstr "연결 열기 #%1"
 
 msgctxt "HttpFileDownload|"
 msgid "#%1 closed"
-msgstr ""
+msgstr "#%1 닫힘"
 
 msgctxt "HttpFileDownload|"
 msgid "Failed to complete the download"
-msgstr ""
+msgstr "내려받는 데에 실패했습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Opening file on disk..."
-msgstr ""
+msgstr "저장소에서 기록철 열기..."
 
 msgctxt "HttpFileDownload|"
 msgid "File is missing"
-msgstr ""
+msgstr "기록철이 없습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Download complete"
-msgstr ""
+msgstr "내려받기 완료"
 
 msgctxt "HttpFileDownload|"
 msgid "Removing temporary file extension"
-msgstr ""
+msgstr "임시 기록철 확장 삭제"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocating disk space for download"
@@ -444,51 +444,51 @@ msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "Unexpected error"
-msgstr ""
+msgstr "예상치 못한 오류"
 
 msgctxt "HttpFileDownload|"
 msgid "File changed on remote server"
-msgstr ""
+msgstr "원격 서버에서 기록철이 변경되었습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Couldn't reuse connection #%1, closing"
-msgstr ""
+msgstr "#%1 연결을 재사용하지 못해 연결이 끊겼습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "Failed writing received data to file"
-msgstr ""
+msgstr "받은 정보를 기록하는데 실패했습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "#%1 receiving data"
-msgstr ""
+msgstr "#%1 받은 정보"
 
 msgctxt "HttpFileDownload|"
 msgid "downloaded %1"
-msgstr ""
+msgstr "내려받기 %1"
 
 msgctxt "HttpFileDownload|"
 msgid "(%1/s)"
-msgstr ""
+msgstr "(%1/초)"
 
 msgctxt "HttpFileDownload|"
 msgid "Redirecting to %1"
-msgstr ""
+msgstr "%1(으)로 다시 보내기"
 
 msgctxt "HttpFileDownload|"
 msgid "#%1: server ignored partial content request"
-msgstr ""
+msgstr "#%1: 서버가 분할 내려받기를 무시했습니다."
 
 msgctxt "HttpFileDownload|"
 msgid "#%1 failed with error: %2"
-msgstr ""
+msgstr "#%1에 실패했습니다: %2"
 
 msgctxt "HttpFileDownload|"
 msgid "File moved successfully"
-msgstr ""
+msgstr "기록철 이동 성공"
 
 msgctxt "HttpFileDownload|"
 msgid "File moving failed"
-msgstr ""
+msgstr "기록철 이동 실패"
 
 msgctxt "HttpFileDownload|"
 msgid "Preallocation failed: %1"
@@ -496,11 +496,11 @@ msgstr ""
 
 msgctxt "HttpFileDownload|"
 msgid "%1 finished successfully"
-msgstr ""
+msgstr "%1 성공"
 
 msgctxt "HttpFileDownload|"
 msgid ", average speed: %1"
-msgstr ""
+msgstr ", 평균 속도: %1"
 
 msgctxt "HttpFileDownload|"
 msgid "Space allocation"
@@ -524,175 +524,175 @@ msgstr ""
 
 msgctxt "MacMainMenu|"
 msgid "Add Download from URL..."
-msgstr ""
+msgstr "주소에서 다운로드하기..."
 
 msgctxt "MacMainMenu|"
 msgid "Open Torrent File..."
-msgstr ""
+msgstr "토렌트 기록철 열기..."
 
 msgctxt "MacMainMenu|"
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 msgctxt "MacMainMenu|"
 msgid "Remove from List"
-msgstr ""
+msgstr "목록에서 지우기"
 
 msgctxt "MacMainMenu|"
 msgid "About %1"
-msgstr ""
+msgstr "%1에 대하여"
 
 msgctxt "MacMainMenu|"
 msgid "Preferences..."
-msgstr ""
+msgstr "선호도..."
 
 msgctxt "MacMainMenu|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "판올림 확인..."
 
 msgctxt "MacMainMenu|"
 msgid "Start Selected"
-msgstr ""
+msgstr "선택한 작업 시작"
 
 msgctxt "MacMainMenu|"
 msgid "Pause Selected"
-msgstr ""
+msgstr "선택한 작업"
 
 msgctxt "MacMainMenu|"
 msgid "Restart Selected"
-msgstr ""
+msgstr "선택한 작업 재시작"
 
 msgctxt "MacMainMenu|"
 msgid "Contact Support"
-msgstr ""
+msgstr "도움 받기"
 
 msgctxt "MacMainMenu|"
 msgid "Vote for New Features"
-msgstr ""
+msgstr "새 기능 투표"
 
 msgctxt "MacMainMenu|"
 msgid "File"
-msgstr ""
+msgstr "기록철"
 
 msgctxt "MacMainMenu|"
 msgid "Downloads"
-msgstr ""
+msgstr "내려받기"
 
 msgctxt "MacMainMenu|"
 msgid "Help"
-msgstr ""
+msgstr "도움말"
 
 msgctxt "QObject|"
 msgid "About Free Download Manager"
-msgstr ""
+msgstr "Free Download Manager에 대하여"
 
 msgctxt "QObject|"
 msgid "Preferences"
-msgstr ""
+msgstr "선호도"
 
 msgctxt "QObject|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "판올림 확인..."
 
 msgctxt "QObject|"
 msgid "Window"
-msgstr ""
+msgstr "창"
 
 msgctxt "QObject|"
 msgid "Minimize"
-msgstr ""
+msgstr "최소화"
 
 msgctxt "QObject|"
 msgid "Zoom"
-msgstr ""
+msgstr "크기 조절"
 
 msgctxt "QObject|"
 msgid "Enter Full Screen"
-msgstr ""
+msgstr "전체 화면"
 
 msgctxt "QObject|"
 msgid "Bring All to Front"
-msgstr ""
+msgstr "모두 앞으로 가져오기"
 
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr ""
+msgstr "도움 받기"
 
 msgctxt "QObject|"
 msgid "Open Torrent File..."
-msgstr ""
+msgstr "토렌트 기록철 열기..."
 
 msgctxt "QObject|"
 msgid "File"
-msgstr ""
+msgstr "기록철"
 
 msgctxt "QObject|"
 msgid "Select All"
-msgstr ""
+msgstr "모두 선택"
 
 msgctxt "QObject|"
 msgid "Delete"
-msgstr ""
+msgstr "지우기"
 
 msgctxt "QObject|"
 msgid "Paste"
-msgstr ""
+msgstr "붙이기"
 
 msgctxt "QObject|"
 msgid "Copy"
-msgstr ""
+msgstr "복사"
 
 msgctxt "QObject|"
 msgid "Cut"
-msgstr ""
+msgstr "자르기"
 
 msgctxt "QObject|"
 msgid "Edit"
-msgstr ""
+msgstr "편집"
 
 msgctxt "QObject|"
 msgid "Help"
-msgstr ""
+msgstr "도움말"
 
 msgctxt "QObject|"
 msgid "Something went wrong with internal downloads."
-msgstr ""
+msgstr "내부 내려받기 중 오류가 발생했습니다."
 
 msgctxt "QObject|"
 msgid "Files are missing"
-msgstr ""
+msgstr "기록철이 없습니다."
 
 msgctxt "QObject|"
 msgid "File is missing"
-msgstr ""
+msgstr "기록철이 없습니다."
 
 msgctxt "QObject|"
 msgid "Selected filepath is not valid."
-msgstr ""
+msgstr "선택한 기록철 주소가 무효합니다."
 
 msgctxt "QObject|"
 msgid "Selected filename is too long"
-msgstr ""
+msgstr "선택한 파일 이름이 너무 깁니다."
 
 msgctxt "QObject|"
 msgid "Selected filename is not valid."
-msgstr ""
+msgstr "선택한 기록철 이름이 무효합니다."
 
 msgctxt "QObject|"
 msgid "Specified directory can't be accessed."
-msgstr ""
+msgstr "특정 폴더에 접근할 수 없습니다."
 
 msgctxt "QObject|"
 msgid "Confirm"
-msgstr ""
+msgstr "승인"
 
 msgctxt "QObject|"
 msgid "Attention! "
-msgstr ""
+msgstr "주의!"
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "대기 상태에 들어갑니다."
 
 msgctxt "QObject|"
 msgid "Your computer will be hibernated."
@@ -700,59 +700,59 @@ msgstr ""
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr ""
+msgstr "전원을 종료합니다."
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr ""
+msgstr "잘못된 들어가기 또는 암호"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
-msgstr ""
+msgstr "언어"
 
 msgctxt "RPCLocalization|"
 msgid "Drag & Drop"
-msgstr ""
+msgstr "끌어서 놓기"
 
 msgctxt "RPCLocalization|"
 msgid "URL or torrent here"
-msgstr ""
+msgstr "여기에 주소 또는 토렌트 놓기"
 
 msgctxt "RPCLocalization|"
 msgid "Add tag"
-msgstr ""
+msgstr "꼬리표 달기"
 
 msgctxt "RPCLocalization|"
 msgid "Preferences"
-msgstr ""
+msgstr "선호도"
 
 msgctxt "RPCLocalization|"
 msgid "Unlimited"
-msgstr ""
+msgstr "무제한"
 
 msgctxt "RPCLocalization|"
 msgid "Manual..."
-msgstr ""
+msgstr "수동..."
 
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
-msgstr ""
+msgstr "수동으로 제한 "
 
 msgctxt "RPCLocalization|"
 msgid "Download: unlimited, Upload: unlimited"
-msgstr ""
+msgstr "내려받기: 무제한, 올리기: "
 
 msgctxt "RPCLocalization|"
 msgid "Download:"
-msgstr ""
+msgstr "내려받기:"
 
 msgctxt "RPCLocalization|"
 msgid "Upload:"
-msgstr ""
+msgstr "올리기:"
 
 msgctxt "RPCLocalization|"
 msgid "unlimited"
-msgstr ""
+msgstr "제한"
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode frees bandwidth without stopping downloads."
@@ -760,20 +760,20 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Hide details"
-msgstr ""
+msgstr "간단히 보기"
 
 msgctxt "RPCLocalization|"
 msgid "Show details"
-msgstr ""
+msgstr "자세히 보기"
 
 msgctxt "RPCLocalization|"
 msgid "%n files selected."
 msgid_plural "%n files selected."
-msgstr[0] ""
+msgstr[0] "%n 기록철 선택됨."
 
 msgctxt "RPCLocalization|"
 msgid "Show in folder"
-msgstr ""
+msgstr "폴더에서 보기"
 
 msgctxt "RPCLocalization|"
 msgid "Reveal in Finder"
@@ -781,87 +781,87 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Pause"
-msgstr ""
+msgstr "일시정지"
 
 msgctxt "RPCLocalization|"
 msgid "Restart"
-msgstr ""
+msgstr "다시 시작"
 
 msgctxt "RPCLocalization|"
 msgid "Start"
-msgstr ""
+msgstr "시작"
 
 msgctxt "RPCLocalization|"
 msgid "Selected size:"
-msgstr ""
+msgstr "선택한 크기:"
 
 msgctxt "RPCLocalization|"
 msgid "Size:"
-msgstr ""
+msgstr "크기:"
 
 msgctxt "RPCLocalization|"
 msgid "File size:"
-msgstr ""
+msgstr "기록철 크기:"
 
 msgctxt "RPCLocalization|"
 msgid "Disk space:"
-msgstr ""
+msgstr "남은 저장 공간:"
 
 msgctxt "RPCLocalization|"
 msgid "Total size:"
-msgstr ""
+msgstr "전체 크기:"
 
 msgctxt "RPCLocalization|"
 msgid "Checked size:"
-msgstr ""
+msgstr "확인된 크기:"
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded:"
-msgstr ""
+msgstr "내려받음:"
 
 msgctxt "RPCLocalization|"
 msgid "Download speed:"
-msgstr ""
+msgstr "내려받기 속도:"
 
 msgctxt "RPCLocalization|"
 msgid "Seeds:"
-msgstr ""
+msgstr "씨앗값:"
 
 msgctxt "RPCLocalization|"
 msgid "Domain:"
-msgstr ""
+msgstr "주 주소:"
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded:"
-msgstr ""
+msgstr "올리기:"
 
 msgctxt "RPCLocalization|"
 msgid "Upload speed:"
-msgstr ""
+msgstr "올리기 속도:"
 
 msgctxt "RPCLocalization|"
 msgid "Peers:"
-msgstr ""
+msgstr "동료:"
 
 msgctxt "RPCLocalization|"
 msgid "Share ratio:"
-msgstr ""
+msgstr "공유 비율:"
 
 msgctxt "RPCLocalization|"
 msgid "Availability:"
-msgstr ""
+msgstr "유효성:"
 
 msgctxt "RPCLocalization|"
 msgid "DHT nodes:"
-msgstr ""
+msgstr "DHT망:"
 
 msgctxt "RPCLocalization|"
 msgid "IP"
-msgstr ""
+msgstr "아이피"
 
 msgctxt "RPCLocalization|"
 msgid "Client"
-msgstr ""
+msgstr "클라이언트"
 
 msgctxt "RPCLocalization|"
 msgid "Flags"
@@ -869,19 +869,19 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Requests"
-msgstr ""
+msgstr "요청"
 
 msgctxt "RPCLocalization|"
 msgid "Downloaded"
-msgstr ""
+msgstr "내려받음"
 
 msgctxt "RPCLocalization|"
 msgid "Uploaded"
-msgstr ""
+msgstr "올림"
 
 msgctxt "RPCLocalization|"
 msgid "Files"
-msgstr ""
+msgstr "기록철"
 
 msgctxt "RPCLocalization|"
 msgid "Trackers"
@@ -893,7 +893,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Log"
-msgstr ""
+msgstr "기록"
 
 msgctxt "RPCLocalization|"
 msgid "Enable seeding"
@@ -901,15 +901,15 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Progress"
-msgstr ""
+msgstr "상태"
 
 msgctxt "RPCLocalization|"
 msgid "Priority"
-msgstr ""
+msgstr "우선순위"
 
 msgctxt "RPCLocalization|"
 msgid "URL"
-msgstr ""
+msgstr "주소"
 
 msgctxt "RPCLocalization|"
 msgid "Next announce"
@@ -917,19 +917,19 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Snail mode"
-msgstr ""
+msgstr "저속 상태"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic limits"
-msgstr ""
+msgstr "통신량 제한"
 
 msgctxt "RPCLocalization|"
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgctxt "RPCLocalization|"
 msgid "Apply"
-msgstr ""
+msgstr "적용"
 
 msgctxt "RPCLocalization|"
 msgid "Browser integration"
@@ -937,7 +937,7 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Next"
-msgstr ""
+msgstr "다음"
 
 msgctxt "RPCLocalization|"
 msgid "Proceed to download"
@@ -945,59 +945,59 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Add download"
-msgstr ""
+msgstr "내려받기 추가"
 
 msgctxt "RPCLocalization|"
 msgid "Enter download URL:"
-msgstr ""
+msgstr "내려받기 주소 입력:"
 
 msgctxt "RPCLocalization|"
 msgid "OK"
-msgstr ""
+msgstr "확인"
 
 msgctxt "RPCLocalization|"
 msgid "Download"
-msgstr ""
+msgstr "내려받기"
 
 msgctxt "RPCLocalization|"
 msgid "Download anyway"
-msgstr ""
+msgstr "아무튼 내려받기"
 
 msgctxt "RPCLocalization|"
 msgid "Add"
-msgstr ""
+msgstr "추가"
 
 msgctxt "RPCLocalization|"
 msgid "torrent"
-msgstr ""
+msgstr "토렌트"
 
 msgctxt "RPCLocalization|"
 msgid "Save to:"
-msgstr ""
+msgstr "저장:"
 
 msgctxt "RPCLocalization|"
 msgid "Select folder"
-msgstr ""
+msgstr "폴더 선택"
 
 msgctxt "RPCLocalization|"
 msgid "Requesting download info..."
-msgstr ""
+msgstr "내려받기 정보 요청 중..."
 
 msgctxt "RPCLocalization|"
 msgid "Quality:"
-msgstr ""
+msgstr "풀질:"
 
 msgctxt "RPCLocalization|"
 msgid "Select all"
-msgstr ""
+msgstr "모두 선택"
 
 msgctxt "RPCLocalization|"
 msgid "Select none"
-msgstr ""
+msgstr "모두 선택 취소"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent already exists"
-msgstr ""
+msgstr "토렌트가 이미 있음"
 
 msgctxt "RPCLocalization|"
 msgid "Want to load its trackers?"
@@ -1005,11 +1005,11 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "No active downloads"
-msgstr ""
+msgstr "내려받고 있지 않음"
 
 msgctxt "RPCLocalization|"
 msgid "No completed downloads"
-msgstr ""
+msgstr "완료한 내려받기가 없음"
 
 msgctxt "RPCLocalization|"
 msgid "No results found for"
@@ -1021,23 +1021,23 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "found"
-msgstr ""
+msgstr "찾음"
 
 msgctxt "RPCLocalization|"
 msgid "Show all"
-msgstr ""
+msgstr "모두 보이기"
 
 msgctxt "RPCLocalization|"
 msgid "Nothing found"
-msgstr ""
+msgstr "찾은 것 없음"
 
 msgctxt "RPCLocalization|"
 msgid "Moving"
-msgstr ""
+msgstr "이동"
 
 msgctxt "RPCLocalization|"
 msgid "Unknown file size"
-msgstr ""
+msgstr "알 수 없는 기록철 크기"
 
 msgctxt "RPCLocalization|"
 msgid "Merging media streams"
@@ -1049,15 +1049,15 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting..."
-msgstr ""
+msgstr "재연결..."
 
 msgctxt "RPCLocalization|"
 msgid "Reconnecting"
-msgstr ""
+msgstr "재연결"
 
 msgctxt "RPCLocalization|"
 msgid "Paused"
-msgstr ""
+msgstr "정지됨"
 
 msgctxt "RPCLocalization|"
 msgid "Downloading metadata"
@@ -1065,15 +1065,15 @@ msgstr ""
 
 msgctxt "RPCLocalization|"
 msgid "Downloading"
-msgstr ""
+msgstr "내려받는 중"
 
 msgctxt "RPCLocalization|"
 msgid "Error"
-msgstr ""
+msgstr "오류"
 
 msgctxt "RPCLocalization|"
 msgid "Checking files..."
-msgstr ""
+msgstr "기록철 검사 중..."
 
 msgctxt "RPCLocalization|"
 msgid "Downloading, allocating disk space..."
@@ -1082,7 +1082,7 @@ msgstr ""
 msgctxt "RPCLocalization|"
 msgid "Completed %n / %2 files"
 msgid_plural "Completed %n / %2 files"
-msgstr[0] ""
+msgstr[0] "%n / %2 기록철 완료"
 
 msgctxt "RPCLocalization|"
 msgid "Complete"
