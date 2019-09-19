@@ -7,6 +7,13 @@ msgstr ""
 "X-Language: id_ID\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.2.3\n"
 
 msgid "Download with FDM"
 msgstr "Unduh dengan FDM"
@@ -25,31 +32,31 @@ msgstr "Tidak ada video flash yang ditemukan. Coba muat ulang laman ini."
 
 msgctxt "Download|"
 msgid "Specified folder path is relative, full path is %1"
-msgstr ""
+msgstr "Jalur folder yang ditentukan relatif, jalur lengkapnya adalah %1"
 
 msgctxt "Download|"
 msgid "%1 B"
-msgstr ""
+msgstr "%1 B"
 
 msgctxt "Download|"
 msgid "%1 KB"
-msgstr ""
+msgstr "%1 KB"
 
 msgctxt "Download|"
 msgid "%1 MB"
-msgstr ""
+msgstr "%1 MB"
 
 msgctxt "Download|"
 msgid "Reconnecting in %1 seconds"
-msgstr ""
+msgstr "Menghubungkan kembali dalam %1 detik"
 
 msgctxt "Download|"
 msgid "Priority set to %1"
-msgstr ""
+msgstr "Prioritas ditetapkan menjadi %1"
 
 msgctxt "Download|"
 msgid "Queued: Snail mode is on. Turn it off to continue"
-msgstr ""
+msgstr "Antrian: Mode siput aktif. Matikan untuk melanjutkan"
 
 msgctxt "Download|"
 msgid "Queued"
@@ -89,7 +96,7 @@ msgstr "Kesalahan HTTP %1: %2"
 
 msgctxt "HttpError|"
 msgid "HTTP Error %1"
-msgstr ""
+msgstr "Kesalahan HTTP %1"
 
 msgctxt "HttpError|"
 msgid "Unknown error"
@@ -342,7 +349,6 @@ msgstr "Kesalahan Pembacaan Batas Waktu Jaringan"
 msgctxt "HttpError|"
 msgid "Network connect timeout error"
 msgstr "Kesalahan pada batas waktu penyambungan jaringan"
-
 
 msgctxt "HttpFileDownload|"
 msgid "Maximum number of connections is %1"
@@ -670,23 +676,23 @@ msgstr "Direktori yang ditentukan tidak dapat diakses."
 
 msgctxt "QObject|"
 msgid "Confirm"
-msgstr ""
+msgstr "Konfirmasi"
 
 msgctxt "QObject|"
 msgid "Attention! "
-msgstr ""
+msgstr "Perhatian! "
 
 msgctxt "QObject|"
 msgid "Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "Komputer anda akan diatur ke mode tidur."
 
 msgctxt "QObject|"
 msgid "Your computer will be hibernated."
-msgstr ""
+msgstr "Komputer anda akan dihibernasikan."
 
 msgctxt "QObject|"
 msgid "Your computer will be shut down."
-msgstr ""
+msgstr "Komputer anda akan dimatikan."
 
 msgctxt "QObject|"
 msgid "Files are missing"
@@ -694,11 +700,11 @@ msgstr "Berkas dinyatakan hilang"
 
 msgctxt "QObject|"
 msgid "File is missing"
-msgstr ""
+msgstr "Berkas telah hilang"
 
 msgctxt "QObject|"
 msgid "Incorrect login or password"
-msgstr ""
+msgstr "Data masuk atau kata sandi salah"
 
 msgctxt "RPCLocalization|"
 msgid "locale"
@@ -726,7 +732,7 @@ msgstr "Tidak Terbatas"
 
 msgctxt "RPCLocalization|"
 msgid "Manual..."
-msgstr "Petunjuk..."
+msgstr "Manual..."
 
 msgctxt "RPCLocalization|"
 msgid "Set limits manually"
@@ -916,7 +922,7 @@ msgstr "Mode Siput"
 
 msgctxt "RPCLocalization|"
 msgid "Traffic limits"
-msgstr ""
+msgstr "Batasan lalu lintas"
 
 msgctxt "RPCLocalization|"
 msgid "Cancel"
@@ -1932,87 +1938,87 @@ msgstr "Pemeriksaan gagal"
 
 msgctxt "RPCLocalization|"
 msgid "Compare with"
-msgstr ""
+msgstr "Bandingkan dengan"
 
 msgctxt "RPCLocalization|"
 msgid "Enter URL or choose torrent file"
-msgstr ""
+msgstr "Masukkan URL atau pilih berkas torrent"
 
 msgctxt "RPCLocalization|"
 msgid "New file"
-msgstr ""
+msgstr "Berkas baru"
 
 msgctxt "RPCLocalization|"
 msgid "New files"
-msgstr ""
+msgstr "Berkas-berkas baru"
 
 msgctxt "RPCLocalization|"
 msgid "New video"
-msgstr ""
+msgstr "Video baru"
 
 msgctxt "RPCLocalization|"
 msgid "New torrent"
-msgstr ""
+msgstr "Torrent baru"
 
 msgctxt "RPCLocalization|"
 msgid "Save to"
-msgstr ""
+msgstr "Simpan ke"
 
 msgctxt "RPCLocalization|"
 msgid "File name"
-msgstr ""
+msgstr "Nama berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Create subfolder"
-msgstr ""
+msgstr "Buat subfolder"
 
 msgctxt "RPCLocalization|"
 msgid "Torrent contents"
-msgstr ""
+msgstr "Konten torrent"
 
 msgctxt "RPCLocalization|"
 msgid "Authentication required:"
-msgstr ""
+msgstr "Diperlukan otentifikasi:"
 
 msgctxt "RPCLocalization|"
 msgid "Enter new URL"
-msgstr ""
+msgstr "Masukkan URL baru"
 
 msgctxt "RPCLocalization|"
 msgid "File location"
-msgstr ""
+msgstr "Lokasi berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Download links"
-msgstr ""
+msgstr "Unduh tautan"
 
 msgctxt "RPCLocalization|"
 msgid "Restore default settings?"
-msgstr ""
+msgstr "Kembali ke pengaturan awal?"
 
 msgctxt "RPCLocalization|"
 msgid "Default settings"
-msgstr ""
+msgstr "Pengaturan awal"
 
 msgctxt "RPCLocalization|"
 msgid "Found incomplete download with same name and size."
-msgstr ""
+msgstr "Ditemukan unduhan belum selesai dengan nama dan ukuran yang sama."
 
 msgctxt "RPCLocalization|"
 msgid "Would you like to start new or resume downloading?"
-msgstr ""
+msgstr "Apakah anda ingin memulai dari awal atau melanjutkan pengunduhan?"
 
 msgctxt "RPCLocalization|"
 msgid "Start new"
-msgstr ""
+msgstr "Mulai dari awal"
 
 msgctxt "RPCLocalization|"
 msgid "Resume"
-msgstr ""
+msgstr "Lanjutkan"
 
 msgctxt "RPCLocalization|"
 msgid "Hash"
-msgstr ""
+msgstr "Hash"
 
 msgctxt "RPCLocalization|"
 msgid "Selected filepath is not valid."
@@ -2024,104 +2030,104 @@ msgstr "Penawaran istimewa"
 
 msgctxt "RPCLocalization|"
 msgid "Download YouTube playlist"
-msgstr ""
+msgstr "Unduh daftar putar YouTube"
 
 msgctxt "RPCLocalization|"
 msgid "Add YouTube upload date to file name"
-msgstr ""
+msgstr "Tambahkan tanggal unggahan YouTube ke nama berkas"
 
 msgctxt "RPCLocalization|"
 msgid "Choose theme"
-msgstr ""
+msgstr "Pilih tema"
 
 msgctxt "RPCLocalization|"
 msgid "Try again"
-msgstr ""
+msgstr "Coba lagi"
 
 msgctxt "RPCLocalization|"
 msgid "Please select download link"
-msgstr ""
+msgstr "Silakan pilih tautan unduhan"
 
 msgctxt "RPCLocalization|"
 msgid "Please select video"
-msgstr ""
+msgstr "Silakan pilih video"
 
 msgctxt "RPCLocalization|"
 msgid "Videos"
-msgstr ""
+msgstr "Video"
 
 msgctxt "RPCLocalization|"
 msgid "Download YouTube channel"
-msgstr ""
+msgstr "Unduh saluran YouTube"
 
 msgctxt "RPCLocalization|"
 msgid "Load More"
-msgstr ""
+msgstr "Muat Lebih Banyak"
 
 msgctxt "RPCLocalization|"
 msgid "Video Quality"
-msgstr ""
+msgstr "Kualitas Video"
 
 msgctxt "RPCLocalization|"
 msgid "High (1080p)"
-msgstr ""
+msgstr "Tinggi (1080p)"
 
 msgctxt "RPCLocalization|"
 msgid "Medium (480p)"
-msgstr ""
+msgstr "Sedang (480p)"
 
 msgctxt "RPCLocalization|"
 msgid "Low (240p)"
-msgstr ""
+msgstr "Rendah (240p)"
 
 msgctxt "RPCLocalization|"
 msgid "%n videos are chosen"
 msgid_plural "%n videos are chosen"
-msgstr[0] ""
+msgstr[0] "%n video telah dipilih"
 
 msgctxt "RPCLocalization|"
 msgid "A new version of the Firefox extension is available"
-msgstr ""
+msgstr "Versi terbaru dari ekstensi Firefox sudah tersedia"
 
 msgctxt "RPCLocalization|"
 msgid "To update the extension:"
-msgstr ""
+msgstr "Untuk memperbarui ekstensi:"
 
 msgctxt "RPCLocalization|"
 msgid "Click %1 to remove the old version."
-msgstr ""
+msgstr "Klik %1 untuk menghapus versi lama."
 
 msgctxt "RPCLocalization|"
 msgid "here"
-msgstr ""
+msgstr "di sini"
 
 msgctxt "RPCLocalization|"
 msgid "%1 the new version."
-msgstr ""
+msgstr "%1 versi terbaru."
 
 msgctxt "RPCLocalization|"
 msgid "Install"
-msgstr ""
+msgstr "Pasang"
 
 msgctxt "RPCLocalization|"
 msgid "Before that, restart Firefox if it's running."
-msgstr ""
+msgstr "Sebelum itu, mulai ulang Firefox jika sedang berjalan."
 
 msgctxt "RPCLocalization|"
 msgid "Error while removing:"
-msgstr ""
+msgstr "Kesalahan saat menghapus:"
 
 msgctxt "RPCLocalization|"
 msgid "Close Firefox if it's running and try again"
-msgstr ""
+msgstr "Tutup Firefox jika sedang berjalan dan coba lagi"
 
 msgctxt "RPCLocalization|"
 msgid "Light"
-msgstr ""
+msgstr "Terang"
 
 msgctxt "RPCLocalization|"
 msgid "Dark"
-msgstr ""
+msgstr "Gelap"
 
 msgctxt "RPCLocalization|"
 msgid "Close"
@@ -2279,8 +2285,6 @@ msgstr "Gunakan waktu server untuk pembuatan berkas"
 msgctxt "RPCLocalization|"
 msgid "Set days of the week to enable Scheduler"
 msgstr "Atur hari dalam minggu untuk mengaktifkan mode Penjadwalan"
-
-
 
 msgctxt "RPCSystem|"
 msgid "Default download folder"
@@ -2462,8 +2466,6 @@ msgctxt "TorrentDownload|"
 msgid "Unexpected error"
 msgstr "Kesalahan Tak Terduga"
 
-
-
 msgctxt "TrayMenu|"
 msgid "Show main window"
 msgstr "Tampilkan jendela utama"
@@ -2582,7 +2584,7 @@ msgstr "Salin tautan"
 
 msgctxt "UIHelper|"
 msgid "See on YouTube"
-msgstr ""
+msgstr "Lihat di YouTube"
 
 msgctxt "UIHelper|"
 msgid "Add tag"
@@ -2692,12 +2694,9 @@ msgctxt "YoutubeDownload|"
 msgid "VideoStream: %1"
 msgstr "AliranTayangan: %1"
 
-
-
-
 msgctxt "YoutubeDownload|"
 msgid "Parsing page"
-msgstr ""
+msgstr "Mengurai halaman"
 
 msgctxt "YoutubeDownload|"
 msgid "Page is parsed"
