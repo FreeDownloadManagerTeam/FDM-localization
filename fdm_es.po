@@ -253,7 +253,7 @@ msgstr "Solicitud de campos de encabezado demasiado larga"
 
 msgctxt "HttpError|"
 msgid "Login Timeout"
-msgstr "Tiempo de espera de inicio de sesión"
+msgstr "Se agoto el tiempo de inicio de sesión"
 
 msgctxt "HttpError|"
 msgid "No Response"
@@ -1566,8 +1566,7 @@ msgstr "Notificaciones"
 
 msgctxt "RPCLocalization|"
 msgid "Notify me of completed downloads via Notification Center"
-msgstr ""
-"Notificarme de las descargas completadas a través del Centro de Notificación"
+msgstr "Notificarme de las descargas completadas a través del Centro de Notificación"
 
 msgctxt "RPCLocalization|"
 msgid "Only when FDM window is inactive"
@@ -1909,14 +1908,12 @@ msgstr "Establecer como predeterminado"
 
 msgctxt "RPCLocalization|"
 msgid "Computer will be put to sleep after all downloads are completed."
-msgstr ""
-"Computador sera puesto en suspensión después de que todas las descargas se "
+msgstr "Computador sera puesto en suspensión después de que todas las descargas se "
 "completen."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will shut down after all downloads are completed."
-msgstr ""
-"Computador sera apagado después de que todas las descargas se completen."
+msgstr "Computador sera apagado después de que todas las descargas se completen."
 
 msgctxt "RPCLocalization|"
 msgid "Computer will hibernate after all downloads are completed."
@@ -2074,8 +2071,7 @@ msgstr "Consejo"
 
 msgctxt "RPCLocalization|"
 msgid "Computer won't be put to sleep because there are scheduled downloads"
-msgstr ""
-"Computador no sera puesto en suspensión porque hay descargas programadas"
+msgstr "Computador no sera puesto en suspensión porque hay descargas programadas"
 
 msgctxt "RPCLocalization|"
 msgid "Scheduler"
@@ -2095,8 +2091,7 @@ msgstr "Restaurar"
 
 msgctxt "RPCLocalization|"
 msgid "Holding Alt, click link to download via browser."
-msgstr ""
-"Manteniendo Alt, cliquea el enlace para descargar a través del navegador."
+msgstr "Manteniendo Alt, cliquea el enlace para descargar a través del navegador."
 
 msgctxt "RPCLocalization|"
 msgid "Tag with the same name already exists"
